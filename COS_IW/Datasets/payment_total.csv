@@ -1,0 +1,16 @@
+﻿BoroName,BoroCode,500-2500g births,total births,Payment,percentage
+Bronx,2,6740,31642,Medicaid,21.30080273
+Bronx,2,1816,12423,Private Insurance,14.61804717
+Bronx,2,113,630,Self Pay,17.93650794
+Brooklyn,3,8136,103848,Medicaid,7.834527386
+Brooklyn,3,3989,64339,Private Insurance,6.199972023
+Brooklyn,3,82,933,Self Pay,8.788853162
+Manhattan,1,2143,11725,Medicaid,18.2771855
+Manhattan,1,3062,52569,Private Insurance,5.824725599
+Manhattan,1,38,438,Self Pay,8.675799087
+Queens,4,6496,55357,Medicaid,11.73473996
+Queens,4,3875,48346,Private Insurance,8.01514086
+Queens,4,121,1314,Self Pay,9.208523592
+Staten Island,5,887,8383,Medicaid,10.58093761
+Staten Island,5,741,12631,Private Insurance,5.866518882
+Staten Island,5,0,212,Self Pay,0

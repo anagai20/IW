@@ -1,0 +1,1306 @@
+"Name","Preterm Births"
+"Description","The percentage of babies born alive before 37 weeks of pregnancy.&nbsp;Percents refer to the percentage of all live births.&nbsp;"
+"Source Notes","New York City Department of Health and Mental Hygiene, Bureau of Vital Statistics, Summary of Vital Statistics (2000-2019); retrieved from&nbsp;<a href=""https://www1.nyc.gov/site/doh/data/data-publications/periodic-publications.page"" target=""_blank"">https://www1.nyc.gov/site/doh/data/data-publications/periodic-publications.page</a>.<a href=""https://www1.nyc.gov/assets/doh/downloads/pdf/vs/2017sum.pdf"" target=""_blank""></a><a href=""https://www1.nyc.gov/site/doh/data/vital-statistics/vital-statistics-summary.page"" target=""_blank""></a>"
+"Notes",""
+
+Location,TimeFrame,DataFormat,Data,Fips
+New York City,2000,Percent,0.095,3651000
+New York City,2001,Percent,0.095,3651000
+New York City,2002,Percent,0.094,3651000
+New York City,2003,Percent,0.095,3651000
+New York City,2004,Percent,0.101,3651000
+New York City,2005,Percent,0.1,3651000
+New York City,2006,Percent,0.099,3651000
+New York City,2007,Percent,0.095,3651000
+New York City,2008,Percent,0.098,3651000
+New York City,2009,Percent,0.096,3651000
+New York City,2010,Percent,0.096,3651000
+New York City,2011,Percent,0.093,3651000
+New York City,2012,Percent,0.09,3651000
+New York City,2013,Percent,0.09,3651000
+New York City,2014,Percent,0.088,3651000
+New York City,2015,Percent,0.088,3651000
+New York City,2019,Percent,0.092,3651000
+New York City,2018,Percent,0.09,3651000
+New York City,2016,Percent,0.089,3651000
+New York City,2017,Percent,0.09,3651000
+Manhattan,2017,Percent,0.084,36061
+Manhattan,2016,Percent,0.084,36061
+Manhattan,2019,Percent,0.084,36061
+Manhattan,2018,Percent,0.088,36061
+Manhattan,2000,Percent,0.094,36061
+Manhattan,2001,Percent,0.095,36061
+Manhattan,2002,Percent,0.091,36061
+Manhattan,2003,Percent,0.094,36061
+Manhattan,2004,Percent,0.1,36061
+Manhattan,2005,Percent,0.094,36061
+Manhattan,2006,Percent,0.093,36061
+Manhattan,2007,Percent,0.084,36061
+Manhattan,2008,Percent,0.088,36061
+Manhattan,2009,Percent,0.091,36061
+Manhattan,2010,Percent,0.091,36061
+Manhattan,2011,Percent,0.089,36061
+Manhattan,2012,Percent,0.086,36061
+Manhattan,2013,Percent,0.081,36061
+Manhattan,2014,Percent,0.086,36061
+Manhattan,2015,Percent,0.083,36061
+Battery Park/Tribeca,2000,Percent,0.101,101
+Battery Park/Tribeca,2001,Percent,0.099,101
+Battery Park/Tribeca,2002,Percent,0.085,101
+Battery Park/Tribeca,2003,Percent,0.044,101
+Battery Park/Tribeca,2004,Percent,0.078,101
+Battery Park/Tribeca,2005,Percent,0.067,101
+Battery Park/Tribeca,2006,Percent,0.078,101
+Battery Park/Tribeca,2007,Percent,0.086,101
+Battery Park/Tribeca,2008,Percent,0.101,101
+Battery Park/Tribeca,2014,Percent,0.091,101
+Battery Park/Tribeca,2015,Percent,0.077,101
+Battery Park/Tribeca,2009,Percent,0.091,101
+Battery Park/Tribeca,2010,Percent,0.081,101
+Battery Park/Tribeca,2011,Percent,0.064,101
+Battery Park/Tribeca,2012,Percent,0.095,101
+Battery Park/Tribeca,2013,Percent,0.072,101
+Battery Park/Tribeca,2018,Percent,0.06,101
+Battery Park/Tribeca,2019,Percent,0.076,101
+Battery Park/Tribeca,2016,Percent,0.089,101
+Battery Park/Tribeca,2017,Percent,0.072,101
+Greenwich Village,2017,Percent,0.053,102
+Greenwich Village,2016,Percent,0.07,102
+Greenwich Village,2019,Percent,0.06,102
+Greenwich Village,2018,Percent,0.062,102
+Greenwich Village,2013,Percent,0.076,102
+Greenwich Village,2012,Percent,0.061,102
+Greenwich Village,2011,Percent,0.073,102
+Greenwich Village,2010,Percent,0.058,102
+Greenwich Village,2009,Percent,0.097,102
+Greenwich Village,2015,Percent,0.091,102
+Greenwich Village,2014,Percent,0.063,102
+Greenwich Village,2008,Percent,0.079,102
+Greenwich Village,2007,Percent,0.077,102
+Greenwich Village,2006,Percent,0.091,102
+Greenwich Village,2005,Percent,0.093,102
+Greenwich Village,2004,Percent,0.113,102
+Greenwich Village,2003,Percent,0.075,102
+Greenwich Village,2002,Percent,0.065,102
+Greenwich Village,2001,Percent,0.066,102
+Greenwich Village,2000,Percent,0.079,102
+Lower East Side,2000,Percent,0.082,103
+Lower East Side,2001,Percent,0.079,103
+Lower East Side,2003,Percent,0.077,103
+Lower East Side,2002,Percent,0.078,103
+Lower East Side,2004,Percent,0.069,103
+Lower East Side,2005,Percent,0.074,103
+Lower East Side,2006,Percent,0.074,103
+Lower East Side,2007,Percent,0.078,103
+Lower East Side,2008,Percent,0.079,103
+Lower East Side,2014,Percent,0.07,103
+Lower East Side,2015,Percent,0.082,103
+Lower East Side,2009,Percent,0.075,103
+Lower East Side,2010,Percent,0.076,103
+Lower East Side,2011,Percent,0.09,103
+Lower East Side,2012,Percent,0.075,103
+Lower East Side,2013,Percent,0.084,103
+Lower East Side,2018,Percent,0.104,103
+Lower East Side,2019,Percent,0.101,103
+Lower East Side,2016,Percent,0.078,103
+Lower East Side,2017,Percent,0.073,103
+Chelsea/Clinton,2017,Percent,0.084,104
+Chelsea/Clinton,2016,Percent,0.09,104
+Chelsea/Clinton,2019,Percent,0.075,104
+Chelsea/Clinton,2018,Percent,0.081,104
+Chelsea/Clinton,2013,Percent,0.09,104
+Chelsea/Clinton,2011,Percent,0.097,104
+Chelsea/Clinton,2012,Percent,0.091,104
+Chelsea/Clinton,2010,Percent,0.097,104
+Chelsea/Clinton,2009,Percent,0.082,104
+Chelsea/Clinton,2015,Percent,0.087,104
+Chelsea/Clinton,2014,Percent,0.094,104
+Chelsea/Clinton,2008,Percent,0.088,104
+Chelsea/Clinton,2006,Percent,0.079,104
+Chelsea/Clinton,2007,Percent,0.086,104
+Chelsea/Clinton,2005,Percent,0.105,104
+Chelsea/Clinton,2004,Percent,0.108,104
+Chelsea/Clinton,2003,Percent,0.085,104
+Chelsea/Clinton,2002,Percent,0.097,104
+Chelsea/Clinton,2000,Percent,0.102,104
+Chelsea/Clinton,2001,Percent,0.087,104
+Midtown Business District,2000,Percent,0.094,105
+Midtown Business District,2001,Percent,0.059,105
+Midtown Business District,2003,Percent,0.081,105
+Midtown Business District,2002,Percent,0.085,105
+Midtown Business District,2004,Percent,0.102,105
+Midtown Business District,2005,Percent,0.063,105
+Midtown Business District,2006,Percent,0.099,105
+Midtown Business District,2008,Percent,0.087,105
+Midtown Business District,2007,Percent,0.078,105
+Midtown Business District,2014,Percent,0.092,105
+Midtown Business District,2013,Percent,0.057,105
+Midtown Business District,2015,Percent,0.067,105
+Midtown Business District,2009,Percent,0.072,105
+Midtown Business District,2010,Percent,0.086,105
+Midtown Business District,2011,Percent,0.082,105
+Midtown Business District,2012,Percent,0.059,105
+Midtown Business District,2018,Percent,0.095,105
+Midtown Business District,2019,Percent,0.101,105
+Midtown Business District,2016,Percent,0.07,105
+Midtown Business District,2017,Percent,0.08,105
+Murray Hill/Stuyvesant,2017,Percent,0.071,106
+Murray Hill/Stuyvesant,2016,Percent,0.078,106
+Murray Hill/Stuyvesant,2019,Percent,0.08,106
+Murray Hill/Stuyvesant,2018,Percent,0.079,106
+Murray Hill/Stuyvesant,2012,Percent,0.083,106
+Murray Hill/Stuyvesant,2011,Percent,0.093,106
+Murray Hill/Stuyvesant,2010,Percent,0.073,106
+Murray Hill/Stuyvesant,2009,Percent,0.071,106
+Murray Hill/Stuyvesant,2015,Percent,0.078,106
+Murray Hill/Stuyvesant,2013,Percent,0.069,106
+Murray Hill/Stuyvesant,2014,Percent,0.087,106
+Murray Hill/Stuyvesant,2007,Percent,0.078,106
+Murray Hill/Stuyvesant,2008,Percent,0.071,106
+Murray Hill/Stuyvesant,2006,Percent,0.087,106
+Murray Hill/Stuyvesant,2005,Percent,0.081,106
+Murray Hill/Stuyvesant,2004,Percent,0.106,106
+Murray Hill/Stuyvesant,2002,Percent,0.082,106
+Murray Hill/Stuyvesant,2003,Percent,0.091,106
+Murray Hill/Stuyvesant,2001,Percent,0.088,106
+Murray Hill/Stuyvesant,2000,Percent,0.058,106
+Upper West Side,2000,Percent,0.097,107
+Upper West Side,2001,Percent,0.086,107
+Upper West Side,2002,Percent,0.094,107
+Upper West Side,2004,Percent,0.104,107
+Upper West Side,2003,Percent,0.09,107
+Upper West Side,2005,Percent,0.092,107
+Upper West Side,2006,Percent,0.09,107
+Upper West Side,2007,Percent,0.086,107
+Upper West Side,2013,Percent,0.071,107
+Upper West Side,2015,Percent,0.078,107
+Upper West Side,2014,Percent,0.086,107
+Upper West Side,2008,Percent,0.074,107
+Upper West Side,2010,Percent,0.084,107
+Upper West Side,2009,Percent,0.087,107
+Upper West Side,2011,Percent,0.091,107
+Upper West Side,2012,Percent,0.093,107
+Upper West Side,2018,Percent,0.072,107
+Upper West Side,2019,Percent,0.067,107
+Upper West Side,2016,Percent,0.081,107
+Upper West Side,2017,Percent,0.081,107
+Upper East Side,2017,Percent,0.081,108
+Upper East Side,2016,Percent,0.073,108
+Upper East Side,2019,Percent,0.074,108
+Upper East Side,2018,Percent,0.08,108
+Upper East Side,2012,Percent,0.062,108
+Upper East Side,2011,Percent,0.067,108
+Upper East Side,2009,Percent,0.09,108
+Upper East Side,2010,Percent,0.092,108
+Upper East Side,2008,Percent,0.077,108
+Upper East Side,2014,Percent,0.077,108
+Upper East Side,2015,Percent,0.073,108
+Upper East Side,2013,Percent,0.072,108
+Upper East Side,2007,Percent,0.077,108
+Upper East Side,2006,Percent,0.09,108
+Upper East Side,2005,Percent,0.085,108
+Upper East Side,2004,Percent,0.096,108
+Upper East Side,2003,Percent,0.09,108
+Upper East Side,2002,Percent,0.086,108
+Upper East Side,2001,Percent,0.092,108
+Upper East Side,2000,Percent,0.078,108
+Manhattanville,2000,Percent,0.101,109
+Manhattanville,2001,Percent,0.095,109
+Manhattanville,2002,Percent,0.097,109
+Manhattanville,2003,Percent,0.111,109
+Manhattanville,2004,Percent,0.111,109
+Manhattanville,2005,Percent,0.096,109
+Manhattanville,2006,Percent,0.096,109
+Manhattanville,2007,Percent,0.088,109
+Manhattanville,2008,Percent,0.094,109
+Manhattanville,2014,Percent,0.088,109
+Manhattanville,2015,Percent,0.082,109
+Manhattanville,2009,Percent,0.082,109
+Manhattanville,2010,Percent,0.091,109
+Manhattanville,2011,Percent,0.085,109
+Manhattanville,2013,Percent,0.099,109
+Manhattanville,2012,Percent,0.09,109
+Manhattanville,2018,Percent,0.099,109
+Manhattanville,2019,Percent,0.085,109
+Manhattanville,2016,Percent,0.093,109
+Manhattanville,2017,Percent,0.095,109
+Central Harlem,2017,Percent,0.102,110
+Central Harlem,2016,Percent,0.093,110
+Central Harlem,2019,Percent,0.109,110
+Central Harlem,2018,Percent,0.101,110
+Central Harlem,2013,Percent,0.096,110
+Central Harlem,2011,Percent,0.12,110
+Central Harlem,2012,Percent,0.118,110
+Central Harlem,2010,Percent,0.116,110
+Central Harlem,2009,Percent,0.114,110
+Central Harlem,2015,Percent,0.103,110
+Central Harlem,2014,Percent,0.089,110
+Central Harlem,2008,Percent,0.12,110
+Central Harlem,2006,Percent,0.118,110
+Central Harlem,2007,Percent,0.107,110
+Central Harlem,2005,Percent,0.124,110
+Central Harlem,2004,Percent,0.103,110
+Central Harlem,2003,Percent,0.12,110
+Central Harlem,2002,Percent,0.107,110
+Central Harlem,2000,Percent,0.132,110
+Central Harlem,2001,Percent,0.128,110
+East Harlem,2000,Percent,0.123,111
+East Harlem,2002,Percent,0.118,111
+East Harlem,2001,Percent,0.122,111
+East Harlem,2003,Percent,0.113,111
+East Harlem,2004,Percent,0.125,111
+East Harlem,2005,Percent,0.13,111
+East Harlem,2007,Percent,0.095,111
+East Harlem,2006,Percent,0.117,111
+East Harlem,2008,Percent,0.122,111
+East Harlem,2014,Percent,0.114,111
+East Harlem,2015,Percent,0.108,111
+East Harlem,2009,Percent,0.127,111
+East Harlem,2010,Percent,0.125,111
+East Harlem,2012,Percent,0.106,111
+East Harlem,2011,Percent,0.109,111
+East Harlem,2013,Percent,0.1,111
+East Harlem,2018,Percent,0.137,111
+East Harlem,2019,Percent,0.104,111
+East Harlem,2016,Percent,0.116,111
+East Harlem,2017,Percent,0.116,111
+Washington Heights,2017,Percent,0.083,112
+Washington Heights,2016,Percent,0.08,112
+Washington Heights,2019,Percent,0.091,112
+Washington Heights,2018,Percent,0.091,112
+Washington Heights,2012,Percent,0.084,112
+Washington Heights,2011,Percent,0.086,112
+Washington Heights,2009,Percent,0.088,112
+Washington Heights,2010,Percent,0.088,112
+Washington Heights,2008,Percent,0.077,112
+Washington Heights,2014,Percent,0.081,112
+Washington Heights,2015,Percent,0.073,112
+Washington Heights,2013,Percent,0.085,112
+Washington Heights,2007,Percent,0.075,112
+Washington Heights,2006,Percent,0.094,112
+Washington Heights,2005,Percent,0.097,112
+Washington Heights,2003,Percent,0.103,112
+Washington Heights,2004,Percent,0.096,112
+Washington Heights,2002,Percent,0.086,112
+Washington Heights,2001,Percent,0.091,112
+Washington Heights,2000,Percent,0.085,112
+Bronx,2000,Percent,0.105,36005
+Bronx,2001,Percent,0.1,36005
+Bronx,2002,Percent,0.093,36005
+Bronx,2003,Percent,0.096,36005
+Bronx,2004,Percent,0.101,36005
+Bronx,2005,Percent,0.102,36005
+Bronx,2006,Percent,0.1,36005
+Bronx,2007,Percent,0.102,36005
+Bronx,2008,Percent,0.105,36005
+Bronx,2009,Percent,0.102,36005
+Bronx,2010,Percent,0.103,36005
+Bronx,2011,Percent,0.096,36005
+Bronx,2012,Percent,0.099,36005
+Bronx,2013,Percent,0.099,36005
+Bronx,2014,Percent,0.097,36005
+Bronx,2015,Percent,0.097,36005
+Bronx,2018,Percent,0.098,36005
+Bronx,2019,Percent,0.104,36005
+Bronx,2016,Percent,0.096,36005
+Bronx,2017,Percent,0.102,36005
+Mott Haven,2017,Percent,0.107,201
+Mott Haven,2016,Percent,0.107,201
+Mott Haven,2018,Percent,0.114,201
+Mott Haven,2019,Percent,0.12,201
+Mott Haven,2000,Percent,0.107,201
+Mott Haven,2001,Percent,0.103,201
+Mott Haven,2002,Percent,0.102,201
+Mott Haven,2003,Percent,0.1,201
+Mott Haven,2004,Percent,0.093,201
+Mott Haven,2005,Percent,0.097,201
+Mott Haven,2006,Percent,0.101,201
+Mott Haven,2007,Percent,0.106,201
+Mott Haven,2013,Percent,0.091,201
+Mott Haven,2014,Percent,0.092,201
+Mott Haven,2015,Percent,0.095,201
+Mott Haven,2008,Percent,0.099,201
+Mott Haven,2009,Percent,0.102,201
+Mott Haven,2010,Percent,0.101,201
+Mott Haven,2011,Percent,0.106,201
+Mott Haven,2012,Percent,0.103,201
+Hunts Point,2012,Percent,0.089,202
+Hunts Point,2013,Percent,0.099,202
+Hunts Point,2011,Percent,0.094,202
+Hunts Point,2010,Percent,0.097,202
+Hunts Point,2009,Percent,0.103,202
+Hunts Point,2015,Percent,0.101,202
+Hunts Point,2014,Percent,0.082,202
+Hunts Point,2007,Percent,0.113,202
+Hunts Point,2008,Percent,0.11,202
+Hunts Point,2006,Percent,0.096,202
+Hunts Point,2005,Percent,0.101,202
+Hunts Point,2004,Percent,0.096,202
+Hunts Point,2003,Percent,0.079,202
+Hunts Point,2002,Percent,0.08,202
+Hunts Point,2001,Percent,0.099,202
+Hunts Point,2000,Percent,0.112,202
+Hunts Point,2019,Percent,0.118,202
+Hunts Point,2018,Percent,0.124,202
+Hunts Point,2016,Percent,0.109,202
+Hunts Point,2017,Percent,0.085,202
+Morrisania,2017,Percent,0.11,203
+Morrisania,2016,Percent,0.112,203
+Morrisania,2018,Percent,0.105,203
+Morrisania,2019,Percent,0.105,203
+Morrisania,2000,Percent,0.121,203
+Morrisania,2001,Percent,0.125,203
+Morrisania,2002,Percent,0.122,203
+Morrisania,2003,Percent,0.108,203
+Morrisania,2004,Percent,0.096,203
+Morrisania,2005,Percent,0.128,203
+Morrisania,2006,Percent,0.124,203
+Morrisania,2008,Percent,0.108,203
+Morrisania,2007,Percent,0.108,203
+Morrisania,2014,Percent,0.108,203
+Morrisania,2013,Percent,0.111,203
+Morrisania,2015,Percent,0.106,203
+Morrisania,2009,Percent,0.118,203
+Morrisania,2010,Percent,0.098,203
+Morrisania,2011,Percent,0.117,203
+Morrisania,2012,Percent,0.097,203
+Concourse/Highbridge,2013,Percent,0.097,204
+Concourse/Highbridge,2011,Percent,0.102,204
+Concourse/Highbridge,2012,Percent,0.1,204
+Concourse/Highbridge,2010,Percent,0.102,204
+Concourse/Highbridge,2009,Percent,0.103,204
+Concourse/Highbridge,2015,Percent,0.093,204
+Concourse/Highbridge,2014,Percent,0.086,204
+Concourse/Highbridge,2008,Percent,0.105,204
+Concourse/Highbridge,2006,Percent,0.089,204
+Concourse/Highbridge,2007,Percent,0.099,204
+Concourse/Highbridge,2005,Percent,0.106,204
+Concourse/Highbridge,2004,Percent,0.109,204
+Concourse/Highbridge,2003,Percent,0.089,204
+Concourse/Highbridge,2002,Percent,0.104,204
+Concourse/Highbridge,2000,Percent,0.107,204
+Concourse/Highbridge,2001,Percent,0.098,204
+Concourse/Highbridge,2019,Percent,0.096,204
+Concourse/Highbridge,2018,Percent,0.087,204
+Concourse/Highbridge,2016,Percent,0.092,204
+Concourse/Highbridge,2017,Percent,0.094,204
+University Heights,2017,Percent,0.114,205
+University Heights,2016,Percent,0.1,205
+University Heights,2018,Percent,0.096,205
+University Heights,2019,Percent,0.094,205
+University Heights,2000,Percent,0.108,205
+University Heights,2001,Percent,0.093,205
+University Heights,2002,Percent,0.091,205
+University Heights,2003,Percent,0.11,205
+University Heights,2004,Percent,0.098,205
+University Heights,2005,Percent,0.105,205
+University Heights,2006,Percent,0.105,205
+University Heights,2007,Percent,0.093,205
+University Heights,2013,Percent,0.101,205
+University Heights,2014,Percent,0.093,205
+University Heights,2015,Percent,0.093,205
+University Heights,2008,Percent,0.106,205
+University Heights,2009,Percent,0.1,205
+University Heights,2010,Percent,0.108,205
+University Heights,2011,Percent,0.085,205
+University Heights,2012,Percent,0.092,205
+East Tremont,2013,Percent,0.123,206
+East Tremont,2012,Percent,0.11,206
+East Tremont,2011,Percent,0.098,206
+East Tremont,2010,Percent,0.104,206
+East Tremont,2009,Percent,0.119,206
+East Tremont,2015,Percent,0.113,206
+East Tremont,2014,Percent,0.111,206
+East Tremont,2008,Percent,0.111,206
+East Tremont,2007,Percent,0.096,206
+East Tremont,2006,Percent,0.118,206
+East Tremont,2005,Percent,0.104,206
+East Tremont,2004,Percent,0.11,206
+East Tremont,2003,Percent,0.085,206
+East Tremont,2002,Percent,0.078,206
+East Tremont,2001,Percent,0.098,206
+East Tremont,2000,Percent,0.105,206
+East Tremont,2019,Percent,0.095,206
+East Tremont,2018,Percent,0.098,206
+East Tremont,2016,Percent,0.098,206
+East Tremont,2017,Percent,0.102,206
+Bedford Park,2017,Percent,0.099,207
+Bedford Park,2016,Percent,0.084,207
+Bedford Park,2018,Percent,0.089,207
+Bedford Park,2019,Percent,0.095,207
+Bedford Park,2000,Percent,0.084,207
+Bedford Park,2001,Percent,0.099,207
+Bedford Park,2002,Percent,0.085,207
+Bedford Park,2003,Percent,0.095,207
+Bedford Park,2004,Percent,0.087,207
+Bedford Park,2005,Percent,0.089,207
+Bedford Park,2006,Percent,0.091,207
+Bedford Park,2008,Percent,0.104,207
+Bedford Park,2007,Percent,0.1,207
+Bedford Park,2014,Percent,0.086,207
+Bedford Park,2015,Percent,0.085,207
+Bedford Park,2009,Percent,0.089,207
+Bedford Park,2010,Percent,0.108,207
+Bedford Park,2011,Percent,0.086,207
+Bedford Park,2012,Percent,0.099,207
+Bedford Park,2013,Percent,0.077,207
+Riverdale,2012,Percent,0.095,208
+Riverdale,2011,Percent,0.082,208
+Riverdale,2010,Percent,0.082,208
+Riverdale,2009,Percent,0.087,208
+Riverdale,2008,Percent,0.075,208
+Riverdale,2015,Percent,0.089,208
+Riverdale,2014,Percent,0.09,208
+Riverdale,2013,Percent,0.086,208
+Riverdale,2007,Percent,0.092,208
+Riverdale,2006,Percent,0.104,208
+Riverdale,2005,Percent,0.091,208
+Riverdale,2004,Percent,0.095,208
+Riverdale,2003,Percent,0.101,208
+Riverdale,2002,Percent,0.07,208
+Riverdale,2001,Percent,0.098,208
+Riverdale,2000,Percent,0.097,208
+Riverdale,2019,Percent,0.084,208
+Riverdale,2018,Percent,0.072,208
+Riverdale,2016,Percent,0.093,208
+Riverdale,2017,Percent,0.086,208
+Unionport/Soundview,2017,Percent,0.105,209
+Unionport/Soundview,2016,Percent,0.1,209
+Unionport/Soundview,2018,Percent,0.091,209
+Unionport/Soundview,2019,Percent,0.105,209
+Unionport/Soundview,2000,Percent,0.106,209
+Unionport/Soundview,2001,Percent,0.104,209
+Unionport/Soundview,2002,Percent,0.095,209
+Unionport/Soundview,2003,Percent,0.097,209
+Unionport/Soundview,2005,Percent,0.104,209
+Unionport/Soundview,2004,Percent,0.103,209
+Unionport/Soundview,2006,Percent,0.11,209
+Unionport/Soundview,2007,Percent,0.095,209
+Unionport/Soundview,2013,Percent,0.102,209
+Unionport/Soundview,2015,Percent,0.106,209
+Unionport/Soundview,2014,Percent,0.108,209
+Unionport/Soundview,2008,Percent,0.105,209
+Unionport/Soundview,2010,Percent,0.101,209
+Unionport/Soundview,2009,Percent,0.099,209
+Unionport/Soundview,2011,Percent,0.092,209
+Unionport/Soundview,2012,Percent,0.111,209
+Throgs Neck,2012,Percent,0.107,210
+Throgs Neck,2011,Percent,0.124,210
+Throgs Neck,2010,Percent,0.113,210
+Throgs Neck,2008,Percent,0.11,210
+Throgs Neck,2009,Percent,0.101,210
+Throgs Neck,2014,Percent,0.105,210
+Throgs Neck,2015,Percent,0.11,210
+Throgs Neck,2013,Percent,0.111,210
+Throgs Neck,2007,Percent,0.116,210
+Throgs Neck,2006,Percent,0.088,210
+Throgs Neck,2005,Percent,0.098,210
+Throgs Neck,2003,Percent,0.096,210
+Throgs Neck,2004,Percent,0.117,210
+Throgs Neck,2002,Percent,0.099,210
+Throgs Neck,2001,Percent,0.091,210
+Throgs Neck,2000,Percent,0.123,210
+Throgs Neck,2019,Percent,0.116,210
+Throgs Neck,2018,Percent,0.087,210
+Throgs Neck,2016,Percent,0.083,210
+Throgs Neck,2017,Percent,0.094,210
+Pelham Parkway,2017,Percent,0.097,211
+Pelham Parkway,2016,Percent,0.075,211
+Pelham Parkway,2018,Percent,0.095,211
+Pelham Parkway,2019,Percent,0.114,211
+Pelham Parkway,2000,Percent,0.107,211
+Pelham Parkway,2001,Percent,0.096,211
+Pelham Parkway,2002,Percent,0.079,211
+Pelham Parkway,2003,Percent,0.086,211
+Pelham Parkway,2004,Percent,0.093,211
+Pelham Parkway,2005,Percent,0.082,211
+Pelham Parkway,2006,Percent,0.094,211
+Pelham Parkway,2007,Percent,0.1,211
+Pelham Parkway,2013,Percent,0.108,211
+Pelham Parkway,2014,Percent,0.11,211
+Pelham Parkway,2015,Percent,0.089,211
+Pelham Parkway,2009,Percent,0.09,211
+Pelham Parkway,2008,Percent,0.103,211
+Pelham Parkway,2010,Percent,0.1,211
+Pelham Parkway,2011,Percent,0.08,211
+Pelham Parkway,2012,Percent,0.081,211
+Williamsbridge,2012,Percent,0.097,212
+Williamsbridge,2011,Percent,0.101,212
+Williamsbridge,2010,Percent,0.109,212
+Williamsbridge,2009,Percent,0.111,212
+Williamsbridge,2008,Percent,0.121,212
+Williamsbridge,2015,Percent,0.102,212
+Williamsbridge,2014,Percent,0.096,212
+Williamsbridge,2013,Percent,0.099,212
+Williamsbridge,2007,Percent,0.12,212
+Williamsbridge,2006,Percent,0.097,212
+Williamsbridge,2005,Percent,0.111,212
+Williamsbridge,2004,Percent,0.115,212
+Williamsbridge,2003,Percent,0.098,212
+Williamsbridge,2002,Percent,0.094,212
+Williamsbridge,2001,Percent,0.102,212
+Williamsbridge,2000,Percent,0.1,212
+Williamsbridge,2019,Percent,0.123,212
+Williamsbridge,2018,Percent,0.13,212
+Williamsbridge,2016,Percent,0.097,212
+Williamsbridge,2017,Percent,0.112,212
+Brooklyn,2017,Percent,0.085,36047
+Brooklyn,2016,Percent,0.085,36047
+Brooklyn,2019,Percent,0.085,36047
+Brooklyn,2018,Percent,0.086,36047
+Brooklyn,2000,Percent,0.094,36047
+Brooklyn,2001,Percent,0.097,36047
+Brooklyn,2002,Percent,0.097,36047
+Brooklyn,2003,Percent,0.096,36047
+Brooklyn,2004,Percent,0.1,36047
+Brooklyn,2005,Percent,0.101,36047
+Brooklyn,2006,Percent,0.099,36047
+Brooklyn,2007,Percent,0.096,36047
+Brooklyn,2008,Percent,0.098,36047
+Brooklyn,2009,Percent,0.099,36047
+Brooklyn,2010,Percent,0.094,36047
+Brooklyn,2011,Percent,0.092,36047
+Brooklyn,2012,Percent,0.089,36047
+Brooklyn,2013,Percent,0.088,36047
+Brooklyn,2014,Percent,0.084,36047
+Brooklyn,2015,Percent,0.082,36047
+Williamsburg/Greenpoint,2000,Percent,0.059,301
+Williamsburg/Greenpoint,2001,Percent,0.07,301
+Williamsburg/Greenpoint,2002,Percent,0.07,301
+Williamsburg/Greenpoint,2003,Percent,0.067,301
+Williamsburg/Greenpoint,2004,Percent,0.067,301
+Williamsburg/Greenpoint,2005,Percent,0.066,301
+Williamsburg/Greenpoint,2006,Percent,0.067,301
+Williamsburg/Greenpoint,2007,Percent,0.06,301
+Williamsburg/Greenpoint,2013,Percent,0.06,301
+Williamsburg/Greenpoint,2014,Percent,0.059,301
+Williamsburg/Greenpoint,2015,Percent,0.054,301
+Williamsburg/Greenpoint,2008,Percent,0.066,301
+Williamsburg/Greenpoint,2009,Percent,0.072,301
+Williamsburg/Greenpoint,2010,Percent,0.052,301
+Williamsburg/Greenpoint,2011,Percent,0.055,301
+Williamsburg/Greenpoint,2012,Percent,0.061,301
+Williamsburg/Greenpoint,2018,Percent,0.052,301
+Williamsburg/Greenpoint,2019,Percent,0.057,301
+Williamsburg/Greenpoint,2016,Percent,0.064,301
+Williamsburg/Greenpoint,2017,Percent,0.054,301
+Fort Greene/Brooklyn Hts,2017,Percent,0.081,302
+Fort Greene/Brooklyn Hts,2016,Percent,0.077,302
+Fort Greene/Brooklyn Hts,2019,Percent,0.063,302
+Fort Greene/Brooklyn Hts,2018,Percent,0.08,302
+Fort Greene/Brooklyn Hts,2012,Percent,0.095,302
+Fort Greene/Brooklyn Hts,2013,Percent,0.102,302
+Fort Greene/Brooklyn Hts,2011,Percent,0.089,302
+Fort Greene/Brooklyn Hts,2010,Percent,0.092,302
+Fort Greene/Brooklyn Hts,2009,Percent,0.092,302
+Fort Greene/Brooklyn Hts,2015,Percent,0.074,302
+Fort Greene/Brooklyn Hts,2014,Percent,0.076,302
+Fort Greene/Brooklyn Hts,2007,Percent,0.094,302
+Fort Greene/Brooklyn Hts,2008,Percent,0.089,302
+Fort Greene/Brooklyn Hts,2006,Percent,0.096,302
+Fort Greene/Brooklyn Hts,2005,Percent,0.11,302
+Fort Greene/Brooklyn Hts,2004,Percent,0.094,302
+Fort Greene/Brooklyn Hts,2003,Percent,0.104,302
+Fort Greene/Brooklyn Hts,2002,Percent,0.119,302
+Fort Greene/Brooklyn Hts,2001,Percent,0.094,302
+Fort Greene/Brooklyn Hts,2000,Percent,0.095,302
+Bedford Stuyvesant,2000,Percent,0.131,303
+Bedford Stuyvesant,2001,Percent,0.125,303
+Bedford Stuyvesant,2002,Percent,0.132,303
+Bedford Stuyvesant,2003,Percent,0.113,303
+Bedford Stuyvesant,2004,Percent,0.119,303
+Bedford Stuyvesant,2005,Percent,0.136,303
+Bedford Stuyvesant,2006,Percent,0.11,303
+Bedford Stuyvesant,2007,Percent,0.104,303
+Bedford Stuyvesant,2008,Percent,0.125,303
+Bedford Stuyvesant,2014,Percent,0.085,303
+Bedford Stuyvesant,2015,Percent,0.095,303
+Bedford Stuyvesant,2009,Percent,0.118,303
+Bedford Stuyvesant,2010,Percent,0.123,303
+Bedford Stuyvesant,2011,Percent,0.107,303
+Bedford Stuyvesant,2012,Percent,0.106,303
+Bedford Stuyvesant,2013,Percent,0.107,303
+Bedford Stuyvesant,2018,Percent,0.092,303
+Bedford Stuyvesant,2019,Percent,0.085,303
+Bedford Stuyvesant,2016,Percent,0.093,303
+Bedford Stuyvesant,2017,Percent,0.084,303
+Bushwick,2017,Percent,0.111,304
+Bushwick,2016,Percent,0.099,304
+Bushwick,2019,Percent,0.096,304
+Bushwick,2018,Percent,0.097,304
+Bushwick,2013,Percent,0.09,304
+Bushwick,2012,Percent,0.094,304
+Bushwick,2011,Percent,0.088,304
+Bushwick,2010,Percent,0.098,304
+Bushwick,2009,Percent,0.106,304
+Bushwick,2015,Percent,0.083,304
+Bushwick,2014,Percent,0.086,304
+Bushwick,2008,Percent,0.105,304
+Bushwick,2007,Percent,0.102,304
+Bushwick,2006,Percent,0.101,304
+Bushwick,2005,Percent,0.094,304
+Bushwick,2004,Percent,0.103,304
+Bushwick,2003,Percent,0.109,304
+Bushwick,2002,Percent,0.096,304
+Bushwick,2001,Percent,0.092,304
+Bushwick,2000,Percent,0.096,304
+East New York,2000,Percent,0.117,305
+East New York,2002,Percent,0.122,305
+East New York,2001,Percent,0.118,305
+East New York,2003,Percent,0.121,305
+East New York,2004,Percent,0.133,305
+East New York,2005,Percent,0.129,305
+East New York,2007,Percent,0.138,305
+East New York,2006,Percent,0.138,305
+East New York,2008,Percent,0.125,305
+East New York,2014,Percent,0.112,305
+East New York,2015,Percent,0.11,305
+East New York,2009,Percent,0.132,305
+East New York,2010,Percent,0.118,305
+East New York,2011,Percent,0.12,305
+East New York,2012,Percent,0.123,305
+East New York,2013,Percent,0.116,305
+East New York,2018,Percent,0.116,305
+East New York,2019,Percent,0.122,305
+East New York,2016,Percent,0.102,305
+East New York,2017,Percent,0.112,305
+Park Slope,2017,Percent,0.076,306
+Park Slope,2016,Percent,0.073,306
+Park Slope,2019,Percent,0.069,306
+Park Slope,2018,Percent,0.071,306
+Park Slope,2012,Percent,0.071,306
+Park Slope,2011,Percent,0.082,306
+Park Slope,2010,Percent,0.087,306
+Park Slope,2009,Percent,0.071,306
+Park Slope,2015,Percent,0.06,306
+Park Slope,2014,Percent,0.087,306
+Park Slope,2013,Percent,0.074,306
+Park Slope,2008,Percent,0.084,306
+Park Slope,2007,Percent,0.094,306
+Park Slope,2006,Percent,0.099,306
+Park Slope,2005,Percent,0.078,306
+Park Slope,2004,Percent,0.091,306
+Park Slope,2003,Percent,0.09,306
+Park Slope,2002,Percent,0.091,306
+Park Slope,2001,Percent,0.093,306
+Park Slope,2000,Percent,0.083,306
+Sunset Park,2000,Percent,0.079,307
+Sunset Park,2001,Percent,0.083,307
+Sunset Park,2002,Percent,0.077,307
+Sunset Park,2004,Percent,0.078,307
+Sunset Park,2003,Percent,0.094,307
+Sunset Park,2005,Percent,0.077,307
+Sunset Park,2006,Percent,0.076,307
+Sunset Park,2007,Percent,0.081,307
+Sunset Park,2013,Percent,0.072,307
+Sunset Park,2015,Percent,0.079,307
+Sunset Park,2014,Percent,0.062,307
+Sunset Park,2009,Percent,0.07,307
+Sunset Park,2008,Percent,0.067,307
+Sunset Park,2010,Percent,0.071,307
+Sunset Park,2011,Percent,0.07,307
+Sunset Park,2012,Percent,0.063,307
+Sunset Park,2018,Percent,0.073,307
+Sunset Park,2019,Percent,0.073,307
+Sunset Park,2016,Percent,0.071,307
+Sunset Park,2017,Percent,0.067,307
+Crown Heights North,2017,Percent,0.116,308
+Crown Heights North,2016,Percent,0.109,308
+Crown Heights North,2019,Percent,0.081,308
+Crown Heights North,2018,Percent,0.122,308
+Crown Heights North,2013,Percent,0.092,308
+Crown Heights North,2012,Percent,0.11,308
+Crown Heights North,2011,Percent,0.131,308
+Crown Heights North,2010,Percent,0.128,308
+Crown Heights North,2009,Percent,0.124,308
+Crown Heights North,2015,Percent,0.092,308
+Crown Heights North,2014,Percent,0.098,308
+Crown Heights North,2008,Percent,0.126,308
+Crown Heights North,2007,Percent,0.12,308
+Crown Heights North,2006,Percent,0.121,308
+Crown Heights North,2005,Percent,0.13,308
+Crown Heights North,2004,Percent,0.115,308
+Crown Heights North,2003,Percent,0.13,308
+Crown Heights North,2001,Percent,0.131,308
+Crown Heights North,2002,Percent,0.127,308
+Crown Heights North,2000,Percent,0.126,308
+Crown Heights South,2000,Percent,0.111,309
+Crown Heights South,2002,Percent,0.109,309
+Crown Heights South,2001,Percent,0.116,309
+Crown Heights South,2003,Percent,0.108,309
+Crown Heights South,2004,Percent,0.118,309
+Crown Heights South,2005,Percent,0.097,309
+Crown Heights South,2006,Percent,0.103,309
+Crown Heights South,2007,Percent,0.105,309
+Crown Heights South,2008,Percent,0.096,309
+Crown Heights South,2014,Percent,0.091,309
+Crown Heights South,2015,Percent,0.091,309
+Crown Heights South,2009,Percent,0.109,309
+Crown Heights South,2010,Percent,0.093,309
+Crown Heights South,2011,Percent,0.102,309
+Crown Heights South,2012,Percent,0.083,309
+Crown Heights South,2013,Percent,0.086,309
+Crown Heights South,2018,Percent,0.085,309
+Crown Heights South,2019,Percent,0.074,309
+Crown Heights South,2016,Percent,0.074,309
+Crown Heights South,2017,Percent,0.086,309
+Bay Ridge,2017,Percent,0.063,310
+Bay Ridge,2016,Percent,0.084,310
+Bay Ridge,2019,Percent,0.091,310
+Bay Ridge,2018,Percent,0.085,310
+Bay Ridge,2013,Percent,0.07,310
+Bay Ridge,2012,Percent,0.082,310
+Bay Ridge,2011,Percent,0.083,310
+Bay Ridge,2010,Percent,0.086,310
+Bay Ridge,2009,Percent,0.095,310
+Bay Ridge,2015,Percent,0.071,310
+Bay Ridge,2014,Percent,0.077,310
+Bay Ridge,2008,Percent,0.089,310
+Bay Ridge,2007,Percent,0.088,310
+Bay Ridge,2005,Percent,0.092,310
+Bay Ridge,2006,Percent,0.079,310
+Bay Ridge,2004,Percent,0.087,310
+Bay Ridge,2003,Percent,0.079,310
+Bay Ridge,2002,Percent,0.073,310
+Bay Ridge,2000,Percent,0.085,310
+Bay Ridge,2001,Percent,0.077,310
+Bensonhurst,2001,Percent,0.075,311
+Bensonhurst,2000,Percent,0.075,311
+Bensonhurst,2002,Percent,0.074,311
+Bensonhurst,2003,Percent,0.09,311
+Bensonhurst,2004,Percent,0.074,311
+Bensonhurst,2006,Percent,0.077,311
+Bensonhurst,2005,Percent,0.086,311
+Bensonhurst,2007,Percent,0.091,311
+Bensonhurst,2008,Percent,0.088,311
+Bensonhurst,2014,Percent,0.076,311
+Bensonhurst,2015,Percent,0.084,311
+Bensonhurst,2009,Percent,0.074,311
+Bensonhurst,2010,Percent,0.081,311
+Bensonhurst,2011,Percent,0.077,311
+Bensonhurst,2012,Percent,0.075,311
+Bensonhurst,2013,Percent,0.073,311
+Bensonhurst,2018,Percent,0.088,311
+Bensonhurst,2019,Percent,0.076,311
+Bensonhurst,2016,Percent,0.077,311
+Bensonhurst,2017,Percent,0.079,311
+Borough Park,2017,Percent,0.058,312
+Borough Park,2016,Percent,0.062,312
+Borough Park,2019,Percent,0.063,312
+Borough Park,2018,Percent,0.058,312
+Borough Park,2013,Percent,0.064,312
+Borough Park,2012,Percent,0.063,312
+Borough Park,2011,Percent,0.063,312
+Borough Park,2010,Percent,0.053,312
+Borough Park,2009,Percent,0.065,312
+Borough Park,2015,Percent,0.06,312
+Borough Park,2014,Percent,0.063,312
+Borough Park,2008,Percent,0.06,312
+Borough Park,2007,Percent,0.06,312
+Borough Park,2005,Percent,0.063,312
+Borough Park,2006,Percent,0.063,312
+Borough Park,2004,Percent,0.067,312
+Borough Park,2003,Percent,0.056,312
+Borough Park,2002,Percent,0.06,312
+Borough Park,2000,Percent,0.062,312
+Borough Park,2001,Percent,0.056,312
+Coney Island,2001,Percent,0.093,313
+Coney Island,2000,Percent,0.064,313
+Coney Island,2002,Percent,0.078,313
+Coney Island,2003,Percent,0.093,313
+Coney Island,2004,Percent,0.095,313
+Coney Island,2005,Percent,0.104,313
+Coney Island,2007,Percent,0.107,313
+Coney Island,2006,Percent,0.1,313
+Coney Island,2008,Percent,0.099,313
+Coney Island,2014,Percent,0.095,313
+Coney Island,2015,Percent,0.095,313
+Coney Island,2009,Percent,0.097,313
+Coney Island,2010,Percent,0.113,313
+Coney Island,2012,Percent,0.102,313
+Coney Island,2011,Percent,0.1,313
+Coney Island,2013,Percent,0.113,313
+Coney Island,2018,Percent,0.112,313
+Coney Island,2019,Percent,0.104,313
+Coney Island,2016,Percent,0.09,313
+Coney Island,2017,Percent,0.085,313
+Flatbush/Midwood,2017,Percent,0.09,314
+Flatbush/Midwood,2016,Percent,0.095,314
+Flatbush/Midwood,2019,Percent,0.093,314
+Flatbush/Midwood,2018,Percent,0.09,314
+Flatbush/Midwood,2013,Percent,0.085,314
+Flatbush/Midwood,2012,Percent,0.094,314
+Flatbush/Midwood,2011,Percent,0.098,314
+Flatbush/Midwood,2010,Percent,0.102,314
+Flatbush/Midwood,2009,Percent,0.106,314
+Flatbush/Midwood,2015,Percent,0.099,314
+Flatbush/Midwood,2014,Percent,0.079,314
+Flatbush/Midwood,2008,Percent,0.11,314
+Flatbush/Midwood,2006,Percent,0.102,314
+Flatbush/Midwood,2007,Percent,0.091,314
+Flatbush/Midwood,2005,Percent,0.108,314
+Flatbush/Midwood,2004,Percent,0.097,314
+Flatbush/Midwood,2003,Percent,0.093,314
+Flatbush/Midwood,2002,Percent,0.101,314
+Flatbush/Midwood,2001,Percent,0.103,314
+Flatbush/Midwood,2000,Percent,0.096,314
+Sheepshead Bay,2000,Percent,0.074,315
+Sheepshead Bay,2001,Percent,0.069,315
+Sheepshead Bay,2002,Percent,0.092,315
+Sheepshead Bay,2004,Percent,0.088,315
+Sheepshead Bay,2003,Percent,0.075,315
+Sheepshead Bay,2005,Percent,0.075,315
+Sheepshead Bay,2006,Percent,0.092,315
+Sheepshead Bay,2007,Percent,0.094,315
+Sheepshead Bay,2014,Percent,0.07,315
+Sheepshead Bay,2013,Percent,0.073,315
+Sheepshead Bay,2015,Percent,0.066,315
+Sheepshead Bay,2009,Percent,0.082,315
+Sheepshead Bay,2008,Percent,0.091,315
+Sheepshead Bay,2010,Percent,0.073,315
+Sheepshead Bay,2011,Percent,0.075,315
+Sheepshead Bay,2012,Percent,0.086,315
+Sheepshead Bay,2018,Percent,0.08,315
+Sheepshead Bay,2019,Percent,0.083,315
+Sheepshead Bay,2016,Percent,0.073,315
+Sheepshead Bay,2017,Percent,0.093,315
+Brownsville,2017,Percent,0.129,316
+Brownsville,2016,Percent,0.135,316
+Brownsville,2019,Percent,0.127,316
+Brownsville,2018,Percent,0.124,316
+Brownsville,2013,Percent,0.133,316
+Brownsville,2012,Percent,0.141,316
+Brownsville,2011,Percent,0.168,316
+Brownsville,2010,Percent,0.157,316
+Brownsville,2009,Percent,0.152,316
+Brownsville,2015,Percent,0.127,316
+Brownsville,2014,Percent,0.14,316
+Brownsville,2008,Percent,0.149,316
+Brownsville,2007,Percent,0.127,316
+Brownsville,2006,Percent,0.163,316
+Brownsville,2005,Percent,0.174,316
+Brownsville,2004,Percent,0.168,316
+Brownsville,2003,Percent,0.141,316
+Brownsville,2002,Percent,0.134,316
+Brownsville,2001,Percent,0.162,316
+Brownsville,2000,Percent,0.123,316
+East Flatbush,2000,Percent,0.125,317
+East Flatbush,2002,Percent,0.123,317
+East Flatbush,2001,Percent,0.129,317
+East Flatbush,2003,Percent,0.125,317
+East Flatbush,2004,Percent,0.139,317
+East Flatbush,2005,Percent,0.147,317
+East Flatbush,2007,Percent,0.119,317
+East Flatbush,2006,Percent,0.139,317
+East Flatbush,2008,Percent,0.131,317
+East Flatbush,2014,Percent,0.129,317
+East Flatbush,2015,Percent,0.126,317
+East Flatbush,2009,Percent,0.148,317
+East Flatbush,2010,Percent,0.144,317
+East Flatbush,2012,Percent,0.133,317
+East Flatbush,2011,Percent,0.142,317
+East Flatbush,2013,Percent,0.138,317
+East Flatbush,2018,Percent,0.125,317
+East Flatbush,2019,Percent,0.137,317
+East Flatbush,2016,Percent,0.121,317
+East Flatbush,2017,Percent,0.131,317
+Canarsie,2017,Percent,0.105,318
+Canarsie,2016,Percent,0.109,318
+Canarsie,2019,Percent,0.117,318
+Canarsie,2018,Percent,0.104,318
+Canarsie,2013,Percent,0.115,318
+Canarsie,2011,Percent,0.117,318
+Canarsie,2012,Percent,0.119,318
+Canarsie,2010,Percent,0.123,318
+Canarsie,2009,Percent,0.134,318
+Canarsie,2015,Percent,0.089,318
+Canarsie,2014,Percent,0.116,318
+Canarsie,2008,Percent,0.131,318
+Canarsie,2007,Percent,0.132,318
+Canarsie,2005,Percent,0.129,318
+Canarsie,2006,Percent,0.129,318
+Canarsie,2004,Percent,0.125,318
+Canarsie,2003,Percent,0.108,318
+Canarsie,2002,Percent,0.115,318
+Canarsie,2000,Percent,0.104,318
+Canarsie,2001,Percent,0.109,318
+Queens,2000,Percent,0.085,36081
+Queens,2001,Percent,0.087,36081
+Queens,2002,Percent,0.085,36081
+Queens,2003,Percent,0.09,36081
+Queens,2004,Percent,0.095,36081
+Queens,2005,Percent,0.096,36081
+Queens,2006,Percent,0.094,36081
+Queens,2007,Percent,0.092,36081
+Queens,2008,Percent,0.092,36081
+Queens,2009,Percent,0.087,36081
+Queens,2010,Percent,0.092,36081
+Queens,2011,Percent,0.087,36081
+Queens,2012,Percent,0.083,36081
+Queens,2013,Percent,0.084,36081
+Queens,2014,Percent,0.08,36081
+Queens,2015,Percent,0.085,36081
+Queens,2018,Percent,0.087,36081
+Queens,2019,Percent,0.091,36081
+Queens,2016,Percent,0.086,36081
+Queens,2017,Percent,0.086,36081
+Astoria,2017,Percent,0.088,401
+Astoria,2016,Percent,0.075,401
+Astoria,2018,Percent,0.083,401
+Astoria,2019,Percent,0.094,401
+Astoria,2001,Percent,0.08,401
+Astoria,2000,Percent,0.089,401
+Astoria,2002,Percent,0.09,401
+Astoria,2003,Percent,0.089,401
+Astoria,2004,Percent,0.087,401
+Astoria,2005,Percent,0.081,401
+Astoria,2007,Percent,0.086,401
+Astoria,2006,Percent,0.097,401
+Astoria,2008,Percent,0.09,401
+Astoria,2014,Percent,0.081,401
+Astoria,2015,Percent,0.084,401
+Astoria,2009,Percent,0.089,401
+Astoria,2010,Percent,0.091,401
+Astoria,2012,Percent,0.085,401
+Astoria,2011,Percent,0.09,401
+Astoria,2013,Percent,0.077,401
+Sunnyside/Woodside,2012,Percent,0.066,402
+Sunnyside/Woodside,2011,Percent,0.077,402
+Sunnyside/Woodside,2010,Percent,0.083,402
+Sunnyside/Woodside,2008,Percent,0.073,402
+Sunnyside/Woodside,2009,Percent,0.062,402
+Sunnyside/Woodside,2015,Percent,0.09,402
+Sunnyside/Woodside,2014,Percent,0.065,402
+Sunnyside/Woodside,2013,Percent,0.088,402
+Sunnyside/Woodside,2007,Percent,0.068,402
+Sunnyside/Woodside,2006,Percent,0.075,402
+Sunnyside/Woodside,2005,Percent,0.084,402
+Sunnyside/Woodside,2003,Percent,0.075,402
+Sunnyside/Woodside,2004,Percent,0.076,402
+Sunnyside/Woodside,2002,Percent,0.079,402
+Sunnyside/Woodside,2001,Percent,0.069,402
+Sunnyside/Woodside,2000,Percent,0.083,402
+Sunnyside/Woodside,2019,Percent,0.072,402
+Sunnyside/Woodside,2018,Percent,0.069,402
+Sunnyside/Woodside,2016,Percent,0.071,402
+Sunnyside/Woodside,2017,Percent,0.077,402
+Jackson Heights,2017,Percent,0.087,403
+Jackson Heights,2016,Percent,0.083,403
+Jackson Heights,2018,Percent,0.085,403
+Jackson Heights,2019,Percent,0.096,403
+Jackson Heights,2000,Percent,0.085,403
+Jackson Heights,2001,Percent,0.07,403
+Jackson Heights,2002,Percent,0.078,403
+Jackson Heights,2003,Percent,0.072,403
+Jackson Heights,2004,Percent,0.084,403
+Jackson Heights,2005,Percent,0.092,403
+Jackson Heights,2006,Percent,0.085,403
+Jackson Heights,2007,Percent,0.076,403
+Jackson Heights,2008,Percent,0.085,403
+Jackson Heights,2014,Percent,0.073,403
+Jackson Heights,2015,Percent,0.086,403
+Jackson Heights,2009,Percent,0.08,403
+Jackson Heights,2010,Percent,0.074,403
+Jackson Heights,2011,Percent,0.075,403
+Jackson Heights,2012,Percent,0.071,403
+Jackson Heights,2013,Percent,0.074,403
+Elmhurst/Corona,2013,Percent,0.074,404
+Elmhurst/Corona,2012,Percent,0.08,404
+Elmhurst/Corona,2011,Percent,0.072,404
+Elmhurst/Corona,2010,Percent,0.082,404
+Elmhurst/Corona,2009,Percent,0.067,404
+Elmhurst/Corona,2015,Percent,0.083,404
+Elmhurst/Corona,2014,Percent,0.078,404
+Elmhurst/Corona,2008,Percent,0.076,404
+Elmhurst/Corona,2006,Percent,0.078,404
+Elmhurst/Corona,2007,Percent,0.075,404
+Elmhurst/Corona,2005,Percent,0.079,404
+Elmhurst/Corona,2004,Percent,0.074,404
+Elmhurst/Corona,2003,Percent,0.081,404
+Elmhurst/Corona,2001,Percent,0.08,404
+Elmhurst/Corona,2002,Percent,0.069,404
+Elmhurst/Corona,2000,Percent,0.069,404
+Elmhurst/Corona,2019,Percent,0.08,404
+Elmhurst/Corona,2018,Percent,0.084,404
+Elmhurst/Corona,2016,Percent,0.079,404
+Elmhurst/Corona,2017,Percent,0.08,404
+Ridgewood/Glendale,2017,Percent,0.08,405
+Ridgewood/Glendale,2016,Percent,0.092,405
+Ridgewood/Glendale,2018,Percent,0.07,405
+Ridgewood/Glendale,2019,Percent,0.08,405
+Ridgewood/Glendale,2000,Percent,0.088,405
+Ridgewood/Glendale,2001,Percent,0.086,405
+Ridgewood/Glendale,2002,Percent,0.076,405
+Ridgewood/Glendale,2004,Percent,0.103,405
+Ridgewood/Glendale,2003,Percent,0.092,405
+Ridgewood/Glendale,2005,Percent,0.092,405
+Ridgewood/Glendale,2006,Percent,0.077,405
+Ridgewood/Glendale,2007,Percent,0.094,405
+Ridgewood/Glendale,2014,Percent,0.08,405
+Ridgewood/Glendale,2013,Percent,0.074,405
+Ridgewood/Glendale,2015,Percent,0.07,405
+Ridgewood/Glendale,2009,Percent,0.081,405
+Ridgewood/Glendale,2008,Percent,0.08,405
+Ridgewood/Glendale,2010,Percent,0.073,405
+Ridgewood/Glendale,2011,Percent,0.08,405
+Ridgewood/Glendale,2012,Percent,0.072,405
+Rego Park/Forest Hills,2012,Percent,0.074,406
+Rego Park/Forest Hills,2011,Percent,0.083,406
+Rego Park/Forest Hills,2010,Percent,0.061,406
+Rego Park/Forest Hills,2008,Percent,0.07,406
+Rego Park/Forest Hills,2009,Percent,0.074,406
+Rego Park/Forest Hills,2015,Percent,0.066,406
+Rego Park/Forest Hills,2013,Percent,0.077,406
+Rego Park/Forest Hills,2014,Percent,0.052,406
+Rego Park/Forest Hills,2007,Percent,0.081,406
+Rego Park/Forest Hills,2006,Percent,0.076,406
+Rego Park/Forest Hills,2005,Percent,0.096,406
+Rego Park/Forest Hills,2003,Percent,0.064,406
+Rego Park/Forest Hills,2004,Percent,0.077,406
+Rego Park/Forest Hills,2002,Percent,0.068,406
+Rego Park/Forest Hills,2001,Percent,0.068,406
+Rego Park/Forest Hills,2000,Percent,0.061,406
+Rego Park/Forest Hills,2019,Percent,0.052,406
+Rego Park/Forest Hills,2018,Percent,0.076,406
+Rego Park/Forest Hills,2016,Percent,0.076,406
+Rego Park/Forest Hills,2017,Percent,0.07,406
+Flushing,2017,Percent,0.067,407
+Flushing,2016,Percent,0.071,407
+Flushing,2018,Percent,0.068,407
+Flushing,2019,Percent,0.076,407
+Flushing,2000,Percent,0.062,407
+Flushing,2001,Percent,0.062,407
+Flushing,2002,Percent,0.068,407
+Flushing,2003,Percent,0.068,407
+Flushing,2004,Percent,0.071,407
+Flushing,2005,Percent,0.061,407
+Flushing,2006,Percent,0.078,407
+Flushing,2007,Percent,0.072,407
+Flushing,2008,Percent,0.076,407
+Flushing,2014,Percent,0.055,407
+Flushing,2015,Percent,0.063,407
+Flushing,2009,Percent,0.066,407
+Flushing,2010,Percent,0.081,407
+Flushing,2011,Percent,0.077,407
+Flushing,2012,Percent,0.064,407
+Flushing,2013,Percent,0.06,407
+Fresh Meadows/Briarwood,2013,Percent,0.071,408
+Fresh Meadows/Briarwood,2012,Percent,0.085,408
+Fresh Meadows/Briarwood,2011,Percent,0.082,408
+Fresh Meadows/Briarwood,2010,Percent,0.103,408
+Fresh Meadows/Briarwood,2009,Percent,0.101,408
+Fresh Meadows/Briarwood,2015,Percent,0.074,408
+Fresh Meadows/Briarwood,2014,Percent,0.066,408
+Fresh Meadows/Briarwood,2008,Percent,0.092,408
+Fresh Meadows/Briarwood,2007,Percent,0.089,408
+Fresh Meadows/Briarwood,2006,Percent,0.079,408
+Fresh Meadows/Briarwood,2005,Percent,0.08,408
+Fresh Meadows/Briarwood,2004,Percent,0.096,408
+Fresh Meadows/Briarwood,2003,Percent,0.082,408
+Fresh Meadows/Briarwood,2002,Percent,0.078,408
+Fresh Meadows/Briarwood,2001,Percent,0.074,408
+Fresh Meadows/Briarwood,2000,Percent,0.071,408
+Fresh Meadows/Briarwood,2019,Percent,0.091,408
+Fresh Meadows/Briarwood,2018,Percent,0.094,408
+Fresh Meadows/Briarwood,2016,Percent,0.076,408
+Fresh Meadows/Briarwood,2017,Percent,0.09,408
+Woodhaven,2017,Percent,0.088,409
+Woodhaven,2016,Percent,0.079,409
+Woodhaven,2018,Percent,0.1,409
+Woodhaven,2019,Percent,0.091,409
+Woodhaven,2000,Percent,0.077,409
+Woodhaven,2001,Percent,0.095,409
+Woodhaven,2002,Percent,0.089,409
+Woodhaven,2003,Percent,0.089,409
+Woodhaven,2004,Percent,0.103,409
+Woodhaven,2005,Percent,0.113,409
+Woodhaven,2006,Percent,0.091,409
+Woodhaven,2007,Percent,0.097,409
+Woodhaven,2013,Percent,0.086,409
+Woodhaven,2015,Percent,0.092,409
+Woodhaven,2014,Percent,0.095,409
+Woodhaven,2008,Percent,0.085,409
+Woodhaven,2009,Percent,0.09,409
+Woodhaven,2010,Percent,0.095,409
+Woodhaven,2011,Percent,0.096,409
+Woodhaven,2012,Percent,0.087,409
+Howard Beach,2013,Percent,0.103,410
+Howard Beach,2012,Percent,0.096,410
+Howard Beach,2011,Percent,0.107,410
+Howard Beach,2010,Percent,0.103,410
+Howard Beach,2009,Percent,0.111,410
+Howard Beach,2015,Percent,0.097,410
+Howard Beach,2014,Percent,0.103,410
+Howard Beach,2007,Percent,0.112,410
+Howard Beach,2008,Percent,0.109,410
+Howard Beach,2006,Percent,0.114,410
+Howard Beach,2005,Percent,0.127,410
+Howard Beach,2004,Percent,0.12,410
+Howard Beach,2003,Percent,0.096,410
+Howard Beach,2002,Percent,0.098,410
+Howard Beach,2001,Percent,0.097,410
+Howard Beach,2000,Percent,0.097,410
+Howard Beach,2019,Percent,0.102,410
+Howard Beach,2018,Percent,0.082,410
+Howard Beach,2016,Percent,0.107,410
+Howard Beach,2017,Percent,0.098,410
+Bayside,2017,Percent,0.073,411
+Bayside,2016,Percent,0.073,411
+Bayside,2018,Percent,0.083,411
+Bayside,2019,Percent,0.065,411
+Bayside,2000,Percent,0.064,411
+Bayside,2001,Percent,0.088,411
+Bayside,2002,Percent,0.083,411
+Bayside,2003,Percent,0.06,411
+Bayside,2004,Percent,0.069,411
+Bayside,2005,Percent,0.077,411
+Bayside,2006,Percent,0.092,411
+Bayside,2007,Percent,0.079,411
+Bayside,2008,Percent,0.068,411
+Bayside,2014,Percent,0.082,411
+Bayside,2015,Percent,0.081,411
+Bayside,2009,Percent,0.046,411
+Bayside,2010,Percent,0.077,411
+Bayside,2011,Percent,0.065,411
+Bayside,2012,Percent,0.077,411
+Bayside,2013,Percent,0.08,411
+Jamaica/St. Albans,2013,Percent,0.11,412
+Jamaica/St. Albans,2012,Percent,0.101,412
+Jamaica/St. Albans,2011,Percent,0.116,412
+Jamaica/St. Albans,2010,Percent,0.124,412
+Jamaica/St. Albans,2009,Percent,0.113,412
+Jamaica/St. Albans,2015,Percent,0.1,412
+Jamaica/St. Albans,2014,Percent,0.109,412
+Jamaica/St. Albans,2008,Percent,0.122,412
+Jamaica/St. Albans,2007,Percent,0.126,412
+Jamaica/St. Albans,2006,Percent,0.116,412
+Jamaica/St. Albans,2005,Percent,0.121,412
+Jamaica/St. Albans,2004,Percent,0.126,412
+Jamaica/St. Albans,2003,Percent,0.114,412
+Jamaica/St. Albans,2002,Percent,0.11,412
+Jamaica/St. Albans,2001,Percent,0.116,412
+Jamaica/St. Albans,2000,Percent,0.107,412
+Jamaica/St. Albans,2019,Percent,0.124,412
+Jamaica/St. Albans,2018,Percent,0.11,412
+Jamaica/St. Albans,2016,Percent,0.114,412
+Jamaica/St. Albans,2017,Percent,0.097,412
+Queens Village,2017,Percent,0.111,413
+Queens Village,2016,Percent,0.113,413
+Queens Village,2018,Percent,0.109,413
+Queens Village,2019,Percent,0.109,413
+Queens Village,2000,Percent,0.113,413
+Queens Village,2001,Percent,0.113,413
+Queens Village,2002,Percent,0.102,413
+Queens Village,2003,Percent,0.132,413
+Queens Village,2004,Percent,0.115,413
+Queens Village,2005,Percent,0.122,413
+Queens Village,2006,Percent,0.127,413
+Queens Village,2007,Percent,0.114,413
+Queens Village,2014,Percent,0.1,413
+Queens Village,2013,Percent,0.112,413
+Queens Village,2015,Percent,0.111,413
+Queens Village,2009,Percent,0.106,413
+Queens Village,2008,Percent,0.131,413
+Queens Village,2010,Percent,0.109,413
+Queens Village,2011,Percent,0.109,413
+Queens Village,2012,Percent,0.119,413
+The Rockaways,2012,Percent,0.099,414
+The Rockaways,2011,Percent,0.084,414
+The Rockaways,2010,Percent,0.118,414
+The Rockaways,2008,Percent,0.117,414
+The Rockaways,2009,Percent,0.117,414
+The Rockaways,2015,Percent,0.112,414
+The Rockaways,2014,Percent,0.098,414
+The Rockaways,2013,Percent,0.116,414
+The Rockaways,2007,Percent,0.117,414
+The Rockaways,2006,Percent,0.14,414
+The Rockaways,2005,Percent,0.126,414
+The Rockaways,2004,Percent,0.128,414
+The Rockaways,2003,Percent,0.13,414
+The Rockaways,2002,Percent,0.114,414
+The Rockaways,2001,Percent,0.125,414
+The Rockaways,2000,Percent,0.125,414
+The Rockaways,2019,Percent,0.105,414
+The Rockaways,2018,Percent,0.1,414
+The Rockaways,2016,Percent,0.086,414
+The Rockaways,2017,Percent,0.102,414
+Staten Island,2017,Percent,0.093,36085
+Staten Island,2016,Percent,0.088,36085
+Staten Island,2019,Percent,0.095,36085
+Staten Island,2018,Percent,0.091,36085
+Staten Island,2000,Percent,0.105,36085
+Staten Island,2001,Percent,0.093,36085
+Staten Island,2002,Percent,0.102,36085
+Staten Island,2003,Percent,0.097,36085
+Staten Island,2004,Percent,0.115,36085
+Staten Island,2005,Percent,0.109,36085
+Staten Island,2006,Percent,0.11,36085
+Staten Island,2007,Percent,0.098,36085
+Staten Island,2008,Percent,0.098,36085
+Staten Island,2009,Percent,0.099,36085
+Staten Island,2010,Percent,0.097,36085
+Staten Island,2011,Percent,0.094,36085
+Staten Island,2012,Percent,0.092,36085
+Staten Island,2013,Percent,0.098,36085
+Staten Island,2014,Percent,0.097,36085
+Staten Island,2015,Percent,0.086,36085
+St. George,2000,Percent,0.106,501
+St. George,2001,Percent,0.105,501
+St. George,2002,Percent,0.113,501
+St. George,2003,Percent,0.108,501
+St. George,2004,Percent,0.121,501
+St. George,2005,Percent,0.116,501
+St. George,2006,Percent,0.106,501
+St. George,2007,Percent,0.11,501
+St. George,2013,Percent,0.11,501
+St. George,2014,Percent,0.099,501
+St. George,2015,Percent,0.096,501
+St. George,2009,Percent,0.103,501
+St. George,2008,Percent,0.106,501
+St. George,2010,Percent,0.099,501
+St. George,2011,Percent,0.091,501
+St. George,2012,Percent,0.104,501
+St. George,2018,Percent,0.112,501
+St. George,2019,Percent,0.107,501
+St. George,2016,Percent,0.101,501
+St. George,2017,Percent,0.105,501
+South Beach,2017,Percent,0.084,502
+South Beach,2016,Percent,0.085,502
+South Beach,2019,Percent,0.086,502
+South Beach,2018,Percent,0.081,502
+South Beach,2012,Percent,0.083,502
+South Beach,2011,Percent,0.103,502
+South Beach,2010,Percent,0.093,502
+South Beach,2009,Percent,0.094,502
+South Beach,2008,Percent,0.086,502
+South Beach,2015,Percent,0.08,502
+South Beach,2014,Percent,0.089,502
+South Beach,2013,Percent,0.089,502
+South Beach,2007,Percent,0.086,502
+South Beach,2006,Percent,0.101,502
+South Beach,2005,Percent,0.097,502
+South Beach,2004,Percent,0.102,502
+South Beach,2003,Percent,0.093,502
+South Beach,2002,Percent,0.085,502
+South Beach,2001,Percent,0.094,502
+South Beach,2000,Percent,0.111,502
+Tottenville,2000,Percent,0.098,503
+Tottenville,2001,Percent,0.076,503
+Tottenville,2002,Percent,0.102,503
+Tottenville,2003,Percent,0.085,503
+Tottenville,2004,Percent,0.117,503
+Tottenville,2005,Percent,0.109,503
+Tottenville,2006,Percent,0.122,503
+Tottenville,2007,Percent,0.091,503
+Tottenville,2013,Percent,0.088,503
+Tottenville,2014,Percent,0.101,503
+Tottenville,2015,Percent,0.077,503
+Tottenville,2008,Percent,0.097,503
+Tottenville,2009,Percent,0.096,503
+Tottenville,2010,Percent,0.1,503
+Tottenville,2011,Percent,0.088,503
+Tottenville,2012,Percent,0.082,503
+Tottenville,2018,Percent,0.069,503
+Tottenville,2019,Percent,0.087,503
+Tottenville,2016,Percent,0.072,503
+Tottenville,2017,Percent,0.082,503

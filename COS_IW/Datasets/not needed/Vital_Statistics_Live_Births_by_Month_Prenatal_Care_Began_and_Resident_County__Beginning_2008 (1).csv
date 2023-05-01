@@ -1,0 +1,5461 @@
+Year,Table,County,Month Prenatal Care Began,Value
+2015,12,Wyoming,PNC Unknown,7
+2015,12,Essex,PNC Start Unk,12
+2015,12,Oneida,PNC Start Unk,1
+2015,12,Delaware,Total,354
+2015,12,Livingston,PNC Unknown,21
+2015,12,Cayuga,Total,716
+2015,12,Kings,PNC Start Unk,434
+2015,12,Lewis,7th-9th,12
+2015,12,Orleans,PNC Unknown,14
+2015,12,New York City,Total,116040
+2015,12,Broome,PNC Unknown,6
+2015,12,Saratoga,4th-6th,373
+2015,12,New York,PNC Unknown,203
+2015,12,Tioga,4th-6th,65
+2015,12,St Lawrence,1st-3rd,774
+2015,12,Richmond,7th-9th,119
+2015,12,Putnam,1st-3rd,646
+2015,12,Rest of State,PNC Start Unk,2364
+2015,12,Cortland,7th-9th,11
+2015,12,Onondaga,Total,5259
+2015,12,Monroe,4th-6th,1201
+2015,12,Westchester,Total,10639
+2015,12,Jefferson,Total,2088
+2015,12,Essex,PNC Unknown,2
+2015,12,Rest of State,PNC Unknown,3306
+2015,12,Bronx,Total,21130
+2015,12,Monroe,None,36
+2015,12,Ulster,Total,1573
+2015,12,Erie,PNC Unknown,365
+2015,12,Warren,Total,540
+2015,12,Otsego,Total,530
+2015,12,Clinton,7th-9th,16
+2015,12,Monroe,PNC Unknown,537
+2015,12,Queens,4th-6th,5155
+2015,12,Orleans,4th-6th,65
+2015,12,Fulton,None,1
+2015,12,Putnam,4th-6th,101
+2015,12,Jefferson,7th-9th,47
+2015,12,Kings,7th-9th,2371
+2015,12,Wayne,None,5
+2015,12,Genesee,None,4
+2015,12,Washington,1st-3rd,403
+2015,12,Ontario,4th-6th,155
+2015,12,Montgomery,PNC Unknown,6
+2015,12,New York,PNC Start Unk,181
+2015,12,Allegany,PNC Start Unk,2
+2015,12,Rest of State,1st-3rd,89711
+2015,12,Clinton,None,1
+2015,12,Livingston,1st-3rd,402
+2015,12,Oneida,PNC Unknown,2
+2015,12,Yates,1st-3rd,160
+2015,12,Yates,None,0
+2015,12,Suffolk,4th-6th,2244
+2015,12,Montgomery,7th-9th,72
+2015,12,Kings,4th-6th,6996
+2015,12,Ulster,PNC Start Unk,4
+2015,12,Ontario,None,3
+2015,12,Warren,PNC Unknown,15
+2015,12,Genesee,7th-9th,9
+2015,12,Nassau,1st-3rd,12188
+2015,12,Delaware,4th-6th,58
+2015,12,Orange,PNC Start Unk,57
+2015,12,Chemung,Total,982
+2015,12,Steuben,7th-9th,62
+2015,12,Cattaraugus,PNC Unknown,87
+2015,12,Jefferson,PNC Unknown,19
+2015,12,Dutchess,None,18
+2015,12,Schoharie,PNC Start Unk,2
+2015,12,New York State,None,1174
+2015,12,St Lawrence,None,20
+2015,12,Herkimer,Total,608
+2015,12,Steuben,Total,1069
+2015,12,Saratoga,PNC Unknown,20
+2015,12,Richmond,Total,5286
+2015,12,Schoharie,1st-3rd,181
+2015,12,Seneca,Total,367
+2015,12,Schuyler,7th-9th,6
+2015,12,St Lawrence,PNC Unknown,63
+2015,12,Rest of State,7th-9th,3973
+2015,12,Nassau,7th-9th,368
+2015,12,Allegany,None,4
+2015,12,Erie,PNC Start Unk,16
+2015,12,Schuyler,Total,180
+2015,12,Warren,7th-9th,21
+2015,12,Oneida,Total,2514
+2015,12,Monroe,7th-9th,211
+2015,12,Madison,None,1
+2015,12,Dutchess,Total,2606
+2015,12,Oswego,4th-6th,204
+2015,12,Allegany,Total,496
+2015,12,Putnam,PNC Unknown,6
+2015,12,Wayne,7th-9th,34
+2015,12,Ontario,PNC Unknown,46
+2015,12,Rockland,4th-6th,1122
+2015,12,Dutchess,4th-6th,302
+2015,12,Franklin,PNC Unknown,3
+2015,12,Delaware,7th-9th,13
+2015,12,Allegany,7th-9th,41
+2015,12,Ulster,7th-9th,69
+2015,12,Livingston,None,2
+2015,12,Richmond,PNC Unknown,11
+2015,12,Seneca,PNC Unknown,9
+2015,12,Washington,4th-6th,122
+2015,12,Chautauqua,4th-6th,337
+2015,12,Nassau,PNC Start Unk,65
+2015,12,Suffolk,PNC Start Unk,55
+2015,12,Sullivan,PNC Unknown,3
+2015,12,Queens,Total,30335
+2015,12,Ontario,7th-9th,20
+2015,12,Kings,1st-3rd,31179
+2015,12,Schenectady,PNC Unknown,16
+2015,12,New York City,PNC Start Unk,869
+2015,12,Lewis,1st-3rd,248
+2015,12,Cattaraugus,Total,880
+2015,12,Steuben,PNC Start Unk,5
+2015,12,Schoharie,4th-6th,41
+2015,12,Putnam,Total,813
+2015,12,New York State,PNC Start Unk,3233
+2015,12,Orleans,Total,451
+2015,12,Putnam,7th-9th,19
+2015,12,Oswego,1st-3rd,935
+2015,12,Herkimer,7th-9th,33
+2015,12,Saratoga,7th-9th,60
+2015,12,Orange,1st-3rd,3449
+2015,12,Schuyler,1st-3rd,139
+2015,12,Livingston,PNC Start Unk,0
+2015,12,Schenectady,4th-6th,259
+2015,12,Steuben,None,8
+2015,12,Erie,1st-3rd,7192
+2015,12,Lewis,None,4
+2015,12,Livingston,4th-6th,71
+2015,12,Rockland,Total,5113
+2015,12,Tioga,None,1
+2015,12,Monroe,PNC Start Unk,9
+2015,12,New York City,4th-6th,21290
+2015,12,St Lawrence,4th-6th,273
+2015,12,Tioga,Total,465
+2015,12,New York State,1st-3rd,174363
+2015,12,Cattaraugus,None,7
+2015,12,Wayne,1st-3rd,642
+2015,12,Essex,Total,336
+2015,12,Orange,4th-6th,975
+2015,12,Onondaga,PNC Start Unk,5
+2015,12,Chenango,Total,492
+2015,12,New York,None,46
+2015,12,Ontario,Total,1032
+2015,12,Cattaraugus,7th-9th,21
+2015,12,Genesee,PNC Unknown,16
+2015,12,Orleans,1st-3rd,356
+2015,12,Franklin,PNC Start Unk,12
+2015,12,Ulster,None,7
+2015,12,Yates,Total,321
+2015,12,Niagara,7th-9th,123
+2015,12,Genesee,Total,565
+2015,12,Broome,PNC Start Unk,11
+2015,12,Hamilton,1st-3rd,22
+2015,12,Tompkins,1st-3rd,613
+2015,12,Schuyler,None,0
+2015,12,Schuyler,4th-6th,32
+2015,12,New York,Total,17775
+2015,12,Kings,None,132
+2015,12,Suffolk,None,108
+2015,12,Chemung,None,7
+2015,12,Chautauqua,PNC Unknown,33
+2015,12,Orange,7th-9th,159
+2015,12,Chenango,None,2
+2015,12,Sullivan,PNC Start Unk,3
+2015,12,Tompkins,4th-6th,161
+2015,12,Madison,4th-6th,88
+2015,12,Albany,1st-3rd,2462
+2015,12,Onondaga,None,46
+2015,12,Chautauqua,None,16
+2015,12,Broome,None,13
+2015,12,Oswego,Total,1199
+2015,12,Suffolk,Total,15808
+2015,12,Oswego,None,14
+2015,12,Chenango,1st-3rd,341
+2015,12,Dutchess,PNC Start Unk,135
+2015,12,Genesee,PNC Start Unk,1
+2015,12,Erie,None,74
+2015,12,Greene,1st-3rd,279
+2015,12,Putnam,None,3
+2015,12,Rensselaer,Total,1617
+2015,12,Saratoga,PNC Start Unk,9
+2015,12,Bronx,4th-6th,6013
+2015,12,Albany,PNC Unknown,54
+2015,12,Otsego,PNC Unknown,10
+2015,12,Chemung,4th-6th,153
+2015,12,Greene,4th-6th,76
+2015,12,Franklin,1st-3rd,321
+2015,12,Sullivan,4th-6th,217
+2015,12,Schoharie,PNC Unknown,1
+2015,12,Rest of State,Total,119924
+2015,12,Tioga,PNC Unknown,2
+2015,12,Essex,7th-9th,12
+2015,12,Orleans,None,2
+2015,12,Orleans,PNC Start Unk,0
+2015,12,Dutchess,7th-9th,60
+2015,12,Chautauqua,PNC Start Unk,13
+2015,12,Montgomery,1st-3rd,442
+2015,12,St Lawrence,Total,1181
+2015,12,Erie,Total,10162
+2015,12,Seneca,4th-6th,99
+2015,12,New York State,Total,235964
+2015,12,Madison,Total,652
+2015,12,Schenectady,PNC Start Unk,2
+2015,12,Suffolk,PNC Unknown,810
+2015,12,Rockland,7th-9th,214
+2015,12,Queens,1st-3rd,22558
+2015,12,Chenango,4th-6th,124
+2015,12,Franklin,Total,491
+2015,12,Orange,None,16
+2015,12,Onondaga,7th-9th,141
+2015,12,Montgomery,PNC Start Unk,3
+2015,12,Westchester,PNC Start Unk,1520
+2015,12,Greene,Total,378
+2015,12,New York State,4th-6th,41215
+2015,12,Greene,7th-9th,17
+2015,12,Essex,4th-6th,71
+2015,12,Seneca,7th-9th,28
+2015,12,Ontario,1st-3rd,808
+2015,12,Hamilton,7th-9th,2
+2015,12,Broome,4th-6th,403
+2015,12,Orange,PNC Unknown,136
+2015,12,New York City,1st-3rd,84652
+2015,12,Rensselaer,1st-3rd,1288
+2015,12,Hamilton,PNC Start Unk,0
+2015,12,Schenectady,7th-9th,68
+2015,12,Bronx,PNC Start Unk,164
+2015,12,Wyoming,7th-9th,7
+2015,12,Seneca,None,0
+2015,12,Fulton,Total,522
+2015,12,Cayuga,4th-6th,90
+2015,12,Fulton,PNC Start Unk,0
+2015,12,Franklin,7th-9th,23
+2015,12,New York City,PNC Unknown,1381
+2015,12,Wayne,PNC Start Unk,1
+2015,12,Yates,4th-6th,138
+2015,12,Sullivan,7th-9th,37
+2015,12,Rensselaer,PNC Start Unk,4
+2015,12,Albany,None,27
+2015,12,Tompkins,Total,812
+2015,12,Niagara,PNC Unknown,72
+2015,12,Madison,7th-9th,22
+2015,12,Jefferson,1st-3rd,1624
+2015,12,Cayuga,1st-3rd,606
+2015,12,Otsego,4th-6th,93
+2015,12,Columbia,7th-9th,20
+2015,12,Oneida,1st-3rd,1868
+2015,12,Saratoga,Total,2174
+2015,12,Yates,PNC Start Unk,2
+2015,12,Essex,None,0
+2015,12,Herkimer,None,3
+2015,12,Oneida,None,9
+2015,12,Orange,Total,4792
+2015,12,Wyoming,None,0
+2015,12,Yates,7th-9th,19
+2015,12,Clinton,Total,768
+2015,12,Erie,7th-9th,395
+2015,12,Westchester,7th-9th,347
+2015,12,Chemung,1st-3rd,759
+2015,12,Oswego,7th-9th,31
+2015,12,Columbia,PNC Start Unk,16
+2015,12,Queens,PNC Unknown,357
+2015,12,Wyoming,PNC Start Unk,3
+2015,12,Tompkins,7th-9th,24
+2015,12,Chemung,7th-9th,30
+2015,12,Jefferson,None,6
+2015,12,Wyoming,4th-6th,53
+2015,12,Albany,PNC Start Unk,4
+2015,12,Allegany,1st-3rd,355
+2015,12,Chenango,7th-9th,21
+2015,12,Fulton,PNC Unknown,2
+2015,12,Livingston,7th-9th,19
+2015,12,Madison,PNC Start Unk,1
+2015,12,Chautauqua,7th-9th,65
+2015,12,Monroe,1st-3rd,6180
+2015,12,Schenectady,1st-3rd,1407
+2015,12,Schoharie,Total,234
+2015,12,Queens,None,206
+2015,12,Richmond,4th-6th,608
+2015,12,Washington,7th-9th,39
+2015,12,Ulster,1st-3rd,1230
+2015,12,Cortland,PNC Start Unk,4
+2015,12,Rest of State,4th-6th,19925
+2015,12,Tompkins,PNC Start Unk,1
+2015,12,Madison,PNC Unknown,8
+2015,12,Niagara,Total,2149
+2015,12,Onondaga,PNC Unknown,5
+2015,12,Queens,7th-9th,1976
+2015,12,New York State,7th-9th,11292
+2015,12,Greene,None,3
+2015,12,Hamilton,4th-6th,7
+2015,12,Cattaraugus,1st-3rd,608
+2015,12,Montgomery,4th-6th,113
+2015,12,Bronx,PNC Unknown,408
+2015,12,Monroe,Total,8174
+2015,12,Cayuga,PNC Start Unk,3
+2015,12,Yates,PNC Unknown,2
+2015,12,Seneca,PNC Start Unk,1
+2015,12,Ontario,PNC Start Unk,0
+2015,12,Onondaga,1st-3rd,4169
+2015,12,Hamilton,PNC Unknown,0
+2015,12,Steuben,1st-3rd,754
+2015,12,Niagara,PNC Start Unk,4
+2015,12,Steuben,PNC Unknown,6
+2015,12,Madison,1st-3rd,532
+2015,12,Hamilton,Total,31
+2015,12,Westchester,None,32
+2015,12,Otsego,None,8
+2015,12,Rockland,None,9
+2015,12,Oswego,PNC Unknown,10
+2015,12,Columbia,None,4
+2015,12,Washington,None,2
+2015,12,Washington,PNC Start Unk,3
+2015,12,Erie,4th-6th,2120
+2015,12,Herkimer,1st-3rd,443
+2015,12,Herkimer,4th-6th,122
+2015,12,Rensselaer,7th-9th,43
+2015,12,Broome,7th-9th,77
+2015,12,Bronx,1st-3rd,12365
+2015,12,Allegany,PNC Unknown,14
+2015,12,Cattaraugus,PNC Start Unk,9
+2015,12,Richmond,1st-3rd,4527
+2015,12,Columbia,Total,523
+2015,12,Schuyler,PNC Unknown,0
+2015,12,Wayne,4th-6th,252
+2015,12,Nassau,4th-6th,1533
+2015,12,Columbia,1st-3rd,372
+2015,12,Cortland,1st-3rd,351
+2015,12,Nassau,PNC Unknown,76
+2015,12,Sullivan,None,6
+2015,12,Chautauqua,1st-3rd,975
+2015,12,Washington,Total,584
+2015,12,Albany,7th-9th,109
+2015,12,Broome,1st-3rd,1462
+2015,12,Saratoga,1st-3rd,1701
+2015,12,Clinton,PNC Unknown,2
+2015,12,Cortland,Total,464
+2015,12,Schenectady,Total,1766
+2015,12,Otsego,PNC Start Unk,1
+2015,12,Bronx,None,131
+2015,12,Oneida,7th-9th,93
+2015,12,Livingston,Total,515
+2015,12,Jefferson,4th-6th,383
+2015,12,Schuyler,PNC Start Unk,3
+2015,12,Lewis,PNC Unknown,5
+2015,12,Delaware,1st-3rd,279
+2015,12,Warren,1st-3rd,387
+2015,12,Saratoga,None,11
+2015,12,Cayuga,None,3
+2015,12,Chenango,PNC Unknown,3
+2015,12,Fulton,4th-6th,65
+2015,12,Hamilton,None,0
+2015,12,Rensselaer,PNC Unknown,17
+2015,12,Cayuga,7th-9th,12
+2015,12,Nassau,Total,14272
+2015,12,Broome,Total,1972
+2015,12,Chenango,PNC Start Unk,1
+2015,12,Bronx,7th-9th,2049
+2015,12,Albany,Total,3161
+2015,12,Steuben,4th-6th,234
+2015,12,Cattaraugus,4th-6th,148
+2015,12,Tompkins,PNC Unknown,5
+2015,12,Ulster,4th-6th,244
+2015,12,Albany,4th-6th,505
+2015,12,Fulton,7th-9th,10
+2015,12,Westchester,PNC Unknown,391
+2015,12,Chautauqua,Total,1439
+2015,12,Delaware,PNC Unknown,1
+2015,12,Greene,PNC Unknown,3
+2015,12,Oswego,PNC Start Unk,5
+2015,12,Sullivan,Total,792
+2015,12,Warren,4th-6th,114
+2015,12,Greene,PNC Start Unk,0
+2015,12,Franklin,4th-6th,131
+2015,12,Wyoming,1st-3rd,298
+2015,12,Essex,1st-3rd,239
+2015,12,Dutchess,PNC Unknown,14
+2015,12,Kings,Total,41514
+2015,12,Onondaga,4th-6th,893
+2015,12,Delaware,PNC Start Unk,2
+2015,12,Franklin,None,1
+2015,12,Cayuga,PNC Unknown,2
+2015,12,Rockland,PNC Start Unk,130
+2015,12,New York City,7th-9th,7319
+2015,12,Warren,PNC Start Unk,3
+2015,12,Clinton,1st-3rd,634
+2015,12,Oneida,4th-6th,541
+2015,12,Rensselaer,None,19
+2015,12,Tioga,7th-9th,12
+2015,12,Rockland,1st-3rd,3372
+2015,12,New York,4th-6th,2518
+2015,12,New York,7th-9th,804
+2015,12,Suffolk,7th-9th,465
+2015,12,New York,1st-3rd,14023
+2015,12,Delaware,None,1
+2015,12,Allegany,4th-6th,80
+2015,12,Washington,PNC Unknown,15
+2015,12,Wayne,Total,968
+2015,12,Clinton,4th-6th,101
+2015,12,Lewis,Total,324
+2015,12,Queens,PNC Start Unk,83
+2015,12,Cortland,4th-6th,81
+2015,12,Clinton,PNC Start Unk,14
+2015,12,Tioga,PNC Start Unk,109
+2015,12,Westchester,4th-6th,1534
+2015,12,Chemung,PNC Unknown,1
+2015,12,Dutchess,1st-3rd,2077
+2015,12,Otsego,7th-9th,26
+2015,12,Rest of State,None,645
+2015,12,Fulton,1st-3rd,444
+2015,12,Seneca,1st-3rd,230
+2015,12,Lewis,PNC Start Unk,2
+2015,12,Tioga,1st-3rd,276
+2015,12,Schenectady,None,14
+2015,12,Westchester,1st-3rd,6815
+2015,12,Putnam,PNC Start Unk,38
+2015,12,Niagara,None,7
+2015,12,Genesee,4th-6th,66
+2015,12,Schoharie,None,0
+2015,12,New York City,None,529
+2015,12,Kings,PNC Unknown,402
+2015,12,Herkimer,PNC Unknown,6
+2015,12,Jefferson,PNC Start Unk,9
+2015,12,Tompkins,None,8
+2015,12,Lewis,4th-6th,53
+2015,12,Montgomery,Total,643
+2015,12,Genesee,1st-3rd,469
+2015,12,Schoharie,7th-9th,9
+2015,12,Otsego,1st-3rd,392
+2015,12,Rensselaer,4th-6th,246
+2015,12,Niagara,1st-3rd,1460
+2015,12,Suffolk,1st-3rd,12126
+2015,12,Sullivan,1st-3rd,526
+2015,12,Montgomery,None,7
+2015,12,New York State,PNC Unknown,4687
+2015,12,St Lawrence,7th-9th,35
+2015,12,Wyoming,Total,368
+2015,12,Rockland,PNC Unknown,266
+2015,12,Ulster,PNC Unknown,19
+2015,12,Niagara,4th-6th,483
+2015,12,Warren,None,0
+2015,12,Richmond,None,14
+2015,12,Chemung,PNC Start Unk,32
+2015,12,Herkimer,PNC Start Unk,1
+2015,12,Cortland,PNC Unknown,17
+2015,12,Wayne,PNC Unknown,34
+2015,12,St Lawrence,PNC Start Unk,16
+2015,12,Cortland,None,0
+2015,12,Nassau,None,42
+2015,12,Columbia,PNC Unknown,1
+2015,12,Richmond,PNC Start Unk,7
+2015,12,Orleans,7th-9th,14
+2015,12,Columbia,4th-6th,110
+2016,12,Montgomery,4th-6th,121
+2016,12,Tompkins,7th-9th,25
+2016,12,Montgomery,PNC Unknown,6
+2016,12,Wyoming,None,2
+2016,12,Oswego,Total,1329
+2016,12,New York,1st-3rd,13569
+2016,12,Madison,Total,630
+2016,12,Westchester,7th-9th,370
+2016,12,Hamilton,PNC Unknown,0
+2016,12,Niagara,Total,2144
+2016,12,Oswego,None,14
+2016,12,Suffolk,PNC Start Unk,103
+2016,12,Franklin,Total,475
+2016,12,Tioga,PNC Unknown,2
+2016,12,Broome,PNC Unknown,4
+2016,12,Sullivan,7th-9th,52
+2016,12,Orleans,None,2
+2016,12,Cortland,Total,507
+2016,12,Madison,PNC Unknown,11
+2016,12,Delaware,PNC Start Unk,1
+2016,12,Ulster,None,6
+2016,12,Suffolk,7th-9th,546
+2016,12,Tioga,PNC Start Unk,3
+2016,12,Queens,PNC Start Unk,61
+2016,12,Nassau,PNC Start Unk,152
+2016,12,Schoharie,PNC Start Unk,0
+2016,12,Oneida,1st-3rd,1881
+2016,12,Nassau,Total,14277
+2016,12,Cortland,4th-6th,66
+2016,12,Montgomery,Total,573
+2016,12,Essex,PNC Unknown,1
+2016,12,Greene,PNC Unknown,8
+2016,12,Chemung,Total,934
+2016,12,Fulton,7th-9th,25
+2016,12,Madison,1st-3rd,527
+2016,12,Allegany,PNC Start Unk,2
+2016,12,Chenango,1st-3rd,389
+2016,12,Lewis,7th-9th,17
+2016,12,Queens,None,154
+2016,12,Kings,None,124
+2016,12,Niagara,1st-3rd,1332
+2016,12,Hamilton,7th-9th,3
+2016,12,Steuben,PNC Start Unk,4
+2016,12,Schenectady,None,18
+2016,12,Cattaraugus,PNC Start Unk,4
+2016,12,Suffolk,1st-3rd,11977
+2016,12,Chenango,PNC Start Unk,0
+2016,12,Orange,PNC Unknown,144
+2016,12,Niagara,4th-6th,554
+2016,12,Onondaga,None,31
+2016,12,Bronx,1st-3rd,12506
+2016,12,Tioga,7th-9th,17
+2016,12,Schenectady,PNC Start Unk,6
+2016,12,Montgomery,1st-3rd,370
+2016,12,Jefferson,4th-6th,245
+2016,12,Erie,1st-3rd,6980
+2016,12,Onondaga,PNC Unknown,3
+2016,12,Oneida,PNC Unknown,10
+2016,12,Ulster,1st-3rd,1116
+2016,12,Washington,1st-3rd,373
+2016,12,Wyoming,1st-3rd,306
+2016,12,Otsego,Total,493
+2016,12,Delaware,1st-3rd,253
+2016,12,Yates,1st-3rd,164
+2016,12,Rockland,7th-9th,201
+2016,12,Seneca,1st-3rd,226
+2016,12,Suffolk,Total,15539
+2016,12,Steuben,1st-3rd,745
+2016,12,Ontario,1st-3rd,790
+2016,12,Albany,1st-3rd,2326
+2016,12,St Lawrence,4th-6th,204
+2016,12,Tompkins,4th-6th,126
+2016,12,Suffolk,None,128
+2016,12,Hamilton,PNC Start Unk,0
+2016,12,Bronx,PNC Unknown,358
+2016,12,Onondaga,PNC Start Unk,12
+2016,12,Herkimer,4th-6th,130
+2016,12,Essex,Total,265
+2016,12,Oneida,4th-6th,476
+2016,12,Jefferson,None,9
+2016,12,Niagara,None,19
+2016,12,New York State,7th-9th,11699
+2016,12,Yates,PNC Start Unk,1
+2016,12,Fulton,None,3
+2016,12,Dutchess,1st-3rd,2109
+2016,12,Cattaraugus,7th-9th,33
+2016,12,Schenectady,PNC Unknown,17
+2016,12,Westchester,PNC Unknown,295
+2016,12,Kings,1st-3rd,30845
+2016,12,Orange,None,20
+2016,12,Chemung,1st-3rd,771
+2016,12,Chenango,PNC Unknown,5
+2016,12,Putnam,None,6
+2016,12,Kings,PNC Unknown,557
+2016,12,Steuben,None,11
+2016,12,Monroe,1st-3rd,6229
+2016,12,Dutchess,Total,2502
+2016,12,St Lawrence,1st-3rd,762
+2016,12,Rensselaer,None,13
+2016,12,Oneida,Total,2503
+2016,12,Delaware,7th-9th,11
+2016,12,Genesee,4th-6th,81
+2016,12,Erie,PNC Start Unk,34
+2016,12,Steuben,PNC Unknown,7
+2016,12,Ontario,None,1
+2016,12,Yates,PNC Unknown,4
+2016,12,Columbia,1st-3rd,364
+2016,12,Albany,7th-9th,150
+2016,12,Broome,None,10
+2016,12,Rockland,PNC Unknown,105
+2016,12,Monroe,PNC Start Unk,16
+2016,12,St Lawrence,7th-9th,41
+2016,12,Tompkins,1st-3rd,634
+2016,12,Clinton,1st-3rd,603
+2016,12,Livingston,Total,527
+2016,12,Cayuga,PNC Start Unk,0
+2016,12,Chautauqua,None,16
+2016,12,Schuyler,7th-9th,3
+2016,12,Genesee,None,3
+2016,12,Columbia,Total,510
+2016,12,St Lawrence,Total,1092
+2016,12,Schoharie,1st-3rd,200
+2016,12,Washington,Total,542
+2016,12,Richmond,PNC Start Unk,12
+2016,12,Sullivan,Total,859
+2016,12,Cattaraugus,4th-6th,136
+2016,12,Chenango,None,5
+2016,12,Rockland,Total,5205
+2016,12,New York State,PNC Unknown,4567
+2016,12,Onondaga,1st-3rd,4171
+2016,12,Putnam,PNC Start Unk,2
+2016,12,Hamilton,4th-6th,4
+2016,12,Rockland,PNC Start Unk,35
+2016,12,Essex,1st-3rd,180
+2016,12,Schenectady,4th-6th,279
+2016,12,Wayne,Total,917
+2016,12,Schuyler,PNC Unknown,0
+2016,12,Rest of State,PNC Unknown,2954
+2016,12,New York City,4th-6th,20706
+2016,12,Broome,PNC Start Unk,11
+2016,12,Cayuga,None,4
+2016,12,Genesee,PNC Start Unk,1
+2016,12,Nassau,None,43
+2016,12,Schoharie,4th-6th,33
+2016,12,Livingston,4th-6th,85
+2016,12,Schuyler,None,1
+2016,12,Chenango,4th-6th,111
+2016,12,Chautauqua,PNC Start Unk,6
+2016,12,Sullivan,PNC Start Unk,1
+2016,12,Greene,None,0
+2016,12,Dutchess,7th-9th,79
+2016,12,Cortland,PNC Unknown,16
+2016,12,Schoharie,PNC Unknown,2
+2016,12,Chautauqua,1st-3rd,926
+2016,12,Erie,PNC Unknown,533
+2016,12,Seneca,PNC Start Unk,0
+2016,12,Cayuga,PNC Unknown,2
+2016,12,Wayne,PNC Start Unk,2
+2016,12,Tompkins,None,3
+2016,12,Albany,None,21
+2016,12,Saratoga,PNC Start Unk,11
+2016,12,Lewis,PNC Unknown,1
+2016,12,Richmond,7th-9th,129
+2016,12,Warren,Total,572
+2016,12,Livingston,7th-9th,21
+2016,12,Jefferson,PNC Unknown,16
+2016,12,Monroe,4th-6th,1030
+2016,12,Warren,None,1
+2016,12,Montgomery,PNC Start Unk,3
+2016,12,Westchester,1st-3rd,7963
+2016,12,Yates,7th-9th,16
+2016,12,Ulster,4th-6th,308
+2016,12,Livingston,None,1
+2016,12,Orange,Total,4916
+2016,12,Fulton,PNC Unknown,1
+2016,12,Ulster,7th-9th,43
+2016,12,Cortland,1st-3rd,409
+2016,12,New York,None,45
+2016,12,Rensselaer,4th-6th,273
+2016,12,Rest of State,7th-9th,4301
+2016,12,New York,4th-6th,2391
+2016,12,Monroe,PNC Unknown,472
+2016,12,Chemung,7th-9th,21
+2016,12,Erie,4th-6th,1873
+2016,12,Schenectady,7th-9th,79
+2016,12,Franklin,PNC Start Unk,4
+2016,12,Saratoga,PNC Unknown,12
+2016,12,Allegany,PNC Unknown,14
+2016,12,Chenango,Total,523
+2016,12,Otsego,4th-6th,96
+2016,12,Albany,4th-6th,558
+2016,12,Erie,None,91
+2016,12,Saratoga,None,5
+2016,12,Clinton,PNC Start Unk,6
+2016,12,Wyoming,PNC Start Unk,3
+2016,12,Tompkins,PNC Start Unk,4
+2016,12,Orange,7th-9th,188
+2016,12,Columbia,7th-9th,18
+2016,12,Onondaga,Total,5239
+2016,12,Bronx,None,125
+2016,12,Herkimer,Total,634
+2016,12,Chenango,7th-9th,13
+2016,12,Livingston,1st-3rd,392
+2016,12,Wyoming,4th-6th,61
+2016,12,Sullivan,1st-3rd,577
+2016,12,Cortland,None,4
+2016,12,Franklin,4th-6th,109
+2016,12,Warren,4th-6th,92
+2016,12,New York State,1st-3rd,174289
+2016,12,Queens,PNC Unknown,471
+2016,12,Wyoming,7th-9th,16
+2016,12,Rensselaer,1st-3rd,1325
+2016,12,Bronx,4th-6th,5703
+2016,12,Greene,PNC Start Unk,2
+2016,12,Washington,7th-9th,38
+2016,12,Nassau,PNC Unknown,123
+2016,12,New York City,None,469
+2016,12,Schuyler,1st-3rd,122
+2016,12,New York City,PNC Unknown,1613
+2016,12,Franklin,None,1
+2016,12,New York City,PNC Start Unk,340
+2016,12,Onondaga,4th-6th,884
+2016,12,Madison,PNC Start Unk,2
+2016,12,Tompkins,Total,793
+2016,12,Steuben,Total,1020
+2016,12,Washington,None,5
+2016,12,Washington,PNC Unknown,11
+2016,12,Saratoga,7th-9th,69
+2016,12,Chemung,4th-6th,128
+2016,12,Bronx,PNC Start Unk,92
+2016,12,Seneca,Total,352
+2016,12,Saratoga,1st-3rd,1776
+2016,12,Cattaraugus,PNC Unknown,94
+2016,12,Onondaga,7th-9th,138
+2016,12,Lewis,PNC Start Unk,2
+2016,12,Clinton,None,21
+2016,12,New York City,1st-3rd,83874
+2016,12,Tioga,1st-3rd,377
+2016,12,Essex,4th-6th,60
+2016,12,Oneida,7th-9th,111
+2016,12,New York State,PNC Start Unk,955
+2016,12,Washington,PNC Start Unk,7
+2016,12,Ulster,PNC Unknown,15
+2016,12,Yates,Total,308
+2016,12,Tioga,4th-6th,74
+2016,12,Essex,7th-9th,16
+2016,12,Livingston,PNC Unknown,23
+2016,12,Warren,1st-3rd,419
+2016,12,Cattaraugus,Total,851
+2016,12,Orleans,7th-9th,11
+2016,12,Livingston,PNC Start Unk,5
+2016,12,Otsego,PNC Unknown,4
+2016,12,Saratoga,Total,2211
+2016,12,Seneca,PNC Unknown,4
+2016,12,Rockland,None,13
+2016,12,Wayne,7th-9th,37
+2016,12,Greene,4th-6th,66
+2016,12,Madison,4th-6th,74
+2016,12,Putnam,4th-6th,113
+2016,12,Monroe,7th-9th,215
+2016,12,Suffolk,PNC Unknown,563
+2016,12,Cortland,7th-9th,12
+2016,12,Franklin,7th-9th,24
+2016,12,Schuyler,Total,167
+2016,12,Richmond,4th-6th,603
+2016,12,Putnam,7th-9th,16
+2016,12,Dutchess,None,4
+2016,12,Ontario,Total,988
+2016,12,New York,PNC Start Unk,50
+2016,12,Albany,PNC Start Unk,13
+2016,12,Lewis,1st-3rd,250
+2016,12,Orange,4th-6th,965
+2016,12,Schoharie,7th-9th,5
+2016,12,Albany,Total,3132
+2016,12,Oneida,None,19
+2016,12,Rockland,1st-3rd,3784
+2016,12,Niagara,PNC Start Unk,9
+2016,12,Clinton,4th-6th,94
+2016,12,Wyoming,PNC Unknown,10
+2016,12,New York,Total,17052
+2016,12,Schenectady,1st-3rd,1298
+2016,12,Seneca,7th-9th,22
+2016,12,Herkimer,1st-3rd,476
+2016,12,Richmond,PNC Unknown,17
+2016,12,Erie,7th-9th,374
+2016,12,Monroe,None,34
+2016,12,Greene,Total,369
+2016,12,Dutchess,PNC Start Unk,7
+2016,12,Cattaraugus,1st-3rd,582
+2016,12,Westchester,Total,10273
+2016,12,Herkimer,7th-9th,17
+2016,12,Queens,Total,30292
+2016,12,Steuben,7th-9th,53
+2016,12,Queens,1st-3rd,22313
+2016,12,Ontario,PNC Unknown,31
+2016,12,Hamilton,Total,21
+2016,12,Orleans,Total,405
+2016,12,Herkimer,PNC Start Unk,2
+2016,12,New York City,7th-9th,7398
+2016,12,Fulton,4th-6th,90
+2016,12,Schuyler,4th-6th,41
+2016,12,Warren,7th-9th,50
+2016,12,Bronx,7th-9th,2047
+2016,12,Wayne,4th-6th,218
+2016,12,Lewis,Total,323
+2016,12,Dutchess,4th-6th,287
+2016,12,Genesee,1st-3rd,455
+2016,12,Allegany,4th-6th,74
+2016,12,Broome,7th-9th,101
+2016,12,Rockland,4th-6th,1067
+2016,12,Sullivan,4th-6th,219
+2016,12,Queens,7th-9th,2112
+2016,12,Kings,4th-6th,6828
+2016,12,Orleans,PNC Unknown,9
+2016,12,New York State,4th-6th,39963
+2016,12,Sullivan,None,6
+2016,12,Seneca,None,1
+2016,12,Broome,1st-3rd,1425
+2016,12,Clinton,Total,743
+2016,12,Columbia,PNC Start Unk,3
+2016,12,Queens,4th-6th,5181
+2016,12,Putnam,Total,817
+2016,12,Sullivan,PNC Unknown,4
+2016,12,Columbia,None,1
+2016,12,Jefferson,1st-3rd,1564
+2016,12,Chemung,PNC Start Unk,3
+2016,12,Tioga,Total,473
+2016,12,Jefferson,Total,1887
+2016,12,Allegany,1st-3rd,354
+2016,12,Hamilton,1st-3rd,14
+2016,12,Oswego,7th-9th,27
+2016,12,Schoharie,None,0
+2016,12,Allegany,7th-9th,48
+2016,12,Montgomery,7th-9th,66
+2016,12,Delaware,4th-6th,71
+2016,12,Schenectady,Total,1697
+2016,12,Rest of State,1st-3rd,90415
+2016,12,Otsego,PNC Start Unk,2
+2016,12,Essex,PNC Start Unk,2
+2016,12,Genesee,PNC Unknown,14
+2016,12,Kings,PNC Start Unk,125
+2016,12,Madison,7th-9th,11
+2016,12,Madison,None,5
+2016,12,Schuyler,PNC Start Unk,0
+2016,12,Otsego,7th-9th,19
+2016,12,Chemung,PNC Unknown,4
+2016,12,St Lawrence,PNC Start Unk,23
+2016,12,Cayuga,1st-3rd,599
+2016,12,New York,PNC Unknown,210
+2016,12,Oswego,PNC Unknown,16
+2016,12,Chautauqua,7th-9th,63
+2016,12,Franklin,1st-3rd,328
+2016,12,Orleans,4th-6th,57
+2016,12,Jefferson,7th-9th,44
+2016,12,Oswego,4th-6th,231
+2016,12,Cayuga,7th-9th,16
+2016,12,Ulster,PNC Start Unk,11
+2016,12,Niagara,PNC Unknown,89
+2016,12,Wayne,None,7
+2016,12,Chautauqua,Total,1325
+2016,12,Cortland,PNC Start Unk,0
+2016,12,Chautauqua,PNC Unknown,54
+2016,12,Wyoming,Total,398
+2016,12,Kings,7th-9th,2323
+2016,12,Ontario,4th-6th,137
+2016,12,Cayuga,4th-6th,158
+2016,12,Cattaraugus,None,2
+2016,12,Rensselaer,PNC Unknown,16
+2016,12,Ontario,PNC Start Unk,4
+2016,12,Saratoga,4th-6th,338
+2016,12,Ontario,7th-9th,25
+2016,12,Broome,4th-6th,432
+2016,12,Otsego,None,8
+2016,12,Westchester,4th-6th,1568
+2016,12,Delaware,Total,342
+2016,12,Putnam,PNC Unknown,2
+2016,12,Rest of State,Total,118263
+2016,12,Ulster,Total,1499
+2016,12,Putnam,1st-3rd,678
+2016,12,Tioga,None,0
+2016,12,St Lawrence,None,22
+2016,12,Rest of State,4th-6th,19257
+2016,12,Westchester,None,41
+2016,12,Nassau,4th-6th,1577
+2016,12,Fulton,1st-3rd,386
+2016,12,Chautauqua,4th-6th,260
+2016,12,Westchester,PNC Start Unk,36
+2016,12,New York State,Total,232663
+2016,12,Richmond,Total,5423
+2016,12,Wayne,1st-3rd,622
+2016,12,Nassau,7th-9th,432
+2016,12,Monroe,Total,7996
+2016,12,Rest of State,None,721
+2016,12,Columbia,4th-6th,121
+2016,12,Montgomery,None,7
+2016,12,Franklin,PNC Unknown,9
+2016,12,Herkimer,PNC Unknown,2
+2016,12,Albany,PNC Unknown,64
+2016,12,Clinton,PNC Unknown,1
+2016,12,Nassau,1st-3rd,11950
+2016,12,Oswego,PNC Start Unk,5
+2016,12,St Lawrence,PNC Unknown,40
+2016,12,Orange,PNC Start Unk,15
+2016,12,Warren,PNC Start Unk,4
+2016,12,Allegany,Total,500
+2016,12,Orleans,PNC Start Unk,3
+2016,12,Delaware,PNC Unknown,4
+2016,12,Lewis,4th-6th,51
+2016,12,Greene,1st-3rd,279
+2016,12,Bronx,Total,20831
+2016,12,Rensselaer,Total,1695
+2016,12,Richmond,None,21
+2016,12,Greene,7th-9th,14
+2016,12,Erie,Total,9885
+2016,12,Essex,None,6
+2016,12,Genesee,7th-9th,23
+2016,12,Cayuga,Total,779
+2016,12,Rest of State,PNC Start Unk,615
+2016,12,Yates,None,1
+2016,12,New York,7th-9th,787
+2016,12,Herkimer,None,7
+2016,12,Genesee,Total,577
+2016,12,Orleans,1st-3rd,323
+2016,12,Richmond,1st-3rd,4641
+2016,12,Washington,4th-6th,108
+2016,12,Tompkins,PNC Unknown,1
+2016,12,Orange,1st-3rd,3584
+2016,12,Fulton,Total,507
+2016,12,Oswego,1st-3rd,1036
+2016,12,Columbia,PNC Unknown,3
+2016,12,Kings,Total,40802
+2016,12,Delaware,None,2
+2016,12,Steuben,4th-6th,200
+2016,12,Schoharie,Total,240
+2016,12,Wayne,PNC Unknown,31
+2016,12,Dutchess,PNC Unknown,16
+2016,12,Rensselaer,7th-9th,57
+2016,12,Fulton,PNC Start Unk,2
+2016,12,Yates,4th-6th,122
+2016,12,Chemung,None,7
+2016,12,Allegany,None,8
+2016,12,Seneca,4th-6th,99
+2016,12,Clinton,7th-9th,18
+2016,12,New York State,None,1190
+2016,12,Otsego,1st-3rd,364
+2016,12,Rensselaer,PNC Start Unk,11
+2016,12,Warren,PNC Unknown,6
+2016,12,Oneida,PNC Start Unk,6
+2016,12,Hamilton,None,0
+2016,12,Suffolk,4th-6th,2222
+2016,12,Jefferson,PNC Start Unk,9
+2016,12,New York City,Total,114400
+2016,12,Lewis,None,2
+2016,12,Broome,Total,1983
+2016,12,Niagara,7th-9th,141
+2017,12,New York State,Total,228501
+2017,12,New York State,1st-3rd,170476
+2017,12,New York State,4th-6th,39934
+2017,12,New York State,7th-9th,11261
+2017,12,New York State,None,753
+2017,12,New York State,PNC Start Unk,1128
+2017,12,New York State,PNC Unknown,4949
+2017,12,New York City,Total,110682
+2017,12,New York City,1st-3rd,81116
+2017,12,New York City,4th-6th,19824
+2017,12,New York City,7th-9th,6896
+2017,12,New York City,None,14
+2017,12,New York City,PNC Start Unk,880
+2017,12,New York City,PNC Unknown,1952
+2017,12,Bronx,Total,20246
+2017,12,Bronx,1st-3rd,11617
+2017,12,Bronx,4th-6th,5844
+2017,12,Bronx,7th-9th,2050
+2017,12,Bronx,None,3
+2017,12,Bronx,PNC Start Unk,331
+2017,12,Bronx,PNC Unknown,401
+2017,12,Kings,Total,39068
+2017,12,Kings,1st-3rd,29412
+2017,12,Kings,4th-6th,6588
+2017,12,Kings,7th-9th,2086
+2017,12,Kings,None,3
+2017,12,Kings,PNC Start Unk,190
+2017,12,Kings,PNC Unknown,789
+2017,12,New York,Total,17142
+2017,12,New York,1st-3rd,13929
+2017,12,New York,4th-6th,2050
+2017,12,New York,7th-9th,733
+2017,12,New York,None,0
+2017,12,New York,PNC Start Unk,123
+2017,12,New York,PNC Unknown,307
+2017,12,Queens,Total,28872
+2017,12,Queens,1st-3rd,21476
+2017,12,Queens,4th-6th,4820
+2017,12,Queens,7th-9th,1926
+2017,12,Queens,None,8
+2017,12,Queens,PNC Start Unk,209
+2017,12,Queens,PNC Unknown,433
+2017,12,Richmond,Total,5354
+2017,12,Richmond,1st-3rd,4682
+2017,12,Richmond,4th-6th,522
+2017,12,Richmond,7th-9th,101
+2017,12,Richmond,None,0
+2017,12,Richmond,PNC Start Unk,27
+2017,12,Richmond,PNC Unknown,22
+2017,12,Rest of State,Total,117819
+2017,12,Rest of State,1st-3rd,89360
+2017,12,Rest of State,4th-6th,20110
+2017,12,Rest of State,7th-9th,4365
+2017,12,Rest of State,None,739
+2017,12,Rest of State,PNC Start Unk,248
+2017,12,Rest of State,PNC Unknown,2997
+2017,12,Albany,Total,3177
+2017,12,Albany,1st-3rd,2361
+2017,12,Albany,4th-6th,566
+2017,12,Albany,7th-9th,155
+2017,12,Albany,None,31
+2017,12,Albany,PNC Start Unk,6
+2017,12,Albany,PNC Unknown,58
+2017,12,Allegany,Total,486
+2017,12,Allegany,1st-3rd,348
+2017,12,Allegany,4th-6th,76
+2017,12,Allegany,7th-9th,37
+2017,12,Allegany,None,7
+2017,12,Allegany,PNC Start Unk,1
+2017,12,Allegany,PNC Unknown,17
+2017,12,Broome,Total,1976
+2017,12,Broome,1st-3rd,1357
+2017,12,Broome,4th-6th,476
+2017,12,Broome,7th-9th,116
+2017,12,Broome,None,15
+2017,12,Broome,PNC Start Unk,5
+2017,12,Broome,PNC Unknown,7
+2017,12,Cattaraugus,Total,817
+2017,12,Cattaraugus,1st-3rd,523
+2017,12,Cattaraugus,4th-6th,162
+2017,12,Cattaraugus,7th-9th,32
+2017,12,Cattaraugus,None,12
+2017,12,Cattaraugus,PNC Start Unk,2
+2017,12,Cattaraugus,PNC Unknown,86
+2017,12,Cayuga,Total,781
+2017,12,Cayuga,1st-3rd,562
+2017,12,Cayuga,4th-6th,184
+2017,12,Cayuga,7th-9th,26
+2017,12,Cayuga,None,3
+2017,12,Cayuga,PNC Start Unk,1
+2017,12,Cayuga,PNC Unknown,5
+2017,12,Chautauqua,Total,1349
+2017,12,Chautauqua,1st-3rd,898
+2017,12,Chautauqua,4th-6th,312
+2017,12,Chautauqua,7th-9th,70
+2017,12,Chautauqua,None,17
+2017,12,Chautauqua,PNC Start Unk,5
+2017,12,Chautauqua,PNC Unknown,47
+2017,12,Chemung,Total,898
+2017,12,Chemung,1st-3rd,742
+2017,12,Chemung,4th-6th,124
+2017,12,Chemung,7th-9th,24
+2017,12,Chemung,None,3
+2017,12,Chemung,PNC Start Unk,3
+2017,12,Chemung,PNC Unknown,2
+2017,12,Chenango,Total,489
+2017,12,Chenango,1st-3rd,378
+2017,12,Chenango,4th-6th,85
+2017,12,Chenango,7th-9th,16
+2017,12,Chenango,None,2
+2017,12,Chenango,PNC Start Unk,0
+2017,12,Chenango,PNC Unknown,8
+2017,12,Clinton,Total,711
+2017,12,Clinton,1st-3rd,557
+2017,12,Clinton,4th-6th,86
+2017,12,Clinton,7th-9th,19
+2017,12,Clinton,None,45
+2017,12,Clinton,PNC Start Unk,2
+2017,12,Clinton,PNC Unknown,2
+2017,12,Columbia,Total,507
+2017,12,Columbia,1st-3rd,350
+2017,12,Columbia,4th-6th,106
+2017,12,Columbia,7th-9th,30
+2017,12,Columbia,None,7
+2017,12,Columbia,PNC Start Unk,2
+2017,12,Columbia,PNC Unknown,12
+2017,12,Cortland,Total,480
+2017,12,Cortland,1st-3rd,367
+2017,12,Cortland,4th-6th,84
+2017,12,Cortland,7th-9th,11
+2017,12,Cortland,None,1
+2017,12,Cortland,PNC Start Unk,3
+2017,12,Cortland,PNC Unknown,14
+2017,12,Delaware,Total,359
+2017,12,Delaware,1st-3rd,245
+2017,12,Delaware,4th-6th,97
+2017,12,Delaware,7th-9th,13
+2017,12,Delaware,None,2
+2017,12,Delaware,PNC Start Unk,1
+2017,12,Delaware,PNC Unknown,1
+2017,12,Dutchess,Total,2596
+2017,12,Dutchess,1st-3rd,2185
+2017,12,Dutchess,4th-6th,302
+2017,12,Dutchess,7th-9th,80
+2017,12,Dutchess,None,19
+2017,12,Dutchess,PNC Start Unk,4
+2017,12,Dutchess,PNC Unknown,6
+2017,12,Erie,Total,9849
+2017,12,Erie,1st-3rd,7323
+2017,12,Erie,4th-6th,1592
+2017,12,Erie,7th-9th,352
+2017,12,Erie,None,78
+2017,12,Erie,PNC Start Unk,13
+2017,12,Erie,PNC Unknown,491
+2017,12,Essex,Total,283
+2017,12,Essex,1st-3rd,194
+2017,12,Essex,4th-6th,65
+2017,12,Essex,7th-9th,7
+2017,12,Essex,None,12
+2017,12,Essex,PNC Start Unk,1
+2017,12,Essex,PNC Unknown,4
+2017,12,Franklin,Total,440
+2017,12,Franklin,1st-3rd,311
+2017,12,Franklin,4th-6th,85
+2017,12,Franklin,7th-9th,23
+2017,12,Franklin,None,6
+2017,12,Franklin,PNC Start Unk,7
+2017,12,Franklin,PNC Unknown,8
+2017,12,Fulton,Total,538
+2017,12,Fulton,1st-3rd,416
+2017,12,Fulton,4th-6th,101
+2017,12,Fulton,7th-9th,16
+2017,12,Fulton,None,3
+2017,12,Fulton,PNC Start Unk,0
+2017,12,Fulton,PNC Unknown,2
+2017,12,Genesee,Total,551
+2017,12,Genesee,1st-3rd,418
+2017,12,Genesee,4th-6th,81
+2017,12,Genesee,7th-9th,25
+2017,12,Genesee,None,3
+2017,12,Genesee,PNC Start Unk,3
+2017,12,Genesee,PNC Unknown,21
+2017,12,Greene,Total,386
+2017,12,Greene,1st-3rd,277
+2017,12,Greene,4th-6th,85
+2017,12,Greene,7th-9th,16
+2017,12,Greene,None,4
+2017,12,Greene,PNC Start Unk,0
+2017,12,Greene,PNC Unknown,4
+2017,12,Hamilton,Total,27
+2017,12,Hamilton,1st-3rd,16
+2017,12,Hamilton,4th-6th,7
+2017,12,Hamilton,7th-9th,1
+2017,12,Hamilton,None,0
+2017,12,Hamilton,PNC Start Unk,0
+2017,12,Hamilton,PNC Unknown,3
+2017,12,Herkimer,Total,588
+2017,12,Herkimer,1st-3rd,404
+2017,12,Herkimer,4th-6th,147
+2017,12,Herkimer,7th-9th,29
+2017,12,Herkimer,None,5
+2017,12,Herkimer,PNC Start Unk,1
+2017,12,Herkimer,PNC Unknown,2
+2017,12,Jefferson,Total,2005
+2017,12,Jefferson,1st-3rd,1583
+2017,12,Jefferson,4th-6th,355
+2017,12,Jefferson,7th-9th,43
+2017,12,Jefferson,None,6
+2017,12,Jefferson,PNC Start Unk,2
+2017,12,Jefferson,PNC Unknown,16
+2017,12,Lewis,Total,335
+2017,12,Lewis,1st-3rd,263
+2017,12,Lewis,4th-6th,48
+2017,12,Lewis,7th-9th,20
+2017,12,Lewis,None,2
+2017,12,Lewis,PNC Start Unk,0
+2017,12,Lewis,PNC Unknown,2
+2017,12,Livingston,Total,502
+2017,12,Livingston,1st-3rd,382
+2017,12,Livingston,4th-6th,74
+2017,12,Livingston,7th-9th,23
+2017,12,Livingston,None,4
+2017,12,Livingston,PNC Start Unk,1
+2017,12,Livingston,PNC Unknown,18
+2017,12,Madison,Total,672
+2017,12,Madison,1st-3rd,529
+2017,12,Madison,4th-6th,101
+2017,12,Madison,7th-9th,19
+2017,12,Madison,None,4
+2017,12,Madison,PNC Start Unk,0
+2017,12,Madison,PNC Unknown,19
+2017,12,Monroe,Total,7884
+2017,12,Monroe,1st-3rd,5902
+2017,12,Monroe,4th-6th,1254
+2017,12,Monroe,7th-9th,262
+2017,12,Monroe,None,36
+2017,12,Monroe,PNC Start Unk,7
+2017,12,Monroe,PNC Unknown,423
+2017,12,Montgomery,Total,615
+2017,12,Montgomery,1st-3rd,401
+2017,12,Montgomery,4th-6th,131
+2017,12,Montgomery,7th-9th,75
+2017,12,Montgomery,None,5
+2017,12,Montgomery,PNC Start Unk,2
+2017,12,Montgomery,PNC Unknown,1
+2017,12,Nassau,Total,14184
+2017,12,Nassau,1st-3rd,11851
+2017,12,Nassau,4th-6th,1690
+2017,12,Nassau,7th-9th,406
+2017,12,Nassau,None,34
+2017,12,Nassau,PNC Start Unk,30
+2017,12,Nassau,PNC Unknown,173
+2017,12,Niagara,Total,2116
+2017,12,Niagara,1st-3rd,1333
+2017,12,Niagara,4th-6th,581
+2017,12,Niagara,7th-9th,123
+2017,12,Niagara,None,16
+2017,12,Niagara,PNC Start Unk,3
+2017,12,Niagara,PNC Unknown,60
+2017,12,Oneida,Total,2566
+2017,12,Oneida,1st-3rd,1851
+2017,12,Oneida,4th-6th,566
+2017,12,Oneida,7th-9th,117
+2017,12,Oneida,None,22
+2017,12,Oneida,PNC Start Unk,3
+2017,12,Oneida,PNC Unknown,7
+2017,12,Onondaga,Total,5061
+2017,12,Onondaga,1st-3rd,3892
+2017,12,Onondaga,4th-6th,966
+2017,12,Onondaga,7th-9th,159
+2017,12,Onondaga,None,39
+2017,12,Onondaga,PNC Start Unk,1
+2017,12,Onondaga,PNC Unknown,4
+2017,12,Ontario,Total,976
+2017,12,Ontario,1st-3rd,752
+2017,12,Ontario,4th-6th,176
+2017,12,Ontario,7th-9th,30
+2017,12,Ontario,None,3
+2017,12,Ontario,PNC Start Unk,1
+2017,12,Ontario,PNC Unknown,14
+2017,12,Orange,Total,5085
+2017,12,Orange,1st-3rd,3638
+2017,12,Orange,4th-6th,986
+2017,12,Orange,7th-9th,219
+2017,12,Orange,None,25
+2017,12,Orange,PNC Start Unk,24
+2017,12,Orange,PNC Unknown,193
+2017,12,Orleans,Total,411
+2017,12,Orleans,1st-3rd,312
+2017,12,Orleans,4th-6th,64
+2017,12,Orleans,7th-9th,19
+2017,12,Orleans,None,2
+2017,12,Orleans,PNC Start Unk,1
+2017,12,Orleans,PNC Unknown,13
+2017,12,Oswego,Total,1247
+2017,12,Oswego,1st-3rd,895
+2017,12,Oswego,4th-6th,280
+2017,12,Oswego,7th-9th,38
+2017,12,Oswego,None,14
+2017,12,Oswego,PNC Start Unk,0
+2017,12,Oswego,PNC Unknown,20
+2017,12,Otsego,Total,487
+2017,12,Otsego,1st-3rd,350
+2017,12,Otsego,4th-6th,100
+2017,12,Otsego,7th-9th,19
+2017,12,Otsego,None,4
+2017,12,Otsego,PNC Start Unk,0
+2017,12,Otsego,PNC Unknown,14
+2017,12,Putnam,Total,798
+2017,12,Putnam,1st-3rd,698
+2017,12,Putnam,4th-6th,76
+2017,12,Putnam,7th-9th,17
+2017,12,Putnam,None,4
+2017,12,Putnam,PNC Start Unk,1
+2017,12,Putnam,PNC Unknown,2
+2017,12,Rensselaer,Total,1562
+2017,12,Rensselaer,1st-3rd,1219
+2017,12,Rensselaer,4th-6th,260
+2017,12,Rensselaer,7th-9th,43
+2017,12,Rensselaer,None,19
+2017,12,Rensselaer,PNC Start Unk,1
+2017,12,Rensselaer,PNC Unknown,20
+2017,12,Rockland,Total,5474
+2017,12,Rockland,1st-3rd,3780
+2017,12,Rockland,4th-6th,1208
+2017,12,Rockland,7th-9th,188
+2017,12,Rockland,None,11
+2017,12,Rockland,PNC Start Unk,18
+2017,12,Rockland,PNC Unknown,269
+2017,12,St Lawrence,Total,1027
+2017,12,St Lawrence,1st-3rd,741
+2017,12,St Lawrence,4th-6th,163
+2017,12,St Lawrence,7th-9th,41
+2017,12,St Lawrence,None,13
+2017,12,St Lawrence,PNC Start Unk,17
+2017,12,St Lawrence,PNC Unknown,52
+2017,12,Saratoga,Total,2145
+2017,12,Saratoga,1st-3rd,1676
+2017,12,Saratoga,4th-6th,391
+2017,12,Saratoga,7th-9th,48
+2017,12,Saratoga,None,9
+2017,12,Saratoga,PNC Start Unk,2
+2017,12,Saratoga,PNC Unknown,19
+2017,12,Schenectady,Total,1725
+2017,12,Schenectady,1st-3rd,1296
+2017,12,Schenectady,4th-6th,309
+2017,12,Schenectady,7th-9th,87
+2017,12,Schenectady,None,12
+2017,12,Schenectady,PNC Start Unk,2
+2017,12,Schenectady,PNC Unknown,19
+2017,12,Schoharie,Total,245
+2017,12,Schoharie,1st-3rd,191
+2017,12,Schoharie,4th-6th,43
+2017,12,Schoharie,7th-9th,7
+2017,12,Schoharie,None,2
+2017,12,Schoharie,PNC Start Unk,0
+2017,12,Schoharie,PNC Unknown,2
+2017,12,Schuyler,Total,162
+2017,12,Schuyler,1st-3rd,121
+2017,12,Schuyler,4th-6th,35
+2017,12,Schuyler,7th-9th,3
+2017,12,Schuyler,None,1
+2017,12,Schuyler,PNC Start Unk,0
+2017,12,Schuyler,PNC Unknown,2
+2017,12,Seneca,Total,340
+2017,12,Seneca,1st-3rd,188
+2017,12,Seneca,4th-6th,120
+2017,12,Seneca,7th-9th,25
+2017,12,Seneca,None,2
+2017,12,Seneca,PNC Start Unk,2
+2017,12,Seneca,PNC Unknown,3
+2017,12,Steuben,Total,997
+2017,12,Steuben,1st-3rd,684
+2017,12,Steuben,4th-6th,232
+2017,12,Steuben,7th-9th,59
+2017,12,Steuben,None,8
+2017,12,Steuben,PNC Start Unk,2
+2017,12,Steuben,PNC Unknown,12
+2017,12,Suffolk,Total,15334
+2017,12,Suffolk,1st-3rd,11959
+2017,12,Suffolk,4th-6th,2205
+2017,12,Suffolk,7th-9th,547
+2017,12,Suffolk,None,98
+2017,12,Suffolk,PNC Start Unk,30
+2017,12,Suffolk,PNC Unknown,495
+2017,12,Sullivan,Total,797
+2017,12,Sullivan,1st-3rd,539
+2017,12,Sullivan,4th-6th,198
+2017,12,Sullivan,7th-9th,44
+2017,12,Sullivan,None,8
+2017,12,Sullivan,PNC Start Unk,3
+2017,12,Sullivan,PNC Unknown,5
+2017,12,Tioga,Total,431
+2017,12,Tioga,1st-3rd,320
+2017,12,Tioga,4th-6th,90
+2017,12,Tioga,7th-9th,19
+2017,12,Tioga,None,1
+2017,12,Tioga,PNC Start Unk,1
+2017,12,Tioga,PNC Unknown,0
+2017,12,Tompkins,Total,767
+2017,12,Tompkins,1st-3rd,599
+2017,12,Tompkins,4th-6th,138
+2017,12,Tompkins,7th-9th,23
+2017,12,Tompkins,None,5
+2017,12,Tompkins,PNC Start Unk,0
+2017,12,Tompkins,PNC Unknown,2
+2017,12,Ulster,Total,1468
+2017,12,Ulster,1st-3rd,1048
+2017,12,Ulster,4th-6th,308
+2017,12,Ulster,7th-9th,87
+2017,12,Ulster,None,6
+2017,12,Ulster,PNC Start Unk,3
+2017,12,Ulster,PNC Unknown,16
+2017,12,Warren,Total,542
+2017,12,Warren,1st-3rd,429
+2017,12,Warren,4th-6th,83
+2017,12,Warren,7th-9th,23
+2017,12,Warren,None,0
+2017,12,Warren,PNC Start Unk,0
+2017,12,Warren,PNC Unknown,7
+2017,12,Washington,Total,526
+2017,12,Washington,1st-3rd,404
+2017,12,Washington,4th-6th,90
+2017,12,Washington,7th-9th,21
+2017,12,Washington,None,1
+2017,12,Washington,PNC Start Unk,3
+2017,12,Washington,PNC Unknown,7
+2017,12,Wayne,Total,949
+2017,12,Wayne,1st-3rd,583
+2017,12,Wayne,4th-6th,290
+2017,12,Wayne,7th-9th,35
+2017,12,Wayne,None,6
+2017,12,Wayne,PNC Start Unk,1
+2017,12,Wayne,PNC Unknown,34
+2017,12,Westchester,Total,10429
+2017,12,Westchester,1st-3rd,8280
+2017,12,Westchester,4th-6th,1503
+2017,12,Westchester,7th-9th,349
+2017,12,Westchester,None,40
+2017,12,Westchester,PNC Start Unk,20
+2017,12,Westchester,PNC Unknown,237
+2017,12,Wyoming,Total,347
+2017,12,Wyoming,1st-3rd,287
+2017,12,Wyoming,4th-6th,39
+2017,12,Wyoming,7th-9th,8
+2017,12,Wyoming,None,1
+2017,12,Wyoming,PNC Start Unk,2
+2017,12,Wyoming,PNC Unknown,10
+2017,12,Yates,Total,320
+2017,12,Yates,1st-3rd,152
+2017,12,Yates,4th-6th,134
+2017,12,Yates,7th-9th,21
+2017,12,Yates,None,1
+2017,12,Yates,PNC Start Unk,5
+2017,12,Yates,PNC Unknown,7
+2018,12,New York State,Total,225162
+2018,12,New York State,1st-3rd,168269
+2018,12,New York State,4th-6th,38576
+2018,12,New York State,7th-9th,10575
+2018,12,New York State,None,1273
+2018,12,New York State,PNC Start Unk,2581
+2018,12,New York State,PNC Unknown,3888
+2018,12,New York City,Total,107821
+2018,12,New York City,1st-3rd,78861
+2018,12,New York City,4th-6th,19435
+2018,12,New York City,7th-9th,6502
+2018,12,New York City,None,559
+2018,12,New York City,PNC Start Unk,2226
+2018,12,New York City,PNC Unknown,238
+2018,12,Bronx,Total,19778
+2018,12,Bronx,1st-3rd,11682
+2018,12,Bronx,4th-6th,5391
+2018,12,Bronx,7th-9th,2017
+2018,12,Bronx,None,126
+2018,12,Bronx,PNC Start Unk,542
+2018,12,Bronx,PNC Unknown,20
+2018,12,Kings,Total,38435
+2018,12,Kings,1st-3rd,28747
+2018,12,Kings,4th-6th,6549
+2018,12,Kings,7th-9th,1982
+2018,12,Kings,None,181
+2018,12,Kings,PNC Start Unk,935
+2018,12,Kings,PNC Unknown,41
+2018,12,New York,Total,16654
+2018,12,New York,1st-3rd,13332
+2018,12,New York,4th-6th,2212
+2018,12,New York,7th-9th,693
+2018,12,New York,None,57
+2018,12,New York,PNC Start Unk,354
+2018,12,New York,PNC Unknown,6
+2018,12,Queens,Total,27865
+2018,12,Queens,1st-3rd,20702
+2018,12,Queens,4th-6th,4743
+2018,12,Queens,7th-9th,1706
+2018,12,Queens,None,170
+2018,12,Queens,PNC Start Unk,375
+2018,12,Queens,PNC Unknown,169
+2018,12,Richmond,Total,5089
+2018,12,Richmond,1st-3rd,4398
+2018,12,Richmond,4th-6th,540
+2018,12,Richmond,7th-9th,104
+2018,12,Richmond,None,25
+2018,12,Richmond,PNC Start Unk,20
+2018,12,Richmond,PNC Unknown,2
+2018,12,Rest of State,Total,117341
+2018,12,Rest of State,1st-3rd,89408
+2018,12,Rest of State,4th-6th,19141
+2018,12,Rest of State,7th-9th,4073
+2018,12,Rest of State,None,714
+2018,12,Rest of State,PNC Start Unk,355
+2018,12,Rest of State,PNC Unknown,3650
+2018,12,Albany,Total,2957
+2018,12,Albany,1st-3rd,2331
+2018,12,Albany,4th-6th,438
+2018,12,Albany,7th-9th,99
+2018,12,Albany,None,45
+2018,12,Albany,PNC Start Unk,5
+2018,12,Albany,PNC Unknown,39
+2018,12,Allegany,Total,469
+2018,12,Allegany,1st-3rd,310
+2018,12,Allegany,4th-6th,97
+2018,12,Allegany,7th-9th,35
+2018,12,Allegany,None,5
+2018,12,Allegany,PNC Start Unk,1
+2018,12,Allegany,PNC Unknown,21
+2018,12,Broome,Total,1875
+2018,12,Broome,1st-3rd,1327
+2018,12,Broome,4th-6th,431
+2018,12,Broome,7th-9th,94
+2018,12,Broome,None,18
+2018,12,Broome,PNC Start Unk,2
+2018,12,Broome,PNC Unknown,3
+2018,12,Cattaraugus,Total,867
+2018,12,Cattaraugus,1st-3rd,571
+2018,12,Cattaraugus,4th-6th,142
+2018,12,Cattaraugus,7th-9th,36
+2018,12,Cattaraugus,None,8
+2018,12,Cattaraugus,PNC Start Unk,4
+2018,12,Cattaraugus,PNC Unknown,106
+2018,12,Cayuga,Total,724
+2018,12,Cayuga,1st-3rd,548
+2018,12,Cayuga,4th-6th,148
+2018,12,Cayuga,7th-9th,18
+2018,12,Cayuga,None,8
+2018,12,Cayuga,PNC Start Unk,1
+2018,12,Cayuga,PNC Unknown,1
+2018,12,Chautauqua,Total,1304
+2018,12,Chautauqua,1st-3rd,886
+2018,12,Chautauqua,4th-6th,284
+2018,12,Chautauqua,7th-9th,65
+2018,12,Chautauqua,None,10
+2018,12,Chautauqua,PNC Start Unk,2
+2018,12,Chautauqua,PNC Unknown,57
+2018,12,Chemung,Total,872
+2018,12,Chemung,1st-3rd,692
+2018,12,Chemung,4th-6th,152
+2018,12,Chemung,7th-9th,22
+2018,12,Chemung,None,3
+2018,12,Chemung,PNC Start Unk,2
+2018,12,Chemung,PNC Unknown,1
+2018,12,Chenango,Total,463
+2018,12,Chenango,1st-3rd,313
+2018,12,Chenango,4th-6th,133
+2018,12,Chenango,7th-9th,12
+2018,12,Chenango,None,2
+2018,12,Chenango,PNC Start Unk,1
+2018,12,Chenango,PNC Unknown,2
+2018,12,Clinton,Total,719
+2018,12,Clinton,1st-3rd,590
+2018,12,Clinton,4th-6th,82
+2018,12,Clinton,7th-9th,23
+2018,12,Clinton,None,22
+2018,12,Clinton,PNC Start Unk,2
+2018,12,Clinton,PNC Unknown,0
+2018,12,Columbia,Total,471
+2018,12,Columbia,1st-3rd,340
+2018,12,Columbia,4th-6th,87
+2018,12,Columbia,7th-9th,24
+2018,12,Columbia,None,6
+2018,12,Columbia,PNC Start Unk,10
+2018,12,Columbia,PNC Unknown,4
+2018,12,Cortland,Total,457
+2018,12,Cortland,1st-3rd,358
+2018,12,Cortland,4th-6th,72
+2018,12,Cortland,7th-9th,11
+2018,12,Cortland,None,0
+2018,12,Cortland,PNC Start Unk,1
+2018,12,Cortland,PNC Unknown,15
+2018,12,Delaware,Total,396
+2018,12,Delaware,1st-3rd,263
+2018,12,Delaware,4th-6th,124
+2018,12,Delaware,7th-9th,7
+2018,12,Delaware,None,0
+2018,12,Delaware,PNC Start Unk,1
+2018,12,Delaware,PNC Unknown,1
+2018,12,Dutchess,Total,2542
+2018,12,Dutchess,1st-3rd,2156
+2018,12,Dutchess,4th-6th,285
+2018,12,Dutchess,7th-9th,77
+2018,12,Dutchess,None,19
+2018,12,Dutchess,PNC Start Unk,1
+2018,12,Dutchess,PNC Unknown,4
+2018,12,Erie,Total,9794
+2018,12,Erie,1st-3rd,7359
+2018,12,Erie,4th-6th,1413
+2018,12,Erie,7th-9th,309
+2018,12,Erie,None,68
+2018,12,Erie,PNC Start Unk,10
+2018,12,Erie,PNC Unknown,635
+2018,12,Essex,Total,308
+2018,12,Essex,1st-3rd,244
+2018,12,Essex,4th-6th,42
+2018,12,Essex,7th-9th,11
+2018,12,Essex,None,9
+2018,12,Essex,PNC Start Unk,1
+2018,12,Essex,PNC Unknown,1
+2018,12,Franklin,Total,467
+2018,12,Franklin,1st-3rd,348
+2018,12,Franklin,4th-6th,72
+2018,12,Franklin,7th-9th,36
+2018,12,Franklin,None,5
+2018,12,Franklin,PNC Start Unk,2
+2018,12,Franklin,PNC Unknown,4
+2018,12,Fulton,Total,519
+2018,12,Fulton,1st-3rd,400
+2018,12,Fulton,4th-6th,92
+2018,12,Fulton,7th-9th,20
+2018,12,Fulton,None,1
+2018,12,Fulton,PNC Start Unk,3
+2018,12,Fulton,PNC Unknown,3
+2018,12,Genesee,Total,577
+2018,12,Genesee,1st-3rd,465
+2018,12,Genesee,4th-6th,73
+2018,12,Genesee,7th-9th,19
+2018,12,Genesee,None,3
+2018,12,Genesee,PNC Start Unk,4
+2018,12,Genesee,PNC Unknown,13
+2018,12,Greene,Total,436
+2018,12,Greene,1st-3rd,309
+2018,12,Greene,4th-6th,88
+2018,12,Greene,7th-9th,25
+2018,12,Greene,None,5
+2018,12,Greene,PNC Start Unk,0
+2018,12,Greene,PNC Unknown,9
+2018,12,Hamilton,Total,18
+2018,12,Hamilton,1st-3rd,15
+2018,12,Hamilton,4th-6th,3
+2018,12,Hamilton,7th-9th,0
+2018,12,Hamilton,None,0
+2018,12,Hamilton,PNC Start Unk,0
+2018,12,Hamilton,PNC Unknown,0
+2018,12,Herkimer,Total,588
+2018,12,Herkimer,1st-3rd,366
+2018,12,Herkimer,4th-6th,190
+2018,12,Herkimer,7th-9th,26
+2018,12,Herkimer,None,4
+2018,12,Herkimer,PNC Start Unk,0
+2018,12,Herkimer,PNC Unknown,2
+2018,12,Jefferson,Total,1860
+2018,12,Jefferson,1st-3rd,1479
+2018,12,Jefferson,4th-6th,311
+2018,12,Jefferson,7th-9th,51
+2018,12,Jefferson,None,10
+2018,12,Jefferson,PNC Start Unk,3
+2018,12,Jefferson,PNC Unknown,6
+2018,12,Lewis,Total,328
+2018,12,Lewis,1st-3rd,266
+2018,12,Lewis,4th-6th,41
+2018,12,Lewis,7th-9th,16
+2018,12,Lewis,None,3
+2018,12,Lewis,PNC Start Unk,0
+2018,12,Lewis,PNC Unknown,2
+2018,12,Livingston,Total,494
+2018,12,Livingston,1st-3rd,387
+2018,12,Livingston,4th-6th,67
+2018,12,Livingston,7th-9th,17
+2018,12,Livingston,None,3
+2018,12,Livingston,PNC Start Unk,2
+2018,12,Livingston,PNC Unknown,18
+2018,12,Madison,Total,655
+2018,12,Madison,1st-3rd,520
+2018,12,Madison,4th-6th,94
+2018,12,Madison,7th-9th,16
+2018,12,Madison,None,7
+2018,12,Madison,PNC Start Unk,1
+2018,12,Madison,PNC Unknown,17
+2018,12,Monroe,Total,7770
+2018,12,Monroe,1st-3rd,5952
+2018,12,Monroe,4th-6th,1123
+2018,12,Monroe,7th-9th,278
+2018,12,Monroe,None,34
+2018,12,Monroe,PNC Start Unk,6
+2018,12,Monroe,PNC Unknown,377
+2018,12,Montgomery,Total,609
+2018,12,Montgomery,1st-3rd,367
+2018,12,Montgomery,4th-6th,143
+2018,12,Montgomery,7th-9th,81
+2018,12,Montgomery,None,8
+2018,12,Montgomery,PNC Start Unk,2
+2018,12,Montgomery,PNC Unknown,8
+2018,12,Nassau,Total,14173
+2018,12,Nassau,1st-3rd,11951
+2018,12,Nassau,4th-6th,1505
+2018,12,Nassau,7th-9th,341
+2018,12,Nassau,None,39
+2018,12,Nassau,PNC Start Unk,62
+2018,12,Nassau,PNC Unknown,275
+2018,12,Niagara,Total,2105
+2018,12,Niagara,1st-3rd,1347
+2018,12,Niagara,4th-6th,523
+2018,12,Niagara,7th-9th,141
+2018,12,Niagara,None,20
+2018,12,Niagara,PNC Start Unk,5
+2018,12,Niagara,PNC Unknown,69
+2018,12,Oneida,Total,2512
+2018,12,Oneida,1st-3rd,1852
+2018,12,Oneida,4th-6th,538
+2018,12,Oneida,7th-9th,108
+2018,12,Oneida,None,6
+2018,12,Oneida,PNC Start Unk,7
+2018,12,Oneida,PNC Unknown,1
+2018,12,Onondaga,Total,5236
+2018,12,Onondaga,1st-3rd,4014
+2018,12,Onondaga,4th-6th,1004
+2018,12,Onondaga,7th-9th,160
+2018,12,Onondaga,None,47
+2018,12,Onondaga,PNC Start Unk,7
+2018,12,Onondaga,PNC Unknown,4
+2018,12,Ontario,Total,977
+2018,12,Ontario,1st-3rd,738
+2018,12,Ontario,4th-6th,166
+2018,12,Ontario,7th-9th,34
+2018,12,Ontario,None,3
+2018,12,Ontario,PNC Start Unk,0
+2018,12,Ontario,PNC Unknown,36
+2018,12,Orange,Total,5072
+2018,12,Orange,1st-3rd,3322
+2018,12,Orange,4th-6th,1064
+2018,12,Orange,7th-9th,223
+2018,12,Orange,None,38
+2018,12,Orange,PNC Start Unk,22
+2018,12,Orange,PNC Unknown,403
+2018,12,Orleans,Total,348
+2018,12,Orleans,1st-3rd,283
+2018,12,Orleans,4th-6th,48
+2018,12,Orleans,7th-9th,9
+2018,12,Orleans,None,1
+2018,12,Orleans,PNC Start Unk,0
+2018,12,Orleans,PNC Unknown,7
+2018,12,Oswego,Total,1210
+2018,12,Oswego,1st-3rd,894
+2018,12,Oswego,4th-6th,251
+2018,12,Oswego,7th-9th,41
+2018,12,Oswego,None,11
+2018,12,Oswego,PNC Start Unk,4
+2018,12,Oswego,PNC Unknown,9
+2018,12,Otsego,Total,501
+2018,12,Otsego,1st-3rd,285
+2018,12,Otsego,4th-6th,171
+2018,12,Otsego,7th-9th,19
+2018,12,Otsego,None,6
+2018,12,Otsego,PNC Start Unk,2
+2018,12,Otsego,PNC Unknown,18
+2018,12,Putnam,Total,844
+2018,12,Putnam,1st-3rd,729
+2018,12,Putnam,4th-6th,92
+2018,12,Putnam,7th-9th,19
+2018,12,Putnam,None,2
+2018,12,Putnam,PNC Start Unk,2
+2018,12,Putnam,PNC Unknown,0
+2018,12,Rensselaer,Total,1587
+2018,12,Rensselaer,1st-3rd,1250
+2018,12,Rensselaer,4th-6th,257
+2018,12,Rensselaer,7th-9th,42
+2018,12,Rensselaer,None,13
+2018,12,Rensselaer,PNC Start Unk,3
+2018,12,Rensselaer,PNC Unknown,22
+2018,12,Rockland,Total,5725
+2018,12,Rockland,1st-3rd,3815
+2018,12,Rockland,4th-6th,1046
+2018,12,Rockland,7th-9th,166
+2018,12,Rockland,None,14
+2018,12,Rockland,PNC Start Unk,20
+2018,12,Rockland,PNC Unknown,664
+2018,12,St Lawrence,Total,1096
+2018,12,St Lawrence,1st-3rd,800
+2018,12,St Lawrence,4th-6th,162
+2018,12,St Lawrence,7th-9th,40
+2018,12,St Lawrence,None,19
+2018,12,St Lawrence,PNC Start Unk,22
+2018,12,St Lawrence,PNC Unknown,53
+2018,12,Saratoga,Total,2025
+2018,12,Saratoga,1st-3rd,1584
+2018,12,Saratoga,4th-6th,346
+2018,12,Saratoga,7th-9th,62
+2018,12,Saratoga,None,9
+2018,12,Saratoga,PNC Start Unk,4
+2018,12,Saratoga,PNC Unknown,20
+2018,12,Schenectady,Total,1768
+2018,12,Schenectady,1st-3rd,1348
+2018,12,Schenectady,4th-6th,283
+2018,12,Schenectady,7th-9th,72
+2018,12,Schenectady,None,19
+2018,12,Schenectady,PNC Start Unk,7
+2018,12,Schenectady,PNC Unknown,39
+2018,12,Schoharie,Total,285
+2018,12,Schoharie,1st-3rd,214
+2018,12,Schoharie,4th-6th,50
+2018,12,Schoharie,7th-9th,11
+2018,12,Schoharie,None,1
+2018,12,Schoharie,PNC Start Unk,0
+2018,12,Schoharie,PNC Unknown,9
+2018,12,Schuyler,Total,176
+2018,12,Schuyler,1st-3rd,125
+2018,12,Schuyler,4th-6th,46
+2018,12,Schuyler,7th-9th,5
+2018,12,Schuyler,None,0
+2018,12,Schuyler,PNC Start Unk,0
+2018,12,Schuyler,PNC Unknown,0
+2018,12,Seneca,Total,402
+2018,12,Seneca,1st-3rd,244
+2018,12,Seneca,4th-6th,123
+2018,12,Seneca,7th-9th,26
+2018,12,Seneca,None,1
+2018,12,Seneca,PNC Start Unk,0
+2018,12,Seneca,PNC Unknown,8
+2018,12,Steuben,Total,1038
+2018,12,Steuben,1st-3rd,696
+2018,12,Steuben,4th-6th,257
+2018,12,Steuben,7th-9th,54
+2018,12,Steuben,None,9
+2018,12,Steuben,PNC Start Unk,9
+2018,12,Steuben,PNC Unknown,13
+2018,12,Suffolk,Total,15241
+2018,12,Suffolk,1st-3rd,11962
+2018,12,Suffolk,4th-6th,2186
+2018,12,Suffolk,7th-9th,490
+2018,12,Suffolk,None,81
+2018,12,Suffolk,PNC Start Unk,56
+2018,12,Suffolk,PNC Unknown,466
+2018,12,Sullivan,Total,853
+2018,12,Sullivan,1st-3rd,575
+2018,12,Sullivan,4th-6th,230
+2018,12,Sullivan,7th-9th,32
+2018,12,Sullivan,None,4
+2018,12,Sullivan,PNC Start Unk,1
+2018,12,Sullivan,PNC Unknown,11
+2018,12,Tioga,Total,435
+2018,12,Tioga,1st-3rd,329
+2018,12,Tioga,4th-6th,83
+2018,12,Tioga,7th-9th,16
+2018,12,Tioga,None,3
+2018,12,Tioga,PNC Start Unk,2
+2018,12,Tioga,PNC Unknown,2
+2018,12,Tompkins,Total,728
+2018,12,Tompkins,1st-3rd,557
+2018,12,Tompkins,4th-6th,139
+2018,12,Tompkins,7th-9th,20
+2018,12,Tompkins,None,1
+2018,12,Tompkins,PNC Start Unk,3
+2018,12,Tompkins,PNC Unknown,8
+2018,12,Ulster,Total,1546
+2018,12,Ulster,1st-3rd,1143
+2018,12,Ulster,4th-6th,323
+2018,12,Ulster,7th-9th,54
+2018,12,Ulster,None,13
+2018,12,Ulster,PNC Start Unk,2
+2018,12,Ulster,PNC Unknown,11
+2018,12,Warren,Total,544
+2018,12,Warren,1st-3rd,434
+2018,12,Warren,4th-6th,81
+2018,12,Warren,7th-9th,18
+2018,12,Warren,None,0
+2018,12,Warren,PNC Start Unk,6
+2018,12,Warren,PNC Unknown,5
+2018,12,Washington,Total,551
+2018,12,Washington,1st-3rd,438
+2018,12,Washington,4th-6th,85
+2018,12,Washington,7th-9th,15
+2018,12,Washington,None,4
+2018,12,Washington,PNC Start Unk,1
+2018,12,Washington,PNC Unknown,8
+2018,12,Wayne,Total,990
+2018,12,Wayne,1st-3rd,643
+2018,12,Wayne,4th-6th,268
+2018,12,Wayne,7th-9th,47
+2018,12,Wayne,None,6
+2018,12,Wayne,PNC Start Unk,2
+2018,12,Wayne,PNC Unknown,24
+2018,12,Westchester,Total,10112
+2018,12,Westchester,1st-3rd,8187
+2018,12,Westchester,4th-6th,1396
+2018,12,Westchester,7th-9th,359
+2018,12,Westchester,None,33
+2018,12,Westchester,PNC Start Unk,38
+2018,12,Westchester,PNC Unknown,99
+2018,12,Wyoming,Total,380
+2018,12,Wyoming,1st-3rd,316
+2018,12,Wyoming,4th-6th,43
+2018,12,Wyoming,7th-9th,7
+2018,12,Wyoming,None,2
+2018,12,Wyoming,PNC Start Unk,0
+2018,12,Wyoming,PNC Unknown,12
+2018,12,Yates,Total,342
+2018,12,Yates,1st-3rd,171
+2018,12,Yates,4th-6th,148
+2018,12,Yates,7th-9th,14
+2018,12,Yates,None,3
+2018,12,Yates,PNC Start Unk,1
+2018,12,Yates,PNC Unknown,5
+2019,12,New York State,Total,220536
+2019,12,New York State,1st-3rd,166733
+2019,12,New York State,4th-6th,36445
+2019,12,New York State,7th-9th,10288
+2019,12,New York State,None,1630
+2019,12,New York State,PNC Start Unk,2367
+2019,12,New York State,PNC Unknown,3073
+2019,12,New York City,Total,104294
+2019,12,New York City,1st-3rd,77377
+2019,12,New York City,4th-6th,17578
+2019,12,New York City,7th-9th,6203
+2019,12,New York City,None,891
+2019,12,New York City,PNC Start Unk,2015
+2019,12,New York City,PNC Unknown,230
+2019,12,Bronx,Total,18963
+2019,12,Bronx,1st-3rd,11272
+2019,12,Bronx,4th-6th,4832
+2019,12,Bronx,7th-9th,2072
+2019,12,Bronx,None,250
+2019,12,Bronx,PNC Start Unk,517
+2019,12,Bronx,PNC Unknown,20
+2019,12,Kings,Total,37031
+2019,12,Kings,1st-3rd,28509
+2019,12,Kings,4th-6th,5852
+2019,12,Kings,7th-9th,1693
+2019,12,Kings,None,240
+2019,12,Kings,PNC Start Unk,704
+2019,12,Kings,PNC Unknown,33
+2019,12,New York,Total,16257
+2019,12,New York,1st-3rd,12843
+2019,12,New York,4th-6th,2092
+2019,12,New York,7th-9th,743
+2019,12,New York,None,90
+2019,12,New York,PNC Start Unk,485
+2019,12,New York,PNC Unknown,4
+2019,12,Queens,Total,26850
+2019,12,Queens,1st-3rd,20232
+2019,12,Queens,4th-6th,4263
+2019,12,Queens,7th-9th,1616
+2019,12,Queens,None,284
+2019,12,Queens,PNC Start Unk,282
+2019,12,Queens,PNC Unknown,173
+2019,12,Richmond,Total,5193
+2019,12,Richmond,1st-3rd,4521
+2019,12,Richmond,4th-6th,539
+2019,12,Richmond,7th-9th,79
+2019,12,Richmond,None,27
+2019,12,Richmond,PNC Start Unk,27
+2019,12,Richmond,PNC Unknown,0
+2019,12,Rest of State,Total,116242
+2019,12,Rest of State,1st-3rd,89356
+2019,12,Rest of State,4th-6th,18867
+2019,12,Rest of State,7th-9th,4085
+2019,12,Rest of State,None,739
+2019,12,Rest of State,PNC Start Unk,352
+2019,12,Rest of State,PNC Unknown,2843
+2019,12,Albany,Total,2979
+2019,12,Albany,1st-3rd,2238
+2019,12,Albany,4th-6th,494
+2019,12,Albany,7th-9th,132
+2019,12,Albany,None,37
+2019,12,Albany,PNC Start Unk,7
+2019,12,Albany,PNC Unknown,71
+2019,12,Allegany,Total,480
+2019,12,Allegany,1st-3rd,328
+2019,12,Allegany,4th-6th,69
+2019,12,Allegany,7th-9th,44
+2019,12,Allegany,None,7
+2019,12,Allegany,PNC Start Unk,0
+2019,12,Allegany,PNC Unknown,32
+2019,12,Broome,Total,1950
+2019,12,Broome,1st-3rd,1384
+2019,12,Broome,4th-6th,454
+2019,12,Broome,7th-9th,89
+2019,12,Broome,None,17
+2019,12,Broome,PNC Start Unk,2
+2019,12,Broome,PNC Unknown,4
+2019,12,Cattaraugus,Total,825
+2019,12,Cattaraugus,1st-3rd,528
+2019,12,Cattaraugus,4th-6th,154
+2019,12,Cattaraugus,7th-9th,32
+2019,12,Cattaraugus,None,9
+2019,12,Cattaraugus,PNC Start Unk,1
+2019,12,Cattaraugus,PNC Unknown,101
+2019,12,Cayuga,Total,752
+2019,12,Cayuga,1st-3rd,571
+2019,12,Cayuga,4th-6th,152
+2019,12,Cayuga,7th-9th,20
+2019,12,Cayuga,None,1
+2019,12,Cayuga,PNC Start Unk,2
+2019,12,Cayuga,PNC Unknown,6
+2019,12,Chautauqua,Total,1342
+2019,12,Chautauqua,1st-3rd,837
+2019,12,Chautauqua,4th-6th,307
+2019,12,Chautauqua,7th-9th,73
+2019,12,Chautauqua,None,24
+2019,12,Chautauqua,PNC Start Unk,8
+2019,12,Chautauqua,PNC Unknown,93
+2019,12,Chemung,Total,894
+2019,12,Chemung,1st-3rd,716
+2019,12,Chemung,4th-6th,150
+2019,12,Chemung,7th-9th,12
+2019,12,Chemung,None,4
+2019,12,Chemung,PNC Start Unk,4
+2019,12,Chemung,PNC Unknown,8
+2019,12,Chenango,Total,471
+2019,12,Chenango,1st-3rd,335
+2019,12,Chenango,4th-6th,113
+2019,12,Chenango,7th-9th,9
+2019,12,Chenango,None,5
+2019,12,Chenango,PNC Start Unk,0
+2019,12,Chenango,PNC Unknown,9
+2019,12,Clinton,Total,722
+2019,12,Clinton,1st-3rd,561
+2019,12,Clinton,4th-6th,98
+2019,12,Clinton,7th-9th,31
+2019,12,Clinton,None,29
+2019,12,Clinton,PNC Start Unk,2
+2019,12,Clinton,PNC Unknown,1
+2019,12,Columbia,Total,479
+2019,12,Columbia,1st-3rd,365
+2019,12,Columbia,4th-6th,75
+2019,12,Columbia,7th-9th,19
+2019,12,Columbia,None,3
+2019,12,Columbia,PNC Start Unk,9
+2019,12,Columbia,PNC Unknown,8
+2019,12,Cortland,Total,451
+2019,12,Cortland,1st-3rd,349
+2019,12,Cortland,4th-6th,78
+2019,12,Cortland,7th-9th,7
+2019,12,Cortland,None,4
+2019,12,Cortland,PNC Start Unk,0
+2019,12,Cortland,PNC Unknown,13
+2019,12,Delaware,Total,349
+2019,12,Delaware,1st-3rd,205
+2019,12,Delaware,4th-6th,123
+2019,12,Delaware,7th-9th,15
+2019,12,Delaware,None,3
+2019,12,Delaware,PNC Start Unk,1
+2019,12,Delaware,PNC Unknown,2
+2019,12,Dutchess,Total,2699
+2019,12,Dutchess,1st-3rd,2257
+2019,12,Dutchess,4th-6th,325
+2019,12,Dutchess,7th-9th,79
+2019,12,Dutchess,None,16
+2019,12,Dutchess,PNC Start Unk,11
+2019,12,Dutchess,PNC Unknown,11
+2019,12,Erie,Total,9679
+2019,12,Erie,1st-3rd,7370
+2019,12,Erie,4th-6th,1357
+2019,12,Erie,7th-9th,297
+2019,12,Erie,None,56
+2019,12,Erie,PNC Start Unk,6
+2019,12,Erie,PNC Unknown,593
+2019,12,Essex,Total,314
+2019,12,Essex,1st-3rd,231
+2019,12,Essex,4th-6th,59
+2019,12,Essex,7th-9th,19
+2019,12,Essex,None,2
+2019,12,Essex,PNC Start Unk,1
+2019,12,Essex,PNC Unknown,2
+2019,12,Franklin,Total,411
+2019,12,Franklin,1st-3rd,292
+2019,12,Franklin,4th-6th,90
+2019,12,Franklin,7th-9th,19
+2019,12,Franklin,None,6
+2019,12,Franklin,PNC Start Unk,1
+2019,12,Franklin,PNC Unknown,3
+2019,12,Fulton,Total,510
+2019,12,Fulton,1st-3rd,406
+2019,12,Fulton,4th-6th,81
+2019,12,Fulton,7th-9th,13
+2019,12,Fulton,None,3
+2019,12,Fulton,PNC Start Unk,2
+2019,12,Fulton,PNC Unknown,5
+2019,12,Genesee,Total,555
+2019,12,Genesee,1st-3rd,449
+2019,12,Genesee,4th-6th,57
+2019,12,Genesee,7th-9th,13
+2019,12,Genesee,None,5
+2019,12,Genesee,PNC Start Unk,3
+2019,12,Genesee,PNC Unknown,28
+2019,12,Greene,Total,360
+2019,12,Greene,1st-3rd,249
+2019,12,Greene,4th-6th,82
+2019,12,Greene,7th-9th,15
+2019,12,Greene,None,5
+2019,12,Greene,PNC Start Unk,3
+2019,12,Greene,PNC Unknown,6
+2019,12,Hamilton,Total,29
+2019,12,Hamilton,1st-3rd,28
+2019,12,Hamilton,4th-6th,1
+2019,12,Hamilton,7th-9th,0
+2019,12,Hamilton,None,0
+2019,12,Hamilton,PNC Start Unk,0
+2019,12,Hamilton,PNC Unknown,0
+2019,12,Herkimer,Total,626
+2019,12,Herkimer,1st-3rd,398
+2019,12,Herkimer,4th-6th,176
+2019,12,Herkimer,7th-9th,35
+2019,12,Herkimer,None,5
+2019,12,Herkimer,PNC Start Unk,2
+2019,12,Herkimer,PNC Unknown,10
+2019,12,Jefferson,Total,1802
+2019,12,Jefferson,1st-3rd,1361
+2019,12,Jefferson,4th-6th,367
+2019,12,Jefferson,7th-9th,51
+2019,12,Jefferson,None,10
+2019,12,Jefferson,PNC Start Unk,5
+2019,12,Jefferson,PNC Unknown,8
+2019,12,Lewis,Total,300
+2019,12,Lewis,1st-3rd,211
+2019,12,Lewis,4th-6th,58
+2019,12,Lewis,7th-9th,24
+2019,12,Lewis,None,4
+2019,12,Lewis,PNC Start Unk,3
+2019,12,Lewis,PNC Unknown,0
+2019,12,Livingston,Total,551
+2019,12,Livingston,1st-3rd,422
+2019,12,Livingston,4th-6th,90
+2019,12,Livingston,7th-9th,20
+2019,12,Livingston,None,2
+2019,12,Livingston,PNC Start Unk,1
+2019,12,Livingston,PNC Unknown,16
+2019,12,Madison,Total,626
+2019,12,Madison,1st-3rd,501
+2019,12,Madison,4th-6th,80
+2019,12,Madison,7th-9th,21
+2019,12,Madison,None,4
+2019,12,Madison,PNC Start Unk,3
+2019,12,Madison,PNC Unknown,17
+2019,12,Monroe,Total,7913
+2019,12,Monroe,1st-3rd,6009
+2019,12,Monroe,4th-6th,1172
+2019,12,Monroe,7th-9th,242
+2019,12,Monroe,None,48
+2019,12,Monroe,PNC Start Unk,6
+2019,12,Monroe,PNC Unknown,436
+2019,12,Montgomery,Total,585
+2019,12,Montgomery,1st-3rd,387
+2019,12,Montgomery,4th-6th,107
+2019,12,Montgomery,7th-9th,76
+2019,12,Montgomery,None,5
+2019,12,Montgomery,PNC Start Unk,2
+2019,12,Montgomery,PNC Unknown,8
+2019,12,Nassau,Total,13877
+2019,12,Nassau,1st-3rd,11743
+2019,12,Nassau,4th-6th,1379
+2019,12,Nassau,7th-9th,309
+2019,12,Nassau,None,45
+2019,12,Nassau,PNC Start Unk,61
+2019,12,Nassau,PNC Unknown,340
+2019,12,Niagara,Total,2069
+2019,12,Niagara,1st-3rd,1558
+2019,12,Niagara,4th-6th,333
+2019,12,Niagara,7th-9th,87
+2019,12,Niagara,None,17
+2019,12,Niagara,PNC Start Unk,2
+2019,12,Niagara,PNC Unknown,72
+2019,12,Oneida,Total,2501
+2019,12,Oneida,1st-3rd,1754
+2019,12,Oneida,4th-6th,571
+2019,12,Oneida,7th-9th,142
+2019,12,Oneida,None,27
+2019,12,Oneida,PNC Start Unk,4
+2019,12,Oneida,PNC Unknown,3
+2019,12,Onondaga,Total,5053
+2019,12,Onondaga,1st-3rd,3968
+2019,12,Onondaga,4th-6th,903
+2019,12,Onondaga,7th-9th,144
+2019,12,Onondaga,None,29
+2019,12,Onondaga,PNC Start Unk,5
+2019,12,Onondaga,PNC Unknown,4
+2019,12,Ontario,Total,970
+2019,12,Ontario,1st-3rd,752
+2019,12,Ontario,4th-6th,161
+2019,12,Ontario,7th-9th,28
+2019,12,Ontario,None,1
+2019,12,Ontario,PNC Start Unk,0
+2019,12,Ontario,PNC Unknown,28
+2019,12,Orange,Total,5192
+2019,12,Orange,1st-3rd,3697
+2019,12,Orange,4th-6th,1180
+2019,12,Orange,7th-9th,245
+2019,12,Orange,None,32
+2019,12,Orange,PNC Start Unk,13
+2019,12,Orange,PNC Unknown,25
+2019,12,Orleans,Total,423
+2019,12,Orleans,1st-3rd,319
+2019,12,Orleans,4th-6th,64
+2019,12,Orleans,7th-9th,14
+2019,12,Orleans,None,7
+2019,12,Orleans,PNC Start Unk,3
+2019,12,Orleans,PNC Unknown,16
+2019,12,Oswego,Total,1234
+2019,12,Oswego,1st-3rd,977
+2019,12,Oswego,4th-6th,198
+2019,12,Oswego,7th-9th,22
+2019,12,Oswego,None,19
+2019,12,Oswego,PNC Start Unk,4
+2019,12,Oswego,PNC Unknown,14
+2019,12,Otsego,Total,441
+2019,12,Otsego,1st-3rd,263
+2019,12,Otsego,4th-6th,136
+2019,12,Otsego,7th-9th,14
+2019,12,Otsego,None,5
+2019,12,Otsego,PNC Start Unk,0
+2019,12,Otsego,PNC Unknown,23
+2019,12,Putnam,Total,797
+2019,12,Putnam,1st-3rd,686
+2019,12,Putnam,4th-6th,90
+2019,12,Putnam,7th-9th,16
+2019,12,Putnam,None,2
+2019,12,Putnam,PNC Start Unk,0
+2019,12,Putnam,PNC Unknown,3
+2019,12,Rensselaer,Total,1606
+2019,12,Rensselaer,1st-3rd,1278
+2019,12,Rensselaer,4th-6th,228
+2019,12,Rensselaer,7th-9th,54
+2019,12,Rensselaer,None,14
+2019,12,Rensselaer,PNC Start Unk,1
+2019,12,Rensselaer,PNC Unknown,31
+2019,12,Rockland,Total,5721
+2019,12,Rockland,1st-3rd,4285
+2019,12,Rockland,4th-6th,1159
+2019,12,Rockland,7th-9th,200
+2019,12,Rockland,None,22
+2019,12,Rockland,PNC Start Unk,21
+2019,12,Rockland,PNC Unknown,34
+2019,12,St Lawrence,Total,999
+2019,12,St Lawrence,1st-3rd,729
+2019,12,St Lawrence,4th-6th,152
+2019,12,St Lawrence,7th-9th,52
+2019,12,St Lawrence,None,19
+2019,12,St Lawrence,PNC Start Unk,13
+2019,12,St Lawrence,PNC Unknown,34
+2019,12,Saratoga,Total,2052
+2019,12,Saratoga,1st-3rd,1579
+2019,12,Saratoga,4th-6th,365
+2019,12,Saratoga,7th-9th,56
+2019,12,Saratoga,None,11
+2019,12,Saratoga,PNC Start Unk,5
+2019,12,Saratoga,PNC Unknown,36
+2019,12,Schenectady,Total,1721
+2019,12,Schenectady,1st-3rd,1267
+2019,12,Schenectady,4th-6th,285
+2019,12,Schenectady,7th-9th,81
+2019,12,Schenectady,None,12
+2019,12,Schenectady,PNC Start Unk,12
+2019,12,Schenectady,PNC Unknown,64
+2019,12,Schoharie,Total,246
+2019,12,Schoharie,1st-3rd,181
+2019,12,Schoharie,4th-6th,49
+2019,12,Schoharie,7th-9th,9
+2019,12,Schoharie,None,0
+2019,12,Schoharie,PNC Start Unk,0
+2019,12,Schoharie,PNC Unknown,7
+2019,12,Schuyler,Total,166
+2019,12,Schuyler,1st-3rd,125
+2019,12,Schuyler,4th-6th,29
+2019,12,Schuyler,7th-9th,6
+2019,12,Schuyler,None,0
+2019,12,Schuyler,PNC Start Unk,2
+2019,12,Schuyler,PNC Unknown,4
+2019,12,Seneca,Total,363
+2019,12,Seneca,1st-3rd,225
+2019,12,Seneca,4th-6th,110
+2019,12,Seneca,7th-9th,16
+2019,12,Seneca,None,1
+2019,12,Seneca,PNC Start Unk,1
+2019,12,Seneca,PNC Unknown,10
+2019,12,Steuben,Total,1036
+2019,12,Steuben,1st-3rd,626
+2019,12,Steuben,4th-6th,303
+2019,12,Steuben,7th-9th,80
+2019,12,Steuben,None,10
+2019,12,Steuben,PNC Start Unk,4
+2019,12,Steuben,PNC Unknown,13
+2019,12,Suffolk,Total,15001
+2019,12,Suffolk,1st-3rd,11880
+2019,12,Suffolk,4th-6th,2046
+2019,12,Suffolk,7th-9th,538
+2019,12,Suffolk,None,71
+2019,12,Suffolk,PNC Start Unk,53
+2019,12,Suffolk,PNC Unknown,413
+2019,12,Sullivan,Total,877
+2019,12,Sullivan,1st-3rd,583
+2019,12,Sullivan,4th-6th,246
+2019,12,Sullivan,7th-9th,35
+2019,12,Sullivan,None,7
+2019,12,Sullivan,PNC Start Unk,2
+2019,12,Sullivan,PNC Unknown,4
+2019,12,Tioga,Total,474
+2019,12,Tioga,1st-3rd,367
+2019,12,Tioga,4th-6th,83
+2019,12,Tioga,7th-9th,19
+2019,12,Tioga,None,2
+2019,12,Tioga,PNC Start Unk,1
+2019,12,Tioga,PNC Unknown,2
+2019,12,Tompkins,Total,701
+2019,12,Tompkins,1st-3rd,561
+2019,12,Tompkins,4th-6th,111
+2019,12,Tompkins,7th-9th,19
+2019,12,Tompkins,None,4
+2019,12,Tompkins,PNC Start Unk,1
+2019,12,Tompkins,PNC Unknown,5
+2019,12,Ulster,Total,1520
+2019,12,Ulster,1st-3rd,1069
+2019,12,Ulster,4th-6th,360
+2019,12,Ulster,7th-9th,62
+2019,12,Ulster,None,12
+2019,12,Ulster,PNC Start Unk,5
+2019,12,Ulster,PNC Unknown,12
+2019,12,Warren,Total,533
+2019,12,Warren,1st-3rd,429
+2019,12,Warren,4th-6th,75
+2019,12,Warren,7th-9th,13
+2019,12,Warren,None,1
+2019,12,Warren,PNC Start Unk,0
+2019,12,Warren,PNC Unknown,15
+2019,12,Washington,Total,558
+2019,12,Washington,1st-3rd,441
+2019,12,Washington,4th-6th,77
+2019,12,Washington,7th-9th,16
+2019,12,Washington,None,3
+2019,12,Washington,PNC Start Unk,3
+2019,12,Washington,PNC Unknown,18
+2019,12,Wayne,Total,887
+2019,12,Wayne,1st-3rd,567
+2019,12,Wayne,4th-6th,262
+2019,12,Wayne,7th-9th,34
+2019,12,Wayne,None,3
+2019,12,Wayne,PNC Start Unk,2
+2019,12,Wayne,PNC Unknown,19
+2019,12,Westchester,Total,9906
+2019,12,Westchester,1st-3rd,8024
+2019,12,Westchester,4th-6th,1373
+2019,12,Westchester,7th-9th,339
+2019,12,Westchester,None,46
+2019,12,Westchester,PNC Start Unk,46
+2019,12,Westchester,PNC Unknown,78
+2019,12,Wyoming,Total,356
+2019,12,Wyoming,1st-3rd,281
+2019,12,Wyoming,4th-6th,49
+2019,12,Wyoming,7th-9th,5
+2019,12,Wyoming,None,2
+2019,12,Wyoming,PNC Start Unk,0
+2019,12,Wyoming,PNC Unknown,19
+2019,12,Yates,Total,308
+2019,12,Yates,1st-3rd,154
+2019,12,Yates,4th-6th,121
+2019,12,Yates,7th-9th,23
+2013,12,New York,None,120
+2013,12,Chemung,1st-3rd,749
+2013,12,Chautauqua,7th-9th,71
+2013,12,Chemung,Total,938
+2013,12,Putnam,7th-9th,14
+2019,12,Yates,None,1
+2013,12,Wyoming,7th-9th,12
+2013,12,Genesee,Total,569
+2013,12,Saratoga,PNC Start Unk,7
+2013,12,Rensselaer,1st-3rd,1268
+2013,12,Tioga,PNC Start Unk,12
+2013,12,Ontario,Total,1028
+2013,12,Suffolk,1st-3rd,11965
+2013,12,Niagara,7th-9th,112
+2019,12,Yates,PNC Start Unk,3
+2013,12,Oswego,Total,1329
+2013,12,Washington,None,3
+2013,12,Suffolk,None,59
+2013,12,Greene,None,0
+2013,12,Oswego,PNC Unknown,8
+2013,12,Dutchess,Total,2594
+2013,12,Schoharie,PNC Unknown,4
+2013,12,Allegany,None,2
+2019,12,Yates,PNC Unknown,6
+2013,12,Steuben,7th-9th,68
+2013,12,Ontario,PNC Unknown,35
+2013,12,Hamilton,1st-3rd,19
+2013,12,Greene,Total,418
+2013,12,Washington,Total,612
+2013,12,Orleans,Total,414
+2013,12,Westchester,Total,10557
+2013,12,Rockland,1st-3rd,3066
+2013,12,Lewis,7th-9th,8
+2013,12,Lewis,PNC Start Unk,1
+2013,12,Richmond,None,10
+2013,12,Rest of State,PNC Start Unk,1683
+2013,12,Lewis,PNC Unknown,12
+2013,12,Albany,Total,3137
+2013,12,Tioga,None,2
+2013,12,Kings,PNC Unknown,161
+2013,12,Albany,PNC Unknown,116
+2013,12,Fulton,PNC Start Unk,2
+2013,12,Dutchess,None,15
+2013,12,Yates,None,2
+2013,12,Oswego,PNC Start Unk,6
+2013,12,Erie,7th-9th,449
+2013,12,Genesee,7th-9th,22
+2013,12,New York State,Total,235274
+2013,12,Kings,None,209
+2013,12,Warren,7th-9th,20
+2013,12,Livingston,Total,524
+2013,12,Orleans,None,7
+2013,12,Columbia,1st-3rd,379
+2013,12,Orleans,PNC Start Unk,0
+2013,12,Monroe,1st-3rd,6264
+2013,12,Tompkins,None,6
+2013,12,Saratoga,Total,2252
+2013,12,Schenectady,PNC Start Unk,4
+2013,12,New York City,PNC Unknown,926
+2013,12,Livingston,PNC Unknown,27
+2013,12,Fulton,PNC Unknown,5
+2013,12,Saratoga,None,9
+2013,12,Montgomery,1st-3rd,385
+2013,12,Seneca,None,2
+2013,12,Ulster,PNC Unknown,22
+2013,12,Oneida,None,13
+2013,12,Broome,PNC Unknown,2
+2013,12,Chautauqua,PNC Unknown,48
+2013,12,Montgomery,PNC Unknown,6
+2013,12,Rensselaer,7th-9th,59
+2013,12,Tompkins,1st-3rd,661
+2013,12,Cortland,Total,471
+2013,12,Herkimer,1st-3rd,495
+2013,12,Jefferson,None,7
+2013,12,Westchester,1st-3rd,6937
+2013,12,Tioga,7th-9th,18
+2013,12,Madison,PNC Unknown,9
+2013,12,Erie,None,50
+2013,12,Erie,Total,9873
+2013,12,Monroe,PNC Unknown,530
+2013,12,Columbia,7th-9th,33
+2013,12,Chemung,PNC Unknown,3
+2013,12,Clinton,PNC Unknown,1
+2013,12,Steuben,PNC Start Unk,2
+2013,12,Greene,PNC Start Unk,0
+2013,12,Steuben,1st-3rd,735
+2013,12,Orleans,7th-9th,17
+2013,12,Allegany,1st-3rd,332
+2013,12,Herkimer,None,2
+2013,12,Delaware,PNC Start Unk,1
+2013,12,Chautauqua,1st-3rd,857
+2013,12,Cayuga,1st-3rd,596
+2013,12,Franklin,PNC Start Unk,9
+2013,12,New York,PNC Start Unk,131
+2013,12,Schenectady,1st-3rd,1285
+2013,12,Greene,7th-9th,24
+2013,12,New York State,7th-9th,12077
+2013,12,Cayuga,Total,741
+2013,12,Erie,1st-3rd,6733
+2013,12,Orange,None,23
+2013,12,Nassau,None,44
+2013,12,Delaware,PNC Unknown,2
+2013,12,Schenectady,Total,1661
+2013,12,Cattaraugus,7th-9th,36
+2013,12,Herkimer,7th-9th,24
+2013,12,Otsego,1st-3rd,438
+2013,12,Wyoming,1st-3rd,286
+2013,12,Niagara,1st-3rd,1502
+2013,12,Nassau,Total,13821
+2013,12,Putnam,PNC Unknown,2
+2013,12,Columbia,PNC Start Unk,8
+2013,12,Broome,1st-3rd,1598
+2013,12,Schuyler,PNC Start Unk,2
+2013,12,Otsego,None,4
+2013,12,Chenango,PNC Start Unk,1
+2013,12,Orleans,1st-3rd,315
+2013,12,Rockland,PNC Start Unk,91
+2013,12,Warren,None,0
+2013,12,Seneca,PNC Unknown,11
+2013,12,Rockland,7th-9th,194
+2013,12,Kings,Total,41060
+2013,12,Warren,Total,609
+2013,12,Wayne,Total,960
+2013,12,Genesee,1st-3rd,412
+2013,12,Erie,PNC Start Unk,11
+2013,12,St Lawrence,PNC Unknown,46
+2013,12,Yates,PNC Start Unk,0
+2013,12,Richmond,1st-3rd,4486
+2013,12,Jefferson,PNC Unknown,16
+2013,12,Cortland,1st-3rd,381
+2013,12,Hamilton,None,1
+2013,12,Kings,7th-9th,2378
+2013,12,Wyoming,PNC Start Unk,1
+2013,12,Sullivan,None,9
+2013,12,Putnam,Total,802
+2013,12,Ulster,7th-9th,42
+2013,12,Rest of State,None,586
+2013,12,Tioga,PNC Unknown,3
+2013,12,Rensselaer,None,14
+2013,12,Monroe,Total,8355
+2013,12,Schoharie,PNC Start Unk,1
+2013,12,Ontario,1st-3rd,822
+2013,12,Orange,Total,4746
+2013,12,St Lawrence,PNC Start Unk,18
+2013,12,Oneida,PNC Unknown,5
+2013,12,New York State,PNC Start Unk,2392
+2013,12,Schoharie,7th-9th,4
+2013,12,Richmond,7th-9th,114
+2013,12,Onondaga,7th-9th,155
+2013,12,New York City,7th-9th,7767
+2013,12,Cortland,PNC Start Unk,2
+2013,12,New York State,1st-3rd,171098
+2013,12,Westchester,PNC Unknown,308
+2013,12,Columbia,PNC Unknown,2
+2013,12,Lewis,1st-3rd,248
+2013,12,Jefferson,1st-3rd,1677
+2013,12,Onondaga,Total,5233
+2013,12,Erie,PNC Unknown,498
+2013,12,Niagara,None,22
+2013,12,Westchester,PNC Start Unk,1091
+2013,12,Queens,1st-3rd,21736
+2013,12,Orange,PNC Unknown,103
+2013,12,Franklin,Total,510
+2013,12,Otsego,PNC Start Unk,2
+2013,12,Hamilton,PNC Unknown,0
+2013,12,Broome,7th-9th,103
+2013,12,Queens,None,314
+2013,12,Fulton,None,2
+2013,12,Queens,PNC Unknown,286
+2013,12,Orange,1st-3rd,3513
+2013,12,New York State,None,1403
+2013,12,Essex,Total,307
+2013,12,Tioga,Total,521
+2013,12,New York City,1st-3rd,82545
+2013,12,St Lawrence,7th-9th,59
+2013,12,Greene,PNC Unknown,8
+2013,12,New York,7th-9th,836
+2013,12,Cattaraugus,1st-3rd,578
+2013,12,Tioga,1st-3rd,410
+2013,12,Dutchess,1st-3rd,1987
+2013,12,Seneca,PNC Start Unk,2
+2013,12,St Lawrence,None,17
+2013,12,Steuben,None,7
+2013,12,New York City,PNC Start Unk,709
+2013,12,Yates,Total,303
+2013,12,Ulster,PNC Start Unk,4
+2013,12,Fulton,7th-9th,20
+2013,12,Niagara,PNC Unknown,75
+2013,12,Chenango,None,4
+2013,12,Genesee,PNC Unknown,7
+2013,12,Rockland,PNC Unknown,176
+2013,12,Allegany,7th-9th,41
+2013,12,Jefferson,Total,2206
+2013,12,Tompkins,PNC Unknown,4
+2013,12,Saratoga,1st-3rd,1788
+2013,12,Chemung,PNC Start Unk,7
+2013,12,Queens,Total,30074
+2013,12,Nassau,1st-3rd,11789
+2013,12,Bronx,PNC Unknown,301
+2013,12,Steuben,Total,1083
+2013,12,Allegany,PNC Start Unk,2
+2013,12,Rest of State,Total,119280
+2013,12,Genesee,PNC Start Unk,0
+2013,12,Onondaga,None,34
+2013,12,Franklin,None,2
+2013,12,Herkimer,PNC Start Unk,0
+2013,12,Tompkins,7th-9th,28
+2013,12,Sullivan,Total,837
+2013,12,Schenectady,7th-9th,59
+2013,12,Richmond,Total,5281
+2013,12,Schuyler,PNC Unknown,0
+2013,12,Suffolk,PNC Start Unk,45
+2013,12,Fulton,Total,526
+2013,12,Clinton,Total,730
+2013,12,Washington,7th-9th,22
+2013,12,Schoharie,1st-3rd,198
+2013,12,Cayuga,None,6
+2013,12,Yates,1st-3rd,165
+2013,12,Clinton,None,0
+2013,12,Cayuga,PNC Unknown,1
+2013,12,Livingston,None,0
+2013,12,Ontario,PNC Start Unk,0
+2013,12,Delaware,Total,376
+2013,12,Albany,None,23
+2013,12,Wayne,7th-9th,41
+2013,12,Lewis,Total,319
+2013,12,Dutchess,PNC Unknown,25
+2013,12,Clinton,1st-3rd,642
+2013,12,Essex,7th-9th,7
+2013,12,Saratoga,7th-9th,47
+2013,12,Cattaraugus,PNC Unknown,99
+2013,12,Saratoga,PNC Unknown,25
+2013,12,Suffolk,PNC Unknown,273
+2013,12,Washington,PNC Start Unk,2
+2013,12,Westchester,None,50
+2013,12,Wayne,PNC Start Unk,1
+2013,12,Monroe,None,35
+2013,12,Essex,PNC Start Unk,2
+2013,12,Orange,PNC Start Unk,40
+2013,12,Schoharie,Total,251
+2013,12,Putnam,PNC Start Unk,52
+2013,12,Suffolk,7th-9th,589
+2013,12,St Lawrence,1st-3rd,841
+2013,12,Seneca,Total,394
+2013,12,Queens,7th-9th,2157
+2013,12,Schenectady,None,6
+2013,12,Montgomery,None,11
+2013,12,Monroe,7th-9th,257
+2013,12,Bronx,PNC Start Unk,165
+2013,12,Albany,1st-3rd,2280
+2013,12,Chemung,7th-9th,19
+2013,12,Orange,7th-9th,153
+2013,12,Wyoming,None,2
+2013,12,Warren,1st-3rd,410
+2013,12,New York City,None,817
+2013,12,Sullivan,1st-3rd,556
+2013,12,Nassau,PNC Start Unk,41
+2013,12,Oneida,1st-3rd,1848
+2013,12,Rensselaer,PNC Start Unk,5
+2013,12,Yates,PNC Unknown,1
+2013,12,Cortland,7th-9th,15
+2013,12,Suffolk,Total,15530
+2013,12,Monroe,PNC Start Unk,13
+2013,12,Rest of State,PNC Unknown,2815
+2013,12,Ulster,1st-3rd,1192
+2013,12,Essex,PNC Unknown,1
+2013,12,Otsego,PNC Unknown,2
+2013,12,Delaware,None,1
+2013,12,Bronx,Total,21156
+2013,12,Madison,7th-9th,30
+2013,12,Bronx,None,164
+2013,12,Bronx,7th-9th,2282
+2013,12,Niagara,PNC Start Unk,8
+2013,12,Seneca,7th-9th,25
+2013,12,Rensselaer,PNC Unknown,47
+2013,12,New York City,Total,115994
+2013,12,Oneida,Total,2642
+2013,12,Kings,PNC Start Unk,301
+2013,12,Chautauqua,None,12
+2013,12,Franklin,PNC Unknown,4
+2013,12,Oswego,7th-9th,43
+2013,12,Seneca,1st-3rd,274
+2013,12,Cattaraugus,Total,909
+2013,12,Hamilton,Total,30
+2013,12,Oneida,PNC Start Unk,10
+2013,12,Columbia,Total,539
+2013,12,Livingston,7th-9th,19
+2013,12,Steuben,PNC Unknown,6
+2013,12,Chenango,1st-3rd,397
+2013,12,New York,1st-3rd,13743
+2013,12,Madison,1st-3rd,495
+2013,12,Clinton,7th-9th,10
+2013,12,St Lawrence,Total,1227
+2013,12,Onondaga,PNC Unknown,2
+2013,12,Rest of State,7th-9th,4310
+2013,12,Allegany,Total,473
+2013,12,Sullivan,PNC Start Unk,2
+2013,12,Chautauqua,PNC Start Unk,8
+2013,12,New York State,PNC Unknown,3741
+2013,12,Livingston,1st-3rd,379
+2013,12,Sullivan,7th-9th,38
+2013,12,Broome,PNC Start Unk,9
+2013,12,Chemung,None,4
+2013,12,Dutchess,7th-9th,75
+2013,12,Chenango,7th-9th,11
+2013,12,Cattaraugus,None,9
+2013,12,Oswego,1st-3rd,991
+2013,12,Wayne,PNC Unknown,43
+2013,12,Schuyler,7th-9th,2
+2013,12,Dutchess,PNC Start Unk,113
+2013,12,Washington,1st-3rd,424
+2013,12,Schuyler,1st-3rd,114
+2013,12,Sullivan,PNC Unknown,12
+2013,12,Otsego,7th-9th,17
+2013,12,Franklin,1st-3rd,344
+2013,12,New York,Total,18423
+2013,12,Orleans,PNC Unknown,8
+2013,12,Clinton,PNC Start Unk,7
+2013,12,Warren,PNC Start Unk,1
+2013,12,Montgomery,7th-9th,69
+2013,12,Madison,PNC Start Unk,2
+2013,12,Cayuga,7th-9th,10
+2013,12,Madison,Total,645
+2013,12,Albany,PNC Start Unk,8
+2013,12,Niagara,Total,2195
+2013,12,Rockland,Total,4650
+2013,12,Columbia,None,3
+2013,12,Madison,None,1
+2013,12,Broome,None,9
+2013,12,Wayne,None,6
+2013,12,Chenango,PNC Unknown,5
+2013,12,Tompkins,PNC Start Unk,2
+2013,12,Chenango,Total,499
+2013,12,Queens,PNC Start Unk,106
+2013,12,Essex,None,1
+2013,12,Ontario,7th-9th,16
+2013,12,Wayne,1st-3rd,682
+2013,12,Bronx,1st-3rd,12141
+2013,12,Cortland,None,3
+2013,12,Broome,Total,2061
+2013,12,Schoharie,None,2
+2013,12,Yates,7th-9th,10
+2013,12,Cortland,PNC Unknown,10
+2013,12,Montgomery,PNC Start Unk,5
+2013,12,Wyoming,PNC Unknown,8
+2013,12,Otsego,Total,534
+2013,12,Washington,PNC Unknown,2
+2013,12,Rockland,None,9
+2013,12,Ontario,None,2
+2013,12,Hamilton,PNC Start Unk,0
+2013,12,Rensselaer,Total,1750
+2013,12,Ulster,Total,1585
+2013,12,Allegany,PNC Unknown,12
+2013,12,Schuyler,Total,157
+2013,12,Franklin,7th-9th,40
+2013,12,Herkimer,Total,673
+2013,12,Jefferson,7th-9th,48
+2013,12,Essex,1st-3rd,240
+2013,12,Cattaraugus,PNC Start Unk,2
+2013,12,Schuyler,None,2
+2013,12,Wyoming,Total,387
+2013,12,Chautauqua,Total,1340
+2013,12,Putnam,None,1
+2013,12,Oneida,7th-9th,116
+2013,12,Rest of State,1st-3rd,88553
+2013,12,Nassau,7th-9th,343
+2013,12,Montgomery,Total,594
+2013,12,Genesee,None,4
+2013,12,Cayuga,PNC Start Unk,1
+2013,12,Lewis,None,1
+2013,12,Onondaga,1st-3rd,3996
+2013,12,Herkimer,PNC Unknown,5
+2013,12,New York,PNC Unknown,175
+2013,12,Richmond,PNC Start Unk,6
+2013,12,Delaware,7th-9th,10
+2013,12,Westchester,7th-9th,396
+2013,12,Delaware,1st-3rd,296
+2013,12,Fulton,1st-3rd,395
+2013,12,Onondaga,PNC Start Unk,5
+2013,12,Putnam,1st-3rd,627
+2013,12,Jefferson,PNC Start Unk,7
+2013,12,Schenectady,PNC Unknown,36
+2013,12,Tompkins,Total,853
+2013,12,Greene,1st-3rd,297
+2013,12,Ulster,None,8
+2013,12,Livingston,PNC Start Unk,5
+2013,12,Richmond,PNC Unknown,3
+2013,12,Albany,7th-9th,139
+2013,12,Nassau,PNC Unknown,87
+2013,12,Warren,PNC Unknown,7
+2013,12,Hamilton,7th-9th,1
+2013,12,Oswego,None,13
+2013,12,Kings,1st-3rd,30439
+2013,12,Rockland,4th-6th,1114
+2013,12,Orleans,4th-6th,67
+2013,12,Westchester,4th-6th,1775
+2013,12,Yates,4th-6th,125
+2013,12,Delaware,4th-6th,66
+2013,12,Cayuga,4th-6th,127
+2013,12,Rensselaer,4th-6th,357
+2013,12,St Lawrence,4th-6th,246
+2013,12,Washington,4th-6th,159
+2013,12,Ontario,4th-6th,153
+2013,12,Allegany,4th-6th,84
+2013,12,Fulton,4th-6th,102
+2013,12,Onondaga,4th-6th,1041
+2013,12,Otsego,4th-6th,71
+2013,12,Rest of State,4th-6th,21333
+2013,12,Queens,4th-6th,5475
+2013,12,Franklin,4th-6th,111
+2013,12,Madison,4th-6th,108
+2013,12,Montgomery,4th-6th,118
+2013,12,Schoharie,4th-6th,42
+2013,12,Lewis,4th-6th,49
+2013,12,Sullivan,4th-6th,220
+2013,12,Clinton,4th-6th,70
+2013,12,Richmond,4th-6th,662
+2013,12,Albany,4th-6th,571
+2013,12,Steuben,4th-6th,265
+2013,12,Bronx,4th-6th,6103
+2013,12,Orange,4th-6th,914
+2013,12,Ulster,4th-6th,317
+2013,12,Chemung,4th-6th,156
+2013,12,Cattaraugus,4th-6th,185
+2013,12,Schuyler,4th-6th,37
+2013,12,Niagara,4th-6th,476
+2013,12,New York,4th-6th,3418
+2013,12,Greene,4th-6th,89
+2013,12,Schenectady,4th-6th,271
+2013,12,New York City,4th-6th,23230
+2013,12,Herkimer,4th-6th,147
+2013,12,Livingston,4th-6th,94
+2013,12,New York State,4th-6th,44563
+2013,12,Oneida,4th-6th,650
+2013,12,Oswego,4th-6th,268
+2013,12,Columbia,4th-6th,114
+2013,12,Putnam,4th-6th,106
+2013,12,Wyoming,4th-6th,78
+2013,12,Hamilton,4th-6th,9
+2013,12,Tioga,4th-6th,76
+2013,12,Saratoga,4th-6th,376
+2013,12,Erie,4th-6th,2132
+2013,12,Chenango,4th-6th,81
+2013,12,Monroe,4th-6th,1256
+2013,12,Genesee,4th-6th,124
+2013,12,Cortland,4th-6th,60
+2013,12,Tompkins,4th-6th,152
+2013,12,Essex,4th-6th,56
+2013,12,Wayne,4th-6th,187
+2013,12,Suffolk,4th-6th,2599
+2013,12,Jefferson,4th-6th,451
+2013,12,Warren,4th-6th,171
+2013,12,Broome,4th-6th,340
+2013,12,Dutchess,4th-6th,379
+2013,12,Seneca,4th-6th,80
+2013,12,Chautauqua,4th-6th,344
+2013,12,Nassau,4th-6th,1517
+2013,12,Kings,4th-6th,7572
+2011,12,Oneida,1st-3rd,1908
+2008,12,Ontario,4th-6th,187
+2009,12,Herkimer,4th-6th,141
+2008,12,New York,Total,20306
+2010,12,Schoharie,None,3
+2009,12,Onondaga,4th-6th,1124
+2009,12,Jefferson,None,11
+2009,12,Tompkins,7th-9th,30
+2011,12,Allegany,4th-6th,94
+2009,12,Clinton,None,0
+2011,12,Fulton,7th-9th,27
+2012,12,New York,7th-9th,847
+2008,12,Wyoming,None,2
+2012,12,Oswego,PNC Start Unk,6
+2012,12,Richmond,1st-3rd,4463
+2011,12,Herkimer,1st-3rd,476
+2010,12,Richmond,1st-3rd,4592
+2010,12,Bronx,None,138
+2010,12,Dutchess,PNC Unknown,7
+2011,12,Allegany,None,0
+2011,12,Wayne,None,5
+2011,12,Niagara,Total,2129
+2011,12,Dutchess,Total,2652
+2010,12,Warren,PNC Start Unk,24
+2012,12,Otsego,PNC Unknown,4
+2012,12,Schuyler,Total,197
+2010,12,Allegany,7th-9th,33
+2012,12,Orleans,4th-6th,83
+2012,12,Jefferson,1st-3rd,1643
+2008,12,Cayuga,None,0
+2012,12,Oswego,4th-6th,264
+2012,12,Yates,Total,328
+2010,12,Hamilton,7th-9th,1
+2012,12,Albany,PNC Start Unk,5
+2012,12,Nassau,PNC Start Unk,38
+2008,12,Chemung,Total,957
+2010,12,Warren,1st-3rd,352
+2012,12,Bronx,None,239
+2010,12,Genesee,PNC Unknown,10
+2010,12,Livingston,PNC Start Unk,20
+2012,12,Bronx,Total,21283
+2012,12,Lewis,4th-6th,65
+2012,12,Allegany,1st-3rd,333
+2010,12,Greene,Total,461
+2010,12,Orleans,1st-3rd,317
+2010,12,Suffolk,PNC Start Unk,354
+2010,12,Oneida,PNC Start Unk,38
+2008,12,Fulton,PNC Start Unk,47
+2009,12,Chenango,1st-3rd,449
+2008,12,Cattaraugus,Total,1010
+2009,12,Fulton,4th-6th,80
+2010,12,Erie,None,83
+2008,12,Rest of State,PNC Unknown,4985
+2009,12,Fulton,PNC Unknown,5
+2010,12,Yates,Total,312
+2011,12,Warren,PNC Unknown,7
+2010,12,Ontario,PNC Start Unk,39
+2009,12,Franklin,Total,514
+2011,12,Montgomery,None,9
+2011,12,Wyoming,4th-6th,60
+2010,12,Rockland,Total,4525
+2008,12,Richmond,Total,5753
+2009,12,Warren,4th-6th,231
+2008,12,Schenectady,PNC Unknown,44
+2011,12,Broome,7th-9th,63
+2009,12,Delaware,7th-9th,13
+2008,12,Hamilton,4th-6th,7
+2009,12,Bronx,7th-9th,1842
+2012,12,Cortland,None,4
+2012,12,Franklin,Total,531
+2011,12,Orleans,PNC Unknown,5
+2011,12,Lewis,1st-3rd,232
+2008,12,Franklin,1st-3rd,339
+2011,12,Columbia,1st-3rd,358
+2011,12,New York State,PNC Unknown,3901
+2011,12,St Lawrence,4th-6th,242
+2010,12,Monroe,1st-3rd,6094
+2009,12,New York,PNC Unknown,843
+2009,12,Erie,PNC Unknown,332
+2008,12,Essex,4th-6th,83
+2009,12,Essex,PNC Unknown,0
+2011,12,Tompkins,PNC Unknown,2
+2011,12,Sullivan,4th-6th,206
+2010,12,Genesee,1st-3rd,453
+2008,12,Schenectady,1st-3rd,1256
+2010,12,Allegany,1st-3rd,382
+2008,12,Onondaga,Total,5553
+2011,12,Oneida,PNC Start Unk,61
+2012,12,Queens,4th-6th,6415
+2012,12,Cayuga,1st-3rd,651
+2008,12,Genesee,1st-3rd,422
+2012,12,Schuyler,PNC Start Unk,1
+2012,12,Broome,Total,2076
+2008,12,Livingston,PNC Start Unk,22
+2011,12,Onondaga,1st-3rd,4198
+2010,12,St Lawrence,None,13
+2012,12,Columbia,PNC Start Unk,13
+2012,12,Putnam,7th-9th,14
+2009,12,Lewis,PNC Unknown,13
+2008,12,Schuyler,4th-6th,22
+2009,12,Monroe,None,32
+2009,12,Clinton,PNC Unknown,1
+2009,12,Madison,PNC Start Unk,6
+2011,12,Suffolk,PNC Start Unk,426
+2012,12,Chemung,7th-9th,28
+2010,12,Clinton,None,4
+2012,12,Cattaraugus,Total,904
+2011,12,Putnam,1st-3rd,624
+2008,12,Fulton,7th-9th,14
+2010,12,Yates,None,1
+2010,12,Yates,4th-6th,115
+2008,12,Broome,1st-3rd,1552
+2008,12,Monroe,1st-3rd,6057
+2012,12,Sullivan,PNC Start Unk,3
+2009,12,Onondaga,None,41
+2011,12,Erie,7th-9th,309
+2009,12,Tompkins,4th-6th,171
+2011,12,Chautauqua,4th-6th,295
+2010,12,Yates,7th-9th,17
+2008,12,Steuben,None,4
+2011,12,Niagara,4th-6th,423
+2010,12,St Lawrence,7th-9th,39
+2010,12,Richmond,4th-6th,739
+2009,12,St Lawrence,7th-9th,38
+2010,12,Warren,PNC Unknown,10
+2010,12,Niagara,Total,2214
+2012,12,St Lawrence,None,20
+2011,12,Monroe,Total,8427
+2009,12,Fulton,Total,556
+2011,12,Cattaraugus,None,8
+2009,12,Madison,4th-6th,105
+2012,12,Tompkins,4th-6th,221
+2012,12,New York,PNC Unknown,175
+2009,12,Orange,PNC Unknown,210
+2008,12,New York,4th-6th,3047
+2010,12,Warren,None,1
+2008,12,Saratoga,1st-3rd,1701
+2009,12,Schuyler,PNC Start Unk,9
+2008,12,Lewis,1st-3rd,225
+2009,12,Suffolk,Total,17183
+2010,12,Seneca,PNC Unknown,5
+2008,12,Chenango,4th-6th,76
+2012,12,Columbia,None,5
+2012,12,Cattaraugus,7th-9th,35
+2011,12,St Lawrence,7th-9th,39
+2011,12,Sullivan,Total,808
+2009,12,Erie,Total,9797
+2009,12,Monroe,7th-9th,202
+2009,12,Schoharie,None,0
+2012,12,Delaware,1st-3rd,333
+2010,12,Chautauqua,PNC Unknown,44
+2009,12,Herkimer,Total,671
+2010,12,Greene,PNC Unknown,14
+2011,12,Clinton,1st-3rd,667
+2008,12,Westchester,1st-3rd,7162
+2010,12,Delaware,4th-6th,78
+2010,12,Fulton,PNC Start Unk,32
+2008,12,Kings,4th-6th,8759
+2009,12,Rensselaer,PNC Unknown,51
+2009,12,Ulster,PNC Unknown,29
+2008,12,Seneca,7th-9th,21
+2008,12,Otsego,7th-9th,15
+2012,12,Steuben,1st-3rd,794
+2008,12,Yates,Total,290
+2010,12,Hamilton,1st-3rd,22
+2012,12,Schenectady,1st-3rd,1424
+2011,12,Yates,None,2
+2011,12,Ontario,1st-3rd,754
+2010,12,Schuyler,7th-9th,2
+2010,12,Saratoga,Total,2304
+2008,12,Cayuga,4th-6th,154
+2011,12,Albany,4th-6th,518
+2011,12,Wayne,4th-6th,211
+2008,12,Niagara,None,24
+2012,12,Franklin,4th-6th,124
+2009,12,Wayne,4th-6th,251
+2008,12,Ulster,PNC Start Unk,139
+2008,12,New York,7th-9th,706
+2012,12,Broome,PNC Unknown,1
+2011,12,Rest of State,1st-3rd,84880
+2010,12,Schoharie,7th-9th,4
+2009,12,Yates,4th-6th,139
+2012,12,Cortland,PNC Unknown,3
+2009,12,St Lawrence,1st-3rd,893
+2009,12,Monroe,1st-3rd,5938
+2010,12,Montgomery,None,12
+2012,12,Livingston,None,3
+2011,12,Schuyler,PNC Unknown,0
+2011,12,Schenectady,1st-3rd,1261
+2011,12,Greene,7th-9th,16
+2009,12,Niagara,1st-3rd,1663
+2008,12,Oneida,1st-3rd,1806
+2012,12,Livingston,1st-3rd,374
+2011,12,Greene,PNC Start Unk,19
+2010,12,Washington,PNC Unknown,4
+2008,12,Otsego,PNC Unknown,2
+2008,12,Saratoga,PNC Unknown,28
+2010,12,Albany,7th-9th,93
+2011,12,Genesee,None,3
+2012,12,Otsego,7th-9th,27
+2008,12,Essex,PNC Start Unk,15
+2012,12,Madison,1st-3rd,573
+2010,12,Dutchess,7th-9th,59
+2008,12,St Lawrence,4th-6th,204
+2011,12,Franklin,1st-3rd,349
+2010,12,Washington,None,3
+2010,12,Fulton,1st-3rd,414
+2008,12,Orange,Total,5406
+2010,12,Sullivan,Total,831
+2011,12,Orleans,None,3
+2009,12,Oswego,None,6
+2012,12,Steuben,None,8
+2008,12,Rensselaer,PNC Start Unk,140
+2011,12,Oneida,7th-9th,99
+2010,12,Tioga,PNC Unknown,0
+2012,12,Oneida,PNC Unknown,5
+2010,12,St Lawrence,1st-3rd,880
+2011,12,Westchester,PNC Unknown,201
+2009,12,Schenectady,PNC Start Unk,51
+2010,12,Livingston,None,1
+2010,12,Ontario,Total,1036
+2009,12,Greene,PNC Unknown,4
+2008,12,Hamilton,1st-3rd,24
+2010,12,Greene,1st-3rd,297
+2010,12,Niagara,PNC Start Unk,66
+2011,12,Otsego,1st-3rd,420
+2009,12,Dutchess,4th-6th,340
+2009,12,Suffolk,PNC Unknown,1106
+2011,12,Livingston,None,1
+2012,12,Oneida,PNC Start Unk,4
+2009,12,Franklin,PNC Unknown,1
+2009,12,St Lawrence,PNC Unknown,35
+2008,12,Tompkins,PNC Unknown,5
+2010,12,Fulton,Total,555
+2012,12,Orleans,Total,402
+2009,12,Orleans,None,1
+2012,12,Wyoming,7th-9th,15
+2011,12,Washington,7th-9th,22
+2011,12,Oswego,PNC Unknown,11
+2009,12,Chemung,None,7
+2009,12,Chautauqua,PNC Start Unk,15
+2009,12,Washington,None,2
+2008,12,Steuben,1st-3rd,785
+2012,12,Cortland,1st-3rd,373
+2010,12,Lewis,PNC Unknown,5
+2012,12,Nassau,1st-3rd,11569
+2009,12,New York City,PNC Unknown,3264
+2011,12,Warren,4th-6th,215
+2011,12,Orleans,PNC Start Unk,32
+2010,12,Tompkins,7th-9th,15
+2009,12,Chautauqua,Total,1442
+2012,12,Westchester,7th-9th,348
+2011,12,Queens,None,267
+2012,12,Delaware,PNC Unknown,2
+2010,12,Orange,PNC Unknown,145
+2012,12,Schoharie,7th-9th,5
+2009,12,Suffolk,1st-3rd,11296
+2010,12,New York,None,88
+2010,12,Essex,7th-9th,10
+2011,12,Oswego,7th-9th,35
+2008,12,New York,None,240
+2011,12,Otsego,PNC Unknown,1
+2010,12,Allegany,4th-6th,49
+2012,12,Seneca,PNC Start Unk,2
+2009,12,Seneca,PNC Start Unk,11
+2009,12,Niagara,Total,2305
+2009,12,Putnam,7th-9th,15
+2011,12,Allegany,Total,526
+2008,12,Oneida,Total,2617
+2008,12,New York City,None,1821
+2009,12,Greene,7th-9th,15
+2012,12,Seneca,7th-9th,20
+2012,12,Rockland,PNC Unknown,200
+2010,12,Tompkins,None,7
+2012,12,Warren,None,2
+2009,12,Rensselaer,None,24
+2010,12,Rest of State,PNC Start Unk,5492
+2012,12,Albany,7th-9th,128
+2008,12,Onondaga,4th-6th,1086
+2012,12,Westchester,Total,10439
+2011,12,Kings,1st-3rd,29437
+2009,12,Chemung,1st-3rd,792
+2011,12,Schuyler,7th-9th,7
+2012,12,Nassau,4th-6th,1882
+2010,12,Richmond,PNC Unknown,11
+2011,12,Saratoga,1st-3rd,1529
+2011,12,Saratoga,7th-9th,84
+2011,12,Schuyler,4th-6th,25
+2010,12,Bronx,7th-9th,2209
+2009,12,Hamilton,4th-6th,11
+2012,12,Erie,PNC Unknown,509
+2012,12,Columbia,Total,532
+2008,12,Nassau,1st-3rd,11740
+2011,12,Greene,4th-6th,106
+2009,12,Westchester,None,75
+2008,12,Allegany,PNC Unknown,3
+2011,12,Broome,1st-3rd,1616
+2011,12,Steuben,PNC Unknown,7
+2012,12,Monroe,PNC Start Unk,13
+2011,12,Broome,Total,2052
+2008,12,Seneca,PNC Start Unk,15
+2012,12,Wayne,None,5
+2011,12,Herkimer,4th-6th,145
+2008,12,Delaware,PNC Start Unk,7
+2012,12,Allegany,4th-6th,86
+2012,12,Washington,4th-6th,192
+2009,12,Onondaga,PNC Unknown,8
+2010,12,Greene,PNC Start Unk,6
+2010,12,Broome,PNC Start Unk,9
+2009,12,Chautauqua,None,14
+2012,12,Fulton,PNC Unknown,6
+2012,12,Richmond,PNC Start Unk,10
+2012,12,Allegany,PNC Start Unk,0
+2012,12,Erie,4th-6th,2046
+2012,12,St Lawrence,Total,1250
+2011,12,Oneida,Total,2689
+2009,12,Essex,None,1
+2011,12,Madison,Total,696
+2008,12,Richmond,PNC Start Unk,137
+2008,12,Orleans,PNC Start Unk,23
+2012,12,Wayne,4th-6th,214
+2009,12,Clinton,Total,787
+2012,12,Ontario,None,2
+2009,12,Delaware,PNC Start Unk,5
+2011,12,Dutchess,4th-6th,357
+2012,12,Clinton,1st-3rd,682
+2009,12,Madison,PNC Unknown,0
+2008,12,Kings,PNC Unknown,2243
+2010,12,Orleans,PNC Unknown,8
+2012,12,Cayuga,4th-6th,121
+2009,12,Washington,PNC Unknown,5
+2011,12,Lewis,Total,338
+2008,12,Rest of State,Total,127899
+2010,12,Schoharie,Total,286
+2012,12,Albany,Total,3133
+2012,12,New York City,None,850
+2011,12,Wyoming,Total,389
+2008,12,Kings,Total,41623
+2010,12,Herkimer,PNC Start Unk,4
+2012,12,Niagara,7th-9th,77
+2008,12,Putnam,PNC Start Unk,65
+2012,12,Chemung,Total,1046
+2012,12,Madison,7th-9th,26
+2008,12,St Lawrence,PNC Unknown,44
+2012,12,Montgomery,PNC Start Unk,2
+2011,12,Otsego,PNC Start Unk,3
+2009,12,Erie,PNC Start Unk,156
+2012,12,Tioga,None,3
+2010,12,Madison,1st-3rd,520
+2008,12,Steuben,4th-6th,161
+2012,12,Tompkins,Total,942
+2009,12,Oneida,PNC Unknown,1
+2011,12,Rest of State,PNC Unknown,3211
+2009,12,Albany,1st-3rd,2183
+2011,12,Clinton,4th-6th,76
+2010,12,Steuben,None,10
+2012,12,Tompkins,PNC Unknown,8
+2009,12,Albany,PNC Unknown,101
+2011,12,Cattaraugus,PNC Unknown,99
+2010,12,Putnam,4th-6th,134
+2009,12,New York,None,138
+2009,12,Chenango,7th-9th,12
+2009,12,Nassau,7th-9th,454
+2011,12,Otsego,4th-6th,87
+2011,12,Delaware,4th-6th,67
+2012,12,Suffolk,Total,15727
+2009,12,Jefferson,PNC Unknown,14
+2011,12,Lewis,4th-6th,68
+2008,12,Chautauqua,PNC Unknown,37
+2011,12,Bronx,None,211
+2010,12,Ulster,7th-9th,37
+2009,12,Dutchess,1st-3rd,2207
+2010,12,New York State,7th-9th,11690
+2011,12,Nassau,1st-3rd,11036
+2010,12,Chautauqua,None,10
+2008,12,Putnam,Total,984
+2008,12,Madison,Total,699
+2009,12,Otsego,None,3
+2009,12,New York City,1st-3rd,80715
+2010,12,Wayne,PNC Start Unk,61
+2011,12,Westchester,7th-9th,391
+2010,12,Delaware,7th-9th,13
+2009,12,Rockland,1st-3rd,2392
+2011,12,Delaware,7th-9th,10
+2008,12,Schuyler,PNC Start Unk,8
+2008,12,Yates,PNC Unknown,2
+2010,12,Sullivan,PNC Start Unk,51
+2012,12,Dutchess,Total,2713
+2011,12,Rockland,4th-6th,950
+2009,12,Montgomery,None,7
+2008,12,Cayuga,7th-9th,32
+2012,12,Greene,4th-6th,105
+2009,12,Schuyler,4th-6th,27
+2009,12,Livingston,4th-6th,93
+2012,12,Delaware,4th-6th,80
+2009,12,Orleans,Total,441
+2011,12,Westchester,1st-3rd,6508
+2010,12,Essex,PNC Unknown,3
+2012,12,Niagara,4th-6th,472
+2010,12,Rockland,1st-3rd,2594
+2008,12,Kings,1st-3rd,26882
+2008,12,Chautauqua,None,9
+2011,12,Monroe,PNC Unknown,554
+2010,12,Clinton,PNC Unknown,1
+2010,12,Saratoga,4th-6th,359
+2012,12,Jefferson,None,13
+2010,12,Otsego,PNC Unknown,3
+2009,12,Rockland,PNC Start Unk,485
+2011,12,Seneca,1st-3rd,229
+2010,12,Allegany,Total,494
+2008,12,Warren,1st-3rd,344
+2011,12,Essex,7th-9th,9
+2010,12,Dutchess,None,15
+2012,12,Jefferson,PNC Start Unk,13
+2010,12,Cattaraugus,4th-6th,172
+2008,12,Clinton,PNC Unknown,1
+2010,12,Clinton,Total,839
+2011,12,Genesee,Total,586
+2011,12,Onondaga,None,42
+2010,12,Richmond,None,39
+2008,12,Albany,PNC Unknown,119
+2011,12,Hamilton,Total,39
+2012,12,Chenango,4th-6th,80
+2012,12,Seneca,None,1
+2010,12,Cayuga,PNC Start Unk,14
+2009,12,Broome,Total,2061
+2008,12,Queens,Total,31063
+2010,12,Cortland,1st-3rd,316
+2009,12,Seneca,PNC Unknown,2
+2009,12,Schuyler,7th-9th,0
+2011,12,New York City,PNC Unknown,690
+2009,12,Onondaga,Total,5479
+2010,12,Erie,7th-9th,406
+2009,12,Ulster,Total,1706
+2011,12,Richmond,7th-9th,145
+2010,12,Rensselaer,4th-6th,282
+2012,12,Madison,Total,710
+2011,12,Cayuga,None,4
+2009,12,Orleans,7th-9th,14
+2011,12,Cattaraugus,Total,911
+2012,12,Wyoming,PNC Start Unk,1
+2010,12,Chemung,PNC Start Unk,26
+2008,12,Cattaraugus,None,7
+2011,12,Rockland,None,12
+2008,12,Cortland,7th-9th,10
+2011,12,Rensselaer,1st-3rd,1240
+2010,12,Tioga,4th-6th,54
+2012,12,Orleans,PNC Start Unk,2
+2010,12,Monroe,PNC Start Unk,445
+2011,12,Albany,1st-3rd,2106
+2010,12,Nassau,7th-9th,376
+2012,12,Washington,Total,619
+2009,12,Yates,None,1
+2008,12,New York State,PNC Start Unk,9122
+2009,12,Richmond,7th-9th,178
+2009,12,Yates,1st-3rd,181
+2011,12,Schenectady,PNC Start Unk,58
+2010,12,Montgomery,1st-3rd,368
+2010,12,Columbia,Total,595
+2010,12,Wyoming,PNC Unknown,3
+2008,12,Greene,Total,439
+2010,12,Oswego,7th-9th,26
+2009,12,Oneida,7th-9th,102
+2009,12,Schenectady,None,22
+2012,12,New York State,Total,239224
+2008,12,Columbia,PNC Start Unk,63
+2009,12,Ontario,7th-9th,33
+2011,12,Rensselaer,7th-9th,44
+2011,12,Dutchess,PNC Unknown,18
+2012,12,Sullivan,None,11
+2010,12,Fulton,7th-9th,23
+2011,12,Hamilton,1st-3rd,27
+2009,12,Queens,Total,30748
+2008,12,Monroe,None,47
+2011,12,Tompkins,7th-9th,37
+2010,12,Chemung,None,1
+2009,12,Monroe,Total,8580
+2010,12,Rest of State,PNC Unknown,2762
+2011,12,New York,PNC Unknown,134
+2009,12,Steuben,PNC Start Unk,35
+2009,12,Niagara,None,19
+2008,12,Washington,4th-6th,216
+2010,12,Orange,None,36
+2009,12,Sullivan,4th-6th,276
+2011,12,Broome,4th-6th,335
+2011,12,Wyoming,1st-3rd,280
+2008,12,Warren,None,4
+2010,12,Tompkins,4th-6th,135
+2012,12,Chautauqua,PNC Start Unk,2
+2010,12,Bronx,PNC Unknown,562
+2011,12,Rockland,1st-3rd,2783
+2009,12,Chemung,7th-9th,17
+2010,12,Madison,Total,642
+2009,12,Cayuga,Total,812
+2011,12,Washington,PNC Unknown,7
+2008,12,Genesee,Total,629
+2008,12,Saratoga,None,11
+2011,12,Tompkins,Total,915
+2009,12,Kings,7th-9th,2229
+2009,12,Erie,4th-6th,2180
+2009,12,Columbia,7th-9th,14
+2009,12,New York City,4th-6th,24279
+2012,12,Schenectady,PNC Unknown,85
+2011,12,Queens,7th-9th,1934
+2008,12,Schuyler,Total,182
+2011,12,St Lawrence,1st-3rd,885
+2009,12,Genesee,4th-6th,109
+2009,12,Chenango,4th-6th,52
+2012,12,Schuyler,1st-3rd,147
+2008,12,Richmond,7th-9th,167
+2011,12,Madison,4th-6th,99
+2008,12,Herkimer,7th-9th,16
+2009,12,Oneida,PNC Start Unk,23
+2008,12,Warren,PNC Start Unk,42
+2008,12,Schoharie,4th-6th,49
+2011,12,Greene,Total,428
+2012,12,Westchester,1st-3rd,6752
+2011,12,Clinton,7th-9th,13
+2009,12,Saratoga,PNC Unknown,34
+2011,12,Delaware,Total,392
+2010,12,Warren,4th-6th,204
+2008,12,Chemung,PNC Unknown,2
+2008,12,Dutchess,7th-9th,59
+2008,12,Wyoming,1st-3rd,296
+2012,12,Fulton,4th-6th,82
+2009,12,Montgomery,1st-3rd,403
+2008,12,Chemung,None,5
+2009,12,Lewis,None,4
+2009,12,Lewis,7th-9th,7
+2011,12,Rest of State,Total,121017
+2010,12,Tompkins,PNC Unknown,5
+2010,12,Suffolk,1st-3rd,12137
+2012,12,Chautauqua,4th-6th,321
+2011,12,Wyoming,PNC Start Unk,28
+2008,12,Clinton,None,0
+2010,12,Cattaraugus,PNC Unknown,111
+2008,12,Genesee,7th-9th,15
+2012,12,New York State,PNC Unknown,4362
+2009,12,Yates,PNC Start Unk,13
+2009,12,Nassau,PNC Start Unk,281
+2008,12,Suffolk,4th-6th,3569
+2011,12,New York City,4th-6th,26780
+2011,12,Kings,None,232
+2011,12,Ontario,PNC Start Unk,40
+2010,12,Wyoming,Total,394
+2009,12,Washington,Total,625
+2011,12,Allegany,PNC Start Unk,28
+2010,12,Oswego,Total,1325
+2011,12,Essex,4th-6th,74
+2011,12,Tioga,7th-9th,17
+2010,12,Tioga,7th-9th,15
+2012,12,Suffolk,4th-6th,2705
+2011,12,Oneida,None,19
+2011,12,St Lawrence,PNC Start Unk,18
+2011,12,Westchester,4th-6th,1966
+2009,12,Oswego,7th-9th,49
+2012,12,Cattaraugus,PNC Unknown,99
+2012,12,New York City,7th-9th,7323
+2011,12,Nassau,None,40
+2009,12,Orange,7th-9th,202
+2012,12,Essex,None,2
+2008,12,Kings,PNC Start Unk,1031
+2010,12,Madison,None,2
+2011,12,Onondaga,7th-9th,148
+2008,12,Orange,1st-3rd,2999
+2010,12,Cayuga,7th-9th,20
+2012,12,Ontario,PNC Start Unk,0
+2011,12,Chenango,None,3
+2012,12,Montgomery,PNC Unknown,8
+2009,12,Dutchess,PNC Unknown,7
+2012,12,New York,PNC Start Unk,131
+2012,12,Essex,PNC Start Unk,3
+2010,12,Ulster,None,12
+2011,12,Nassau,7th-9th,367
+2009,12,St Lawrence,Total,1191
+2012,12,Rockland,1st-3rd,3028
+2012,12,Essex,7th-9th,10
+2008,12,Clinton,4th-6th,76
+2009,12,Niagara,PNC Unknown,44
+2012,12,Orleans,1st-3rd,286
+2012,12,Jefferson,Total,2277
+2009,12,Schenectady,Total,1799
+2011,12,Montgomery,1st-3rd,360
+2010,12,Queens,7th-9th,2039
+2009,12,Essex,Total,351
+2011,12,Broome,None,15
+2012,12,Greene,PNC Start Unk,1
+2010,12,Jefferson,None,9
+2010,12,Lewis,1st-3rd,218
+2008,12,Oneida,PNC Start Unk,19
+2010,12,Genesee,4th-6th,123
+2012,12,Steuben,Total,1116
+2012,12,Erie,Total,9945
+2012,12,Tioga,7th-9th,20
+2008,12,Delaware,1st-3rd,348
+2011,12,Fulton,PNC Start Unk,44
+2011,12,Erie,Total,9693
+2012,12,Putnam,PNC Start Unk,44
+2010,12,Suffolk,PNC Unknown,311
+2012,12,Wyoming,4th-6th,54
+2010,12,Cortland,4th-6th,68
+2011,12,Schenectady,7th-9th,52
+2012,12,Suffolk,7th-9th,556
+2011,12,Montgomery,Total,567
+2010,12,Queens,Total,30484
+2008,12,Dutchess,PNC Unknown,64
+2011,12,Chautauqua,PNC Unknown,47
+2009,12,Chenango,Total,524
+2008,12,Erie,PNC Unknown,344
+2012,12,Suffolk,None,88
+2008,12,Chenango,PNC Unknown,4
+2008,12,Orange,4th-6th,1374
+2012,12,Wayne,1st-3rd,665
+2011,12,Cayuga,PNC Unknown,4
+2011,12,Yates,PNC Start Unk,12
+2011,12,Schoharie,7th-9th,5
+2012,12,Ulster,4th-6th,351
+2011,12,Cortland,Total,481
+2009,12,Saratoga,PNC Start Unk,80
+2011,12,Warren,7th-9th,28
+2010,12,Herkimer,PNC Unknown,1
+2012,12,Broome,1st-3rd,1599
+2010,12,Schenectady,7th-9th,36
+2011,12,New York City,None,820
+2012,12,Yates,PNC Start Unk,0
+2011,12,Essex,1st-3rd,218
+2011,12,Seneca,PNC Start Unk,20
+2011,12,Steuben,1st-3rd,743
+2012,12,Montgomery,4th-6th,85
+2012,12,Broome,7th-9th,92
+2011,12,Erie,1st-3rd,6240
+2009,12,St Lawrence,None,16
+2010,12,Broome,4th-6th,330
+2011,12,Schenectady,4th-6th,270
+2012,12,Cortland,7th-9th,15
+2009,12,Saratoga,None,11
+2011,12,Jefferson,None,7
+2008,12,Cortland,None,4
+2011,12,St Lawrence,PNC Unknown,55
+2009,12,Wayne,1st-3rd,657
+2010,12,Steuben,7th-9th,47
+2008,12,Allegany,4th-6th,69
+2009,12,Delaware,Total,458
+2011,12,New York State,4th-6th,49230
+2010,12,Ulster,4th-6th,327
+2010,12,New York State,PNC Start Unk,7558
+2009,12,Jefferson,1st-3rd,1262
+2009,12,Warren,7th-9th,14
+2009,12,Chemung,4th-6th,124
+2012,12,New York City,Total,118811
+2011,12,Wyoming,None,1
+2009,12,Broome,PNC Unknown,14
+2012,12,Queens,PNC Start Unk,90
+2012,12,Delaware,None,7
+2012,12,Chemung,1st-3rd,825
+2009,12,Warren,PNC Unknown,8
+2008,12,Suffolk,None,154
+2011,12,Sullivan,7th-9th,29
+2011,12,Seneca,None,4
+2012,12,Rockland,4th-6th,1103
+2011,12,Seneca,PNC Unknown,9
+2012,12,Wayne,Total,968
+2011,12,Erie,PNC Start Unk,500
+2011,12,Sullivan,None,12
+2011,12,Hamilton,4th-6th,8
+2010,12,Putnam,PNC Unknown,4
+2008,12,Niagara,PNC Unknown,34
+2008,12,Wayne,PNC Start Unk,57
+2009,12,Fulton,None,6
+2008,12,Tioga,PNC Unknown,5
+2009,12,Jefferson,4th-6th,491
+2010,12,New York State,1st-3rd,169191
+2012,12,Queens,7th-9th,1968
+2011,12,Columbia,PNC Start Unk,49
+2010,12,Queens,1st-3rd,20771
+2011,12,Westchester,None,50
+2009,12,Montgomery,Total,611
+2008,12,Oswego,4th-6th,266
+2009,12,Niagara,7th-9th,76
+2012,12,Orange,1st-3rd,3289
+2012,12,Monroe,None,33
+2009,12,Jefferson,7th-9th,88
+2008,12,Broome,None,7
+2008,12,Bronx,7th-9th,2102
+2008,12,Erie,PNC Start Unk,244
+2012,12,Lewis,PNC Unknown,7
+2010,12,Kings,PNC Start Unk,813
+2009,12,Franklin,7th-9th,16
+2008,12,Washington,None,10
+2009,12,Bronx,PNC Start Unk,1544
+2008,12,Queens,1st-3rd,20188
+2010,12,Rockland,PNC Unknown,251
+2011,12,New York City,1st-3rd,82211
+2011,12,Genesee,PNC Start Unk,59
+2012,12,Putnam,1st-3rd,621
+2009,12,Queens,1st-3rd,21345
+2008,12,Jefferson,1st-3rd,1331
+2012,12,Columbia,PNC Unknown,12
+2009,12,Ulster,PNC Start Unk,146
+2012,12,Chenango,PNC Unknown,0
+2008,12,Tioga,PNC Start Unk,34
+2012,12,Cortland,Total,461
+2008,12,Albany,7th-9th,105
+2011,12,Madison,1st-3rd,557
+2011,12,New York State,None,1608
+2011,12,Wayne,7th-9th,26
+2008,12,Niagara,4th-6th,472
+2011,12,New York,7th-9th,941
+2012,12,Bronx,4th-6th,5747
+2008,12,Bronx,PNC Start Unk,488
+2012,12,Warren,4th-6th,204
+2009,12,Montgomery,PNC Unknown,8
+2008,12,Orange,PNC Unknown,393
+2008,12,Oswego,PNC Start Unk,7
+2008,12,New York,PNC Unknown,1223
+2008,12,Cattaraugus,7th-9th,34
+2010,12,Allegany,PNC Start Unk,28
+2012,12,Lewis,None,3
+2012,12,Tioga,Total,489
+2008,12,Rensselaer,PNC Unknown,33
+2010,12,Schoharie,4th-6th,45
+2008,12,Yates,None,1
+2009,12,Sullivan,Total,861
+2011,12,Dutchess,7th-9th,60
+2010,12,Seneca,None,1
+2010,12,Chenango,7th-9th,6
+2011,12,Chenango,1st-3rd,435
+2011,12,Columbia,PNC Unknown,1
+2012,12,Rest of State,PNC Unknown,3381
+2010,12,Sullivan,7th-9th,29
+2009,12,Greene,None,8
+2010,12,Washington,7th-9th,12
+2008,12,Schuyler,None,0
+2008,12,Chemung,4th-6th,154
+2010,12,Genesee,PNC Start Unk,44
+2010,12,Rensselaer,PNC Unknown,20
+2012,12,Ulster,Total,1583
+2010,12,Hamilton,4th-6th,11
+2010,12,Franklin,7th-9th,26
+2008,12,Livingston,7th-9th,15
+2011,12,Kings,PNC Unknown,191
+2012,12,Jefferson,4th-6th,539
+2011,12,Chenango,PNC Start Unk,5
+2012,12,Lewis,7th-9th,7
+2010,12,Cayuga,None,2
+2011,12,Orange,None,34
+2010,12,Saratoga,PNC Unknown,34
+2010,12,Schuyler,1st-3rd,135
+2009,12,Orange,PNC Start Unk,256
+2009,12,Chenango,None,1
+2011,12,Cattaraugus,1st-3rd,550
+2009,12,Columbia,Total,565
+2011,12,Genesee,7th-9th,16
+2012,12,Wayne,7th-9th,38
+2008,12,Chenango,PNC Start Unk,2
+2010,12,Tioga,None,1
+2008,12,Ulster,1st-3rd,1247
+2009,12,Cattaraugus,4th-6th,163
+2011,12,Tioga,Total,481
+2010,12,Wyoming,1st-3rd,296
+2012,12,Saratoga,Total,2194
+2010,12,Saratoga,7th-9th,73
+2008,12,Chemung,PNC Start Unk,21
+2011,12,Ulster,7th-9th,47
+2011,12,Richmond,1st-3rd,4610
+2011,12,Schoharie,PNC Unknown,8
+2010,12,St Lawrence,PNC Unknown,61
+2012,12,Niagara,PNC Start Unk,0
+2010,12,Oneida,None,14
+2011,12,Wayne,1st-3rd,673
+2008,12,Allegany,None,4
+2011,12,Richmond,PNC Start Unk,6
+2010,12,Westchester,PNC Unknown,130
+2008,12,Jefferson,Total,2127
+2012,12,Otsego,None,3
+2008,12,Onondaga,PNC Unknown,10
+2012,12,Greene,Total,412
+2009,12,Hamilton,PNC Unknown,0
+2012,12,Schuyler,4th-6th,39
+2012,12,Broome,4th-6th,364
+2010,12,Erie,PNC Unknown,578
+2011,12,Chemung,PNC Start Unk,37
+2011,12,Richmond,PNC Unknown,9
+2008,12,Nassau,PNC Unknown,290
+2012,12,Schuyler,7th-9th,8
+2012,12,Washington,PNC Start Unk,2
+2008,12,Wayne,Total,1095
+2009,12,Niagara,4th-6th,463
+2012,12,Franklin,PNC Unknown,3
+2010,12,Livingston,PNC Unknown,11
+2009,12,New York,PNC Start Unk,959
+2010,12,Rensselaer,Total,1677
+2008,12,Oswego,None,10
+2010,12,Monroe,Total,8526
+2008,12,Putnam,None,6
+2010,12,Queens,PNC Unknown,361
+2008,12,Westchester,7th-9th,440
+2012,12,Wayne,PNC Unknown,45
+2011,12,Westchester,PNC Start Unk,1603
+2012,12,Monroe,Total,8270
+2008,12,Yates,4th-6th,100
+2010,12,Schuyler,Total,168
+2008,12,Ulster,Total,1800
+2010,12,Westchester,1st-3rd,6926
+2011,12,Schuyler,1st-3rd,124
+2012,12,Saratoga,4th-6th,392
+2012,12,Chenango,Total,542
+2012,12,Ontario,7th-9th,24
+2012,12,Rensselaer,4th-6th,276
+2008,12,Sullivan,4th-6th,310
+2008,12,Cortland,PNC Unknown,0
+2008,12,Wayne,None,6
+2012,12,St Lawrence,PNC Start Unk,11
+2012,12,Schenectady,PNC Start Unk,11
+2012,12,Queens,None,285
+2009,12,Genesee,7th-9th,12
+2012,12,Onondaga,4th-6th,1091
+2011,12,New York,1st-3rd,13883
+2008,12,Cayuga,PNC Unknown,8
+2012,12,Orange,None,27
+2008,12,Delaware,7th-9th,14
+2010,12,Greene,4th-6th,113
+2008,12,Clinton,Total,768
+2008,12,Wyoming,PNC Start Unk,16
+2010,12,New York,PNC Unknown,201
+2011,12,St Lawrence,Total,1254
+2011,12,Tioga,PNC Start Unk,74
+2010,12,St Lawrence,4th-6th,213
+2011,12,Rensselaer,4th-6th,286
+2009,12,Erie,7th-9th,351
+2008,12,Delaware,Total,451
+2011,12,Seneca,4th-6th,110
+2012,12,Putnam,4th-6th,139
+2008,12,Columbia,PNC Unknown,6
+2011,12,Albany,PNC Unknown,128
+2012,12,Herkimer,Total,658
+2012,12,Jefferson,PNC Unknown,20
+2012,12,Steuben,PNC Unknown,6
+2011,12,Bronx,4th-6th,5993
+2008,12,Jefferson,PNC Unknown,13
+2011,12,Ontario,Total,1020
+2012,12,Queens,Total,30485
+2009,12,New York State,None,1765
+2012,12,Putnam,Total,827
+2009,12,Bronx,Total,23000
+2011,12,New York,PNC Start Unk,239
+2010,12,Putnam,7th-9th,17
+2008,12,Monroe,PNC Start Unk,508
+2008,12,Montgomery,PNC Unknown,25
+2012,12,Dutchess,1st-3rd,2135
+2010,12,Schenectady,PNC Start Unk,50
+2009,12,Otsego,4th-6th,79
+2011,12,Steuben,Total,1058
+2008,12,Delaware,4th-6th,78
+2010,12,Columbia,PNC Unknown,10
+2009,12,Westchester,7th-9th,381
+2011,12,Putnam,Total,866
+2009,12,Hamilton,1st-3rd,26
+2011,12,Yates,1st-3rd,157
+2008,12,St Lawrence,Total,1253
+2010,12,Richmond,PNC Start Unk,49
+2008,12,Lewis,PNC Start Unk,23
+2012,12,Washington,PNC Unknown,9
+2010,12,Montgomery,PNC Start Unk,51
+2009,12,Livingston,1st-3rd,427
+2010,12,Monroe,4th-6th,1294
+2008,12,Monroe,7th-9th,231
+2012,12,Cortland,4th-6th,66
+2012,12,Schoharie,PNC Start Unk,0
+2010,12,Rest of State,Total,122911
+2011,12,Jefferson,Total,2113
+2012,12,St Lawrence,4th-6th,247
+2009,12,Wayne,None,4
+2008,12,Suffolk,1st-3rd,11269
+2010,12,Schoharie,PNC Unknown,14
+2008,12,Cattaraugus,PNC Unknown,89
+2010,12,Delaware,Total,459
+2011,12,Lewis,7th-9th,19
+2012,12,Cayuga,7th-9th,24
+2008,12,Albany,PNC Start Unk,214
+2008,12,Chautauqua,Total,1395
+2010,12,Ontario,7th-9th,36
+2008,12,Jefferson,None,18
+2011,12,New York State,7th-9th,11123
+2010,12,Cattaraugus,PNC Start Unk,31
+2009,12,Chautauqua,4th-6th,338
+2010,12,Kings,PNC Unknown,318
+2011,12,Orange,7th-9th,126
+2012,12,New York City,1st-3rd,83605
+2008,12,Otsego,None,4
+2012,12,Niagara,None,22
+2011,12,Orange,PNC Start Unk,211
+2009,12,Bronx,None,214
+2008,12,Rockland,7th-9th,165
+2011,12,Orleans,Total,411
+2011,12,Dutchess,1st-3rd,2026
+2009,12,Delaware,PNC Unknown,7
+2012,12,Orange,7th-9th,163
+2009,12,Suffolk,PNC Start Unk,417
+2012,12,Orleans,None,2
+2012,12,Clinton,4th-6th,78
+2009,12,Chenango,PNC Unknown,5
+2008,12,Livingston,PNC Unknown,12
+2009,12,Tioga,PNC Start Unk,38
+2010,12,Lewis,PNC Start Unk,19
+2011,12,Ulster,4th-6th,345
+2009,12,Chautauqua,7th-9th,99
+2008,12,Ulster,7th-9th,45
+2011,12,Suffolk,Total,16027
+2008,12,Greene,PNC Start Unk,15
+2011,12,Fulton,PNC Unknown,3
+2011,12,New York,4th-6th,4226
+2008,12,Seneca,PNC Unknown,7
+2010,12,Madison,7th-9th,20
+2012,12,Genesee,Total,606
+2008,12,Columbia,1st-3rd,423
+2009,12,Queens,7th-9th,1798
+2009,12,Westchester,1st-3rd,7011
+2010,12,Madison,PNC Unknown,1
+2009,12,Schoharie,7th-9th,8
+2008,12,Franklin,4th-6th,149
+2008,12,Oneida,None,22
+2011,12,Rensselaer,PNC Start Unk,80
+2011,12,Genesee,PNC Unknown,14
+2010,12,Monroe,PNC Unknown,426
+2008,12,Allegany,7th-9th,22
+2012,12,Genesee,7th-9th,13
+2011,12,Herkimer,7th-9th,28
+2009,12,Ontario,4th-6th,190
+2008,12,Lewis,PNC Unknown,9
+2012,12,New York,1st-3rd,14141
+2011,12,Monroe,4th-6th,1347
+2012,12,Dutchess,4th-6th,343
+2011,12,Nassau,4th-6th,2425
+2012,12,Essex,1st-3rd,232
+2010,12,New York,PNC Start Unk,327
+2011,12,Schuyler,PNC Start Unk,3
+2008,12,New York State,7th-9th,11785
+2010,12,Lewis,4th-6th,58
+2009,12,Schenectady,7th-9th,69
+2010,12,Jefferson,Total,2071
+2008,12,Madison,None,2
+2009,12,Allegany,PNC Unknown,7
+2010,12,Allegany,PNC Unknown,1
+2009,12,Clinton,7th-9th,8
+2012,12,Otsego,Total,518
+2010,12,Jefferson,4th-6th,539
+2012,12,St Lawrence,1st-3rd,873
+2008,12,Schoharie,7th-9th,6
+2008,12,Erie,7th-9th,360
+2008,12,Kings,7th-9th,2168
+2012,12,Herkimer,4th-6th,133
+2008,12,Richmond,None,87
+2010,12,Essex,4th-6th,74
+2008,12,Oswego,7th-9th,58
+2012,12,Otsego,PNC Start Unk,1
+2008,12,St Lawrence,1st-3rd,928
+2010,12,Putnam,None,2
+2008,12,Chautauqua,PNC Start Unk,53
+2009,12,Cayuga,7th-9th,17
+2009,12,Chemung,PNC Unknown,2
+2012,12,Schenectady,7th-9th,62
+2009,12,Allegany,None,1
+2009,12,Steuben,4th-6th,196
+2010,12,Saratoga,1st-3rd,1731
+2010,12,Herkimer,None,3
+2012,12,New York State,4th-6th,47953
+2010,12,New York City,1st-3rd,81953
+2009,12,Wayne,PNC Start Unk,76
+2010,12,Kings,7th-9th,2309
+2008,12,Oswego,Total,1377
+2012,12,Bronx,PNC Unknown,251
+2011,12,Franklin,None,1
+2010,12,New York State,4th-6th,48622
+2009,12,Lewis,Total,351
+2008,12,Chenango,Total,540
+2011,12,Delaware,PNC Start Unk,7
+2008,12,Schenectady,Total,1802
+2012,12,Schenectady,Total,1938
+2009,12,Wyoming,PNC Unknown,6
+2009,12,Wyoming,None,1
+2011,12,Ulster,PNC Unknown,19
+2009,12,Suffolk,4th-6th,3607
+2011,12,Cattaraugus,4th-6th,179
+2011,12,Tioga,4th-6th,69
+2012,12,Chenango,1st-3rd,445
+2008,12,Chautauqua,7th-9th,73
+2008,12,Yates,PNC Start Unk,8
+2012,12,Cayuga,Total,803
+2012,12,Rockland,PNC Start Unk,60
+2010,12,Franklin,4th-6th,114
+2012,12,Sullivan,7th-9th,35
+2009,12,New York State,4th-6th,48324
+2012,12,Kings,None,230
+2008,12,Delaware,None,2
+2008,12,Albany,4th-6th,513
+2008,12,Sullivan,None,11
+2008,12,Steuben,7th-9th,47
+2008,12,Madison,1st-3rd,567
+2010,12,Wayne,4th-6th,173
+2011,12,Putnam,None,1
+2011,12,New York,Total,19508
+2009,12,Cortland,PNC Unknown,4
+2009,12,Tioga,4th-6th,77
+2011,12,Cayuga,4th-6th,113
+2008,12,Montgomery,4th-6th,116
+2011,12,Chautauqua,7th-9th,86
+2011,12,Broome,PNC Unknown,2
+2008,12,Livingston,1st-3rd,419
+2008,12,Genesee,PNC Unknown,4
+2008,12,Queens,7th-9th,2365
+2008,12,Queens,PNC Start Unk,636
+2010,12,Schenectady,Total,1837
+2010,12,Broome,None,14
+2010,12,Putnam,Total,931
+2011,12,Wayne,PNC Unknown,33
+2012,12,Rensselaer,PNC Unknown,54
+2011,12,Warren,1st-3rd,321
+2012,12,Rensselaer,7th-9th,60
+2011,12,Clinton,Total,769
+2011,12,Clinton,PNC Unknown,0
+2009,12,Schoharie,PNC Start Unk,6
+2010,12,Queens,None,318
+2010,12,Genesee,7th-9th,17
+2009,12,Oswego,PNC Unknown,7
+2009,12,Madison,None,3
+2010,12,Steuben,PNC Unknown,11
+2008,12,Dutchess,Total,2925
+2012,12,Sullivan,4th-6th,229
+2011,12,Suffolk,PNC Unknown,436
+2010,12,Niagara,None,25
+2011,12,Putnam,PNC Start Unk,66
+2011,12,Niagara,None,22
+2011,12,Otsego,7th-9th,20
+2009,12,Westchester,4th-6th,2145
+2012,12,Westchester,PNC Unknown,337
+2008,12,Columbia,Total,614
+2008,12,New York State,1st-3rd,165931
+2011,12,Rest of State,7th-9th,3792
+2012,12,Cayuga,PNC Unknown,4
+2012,12,Seneca,4th-6th,87
+2011,12,Oneida,PNC Unknown,5
+2010,12,Westchester,Total,11104
+2010,12,Greene,None,8
+2012,12,Chemung,4th-6th,180
+2008,12,Steuben,PNC Start Unk,33
+2009,12,Franklin,None,4
+2008,12,Otsego,Total,550
+2010,12,Chenango,Total,468
+2008,12,Ontario,PNC Unknown,18
+2012,12,Fulton,PNC Start Unk,2
+2010,12,Clinton,PNC Start Unk,13
+2012,12,Clinton,7th-9th,15
+2011,12,Schuyler,None,2
+2012,12,Onondaga,1st-3rd,4062
+2011,12,Ulster,1st-3rd,1175
+2008,12,Livingston,None,2
+2012,12,Schoharie,None,3
+2012,12,Chautauqua,Total,1398
+2012,12,Nassau,PNC Unknown,73
+2012,12,Lewis,1st-3rd,259
+2010,12,Schoharie,1st-3rd,217
+2011,12,Queens,Total,30300
+2011,12,Wayne,Total,1033
+2010,12,Oneida,PNC Unknown,3
+2010,12,Wyoming,PNC Start Unk,25
+2009,12,Livingston,Total,574
+2009,12,Greene,4th-6th,106
+2009,12,Putnam,4th-6th,107
+2012,12,Seneca,PNC Unknown,8
+2009,12,Otsego,1st-3rd,387
+2008,12,Queens,4th-6th,6575
+2011,12,Onondaga,PNC Unknown,6
+2008,12,Nassau,Total,15033
+2008,12,Schuyler,PNC Unknown,0
+2008,12,Bronx,1st-3rd,12948
+2010,12,Hamilton,Total,34
+2009,12,Schoharie,Total,279
+2011,12,Sullivan,PNC Unknown,7
+2008,12,Cortland,Total,574
+2010,12,Columbia,4th-6th,141
+2008,12,Hamilton,Total,34
+2010,12,Broome,7th-9th,72
+2008,12,Montgomery,7th-9th,38
+2008,12,Herkimer,PNC Start Unk,7
+2010,12,Oswego,PNC Start Unk,7
+2009,12,Ulster,7th-9th,45
+2009,12,Albany,7th-9th,124
+2010,12,Chenango,1st-3rd,387
+2010,12,Dutchess,PNC Start Unk,244
+2010,12,Schenectady,1st-3rd,1305
+2009,12,Wyoming,1st-3rd,319
+2011,12,Livingston,7th-9th,15
+2011,12,Richmond,None,25
+2012,12,Herkimer,1st-3rd,486
+2010,12,Dutchess,Total,2867
+2012,12,Cattaraugus,4th-6th,207
+2009,12,Broome,1st-3rd,1560
+2012,12,Livingston,4th-6th,81
+2009,12,Otsego,PNC Unknown,0
+2012,12,Rest of State,4th-6th,22436
+2011,12,Chenango,7th-9th,15
+2012,12,Madison,PNC Unknown,0
+2011,12,Saratoga,None,13
+2012,12,Washington,1st-3rd,384
+2009,12,Schoharie,PNC Unknown,5
+2012,12,Wyoming,PNC Unknown,10
+2011,12,Schenectady,PNC Unknown,106
+2011,12,Onondaga,4th-6th,1005
+2010,12,Orange,7th-9th,166
+2008,12,Fulton,Total,632
+2012,12,Orleans,7th-9th,20
+2010,12,Hamilton,PNC Start Unk,0
+2010,12,Onondaga,1st-3rd,4108
+2009,12,Essex,7th-9th,6
+2010,12,Erie,PNC Start Unk,260
+2010,12,New York State,PNC Unknown,4215
+2008,12,Suffolk,PNC Unknown,1736
+2008,12,New York State,Total,249655
+2009,12,Montgomery,7th-9th,52
+2011,12,Ontario,None,5
+2009,12,Dutchess,None,19
+2009,12,Monroe,4th-6th,1459
+2008,12,Sullivan,PNC Start Unk,45
+2012,12,Rensselaer,Total,1598
+2010,12,Otsego,7th-9th,12
+2008,12,Fulton,4th-6th,89
+2009,12,Genesee,Total,657
+2008,12,Schoharie,Total,327
+2010,12,Rest of State,7th-9th,4035
+2008,12,Herkimer,None,1
+2008,12,Chenango,7th-9th,13
+2009,12,Genesee,PNC Unknown,6
+2012,12,Genesee,4th-6th,127
+2009,12,Tompkins,Total,918
+2010,12,Rockland,7th-9th,154
+2009,12,Ulster,4th-6th,307
+2012,12,Herkimer,None,4
+2009,12,Schuyler,PNC Unknown,1
+2008,12,St Lawrence,None,14
+2009,12,Steuben,PNC Unknown,7
+2011,12,Orleans,1st-3rd,292
+2012,12,New York State,1st-3rd,171805
+2011,12,Seneca,Total,399
+2010,12,Dutchess,4th-6th,323
+2011,12,Chemung,7th-9th,18
+2008,12,Oneida,4th-6th,647
+2009,12,Nassau,1st-3rd,11682
+2010,12,Wayne,Total,968
+2008,12,Sullivan,PNC Unknown,14
+2009,12,Montgomery,PNC Start Unk,37
+2010,12,Chemung,4th-6th,147
+2011,12,Washington,1st-3rd,371
+2010,12,Westchester,PNC Start Unk,1512
+2009,12,Nassau,Total,14683
+2012,12,Chenango,7th-9th,13
+2012,12,Cayuga,None,3
+2012,12,Niagara,PNC Unknown,61
+2008,12,Herkimer,4th-6th,142
+2008,12,Kings,None,540
+2011,12,Hamilton,PNC Unknown,0
+2009,12,Essex,4th-6th,82
+2009,12,Queens,4th-6th,6055
+2010,12,Suffolk,4th-6th,3299
+2012,12,Queens,1st-3rd,21441
+2011,12,Oswego,Total,1348
+2008,12,Monroe,Total,8707
+2009,12,Orange,None,28
+2008,12,Onondaga,7th-9th,188
+2008,12,Cortland,4th-6th,65
+2011,12,Tompkins,1st-3rd,693
+2009,12,Orange,4th-6th,1323
+2012,12,Montgomery,None,10
+2010,12,Orange,Total,4999
+2008,12,New York City,7th-9th,7508
+2011,12,Ulster,PNC Start Unk,69
+2011,12,Hamilton,PNC Start Unk,0
+2009,12,Allegany,1st-3rd,402
+2011,12,Kings,7th-9th,2242
+2012,12,Orange,PNC Unknown,120
+2010,12,Rensselaer,None,35
+2009,12,Oswego,1st-3rd,1043
+2011,12,Queens,PNC Start Unk,158
+2011,12,Chemung,4th-6th,145
+2009,12,Columbia,None,9
+2008,12,New York City,PNC Start Unk,2801
+2012,12,Wyoming,None,0
+2011,12,Erie,4th-6th,1862
+2008,12,Lewis,None,2
+2012,12,Wayne,PNC Start Unk,1
+2009,12,New York City,Total,121745
+2010,12,Rensselaer,PNC Start Unk,82
+2010,12,New York City,PNC Unknown,1453
+2010,12,Essex,Total,337
+2010,12,Albany,1st-3rd,2102
+2012,12,Oneida,1st-3rd,1899
+2012,12,Westchester,None,38
+2010,12,Nassau,1st-3rd,11408
+2009,12,Cayuga,4th-6th,131
+2011,12,Saratoga,4th-6th,388
+2012,12,Ontario,Total,1045
+2011,12,Greene,PNC Unknown,13
+2008,12,Nassau,7th-9th,394
+2011,12,Rest of State,PNC Start Unk,5896
+2011,12,Jefferson,1st-3rd,1579
+2009,12,Seneca,4th-6th,104
+2011,12,Bronx,PNC Unknown,102
+2008,12,Madison,PNC Start Unk,4
+2010,12,Wayne,PNC Unknown,24
+2009,12,Dutchess,Total,2917
+2011,12,Tompkins,None,6
+2012,12,Albany,4th-6th,572
+2010,12,Bronx,Total,22386
+2012,12,Livingston,PNC Start Unk,0
+2009,12,Warren,PNC Start Unk,25
+2012,12,Wyoming,Total,376
+2009,12,Saratoga,7th-9th,69
+2009,12,St Lawrence,PNC Start Unk,20
+2008,12,Monroe,4th-6th,1526
+2012,12,Genesee,PNC Unknown,23
+2011,12,Kings,4th-6th,9255
+2008,12,Orleans,Total,418
+2011,12,Livingston,PNC Start Unk,28
+2012,12,Chenango,None,4
+2009,12,Seneca,7th-9th,18
+2011,12,Chemung,1st-3rd,819
+2011,12,Bronx,1st-3rd,13151
+2012,12,Erie,1st-3rd,6923
+2010,12,Oswego,None,9
+2010,12,Jefferson,PNC Unknown,11
+2009,12,Genesee,None,3
+2009,12,Putnam,None,4
+2008,12,Broome,PNC Start Unk,9
+2008,12,Oswego,PNC Unknown,4
+2010,12,Clinton,7th-9th,12
+2009,12,Franklin,PNC Start Unk,6
+2011,12,Clinton,None,0
+2012,12,Rockland,7th-9th,186
+2008,12,Onondaga,PNC Start Unk,14
+2009,12,Madison,7th-9th,38
+2012,12,Genesee,PNC Start Unk,0
+2009,12,Schenectady,PNC Unknown,49
+2010,12,Seneca,1st-3rd,246
+2009,12,Oneida,None,23
+2012,12,Albany,None,33
+2008,12,Schenectady,7th-9th,75
+2008,12,Niagara,1st-3rd,1616
+2012,12,Schenectady,None,10
+2008,12,Suffolk,Total,17984
+2009,12,Monroe,PNC Unknown,429
+2012,12,Greene,1st-3rd,278
+2008,12,Hamilton,None,0
+2010,12,New York City,None,812
+2008,12,Seneca,None,1
+2009,12,Putnam,Total,894
+2008,12,Cayuga,PNC Start Unk,12
+2008,12,Nassau,None,58
+2012,12,Erie,None,71
+2008,12,Albany,None,30
+2008,12,Hamilton,PNC Unknown,1
+2012,12,New York State,PNC Start Unk,2151
+2012,12,Livingston,7th-9th,11
+2010,12,Wayne,7th-9th,30
+2009,12,Steuben,Total,1118
+2011,12,Saratoga,Total,2148
+2009,12,St Lawrence,4th-6th,189
+2011,12,Franklin,PNC Unknown,6
+2008,12,Yates,1st-3rd,165
+2010,12,Orleans,7th-9th,7
+2012,12,Onondaga,7th-9th,135
+2008,12,Orange,7th-9th,217
+2011,12,Schenectady,None,17
+2011,12,Nassau,Total,14079
+2009,12,Albany,PNC Start Unk,122
+2012,12,Tioga,1st-3rd,364
+2011,12,Yates,7th-9th,24
+2008,12,Oswego,1st-3rd,1032
+2011,12,Chenango,PNC Unknown,3
+2009,12,Rockland,4th-6th,1028
+2009,12,Wayne,PNC Unknown,45
+2008,12,Nassau,4th-6th,2268
+2010,12,Ulster,1st-3rd,1146
+2010,12,Bronx,1st-3rd,12979
+2010,12,Oneida,Total,2633
+2012,12,Herkimer,PNC Unknown,4
+2010,12,Niagara,PNC Unknown,56
+2012,12,Dutchess,7th-9th,53
+2010,12,Warren,7th-9th,20
+2010,12,Orange,4th-6th,1176
+2010,12,Schoharie,PNC Start Unk,3
+2009,12,Rockland,7th-9th,161
+2008,12,Rockland,PNC Unknown,830
+2009,12,Orange,1st-3rd,3043
+2009,12,Chemung,Total,978
+2008,12,Delaware,PNC Unknown,2
+2009,12,Steuben,1st-3rd,816
+2010,12,Rest of State,None,826
+2010,12,Albany,4th-6th,518
+2009,12,Herkimer,PNC Start Unk,7
+2009,12,Washington,1st-3rd,369
+2011,12,Columbia,7th-9th,19
+2011,12,Schoharie,None,1
+2011,12,Cortland,None,3
+2011,12,Steuben,PNC Start Unk,83
+2011,12,Clinton,PNC Start Unk,13
+2010,12,Delaware,PNC Unknown,5
+2009,12,Niagara,PNC Start Unk,40
+2012,12,Richmond,None,19
+2010,12,Steuben,PNC Start Unk,69
+2009,12,Herkimer,7th-9th,21
+2010,12,Herkimer,1st-3rd,496
+2011,12,Orange,4th-6th,1121
+2012,12,Columbia,1st-3rd,372
+2008,12,Genesee,4th-6th,137
+2009,12,Richmond,1st-3rd,4594
+2010,12,Sullivan,4th-6th,197
+2009,12,Tioga,7th-9th,8
+2009,12,Ontario,PNC Start Unk,61
+2010,12,Essex,None,1
+2012,12,Hamilton,1st-3rd,22
+2008,12,Rensselaer,4th-6th,291
+2010,12,Onondaga,None,41
+2009,12,Yates,7th-9th,18
+2010,12,Yates,PNC Unknown,4
+2012,12,Kings,Total,42546
+2010,12,Washington,Total,604
+2008,12,Cattaraugus,1st-3rd,665
+2012,12,Oneida,4th-6th,585
+2010,12,Chemung,7th-9th,20
+2012,12,Richmond,Total,5287
+2009,12,Tioga,PNC Unknown,2
+2012,12,Sullivan,PNC Unknown,9
+2011,12,Putnam,7th-9th,17
+2010,12,New York City,PNC Start Unk,2066
+2009,12,Wayne,7th-9th,32
+2010,12,Tioga,Total,440
+2011,12,Cattaraugus,PNC Start Unk,35
+2012,12,Herkimer,PNC Start Unk,2
+2009,12,Rockland,PNC Unknown,483
+2011,12,Essex,PNC Unknown,1
+2008,12,Albany,Total,3140
+2012,12,Sullivan,1st-3rd,662
+2008,12,Orleans,PNC Unknown,4
+2012,12,Kings,1st-3rd,30735
+2009,12,New York State,PNC Unknown,6883
+2008,12,Rest of State,PNC Start Unk,6321
+2012,12,Tompkins,None,7
+2009,12,Putnam,PNC Unknown,7
+2010,12,Jefferson,PNC Start Unk,46
+2011,12,Essex,PNC Start Unk,10
+2009,12,Rest of State,1st-3rd,86788
+2008,12,Rest of State,7th-9th,4277
+2009,12,Essex,1st-3rd,255
+2010,12,Westchester,4th-6th,2059
+2010,12,Onondaga,Total,5348
+2012,12,Oswego,PNC Unknown,4
+2009,12,Chemung,PNC Start Unk,36
+2009,12,Rest of State,4th-6th,24045
+2010,12,Schenectady,None,21
+2009,12,Rensselaer,Total,1772
+2011,12,Cortland,1st-3rd,356
+2012,12,Richmond,7th-9th,132
+2012,12,Greene,None,4
+2008,12,Madison,4th-6th,95
+2010,12,Washington,PNC Start Unk,24
+2009,12,Hamilton,None,0
+2009,12,Columbia,PNC Unknown,6
+2011,12,Rockland,Total,4535
+2009,12,Oneida,1st-3rd,1848
+2012,12,Rensselaer,1st-3rd,1192
+2010,12,Niagara,4th-6th,435
+2009,12,Clinton,4th-6th,72
+2008,12,Cattaraugus,PNC Start Unk,19
+2008,12,Westchester,PNC Unknown,220
+2012,12,Oswego,1st-3rd,1009
+2011,12,New York City,7th-9th,7331
+2012,12,Herkimer,7th-9th,29
+2011,12,Yates,PNC Unknown,1
+2010,12,Yates,1st-3rd,169
+2012,12,Montgomery,Total,561
+2009,12,Cortland,4th-6th,85
+2011,12,Suffolk,None,80
+2008,12,St Lawrence,PNC Start Unk,26
+2009,12,Suffolk,7th-9th,636
+2008,12,Rensselaer,Total,1723
+2008,12,Seneca,Total,381
+2012,12,Hamilton,PNC Start Unk,0
+2012,12,Tioga,PNC Start Unk,3
+2009,12,Delaware,None,3
+2012,12,Rockland,None,16
+2008,12,Putnam,1st-3rd,746
+2008,12,Rockland,Total,4956
+2009,12,Cattaraugus,None,8
+2010,12,Otsego,None,3
+2012,12,Albany,1st-3rd,2216
+2008,12,Schuyler,7th-9th,2
+2011,12,Hamilton,None,1
+2012,12,Genesee,1st-3rd,443
+2009,12,Kings,None,288
+2012,12,Albany,PNC Unknown,179
+2009,12,Kings,1st-3rd,27474
+2008,12,Otsego,1st-3rd,454
+2010,12,Jefferson,1st-3rd,1379
+2010,12,New York City,Total,120003
+2012,12,Dutchess,PNC Unknown,23
+2010,12,Livingston,Total,570
+2010,12,Madison,PNC Start Unk,5
+2008,12,Tompkins,Total,886
+2009,12,Wyoming,PNC Start Unk,12
+2009,12,Richmond,4th-6th,797
+2009,12,Seneca,None,2
+2009,12,Bronx,4th-6th,5976
+2010,12,Chenango,PNC Unknown,0
+2008,12,New York,1st-3rd,14581
+2010,12,Schenectady,4th-6th,262
+2008,12,Rockland,None,12
+2008,12,Columbia,4th-6th,94
+2011,12,Rest of State,None,788
+2010,12,Montgomery,Total,587
+2010,12,Nassau,PNC Unknown,46
+2010,12,Orange,PNC Start Unk,234
+2011,12,Rensselaer,None,41
+2010,12,Rockland,None,11
+2011,12,Ontario,7th-9th,21
+2012,12,Rest of State,PNC Start Unk,1616
+2009,12,Otsego,7th-9th,12
+2009,12,Clinton,PNC Start Unk,10
+2009,12,New York City,None,963
+2009,12,Greene,PNC Start Unk,9
+2012,12,Erie,7th-9th,386
+2012,12,Kings,PNC Unknown,265
+2010,12,New York City,7th-9th,7655
+2011,12,Queens,1st-3rd,21130
+2009,12,New York State,Total,246592
+2012,12,Washington,7th-9th,28
+2008,12,Chemung,1st-3rd,760
+2011,12,Queens,PNC Unknown,254
+2008,12,Wayne,7th-9th,43
+2009,12,Saratoga,4th-6th,324
+2011,12,Chemung,PNC Unknown,4
+2008,12,Richmond,PNC Unknown,113
+2010,12,Steuben,4th-6th,181
+2012,12,Lewis,Total,342
+2012,12,St Lawrence,PNC Unknown,55
+2011,12,Rockland,PNC Unknown,237
+2009,12,Otsego,Total,484
+2012,12,Rockland,Total,4593
+2011,12,Livingston,PNC Unknown,20
+2011,12,Cortland,PNC Unknown,0
+2011,12,Saratoga,PNC Start Unk,88
+2011,12,Lewis,PNC Unknown,13
+2009,12,Hamilton,7th-9th,2
+2008,12,Genesee,None,2
+2009,12,Fulton,1st-3rd,407
+2008,12,Seneca,4th-6th,100
+2010,12,Albany,PNC Start Unk,160
+2010,12,Ontario,None,2
+2008,12,Jefferson,7th-9th,62
+2008,12,Bronx,Total,23011
+2012,12,Ulster,1st-3rd,1166
+2009,12,Washington,7th-9th,23
+2008,12,New York City,4th-6th,25616
+2012,12,Fulton,7th-9th,19
+2008,12,Westchester,None,60
+2010,12,Chemung,Total,1001
+2010,12,Monroe,7th-9th,228
+2008,12,Franklin,PNC Start Unk,14
+2008,12,Wyoming,7th-9th,12
+2010,12,Niagara,1st-3rd,1562
+2008,12,Franklin,Total,533
+2012,12,Montgomery,7th-9th,66
+2008,12,Tompkins,PNC Start Unk,41
+2012,12,Columbia,4th-6th,108
+2012,12,New York,Total,19210
+2008,12,Essex,7th-9th,8
+2009,12,Tioga,Total,429
+2009,12,Richmond,PNC Unknown,26
+2011,12,Broome,PNC Start Unk,21
+2011,12,Steuben,4th-6th,166
+2008,12,Rockland,PNC Start Unk,783
+2011,12,Sullivan,1st-3rd,541
+2012,12,Schoharie,1st-3rd,201
+2011,12,Tioga,PNC Unknown,0
+2012,12,Westchester,4th-6th,1869
+2012,12,Clinton,PNC Start Unk,4
+2010,12,Cattaraugus,None,7
+2012,12,Clinton,PNC Unknown,0
+2010,12,Fulton,4th-6th,79
+2011,12,Bronx,PNC Start Unk,168
+2008,12,Otsego,4th-6th,70
+2011,12,Monroe,None,25
+2010,12,New York State,Total,242914
+2012,12,Essex,PNC Unknown,1
+2010,12,Columbia,None,6
+2008,12,Herkimer,PNC Unknown,3
+2009,12,Oneida,4th-6th,636
+2010,12,Onondaga,4th-6th,1044
+2009,12,Schoharie,1st-3rd,215
+2010,12,New York,4th-6th,3640
+2012,12,Hamilton,PNC Unknown,1
+2010,12,St Lawrence,PNC Start Unk,16
+2009,12,Westchester,PNC Unknown,178
+2009,12,Westchester,PNC Start Unk,1353
+2010,12,Chautauqua,Total,1372
+2011,12,Warren,None,2
+2008,12,New York City,1st-3rd,79016
+2010,12,Sullivan,PNC Unknown,4
+2011,12,Onondaga,Total,5416
+2012,12,Chautauqua,PNC Unknown,46
+2011,12,Albany,PNC Start Unk,166
+2008,12,Greene,1st-3rd,308
+2008,12,New York,PNC Start Unk,509
+2010,12,Onondaga,PNC Unknown,5
+2009,12,Orleans,1st-3rd,318
+2009,12,Oneida,Total,2633
+2011,12,Cayuga,1st-3rd,650
+2008,12,Orange,PNC Start Unk,382
+2010,12,Montgomery,PNC Unknown,7
+2012,12,Saratoga,7th-9th,73
+2009,12,Nassau,4th-6th,2088
+2008,12,Washington,PNC Unknown,13
+2008,12,Westchester,PNC Start Unk,1308
+2009,12,Lewis,1st-3rd,252
+2009,12,Steuben,7th-9th,58
+2012,12,Franklin,PNC Start Unk,6
+2012,12,Saratoga,PNC Start Unk,10
+2008,12,Suffolk,PNC Start Unk,581
+2010,12,Orleans,4th-6th,79
+2011,12,Warren,Total,601
+2010,12,Clinton,1st-3rd,743
+2012,12,Allegany,None,3
+2012,12,Delaware,PNC Start Unk,1
+2008,12,Broome,4th-6th,411
+2011,12,Oswego,None,18
+2011,12,Columbia,Total,544
+2009,12,Ontario,None,8
+2008,12,Tioga,4th-6th,88
+2010,12,Schuyler,PNC Start Unk,3
+2010,12,New York,Total,19731
+2010,12,Tioga,PNC Start Unk,72
+2008,12,Washington,7th-9th,32
+2010,12,Erie,4th-6th,2069
+2008,12,Greene,7th-9th,13
+2011,12,New York State,PNC Start Unk,6783
+2008,12,Wayne,1st-3rd,720
+2011,12,Herkimer,None,2
+2012,12,Schoharie,Total,262
+2011,12,Wayne,PNC Start Unk,85
+2008,12,Rensselaer,7th-9th,44
+2011,12,Steuben,None,3
+2008,12,New York State,4th-6th,50224
+2012,12,Bronx,1st-3rd,12825
+2009,12,Rensselaer,4th-6th,293
+2011,12,Oswego,PNC Start Unk,0
+2011,12,New York,None,85
+2009,12,Tioga,None,3
+2012,12,Tompkins,7th-9th,43
+2009,12,Lewis,PNC Start Unk,21
+2010,12,Putnam,1st-3rd,711
+2008,12,Genesee,PNC Start Unk,49
+2012,12,Saratoga,PNC Unknown,43
+2008,12,Rensselaer,None,21
+2009,12,Richmond,Total,5729
+2010,12,Essex,1st-3rd,244
+2008,12,Greene,None,1
+2008,12,Franklin,7th-9th,24
+2010,12,New York City,4th-6th,26064
+2009,12,New York State,PNC Start Unk,11192
+2009,12,Ontario,Total,1051
+2008,12,Allegany,Total,519
+2008,12,Queens,None,443
+2009,12,Wyoming,Total,418
+2009,12,Cattaraugus,PNC Unknown,109
+2009,12,Nassau,None,48
+2010,12,Richmond,Total,5604
+2008,12,Albany,1st-3rd,2159
+2010,12,Montgomery,4th-6th,99
+2010,12,Rockland,PNC Start Unk,517
+2010,12,Livingston,7th-9th,14
+2010,12,Nassau,4th-6th,2068
+2010,12,Chenango,PNC Start Unk,4
+2011,12,Nassau,PNC Unknown,45
+2010,12,Chenango,4th-6th,66
+2012,12,Greene,7th-9th,16
+2008,12,Schoharie,None,2
+2011,12,Albany,7th-9th,79
+2011,12,Jefferson,PNC Start Unk,39
+2008,12,Bronx,PNC Unknown,559
+2012,12,Fulton,1st-3rd,409
+2009,12,Hamilton,PNC Start Unk,1
+2009,12,Bronx,1st-3rd,12563
+2011,12,Saratoga,PNC Unknown,46
+2011,12,Schoharie,4th-6th,30
+2009,12,Sullivan,None,4
+2009,12,Montgomery,4th-6th,104
+2011,12,Tompkins,4th-6th,147
+2008,12,Essex,None,1
+2010,12,Rensselaer,1st-3rd,1200
+2009,12,Orleans,4th-6th,80
+2012,12,Warren,Total,582
+2008,12,Putnam,PNC Unknown,9
+2009,12,Delaware,4th-6th,84
+2009,12,Cortland,1st-3rd,396
+2012,12,Onondaga,PNC Unknown,1
+2010,12,Washington,4th-6th,185
+2011,12,Cayuga,PNC Start Unk,11
+2008,12,Lewis,7th-9th,6
+2012,12,Hamilton,4th-6th,9
+2010,12,Livingston,1st-3rd,436
+2009,12,Delaware,1st-3rd,346
+2010,12,Schuyler,PNC Unknown,0
+2009,12,Livingston,PNC Start Unk,20
+2008,12,Tompkins,4th-6th,131
+2012,12,Onondaga,PNC Start Unk,0
+2012,12,Bronx,PNC Start Unk,96
+2008,12,Saratoga,7th-9th,61
+2011,12,Chemung,None,2
+2010,12,Washington,1st-3rd,376
+2009,12,Jefferson,PNC Start Unk,129
+2010,12,Rest of State,4th-6th,22558
+2012,12,Rest of State,Total,120413
+2011,12,Washington,Total,655
+2011,12,Wyoming,PNC Unknown,6
+2008,12,Greene,4th-6th,86
+2012,12,Allegany,Total,471
+2010,12,Madison,4th-6th,94
+2009,12,Cayuga,1st-3rd,644
+2010,12,Dutchess,1st-3rd,2219
+2010,12,Orleans,Total,433
+2009,12,Madison,Total,680
+2010,12,Kings,4th-6th,9069
+2012,12,Bronx,7th-9th,2125
+2008,12,Wyoming,Total,395
+2009,12,New York City,PNC Start Unk,5795
+2010,12,Cayuga,Total,820
+2008,12,Steuben,Total,1036
+2011,12,Chautauqua,1st-3rd,934
+2010,12,Fulton,None,4
+2010,12,Wayne,None,8
+2011,12,Cayuga,Total,803
+2008,12,Dutchess,1st-3rd,2122
+2011,12,Cortland,PNC Start Unk,48
+2008,12,Wyoming,4th-6th,65
+2008,12,Columbia,7th-9th,26
+2008,12,Warren,7th-9th,26
+2012,12,Genesee,None,0
+2010,12,Broome,1st-3rd,1620
+2012,12,Orange,Total,4724
+2009,12,Queens,PNC Unknown,444
+2009,12,Sullivan,PNC Unknown,8
+2012,12,Yates,PNC Unknown,3
+2008,12,Putnam,4th-6th,139
+2010,12,Queens,4th-6th,6612
+2012,12,Lewis,PNC Start Unk,1
+2009,12,Erie,None,63
+2008,12,Washington,PNC Start Unk,37
+2008,12,Saratoga,Total,2300
+2012,12,Monroe,PNC Unknown,621
+2010,12,Franklin,None,1
+2012,12,Broome,PNC Start Unk,6
+2010,12,Sullivan,None,8
+2010,12,Kings,None,229
+2010,12,Chemung,1st-3rd,806
+2009,12,Allegany,Total,521
+2009,12,Saratoga,Total,2222
+2011,12,Madison,PNC Unknown,1
+2012,12,Chemung,PNC Unknown,4
+2008,12,Franklin,None,3
+2009,12,Warren,None,1
+2008,12,Madison,PNC Unknown,1
+2009,12,Fulton,PNC Start Unk,35
+2011,12,Chautauqua,PNC Start Unk,38
+2010,12,Broome,PNC Unknown,3
+2011,12,Jefferson,4th-6th,442
+2009,12,Rockland,None,11
+2009,12,New York City,7th-9th,6729
+2010,12,Nassau,Total,14200
+2012,12,Ontario,PNC Unknown,48
+2011,12,Montgomery,PNC Start Unk,53
+2009,12,Orleans,PNC Start Unk,19
+2009,12,Queens,None,289
+2012,12,Rensselaer,None,12
+2012,12,Rest of State,None,664
+2008,12,Ulster,4th-6th,321
+2009,12,Albany,4th-6th,572
+2009,12,Wyoming,7th-9th,11
+2009,12,Broome,7th-9th,77
+2012,12,New York City,PNC Start Unk,535
+2009,12,Cortland,PNC Start Unk,60
+2010,12,Cortland,Total,455
+2011,12,Yates,4th-6th,106
+2009,12,Livingston,7th-9th,22
+2011,12,Ulster,None,11
+2010,12,Schenectady,PNC Unknown,163
+2012,12,Madison,4th-6th,107
+2010,12,Otsego,4th-6th,59
+2011,12,Delaware,1st-3rd,307
+2008,12,Steuben,PNC Unknown,6
+2012,12,Livingston,PNC Unknown,34
+2008,12,Rensselaer,1st-3rd,1194
+2009,12,Rensselaer,1st-3rd,1244
+2011,12,Rensselaer,PNC Unknown,39
+2008,12,Tompkins,1st-3rd,679
+2009,12,Lewis,4th-6th,54
+2009,12,Sullivan,PNC Start Unk,40
+2012,12,Putnam,PNC Unknown,5
+2008,12,New York State,PNC Unknown,9979
+2011,12,Dutchess,PNC Start Unk,180
+2011,12,Nassau,PNC Start Unk,166
+2009,12,Putnam,1st-3rd,703
+2010,12,New York,1st-3rd,14551
+2010,12,Queens,PNC Start Unk,383
+2010,12,Tompkins,Total,831
+2008,12,Ontario,7th-9th,37
+2011,12,Richmond,Total,5544
+2010,12,New York State,None,1638
+2010,12,Rensselaer,7th-9th,58
+2010,12,Wyoming,4th-6th,59
+2012,12,Hamilton,7th-9th,3
+2010,12,Suffolk,7th-9th,618
+2011,12,Richmond,4th-6th,749
+2009,12,New York,Total,20167
+2008,12,Montgomery,None,5
+2011,12,Putnam,4th-6th,150
+2012,12,Cayuga,PNC Start Unk,0
+2009,12,Tompkins,PNC Start Unk,42
+2008,12,Cortland,PNC Start Unk,60
+2011,12,Delaware,PNC Unknown,0
+2008,12,Otsego,PNC Start Unk,5
+2008,12,Niagara,PNC Start Unk,43
+2008,12,Lewis,4th-6th,70
+2012,12,Nassau,Total,13994
+2008,12,Livingston,4th-6th,119
+2008,12,Erie,None,60
+2010,12,Wyoming,None,3
+2011,12,Delaware,None,1
+2011,12,Seneca,7th-9th,27
+2009,12,Herkimer,None,4
+2008,12,Essex,PNC Unknown,1
+2012,12,Ulster,PNC Unknown,22
+2012,12,Warren,7th-9th,21
+2010,12,Columbia,PNC Start Unk,49
+2008,12,Niagara,Total,2263
+2009,12,Allegany,7th-9th,15
+2008,12,Ulster,None,10
+2012,12,Suffolk,1st-3rd,11827
+2010,12,Ontario,1st-3rd,760
+2008,12,Warren,PNC Unknown,11
+2010,12,Oneida,7th-9th,122
+2011,12,Allegany,PNC Unknown,7
+2011,12,Montgomery,PNC Unknown,15
+2008,12,Onondaga,None,41
+2012,12,Seneca,1st-3rd,232
+2009,12,Schoharie,4th-6th,45
+2012,12,Cattaraugus,PNC Start Unk,6
+2009,12,Cayuga,PNC Unknown,5
+2009,12,Cortland,7th-9th,7
+2008,12,Washington,Total,662
+2012,12,Madison,None,3
+2011,12,Herkimer,PNC Unknown,4
+2012,12,Nassau,7th-9th,384
+2012,12,Erie,PNC Start Unk,10
+2010,12,Onondaga,PNC Start Unk,20
+2009,12,Herkimer,PNC Unknown,1
+2012,12,Schoharie,PNC Unknown,6
+2010,12,Columbia,1st-3rd,357
+2009,12,Erie,1st-3rd,6715
+2008,12,Putnam,7th-9th,19
+2009,12,Rest of State,None,802
+2009,12,Cattaraugus,PNC Start Unk,20
+2009,12,Jefferson,Total,1995
+2012,12,Franklin,None,3
+2011,12,Otsego,Total,535
+2009,12,Schuyler,Total,158
+2012,12,Rest of State,7th-9th,4116
+2008,12,Schenectady,None,19
+2008,12,Ontario,Total,1111
+2011,12,Cattaraugus,7th-9th,40
+2011,12,Lewis,PNC Start Unk,6
+2009,12,Madison,1st-3rd,528
+2010,12,Genesee,Total,649
+2010,12,Columbia,7th-9th,32
+2008,12,Sullivan,7th-9th,47
+2012,12,Sullivan,Total,949
+2010,12,Erie,Total,9757
+2012,12,Onondaga,Total,5317
+2009,12,Seneca,Total,370
+2010,12,Essex,PNC Start Unk,5
+2010,12,Cattaraugus,7th-9th,29
+2012,12,Delaware,Total,437
+2009,12,Schuyler,1st-3rd,121
+2011,12,Rensselaer,Total,1730
+2011,12,Suffolk,4th-6th,3123
+2012,12,New York State,7th-9th,11439
+2010,12,Seneca,Total,396
+2012,12,Oswego,7th-9th,41
+2009,12,Bronx,PNC Unknown,861
+2009,12,Rensselaer,7th-9th,55
+2008,12,Nassau,PNC Start Unk,283
+2011,12,Otsego,None,4
+2010,12,Putnam,PNC Start Unk,63
+2010,12,Otsego,PNC Start Unk,2
+2008,12,Schuyler,1st-3rd,150
+2011,12,Chautauqua,None,12
+2012,12,Tompkins,1st-3rd,659
+2009,12,Yates,PNC Unknown,3
+2012,12,Yates,None,0
+2010,12,Yates,PNC Start Unk,6
+2012,12,Madison,PNC Start Unk,1
+2011,12,Schoharie,1st-3rd,239
+2011,12,Bronx,Total,21694
+2011,12,Franklin,PNC Start Unk,36
+2009,12,Wayne,Total,1065
+2009,12,Broome,None,11
+2012,12,Richmond,4th-6th,659
+2011,12,Fulton,None,5
+2008,12,Rockland,4th-6th,998
+2010,12,Cortland,PNC Unknown,4
+2011,12,Allegany,7th-9th,30
+2009,12,Cortland,Total,556
+2009,12,New York,1st-3rd,14739
+2008,12,Oneida,7th-9th,119
+2008,12,Hamilton,PNC Start Unk,0
+2012,12,Schuyler,None,0
+2012,12,Jefferson,7th-9th,49
+2012,12,Kings,7th-9th,2251
+2012,12,Putnam,None,4
+2011,12,Chenango,Total,525
+2008,12,Jefferson,PNC Start Unk,177
+2012,12,Clinton,None,2
+2010,12,Chautauqua,PNC Start Unk,35
+2012,12,Westchester,PNC Start Unk,1095
+2011,12,Monroe,7th-9th,209
+2008,12,New York City,PNC Unknown,4994
+2010,12,Herkimer,Total,635
+2012,12,Rensselaer,PNC Start Unk,4
+2011,12,Livingston,1st-3rd,408
+2008,12,Fulton,None,3
+2011,12,Oswego,4th-6th,228
+2008,12,Jefferson,4th-6th,526
+2009,12,Dutchess,PNC Start Unk,281
+2008,12,Orleans,None,3
+2010,12,Oswego,PNC Unknown,9
+2011,12,Monroe,1st-3rd,5664
+2012,12,Columbia,7th-9th,22
+2010,12,Westchester,None,47
+2008,12,Erie,Total,9680
+2012,12,Cattaraugus,1st-3rd,552
+2010,12,Montgomery,7th-9th,50
+2012,12,Franklin,7th-9th,24
+2008,12,Greene,PNC Unknown,16
+2008,12,Schenectady,PNC Start Unk,54
+2009,12,Queens,PNC Start Unk,817
+2011,12,Kings,PNC Start Unk,316
+2008,12,Allegany,PNC Start Unk,30
+2012,12,New York City,4th-6th,25517
+2008,12,Warren,Total,658
+2012,12,Niagara,Total,2133
+2012,12,Steuben,4th-6th,256
+2008,12,Broome,7th-9th,63
+2012,12,Essex,4th-6th,89
+2010,12,Chautauqua,7th-9th,79
+2011,12,Fulton,Total,584
+2010,12,Franklin,1st-3rd,330
+2008,12,Chenango,1st-3rd,441
+2009,12,Livingston,PNC Unknown,12
+2009,12,Cattaraugus,Total,978
+2011,12,Washington,4th-6th,213
+2008,12,Westchester,4th-6th,2327
+2012,12,Monroe,7th-9th,254
+2011,12,New York State,Total,239736
+2012,12,Ontario,4th-6th,152
+2009,12,Cattaraugus,1st-3rd,643
+2008,12,Richmond,1st-3rd,4417
+2012,12,Chautauqua,None,13
+2011,12,New York City,PNC Start Unk,887
+2010,12,Orange,1st-3rd,3242
+2009,12,Monroe,PNC Start Unk,520
+2009,12,Washington,4th-6th,200
+2009,12,Rest of State,PNC Start Unk,5397
+2011,12,Erie,PNC Unknown,714
+2008,12,Madison,7th-9th,30
+2009,12,Clinton,1st-3rd,696
+2011,12,Fulton,1st-3rd,406
+2009,12,Ulster,1st-3rd,1167
+2010,12,Otsego,Total,516
+2011,12,Jefferson,PNC Unknown,8
+2012,12,Chenango,PNC Start Unk,0
+2010,12,Oswego,1st-3rd,1038
+2009,12,Warren,1st-3rd,361
+2010,12,Herkimer,4th-6th,117
+2010,12,Greene,7th-9th,23
+2012,12,Washington,None,4
+2008,12,Allegany,1st-3rd,391
+2009,12,Franklin,1st-3rd,323
+2012,12,Tioga,4th-6th,94
+2010,12,Cattaraugus,Total,983
+2012,12,Orange,PNC Start Unk,27
+2012,12,Allegany,PNC Unknown,11
+2010,12,Erie,1st-3rd,6361
+2010,12,Cayuga,1st-3rd,658
+2010,12,Ulster,Total,1693
+2010,12,Lewis,7th-9th,8
+2009,12,Otsego,PNC Start Unk,3
+2010,12,Bronx,PNC Start Unk,494
+2010,12,Fulton,PNC Unknown,3
+2009,12,Tompkins,None,4
+2009,12,Albany,Total,3176
+2009,12,Nassau,PNC Unknown,130
+2010,12,Westchester,7th-9th,430
+2011,12,Franklin,4th-6th,113
+2012,12,Franklin,1st-3rd,371
+2011,12,Tompkins,PNC Start Unk,30
+2010,12,Richmond,7th-9th,174
+2011,12,Madison,PNC Start Unk,14
+2011,12,Queens,4th-6th,6557
+2008,12,Cattaraugus,4th-6th,196
+2011,12,Franklin,Total,521
+2009,12,Allegany,4th-6th,70
+2010,12,Clinton,4th-6th,66
+2010,12,Oneida,4th-6th,619
+2008,12,Montgomery,1st-3rd,397
+2009,12,Schuyler,None,0
+2011,12,Suffolk,7th-9th,514
+2011,12,Putnam,PNC Unknown,8
+2008,12,Montgomery,PNC Start Unk,64
+2008,12,Schoharie,PNC Unknown,5
+2011,12,Oswego,1st-3rd,1056
+2009,12,Kings,Total,42101
+2009,12,Columbia,PNC Start Unk,37
+2008,12,Clinton,PNC Start Unk,8
+2010,12,Warren,Total,611
+2012,12,Queens,PNC Unknown,286
+2010,12,Seneca,PNC Start Unk,21
+2010,12,Delaware,None,3
+2010,12,Albany,Total,3074
+2008,12,Sullivan,1st-3rd,532
+2010,12,Ulster,PNC Start Unk,113
+2008,12,Wyoming,PNC Unknown,4
+2009,12,Onondaga,PNC Start Unk,20
+2012,12,Cortland,PNC Start Unk,0
+2010,12,Lewis,None,3
+2010,12,Ontario,4th-6th,176
+2011,12,Warren,PNC Start Unk,28
+2009,12,Chenango,PNC Start Unk,5
+2008,12,Hamilton,7th-9th,2
+2008,12,Washington,1st-3rd,354
+2008,12,Essex,Total,375
+2012,12,Warren,PNC Start Unk,4
+2011,12,Washington,None,2
+2012,12,Rest of State,1st-3rd,88200
+2010,12,Herkimer,7th-9th,14
+2008,12,Richmond,4th-6th,832
+2012,12,New York,None,77
+2011,12,Bronx,7th-9th,2069
+2010,12,Chenango,None,5
+2009,12,New York State,7th-9th,10925
+2012,12,Schenectady,4th-6th,346
+2008,12,Clinton,7th-9th,10
+2011,12,Steuben,7th-9th,56
+2011,12,Hamilton,7th-9th,3
+2010,12,Ontario,PNC Unknown,23
+2008,12,Oneida,PNC Unknown,4
+2011,12,Wyoming,7th-9th,14
+2009,12,Kings,PNC Start Unk,2375
+2011,12,Franklin,7th-9th,16
+2010,12,Albany,None,112
+2012,12,Essex,Total,337
+2012,12,Greene,PNC Unknown,8
+2011,12,Rockland,7th-9th,170
+2010,12,Orleans,None,2
+2011,12,Greene,1st-3rd,266
+2008,12,Herkimer,1st-3rd,477
+2011,12,Monroe,PNC Start Unk,628
+2011,12,Cayuga,7th-9th,21
+2012,12,Orange,4th-6th,1098
+2010,12,Saratoga,None,19
+2011,12,Jefferson,7th-9th,38
+2009,12,Westchester,Total,11143
+2008,12,Erie,1st-3rd,6551
+2012,12,Orleans,PNC Unknown,9
+2012,12,Niagara,1st-3rd,1501
+2009,12,Cayuga,PNC Start Unk,11
+2010,12,Franklin,PNC Start Unk,13
+2011,12,Lewis,None,0
+2009,12,Washington,PNC Start Unk,26
+2008,12,Chautauqua,4th-6th,316
+2012,12,Warren,PNC Unknown,6
+2010,12,Oswego,4th-6th,236
+2009,12,Oswego,PNC Start Unk,12
+2012,12,Suffolk,PNC Start Unk,42
+2012,12,Fulton,Total,520
+2011,12,Cortland,7th-9th,14
+2008,12,Fulton,1st-3rd,473
+2009,12,New York,4th-6th,2806
+2012,12,Ulster,7th-9th,38
+2009,12,Dutchess,7th-9th,63
+2010,12,Rest of State,1st-3rd,87238
+2009,12,Rest of State,PNC Unknown,3619
+2011,12,Chenango,4th-6th,64
+2008,12,Herkimer,Total,646
+2012,12,Suffolk,PNC Unknown,509
+2009,12,Richmond,None,34
+2008,12,Livingston,Total,589
+2011,12,Erie,None,68
+2011,12,Schuyler,Total,161
+2009,12,Schenectady,1st-3rd,1343
+2009,12,Cortland,None,4
+2008,12,Tompkins,7th-9th,27
+2008,12,Chenango,None,4
+2011,12,Genesee,1st-3rd,410
+2012,12,Monroe,1st-3rd,6019
+2009,12,Genesee,1st-3rd,482
+2012,12,Saratoga,1st-3rd,1673
+2008,12,Broome,PNC Unknown,32
+2011,12,Orange,Total,4835
+2010,12,Kings,1st-3rd,29060
+2008,12,New York City,Total,121756
+2010,12,Steuben,Total,1173
+2008,12,Schoharie,1st-3rd,258
+2008,12,Broome,Total,2074
+2009,12,Schenectady,4th-6th,265
+2011,12,Columbia,4th-6th,114
+2009,12,Greene,Total,442
+2009,12,Seneca,1st-3rd,233
+2009,12,Ontario,PNC Unknown,15
+2012,12,Chemung,None,8
+2011,12,Schoharie,Total,288
+2011,12,Washington,PNC Start Unk,40
+2011,12,Rest of State,4th-6th,22450
+2008,12,Rest of State,4th-6th,24608
+2010,12,Oneida,1st-3rd,1837
+2009,12,Broome,PNC Start Unk,7
+2009,12,Tompkins,1st-3rd,666
+2012,12,Allegany,7th-9th,38
+2010,12,Tompkins,PNC Start Unk,38
+2008,12,Cayuga,Total,836
+2008,12,Franklin,PNC Unknown,4
+2010,12,Allegany,None,1
+2012,12,Schuyler,PNC Unknown,2
+2009,12,New York,7th-9th,682
+2008,12,Monroe,PNC Unknown,338
+2008,12,Bronx,None,511
+2010,12,Albany,PNC Unknown,89
+2012,12,Otsego,1st-3rd,412
+2012,12,Fulton,None,2
+2011,12,Essex,Total,314
+2010,12,Cayuga,4th-6th,125
+2012,12,Onondaga,None,28
+2010,12,Niagara,7th-9th,70
+2008,12,Sullivan,Total,959
+2010,12,Delaware,PNC Start Unk,2
+2010,12,Nassau,None,50
+2012,12,Kings,4th-6th,8857
+2009,12,Richmond,PNC Start Unk,100
+2012,12,Chemung,PNC Start Unk,1
+2010,12,Hamilton,PNC Unknown,0
+2010,12,Steuben,1st-3rd,855
+2009,12,Allegany,PNC Start Unk,26
+2010,12,New York,7th-9th,924
+2011,12,Niagara,PNC Unknown,44
+2011,12,Orleans,7th-9th,12
+2008,12,Cortland,1st-3rd,435
+2010,12,Seneca,4th-6th,95
+2010,12,Monroe,None,39
+2011,12,Cortland,4th-6th,60
+2010,12,Hamilton,None,0
+2012,12,Clinton,Total,781
+2008,12,Clinton,1st-3rd,673
+2009,12,Cayuga,None,4
+2012,12,Monroe,4th-6th,1330
+2008,12,Warren,4th-6th,231
+2011,12,Allegany,1st-3rd,367
+2008,12,Wayne,4th-6th,241
+2010,12,Chautauqua,1st-3rd,897
+2008,12,Dutchess,4th-6th,409
+2010,12,Onondaga,7th-9th,130
+2008,12,Essex,1st-3rd,267
+2008,12,Bronx,4th-6th,6403
+2008,12,Ulster,PNC Unknown,38
+2010,12,Schuyler,None,0
+2009,12,Chautauqua,1st-3rd,943
+2012,12,Ulster,PNC Start Unk,0
+2009,12,Genesee,PNC Start Unk,45
+2011,12,Herkimer,PNC Start Unk,4
+2011,12,Greene,None,8
+2010,12,Cortland,7th-9th,6
+2010,12,Franklin,Total,485
+2012,12,Yates,1st-3rd,154
+2011,12,Schenectady,Total,1764
+2010,12,Cortland,None,4
+2011,12,Herkimer,Total,659
+2008,12,Columbia,None,2
+2011,12,Livingston,4th-6th,105
+2010,12,Seneca,7th-9th,28
+2008,12,Niagara,7th-9th,74
+2009,12,Wyoming,4th-6th,69
+2009,12,Onondaga,7th-9th,165
+2012,12,New York State,None,1514
+2008,12,Wayne,PNC Unknown,28
+2008,12,Onondaga,1st-3rd,4214
+2011,12,Montgomery,7th-9th,51
+2011,12,Madison,None,2
+2011,12,Rockland,PNC Start Unk,383
+2012,12,Tompkins,PNC Start Unk,4
+2012,12,Broome,None,14
+2012,12,Schoharie,4th-6th,47
+2010,12,Sullivan,1st-3rd,542
+2008,12,Orleans,1st-3rd,308
+2010,12,Orleans,PNC Start Unk,20
+2010,12,Schuyler,4th-6th,28
+2012,12,Steuben,7th-9th,50
+2008,12,Rest of State,None,793
+2011,12,Sullivan,PNC Start Unk,13
+2008,12,New York State,None,2614
+2012,12,St Lawrence,7th-9th,44
+2012,12,Oswego,None,11
+2008,12,Rest of State,1st-3rd,86915
+2008,12,Orange,None,41
+2008,12,Tioga,None,1
+2011,12,St Lawrence,None,15
+2008,12,Fulton,PNC Unknown,6
+2012,12,Steuben,PNC Start Unk,2
+2011,12,Essex,None,2
+2009,12,Rensselaer,PNC Start Unk,105
+2010,12,Saratoga,PNC Start Unk,88
+2009,12,Yates,Total,355
+2009,12,Herkimer,1st-3rd,497
+2008,12,St Lawrence,7th-9th,37
+2011,12,Columbia,None,3
+2009,12,Kings,PNC Unknown,1090
+2011,12,Onondaga,PNC Start Unk,17
+2011,12,Orange,PNC Unknown,152
+2011,12,Livingston,Total,577
+2009,12,Kings,4th-6th,8645
+2009,12,Albany,None,74
+2011,12,Niagara,1st-3rd,1497
+2012,12,Kings,PNC Start Unk,208
+2012,12,Oneida,None,15
+2009,12,Essex,PNC Start Unk,7
+2012,12,New York City,PNC Unknown,981
+2011,12,Niagara,PNC Start Unk,76
+2012,12,Chautauqua,7th-9th,59
+2009,12,Onondaga,1st-3rd,4121
+2009,12,Oswego,4th-6th,292
+2009,12,Columbia,1st-3rd,382
+2008,12,Tioga,Total,508
+2012,12,Otsego,4th-6th,71
+2010,12,Chautauqua,4th-6th,307
+2009,12,Orleans,PNC Unknown,9
+2010,12,Rockland,4th-6th,998
+2011,12,Niagara,7th-9th,67
+2011,12,Orange,1st-3rd,3191
+2012,12,Cattaraugus,None,5
+2009,12,Sullivan,7th-9th,44
+2009,12,Fulton,7th-9th,23
+2008,12,Saratoga,4th-6th,379
+2011,12,Schoharie,PNC Start Unk,5
+2009,12,Columbia,4th-6th,117
+2009,12,Rest of State,Total,124847
+2008,12,Saratoga,PNC Start Unk,120
+2010,12,Nassau,PNC Start Unk,252
+2009,12,Suffolk,None,121
+2009,12,Steuben,None,6
+2010,12,Ulster,PNC Unknown,58
+2009,12,Rest of State,7th-9th,4196
+2008,12,Queens,PNC Unknown,856
+2012,12,Livingston,Total,503
+2008,12,Tompkins,None,3
+2009,12,Warren,Total,640
+2010,12,Jefferson,7th-9th,87
+2012,12,Warren,1st-3rd,345
+2012,12,Nassau,None,48
+2009,12,Oswego,Total,1409
+2008,12,Orleans,4th-6th,65
+2010,12,Lewis,Total,311
+2008,12,Chemung,7th-9th,15
+2009,12,Sullivan,1st-3rd,489
+2012,12,Seneca,Total,350
+2011,12,New York State,1st-3rd,167091
+2008,12,Orleans,7th-9th,15
+2008,12,Lewis,Total,335
+2010,12,Bronx,4th-6th,6004
+2011,12,Tioga,None,0
+2008,12,Cayuga,1st-3rd,630
+2011,12,Madison,7th-9th,23
+2009,12,New York State,1st-3rd,167503
+2009,12,Livingston,None,0
+2010,12,Suffolk,Total,16805
+2012,12,Oswego,Total,1335
+2009,12,Rockland,Total,4560
+2010,12,Delaware,1st-3rd,358
+2008,12,Erie,4th-6th,2121
+2012,12,Yates,4th-6th,145
+2010,12,Genesee,None,2
+2008,12,Ontario,1st-3rd,824
+2012,12,New York,4th-6th,3839
+2012,12,Wyoming,1st-3rd,296
+2010,12,Tioga,1st-3rd,298
+2008,12,Yates,7th-9th,14
+2009,12,Chautauqua,PNC Unknown,33
+2012,12,Hamilton,Total,35
+2012,12,Ulster,None,6
+2012,12,Yates,7th-9th,26
+2009,12,Tompkins,PNC Unknown,5
+2008,12,Suffolk,7th-9th,675
+2011,12,Suffolk,1st-3rd,11448
+2010,12,Chemung,PNC Unknown,1
+2011,12,Albany,Total,3122
+2011,12,Orleans,4th-6th,67
+2009,12,Saratoga,1st-3rd,1704
+2008,12,Ontario,PNC Start Unk,39
+2008,12,Chautauqua,1st-3rd,907
+2009,12,Ontario,1st-3rd,744
+2011,12,Ontario,4th-6th,171
+2011,12,Fulton,4th-6th,99
+2011,12,Ulster,Total,1666
+2012,12,Hamilton,None,0
+2012,12,Richmond,PNC Unknown,4
+2010,12,St Lawrence,Total,1222
+2011,12,New York City,Total,118719
+2011,12,Albany,None,125
+2008,12,Tioga,1st-3rd,368
+2009,12,Hamilton,Total,40
+2010,12,Otsego,1st-3rd,437
+2011,12,Kings,Total,41673
+2012,12,Ontario,1st-3rd,819
+2011,12,Chemung,Total,1025
+2010,12,Wayne,1st-3rd,672
+2009,12,Cattaraugus,7th-9th,35
+2011,12,Yates,Total,302
+2012,12,Oneida,7th-9th,106
+2011,12,Tioga,1st-3rd,321
+2008,12,Tioga,7th-9th,12
+2010,12,Cortland,PNC Start Unk,57
+2008,12,Montgomery,Total,645
+2012,12,Saratoga,None,3
+2010,12,Suffolk,None,86
+2012,12,Tioga,PNC Unknown,5
+2008,12,Rockland,1st-3rd,2168
+2012,12,Delaware,7th-9th,14
+2009,12,Orange,Total,5062
+2012,12,Montgomery,1st-3rd,390
+2010,12,Livingston,4th-6th,88
+2010,12,Wyoming,7th-9th,8
+2010,12,Kings,Total,41798
+2009,12,Franklin,4th-6th,164
+2011,12,Dutchess,None,11
+2012,12,Dutchess,PNC Start Unk,146
+2008,12,Schoharie,PNC Start Unk,7
+2010,12,Cayuga,PNC Unknown,1
+2009,12,Greene,1st-3rd,300
+2008,12,Schenectady,4th-6th,354
+2011,12,Chautauqua,Total,1412
+2008,12,Westchester,Total,11517
+2011,12,Montgomery,4th-6th,79
+2008,12,Dutchess,PNC Start Unk,260
+2011,12,Oneida,4th-6th,597
+2012,12,Dutchess,None,13
+2010,12,Tompkins,1st-3rd,631
+2009,12,Tioga,1st-3rd,301
+2012,12,Oneida,Total,2614
+2011,12,Westchester,Total,10719
+2010,12,Franklin,PNC Unknown,1
+2010,12,Cattaraugus,1st-3rd,633
+2009,12,Putnam,PNC Start Unk,58
+2011,12,Genesee,4th-6th,84
+2011,12,Ontario,PNC Unknown,29
+2009,12,Broome,4th-6th,392
+2010,12,Broome,Total,2048
+2008,12,Dutchess,None,11
+2008,12,Seneca,1st-3rd,237
+2008,12,Ontario,None,6
+2009,12,Ulster,None,12
+2012,12,Chautauqua,1st-3rd,957
+2014,12,Oneida,None,22
+2014,12,Ontario,PNC Start Unk,3
+2014,12,Montgomery,1st-3rd,429
+2014,12,Hamilton,PNC Unknown,0
+2014,12,Madison,1st-3rd,523
+2014,12,Delaware,PNC Start Unk,0
+2014,12,Schuyler,4th=6th,45
+2014,12,New York,PNC Start Unk,224
+2014,12,Allegany,None,3
+2014,12,Wyoming,7th-9th,8
+2014,12,Yates,1st-3rd,136
+2014,12,Tioga,Total,518
+2014,12,St Lawrence,Total,1137
+2014,12,New York,None,91
+2014,12,Schenectady,PNC Unknown,25
+2014,12,Cortland,Total,478
+2014,12,Livingston,PNC Start Unk,3
+2014,12,Suffolk,None,92
+2014,12,Greene,1st-3rd,287
+2014,12,Saratoga,None,8
+2014,12,Wayne,Total,970
+2014,12,Rockland,PNC Start Unk,497
+2014,12,Westchester,Total,10641
+2014,12,Cattaraugus,Total,933
+2014,12,Ulster,Total,1525
+2014,12,Onondaga,None,34
+2014,12,Westchester,PNC Start Unk,1479
+2014,12,Erie,1st-3rd,7138
+2014,12,Kings,None,218
+2014,12,Schoharie,PNC Start Unk,0
+2014,12,Bronx,PNC Unknown,275
+2014,12,Onondaga,7th-9th,142
+2014,12,Oneida,PNC Start Unk,8
+2014,12,Madison,None,3
+2014,12,Fulton,PNC Unknown,2
+2014,12,Monroe,Total,8388
+2014,12,Schuyler,PNC Start Unk,0
+2014,12,Columbia,1st-3rd,378
+2014,12,Essex,None,0
+2014,12,Wayne,4th=6th,188
+2014,12,Wyoming,4th=6th,68
+2014,12,Jefferson,None,8
+2014,12,Fulton,7th-9th,21
+2014,12,Albany,PNC Unknown,100
+2014,12,Rest of State,PNC Start Unk,2712
+2014,12,Chautauqua,7th-9th,96
+2014,12,Onondaga,4th=6th,891
+2014,12,Putnam,None,6
+2014,12,Rest of State,1st-3rd,89215
+2014,12,Onondaga,PNC Start Unk,6
+2014,12,Bronx,1st-3rd,11769
+2014,12,Albany,Total,3163
+2014,12,Ulster,None,9
+2014,12,Montgomery,7th-9th,71
+2014,12,Wayne,1st-3rd,709
+2014,12,Clinton,1st-3rd,660
+2014,12,Livingston,None,2
+2014,12,Greene,PNC Unknown,11
+2014,12,New York,PNC Unknown,118
+2014,12,Yates,7th-9th,12
+2014,12,Montgomery,None,3
+2014,12,Kings,PNC Start Unk,421
+2014,12,Kings,PNC Unknown,201
+2014,12,Tioga,None,1
+2014,12,Seneca,PNC Unknown,9
+2014,12,St Lawrence,4th=6th,218
+2014,12,Rockland,7th-9th,233
+2014,12,Queens,PNC Unknown,320
+2014,12,Kings,4th=6th,7488
+2014,12,Oswego,PNC Start Unk,2
+2014,12,Washington,1st-3rd,392
+2014,12,Tompkins,7th-9th,35
+2014,12,Sullivan,PNC Unknown,2
+2014,12,Monroe,PNC Start Unk,12
+2014,12,Schenectady,4th=6th,332
+2014,12,Niagara,1st-3rd,1483
+2014,12,Greene,PNC Start Unk,0
+2014,12,Ulster,7th-9th,44
+2014,12,Rensselaer,PNC Start Unk,8
+2014,12,St Lawrence,1st-3rd,783
+2014,12,Schuyler,PNC Unknown,1
+2014,12,New York State,PNC Start Unk,3686
+2014,12,Clinton,PNC Start Unk,4
+2014,12,Rest of State,4th=6th,20914
+2014,12,Queens,1st-3rd,22269
+2014,12,Jefferson,PNC Unknown,18
+2014,12,Sullivan,4th=6th,216
+2014,12,Schenectady,7th-9th,51
+2014,12,Orange,Total,4856
+2014,12,Orleans,4th=6th,64
+2014,12,Montgomery,PNC Start Unk,3
+2014,12,Hamilton,PNC Start Unk,0
+2014,12,Hamilton,4th=6th,8
+2014,12,Chenango,PNC Unknown,4
+2014,12,Tioga,7th-9th,20
+2014,12,New York,Total,18356
+2014,12,Lewis,None,4
+2014,12,Steuben,4th=6th,185
+2014,12,Lewis,7th-9th,14
+2014,12,New York City,PNC Start Unk,974
+2014,12,Oneida,1st-3rd,1782
+2014,12,Greene,None,2
+2014,12,New York State,1st-3rd,172848
+2014,12,Dutchess,1st-3rd,2118
+2014,12,Suffolk,4th=6th,2419
+2014,12,Orleans,1st-3rd,331
+2014,12,Kings,7th-9th,2253
+2014,12,Greene,7th-9th,13
+2014,12,Genesee,None,3
+2014,12,Warren,Total,567
+2014,12,Queens,Total,30362
+2014,12,Sullivan,None,8
+2014,12,Delaware,4th=6th,84
+2014,12,Dutchess,PNC Start Unk,138
+2014,12,Albany,4th=6th,619
+2014,12,Tompkins,4th=6th,175
+2014,12,New York City,PNC Unknown,921
+2014,12,Washington,4th=6th,149
+2014,12,Seneca,Total,388
+2014,12,Chautauqua,None,16
+2014,12,Broome,PNC Start Unk,5
+2014,12,Steuben,1st-3rd,817
+2014,12,Tompkins,Total,856
+2014,12,Oneida,4th=6th,560
+2014,12,Ulster,1st-3rd,1178
+2014,12,Putnam,4th=6th,120
+2014,12,Steuben,7th-9th,49
+2014,12,Columbia,Total,492
+2014,12,Rest of State,None,668
+2014,12,Orange,7th-9th,173
+2014,12,Schoharie,7th-9th,8
+2014,12,Clinton,4th=6th,71
+2014,12,Cayuga,4th=6th,129
+2014,12,Tioga,1st-3rd,415
+2014,12,New York State,PNC Unknown,4134
+2014,12,Livingston,4th=6th,80
+2014,12,Dutchess,None,21
+2014,12,Suffolk,1st-3rd,11993
+2014,12,Orange,PNC Unknown,190
+2014,12,Putnam,7th-9th,13
+2014,12,Wyoming,None,1
+2014,12,Cattaraugus,PNC Unknown,98
+2014,12,Dutchess,4th=6th,333
+2014,12,Niagara,4th=6th,494
+2014,12,Cortland,4th=6th,80
+2014,12,Erie,None,84
+2014,12,Chemung,PNC Start Unk,3
+2014,12,Jefferson,PNC Start Unk,7
+2014,12,Essex,PNC Start Unk,6
+2014,12,Cattaraugus,4th=6th,200
+2014,12,Ulster,PNC Start Unk,6
+2014,12,Cayuga,PNC Start Unk,0
+2014,12,Niagara,None,20
+2014,12,Saratoga,4th=6th,376
+2014,12,Rensselaer,PNC Unknown,38
+2014,12,Schuyler,None,1
+2014,12,Madison,7th-9th,15
+2014,12,Lewis,1st-3rd,279
+2014,12,Schoharie,Total,260
+2014,12,Tompkins,PNC Unknown,2
+2014,12,New York City,4th=6th,23296
+2014,12,Sullivan,1st-3rd,511
+2014,12,St Lawrence,PNC Unknown,45
+2014,12,Jefferson,Total,2081
+2014,12,Bronx,None,146
+2014,12,Fulton,1st-3rd,420
+2014,12,Genesee,Total,621
+2014,12,Cattaraugus,None,10
+2014,12,Rensselaer,Total,1648
+2014,12,Rest of State,7th-9th,4179
+2014,12,Oswego,None,16
+2014,12,Allegany,1st-3rd,374
+2014,12,Oswego,PNC Unknown,13
+2014,12,Orange,1st-3rd,3312
+2014,12,Franklin,None,3
+2014,12,Otsego,4th=6th,89
+2014,12,Monroe,None,46
+2014,12,Ulster,PNC Unknown,13
+2014,12,New York City,None,711
+2014,12,Cortland,1st-3rd,364
+2014,12,Chemung,PNC Unknown,1
+2014,12,Yates,Total,283
+2014,12,Oswego,7th-9th,25
+2014,12,Herkimer,1st-3rd,457
+2014,12,Albany,7th-9th,134
+2014,12,Orleans,7th-9th,17
+2014,12,Schuyler,1st-3rd,116
+2014,12,Allegany,Total,517
+2014,12,Dutchess,7th-9th,62
+2014,12,Orleans,Total,420
+2014,12,Orleans,PNC Unknown,8
+2014,12,Washington,PNC Unknown,12
+2014,12,New York State,4th=6th,44210
+2014,12,Schoharie,4th=6th,45
+2014,12,Suffolk,PNC Unknown,504
+2014,12,Warren,PNC Unknown,6
+2014,12,Chenango,1st-3rd,367
+2014,12,Genesee,PNC Start Unk,1
+2014,12,Cattaraugus,7th-9th,35
+2014,12,Jefferson,1st-3rd,1574
+2014,12,Chautauqua,4th=6th,413
+2014,12,Fulton,4th=6th,91
+2014,12,Seneca,7th-9th,28
+2014,12,Orange,PNC Start Unk,213
+2014,12,Wyoming,Total,390
+2014,12,Cortland,7th-9th,10
+2014,12,Essex,4th=6th,60
+2014,12,Otsego,1st-3rd,423
+2014,12,Oneida,7th-9th,119
+2014,12,Niagara,PNC Start Unk,2
+2014,12,Genesee,PNC Unknown,25
+2014,12,Steuben,Total,1074
+2014,12,Jefferson,4th=6th,442
+2014,12,Richmond,7th-9th,127
+2014,12,Greene,4th=6th,85
+2014,12,Sullivan,7th-9th,40
+2014,12,Monroe,PNC Unknown,595
+2014,12,Broome,Total,2111
+2014,12,Warren,PNC Start Unk,6
+2014,12,Herkimer,7th-9th,29
+2014,12,Fulton,PNC Start Unk,0
+2014,12,Seneca,PNC Start Unk,0
+2014,12,Seneca,4th=6th,90
+2014,12,Erie,4th=6th,2030
+2014,12,Broome,None,7
+2014,12,Montgomery,PNC Unknown,3
+2014,12,Queens,None,243
+2014,12,Yates,None,0
+2014,12,Onondaga,PNC Unknown,5
+2014,12,Wyoming,PNC Start Unk,2
+2014,12,Allegany,7th-9th,46
+2014,12,Schenectady,None,11
+2014,12,Hamilton,7th-9th,1
+2014,12,Columbia,PNC Unknown,2
+2014,12,Broome,1st-3rd,1592
+2014,12,Putnam,Total,825
+2014,12,Washington,None,2
+2014,12,Chemung,1st-3rd,797
+2014,12,Queens,PNC Start Unk,128
+2014,12,Cayuga,1st-3rd,624
+2014,12,New York State,None,1379
+2014,12,Putnam,1st-3rd,624
+2014,12,Saratoga,1st-3rd,1751
+2014,12,Rest of State,PNC Unknown,3213
+2014,12,Nassau,Total,14339
+2014,12,New York,4th=6th,3107
+2014,12,Allegany,PNC Start Unk,0
+2014,12,Chautauqua,Total,1485
+2014,12,Cattaraugus,PNC Start Unk,1
+2014,12,Delaware,PNC Unknown,2
+2014,12,Madison,PNC Unknown,12
+2014,12,Dutchess,Total,2680
+2014,12,Wyoming,PNC Unknown,10
+2014,12,New York City,1st-3rd,83633
+2014,12,Montgomery,4th=6th,112
+2014,12,Herkimer,4th=6th,164
+2014,12,Warren,None,3
+2014,12,Kings,Total,41746
+2014,12,Suffolk,7th-9th,510
+2014,12,Broome,4th=6th,391
+2014,12,Onondaga,1st-3rd,4213
+2014,12,New York City,Total,117099
+2014,12,Ontario,None,4
+2014,12,Orleans,None,0
+2014,12,Fulton,None,4
+2014,12,Madison,PNC Start Unk,0
+2014,12,Westchester,PNC Unknown,246
+2014,12,Nassau,PNC Unknown,79
+2014,12,Ontario,1st-3rd,885
+2014,12,Warren,4th=6th,140
+2014,12,Seneca,1st-3rd,259
+2014,12,Essex,PNC Unknown,1
+2014,12,Rensselaer,None,13
+2014,12,Oswego,4th=6th,250
+2014,12,Steuben,PNC Unknown,10
+2014,12,Delaware,7th-9th,6
+2014,12,Lewis,4th=6th,50
+2014,12,Cayuga,PNC Unknown,2
+2014,12,Saratoga,Total,2235
+2014,12,Washington,Total,585
+2014,12,Yates,PNC Start Unk,0
+2014,12,Kings,1st-3rd,31165
+2014,12,Ulster,4th=6th,275
+2014,12,Tompkins,PNC Start Unk,3
+2014,12,Chemung,None,1
+2014,12,Oswego,Total,1269
+2014,12,Nassau,4th=6th,1660
+2014,12,Chautauqua,PNC Unknown,42
+2014,12,Albany,1st-3rd,2274
+2014,12,Warren,7th-9th,18
+2014,12,Dutchess,PNC Unknown,8
+2014,12,Oneida,PNC Unknown,4
+2014,12,Franklin,7th-9th,24
+2014,12,Chautauqua,PNC Start Unk,10
+2014,12,Orleans,PNC Start Unk,0
+2014,12,Otsego,PNC Start Unk,0
+2014,12,Schenectady,Total,1821
+2014,12,Schenectady,PNC Start Unk,5
+2014,12,Madison,Total,644
+2014,12,Richmond,Total,5326
+2014,12,Livingston,PNC Unknown,32
+2014,12,Otsego,PNC Unknown,10
+2014,12,Erie,PNC Start Unk,14
+2014,12,Seneca,None,2
+2014,12,Westchester,None,47
+2014,12,Ontario,PNC Unknown,37
+2014,12,Tioga,4th=6th,79
+2014,12,Herkimer,PNC Unknown,2
+2014,12,Sullivan,Total,785
+2014,12,Schuyler,7th-9th,5
+2014,12,Cortland,PNC Start Unk,1
+2014,12,Delaware,None,3
+2014,12,Columbia,4th=6th,83
+2014,12,Saratoga,7th-9th,72
+2014,12,Saratoga,PNC Start Unk,3
+2014,12,Columbia,PNC Start Unk,12
+2014,12,New York,7th-9th,882
+2014,12,Cayuga,Total,777
+2014,12,Nassau,None,31
+2014,12,Cayuga,None,5
+2014,12,Chemung,7th-9th,19
+2014,12,Chemung,4th=6th,153
+2014,12,Rockland,Total,5170
+2014,12,Steuben,PNC Start Unk,1
+2014,12,Essex,Total,298
+2014,12,Rockland,1st-3rd,3062
+2014,12,Chemung,Total,974
+2014,12,Columbia,7th-9th,16
+2014,12,New York City,7th-9th,7564
+2014,12,St Lawrence,7th-9th,46
+2014,12,Schoharie,PNC Unknown,4
+2014,12,Chenango,4th=6th,144
+2014,12,Otsego,7th-9th,17
+2014,12,Genesee,4th=6th,111
+2014,12,Livingston,Total,526
+2014,12,St Lawrence,PNC Start Unk,32
+2014,12,Franklin,4th=6th,92
+2014,12,Niagara,PNC Unknown,61
+2014,12,Essex,1st-3rd,220
+2014,12,Schoharie,None,0
+2014,12,Clinton,Total,754
+2014,12,Saratoga,PNC Unknown,25
+2014,12,Bronx,PNC Start Unk,146
+2014,12,Warren,1st-3rd,394
+2014,12,Rensselaer,4th=6th,306
+2014,12,Bronx,Total,21309
+2014,12,New York State,7th-9th,11743
+2014,12,Schuyler,Total,168
+2014,12,Montgomery,Total,621
+2014,12,Livingston,7th-9th,24
+2014,12,Otsego,Total,540
+2014,12,Ontario,7th-9th,18
+2014,12,Hamilton,1st-3rd,20
+2014,12,Rensselaer,1st-3rd,1211
+2014,12,Onondaga,Total,5291
+2014,12,Schoharie,1st-3rd,203
+2014,12,Richmond,PNC Unknown,7
+2014,12,Putnam,PNC Start Unk,58
+2014,12,Madison,4th=6th,91
+2014,12,Herkimer,None,3
+2014,12,Clinton,None,1
+2014,12,Cayuga,7th-9th,17
+2014,12,Chenango,None,3
+2014,12,Hamilton,Total,29
+2014,12,Cortland,None,4
+2014,12,Rensselaer,7th-9th,72
+2014,12,Erie,PNC Unknown,423
+2014,12,Broome,PNC Unknown,6
+2014,12,Ontario,4th=6th,137
+2014,12,Columbia,None,1
+2014,12,Ontario,Total,1084
+2014,12,Franklin,PNC Start Unk,3
+2014,12,Greene,Total,398
+2014,12,Delaware,1st-3rd,311
+2014,12,Genesee,1st-3rd,464
+2014,12,Herkimer,PNC Start Unk,2
+2014,12,Oneida,Total,2495
+2014,12,Franklin,PNC Unknown,4
+2014,12,Franklin,Total,441
+2014,12,Monroe,4th=6th,1294
+2014,12,Chenango,7th-9th,32
+2014,12,Monroe,7th-9th,190
+2014,12,Nassau,7th-9th,369
+2014,12,Wayne,None,7
+2014,12,Allegany,PNC Unknown,17
+2014,12,Washington,7th-9th,25
+2014,12,Genesee,7th-9th,17
+2014,12,Richmond,1st-3rd,4496
+2014,12,Nassau,1st-3rd,12121
+2014,12,Orange,None,23
+2014,12,Niagara,Total,2165
+2014,12,Chautauqua,1st-3rd,908
+2014,12,Niagara,7th-9th,105
+2014,12,Hamilton,None,0
+2014,12,Putnam,PNC Unknown,4
+2014,12,Queens,7th-9th,1979
+2014,12,Cortland,PNC Unknown,19
+2014,12,Cattaraugus,1st-3rd,589
+2014,12,Tioga,PNC Unknown,0
+2014,12,Richmond,PNC Start Unk,55
+2014,12,Sullivan,PNC Start Unk,8
+2014,12,Clinton,PNC Unknown,2
+2014,12,Suffolk,Total,15568
+2014,12,Herkimer,Total,657
+2014,12,Tioga,PNC Start Unk,3
+2014,12,St Lawrence,None,13
+2014,12,Schenectady,1st-3rd,1397
+2014,12,Erie,Total,10109
+2014,12,Wayne,PNC Start Unk,0
+2014,12,Clinton,7th-9th,16
+2014,12,Washington,PNC Start Unk,5
+2014,12,Oswego,1st-3rd,963
+2014,12,Rockland,PNC Unknown,369
+2014,12,Orange,4th=6th,945
+2014,12,Otsego,None,1
+2014,12,Bronx,7th-9th,2323
+2014,12,Wyoming,1st-3rd,301
+2014,12,Wayne,7th-9th,28
+2014,12,Broome,7th-9th,110
+2014,12,Rockland,None,7
+2014,12,Tompkins,1st-3rd,637
+2014,12,Westchester,7th-9th,396
+2014,12,Nassau,PNC Start Unk,79
+2014,12,Lewis,PNC Unknown,8
+2014,12,Queens,4th=6th,5423
+2014,12,Rest of State,Total,120901
+2014,12,New York State,Total,238000
+2014,12,Essex,7th-9th,11
+2014,12,Westchester,4th=6th,1778
+2014,12,Steuben,None,12
+2014,12,Erie,7th-9th,420
+2014,12,Tompkins,None,4
+2014,12,Franklin,1st-3rd,315
+2014,12,Chenango,PNC Start Unk,1
+2014,12,Wayne,PNC Unknown,38
+2014,12,Lewis,PNC Start Unk,1
+2014,12,Fulton,Total,538
+2014,12,Monroe,1st-3rd,6251
+2014,12,Rockland,4th=6th,1002
+2014,12,Livingston,1st-3rd,385
+2014,12,Jefferson,7th-9th,32
+2014,12,Yates,PNC Unknown,4
+2014,12,Chenango,Total,551
+2014,12,Richmond,None,13
+2014,12,Yates,4th=6th,131
+2014,12,Lewis,Total,356
+2014,12,Albany,None,30
+2014,12,Bronx,4th=6th,6650
+2014,12,Suffolk,PNC Start Unk,50
+2014,12,Albany,PNC Start Unk,6
+2014,12,New York,1st-3rd,13934
+2014,12,Westchester,1st-3rd,6695
+2014,12,Richmond,4th=6th,628
+2014,12,Delaware,Total,406
+2014,12,Allegany,4th=6th,77

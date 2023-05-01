@@ -1,0 +1,1082 @@
+Notes	County of Residence	County of Residence Code	Mother's Single Race 6	Mother's Single Race 6 Code	Mother's Hispanic Origin	Mother's Hispanic Origin Code	Year	Year Code	Births
+	"Albany County, NY"	36001	Asian	A	Hispanic or Latino	2135-2	2016	2016	Suppressed
+	"Albany County, NY"	36001	Asian	A	Hispanic or Latino	2135-2	2017	2017	Suppressed
+	"Albany County, NY"	36001	Asian	A	Hispanic or Latino	2135-2	2018	2018	Suppressed
+	"Albany County, NY"	36001	Asian	A	Hispanic or Latino	2135-2	2019	2019	Suppressed
+	"Albany County, NY"	36001	Asian	A	Hispanic or Latino	2135-2	2020	2020	10
+	"Albany County, NY"	36001	Asian	A	Hispanic or Latino	2135-2	2021	2021	Suppressed
+	"Albany County, NY"	36001	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	311
+	"Albany County, NY"	36001	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	331
+	"Albany County, NY"	36001	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	289
+	"Albany County, NY"	36001	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	312
+	"Albany County, NY"	36001	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	303
+	"Albany County, NY"	36001	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	256
+	"Albany County, NY"	36001	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	57
+	"Albany County, NY"	36001	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	58
+	"Albany County, NY"	36001	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	77
+	"Albany County, NY"	36001	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	86
+	"Albany County, NY"	36001	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	87
+	"Albany County, NY"	36001	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	69
+	"Albany County, NY"	36001	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	517
+	"Albany County, NY"	36001	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	555
+	"Albany County, NY"	36001	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	474
+	"Albany County, NY"	36001	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	540
+	"Albany County, NY"	36001	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	490
+	"Albany County, NY"	36001	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	483
+	"Albany County, NY"	36001	White	2106-3	Hispanic or Latino	2135-2	2016	2016	171
+	"Albany County, NY"	36001	White	2106-3	Hispanic or Latino	2135-2	2017	2017	154
+	"Albany County, NY"	36001	White	2106-3	Hispanic or Latino	2135-2	2018	2018	154
+	"Albany County, NY"	36001	White	2106-3	Hispanic or Latino	2135-2	2019	2019	161
+	"Albany County, NY"	36001	White	2106-3	Hispanic or Latino	2135-2	2020	2020	127
+	"Albany County, NY"	36001	White	2106-3	Hispanic or Latino	2135-2	2021	2021	134
+	"Albany County, NY"	36001	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	1715
+	"Albany County, NY"	36001	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	1730
+	"Albany County, NY"	36001	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	1639
+	"Albany County, NY"	36001	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	1559
+	"Albany County, NY"	36001	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	1557
+	"Albany County, NY"	36001	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	1682
+	"Bronx County, NY"	36005	Asian	A	Hispanic or Latino	2135-2	2016	2016	875
+	"Bronx County, NY"	36005	Asian	A	Hispanic or Latino	2135-2	2017	2017	789
+	"Bronx County, NY"	36005	Asian	A	Hispanic or Latino	2135-2	2018	2018	79
+	"Bronx County, NY"	36005	Asian	A	Hispanic or Latino	2135-2	2019	2019	84
+	"Bronx County, NY"	36005	Asian	A	Hispanic or Latino	2135-2	2020	2020	68
+	"Bronx County, NY"	36005	Asian	A	Hispanic or Latino	2135-2	2021	2021	80
+	"Bronx County, NY"	36005	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	1000
+	"Bronx County, NY"	36005	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	953
+	"Bronx County, NY"	36005	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	1034
+	"Bronx County, NY"	36005	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	1058
+	"Bronx County, NY"	36005	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	957
+	"Bronx County, NY"	36005	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	951
+	"Bronx County, NY"	36005	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	3427
+	"Bronx County, NY"	36005	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	2791
+	"Bronx County, NY"	36005	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	2517
+	"Bronx County, NY"	36005	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	2867
+	"Bronx County, NY"	36005	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	3374
+	"Bronx County, NY"	36005	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	3889
+	"Bronx County, NY"	36005	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	5815
+	"Bronx County, NY"	36005	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	5713
+	"Bronx County, NY"	36005	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	5585
+	"Bronx County, NY"	36005	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	5332
+	"Bronx County, NY"	36005	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	4799
+	"Bronx County, NY"	36005	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	4469
+	"Bronx County, NY"	36005	White	2106-3	Hispanic or Latino	2135-2	2016	2016	7233
+	"Bronx County, NY"	36005	White	2106-3	Hispanic or Latino	2135-2	2017	2017	7490
+	"Bronx County, NY"	36005	White	2106-3	Hispanic or Latino	2135-2	2018	2018	8128
+	"Bronx County, NY"	36005	White	2106-3	Hispanic or Latino	2135-2	2019	2019	7328
+	"Bronx County, NY"	36005	White	2106-3	Hispanic or Latino	2135-2	2020	2020	6266
+	"Bronx County, NY"	36005	White	2106-3	Hispanic or Latino	2135-2	2021	2021	5424
+	"Bronx County, NY"	36005	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	1454
+	"Bronx County, NY"	36005	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	1579
+	"Bronx County, NY"	36005	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	1500
+	"Bronx County, NY"	36005	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	1454
+	"Bronx County, NY"	36005	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	1338
+	"Bronx County, NY"	36005	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	1252
+	"Broome County, NY"	36007	Asian	A	Hispanic or Latino	2135-2	2016	2016	Suppressed
+	"Broome County, NY"	36007	Asian	A	Hispanic or Latino	2135-2	2017	2017	Suppressed
+	"Broome County, NY"	36007	Asian	A	Hispanic or Latino	2135-2	2018	2018	Suppressed
+	"Broome County, NY"	36007	Asian	A	Hispanic or Latino	2135-2	2019	2019	Suppressed
+	"Broome County, NY"	36007	Asian	A	Hispanic or Latino	2135-2	2020	2020	Suppressed
+	"Broome County, NY"	36007	Asian	A	Hispanic or Latino	2135-2	2021	2021	Suppressed
+	"Broome County, NY"	36007	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	64
+	"Broome County, NY"	36007	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	60
+	"Broome County, NY"	36007	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	71
+	"Broome County, NY"	36007	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	81
+	"Broome County, NY"	36007	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	71
+	"Broome County, NY"	36007	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	73
+	"Broome County, NY"	36007	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	29
+	"Broome County, NY"	36007	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	28
+	"Broome County, NY"	36007	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	27
+	"Broome County, NY"	36007	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	34
+	"Broome County, NY"	36007	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	51
+	"Broome County, NY"	36007	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	34
+	"Broome County, NY"	36007	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	139
+	"Broome County, NY"	36007	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	160
+	"Broome County, NY"	36007	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	151
+	"Broome County, NY"	36007	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	147
+	"Broome County, NY"	36007	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	150
+	"Broome County, NY"	36007	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	166
+	"Broome County, NY"	36007	White	2106-3	Hispanic or Latino	2135-2	2016	2016	84
+	"Broome County, NY"	36007	White	2106-3	Hispanic or Latino	2135-2	2017	2017	59
+	"Broome County, NY"	36007	White	2106-3	Hispanic or Latino	2135-2	2018	2018	70
+	"Broome County, NY"	36007	White	2106-3	Hispanic or Latino	2135-2	2019	2019	68
+	"Broome County, NY"	36007	White	2106-3	Hispanic or Latino	2135-2	2020	2020	82
+	"Broome County, NY"	36007	White	2106-3	Hispanic or Latino	2135-2	2021	2021	95
+	"Broome County, NY"	36007	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	1525
+	"Broome County, NY"	36007	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	1503
+	"Broome County, NY"	36007	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	1418
+	"Broome County, NY"	36007	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	1491
+	"Broome County, NY"	36007	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	1282
+	"Broome County, NY"	36007	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	1351
+	"Chautauqua County, NY"	36013	Asian	A	Hispanic or Latino	2135-2	2016	2016	Suppressed
+	"Chautauqua County, NY"	36013	Asian	A	Hispanic or Latino	2135-2	2017	2017	Suppressed
+	"Chautauqua County, NY"	36013	Asian	A	Hispanic or Latino	2135-2	2018	2018	Suppressed
+	"Chautauqua County, NY"	36013	Asian	A	Hispanic or Latino	2135-2	2019	2019	Suppressed
+	"Chautauqua County, NY"	36013	Asian	A	Hispanic or Latino	2135-2	2020	2020	Suppressed
+	"Chautauqua County, NY"	36013	Asian	A	Hispanic or Latino	2135-2	2021	2021	Suppressed
+	"Chautauqua County, NY"	36013	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	Suppressed
+	"Chautauqua County, NY"	36013	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	Suppressed
+	"Chautauqua County, NY"	36013	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	Suppressed
+	"Chautauqua County, NY"	36013	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	12
+	"Chautauqua County, NY"	36013	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	13
+	"Chautauqua County, NY"	36013	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	Suppressed
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	Suppressed
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	11
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	14
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	Suppressed
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	14
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	10
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	19
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	Suppressed
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	15
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	12
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	17
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	21
+	"Chautauqua County, NY"	36013	White	2106-3	Hispanic or Latino	2135-2	2016	2016	130
+	"Chautauqua County, NY"	36013	White	2106-3	Hispanic or Latino	2135-2	2017	2017	136
+	"Chautauqua County, NY"	36013	White	2106-3	Hispanic or Latino	2135-2	2018	2018	138
+	"Chautauqua County, NY"	36013	White	2106-3	Hispanic or Latino	2135-2	2019	2019	158
+	"Chautauqua County, NY"	36013	White	2106-3	Hispanic or Latino	2135-2	2020	2020	125
+	"Chautauqua County, NY"	36013	White	2106-3	Hispanic or Latino	2135-2	2021	2021	152
+	"Chautauqua County, NY"	36013	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	1063
+	"Chautauqua County, NY"	36013	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	1071
+	"Chautauqua County, NY"	36013	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	1008
+	"Chautauqua County, NY"	36013	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	1034
+	"Chautauqua County, NY"	36013	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	946
+	"Chautauqua County, NY"	36013	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	924
+	"Dutchess County, NY"	36027	Asian	A	Hispanic or Latino	2135-2	2016	2016	Suppressed
+	"Dutchess County, NY"	36027	Asian	A	Hispanic or Latino	2135-2	2017	2017	Suppressed
+	"Dutchess County, NY"	36027	Asian	A	Hispanic or Latino	2135-2	2018	2018	Suppressed
+	"Dutchess County, NY"	36027	Asian	A	Hispanic or Latino	2135-2	2019	2019	Suppressed
+	"Dutchess County, NY"	36027	Asian	A	Hispanic or Latino	2135-2	2020	2020	Suppressed
+	"Dutchess County, NY"	36027	Asian	A	Hispanic or Latino	2135-2	2021	2021	Suppressed
+	"Dutchess County, NY"	36027	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	75
+	"Dutchess County, NY"	36027	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	78
+	"Dutchess County, NY"	36027	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	95
+	"Dutchess County, NY"	36027	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	113
+	"Dutchess County, NY"	36027	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	84
+	"Dutchess County, NY"	36027	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	83
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	36
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	48
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	85
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	75
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	99
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	70
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	279
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	316
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	294
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	306
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	294
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	280
+	"Dutchess County, NY"	36027	White	2106-3	Hispanic or Latino	2135-2	2016	2016	345
+	"Dutchess County, NY"	36027	White	2106-3	Hispanic or Latino	2135-2	2017	2017	377
+	"Dutchess County, NY"	36027	White	2106-3	Hispanic or Latino	2135-2	2018	2018	400
+	"Dutchess County, NY"	36027	White	2106-3	Hispanic or Latino	2135-2	2019	2019	411
+	"Dutchess County, NY"	36027	White	2106-3	Hispanic or Latino	2135-2	2020	2020	407
+	"Dutchess County, NY"	36027	White	2106-3	Hispanic or Latino	2135-2	2021	2021	444
+	"Dutchess County, NY"	36027	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	1599
+	"Dutchess County, NY"	36027	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	1573
+	"Dutchess County, NY"	36027	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	1503
+	"Dutchess County, NY"	36027	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	1575
+	"Dutchess County, NY"	36027	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	1499
+	"Dutchess County, NY"	36027	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	1603
+	"Erie County, NY"	36029	Asian	A	Hispanic or Latino	2135-2	2016	2016	28
+	"Erie County, NY"	36029	Asian	A	Hispanic or Latino	2135-2	2017	2017	19
+	"Erie County, NY"	36029	Asian	A	Hispanic or Latino	2135-2	2018	2018	Suppressed
+	"Erie County, NY"	36029	Asian	A	Hispanic or Latino	2135-2	2019	2019	14
+	"Erie County, NY"	36029	Asian	A	Hispanic or Latino	2135-2	2020	2020	Suppressed
+	"Erie County, NY"	36029	Asian	A	Hispanic or Latino	2135-2	2021	2021	15
+	"Erie County, NY"	36029	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	583
+	"Erie County, NY"	36029	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	551
+	"Erie County, NY"	36029	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	605
+	"Erie County, NY"	36029	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	610
+	"Erie County, NY"	36029	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	610
+	"Erie County, NY"	36029	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	681
+	"Erie County, NY"	36029	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	146
+	"Erie County, NY"	36029	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	115
+	"Erie County, NY"	36029	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	155
+	"Erie County, NY"	36029	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	152
+	"Erie County, NY"	36029	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	137
+	"Erie County, NY"	36029	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	173
+	"Erie County, NY"	36029	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	1778
+	"Erie County, NY"	36029	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	1806
+	"Erie County, NY"	36029	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	1804
+	"Erie County, NY"	36029	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	1811
+	"Erie County, NY"	36029	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	1794
+	"Erie County, NY"	36029	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	1650
+	"Erie County, NY"	36029	White	2106-3	Hispanic or Latino	2135-2	2016	2016	515
+	"Erie County, NY"	36029	White	2106-3	Hispanic or Latino	2135-2	2017	2017	547
+	"Erie County, NY"	36029	White	2106-3	Hispanic or Latino	2135-2	2018	2018	535
+	"Erie County, NY"	36029	White	2106-3	Hispanic or Latino	2135-2	2019	2019	527
+	"Erie County, NY"	36029	White	2106-3	Hispanic or Latino	2135-2	2020	2020	514
+	"Erie County, NY"	36029	White	2106-3	Hispanic or Latino	2135-2	2021	2021	496
+	"Erie County, NY"	36029	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	6125
+	"Erie County, NY"	36029	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	6040
+	"Erie County, NY"	36029	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	5894
+	"Erie County, NY"	36029	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	5807
+	"Erie County, NY"	36029	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	5671
+	"Erie County, NY"	36029	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	5726
+	"Jefferson County, NY"	36045	Asian	A	Hispanic or Latino	2135-2	2016	2016	11
+	"Jefferson County, NY"	36045	Asian	A	Hispanic or Latino	2135-2	2017	2017	Suppressed
+	"Jefferson County, NY"	36045	Asian	A	Hispanic or Latino	2135-2	2018	2018	Suppressed
+	"Jefferson County, NY"	36045	Asian	A	Hispanic or Latino	2135-2	2019	2019	Suppressed
+	"Jefferson County, NY"	36045	Asian	A	Hispanic or Latino	2135-2	2020	2020	Suppressed
+	"Jefferson County, NY"	36045	Asian	A	Hispanic or Latino	2135-2	2021	2021	Suppressed
+	"Jefferson County, NY"	36045	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	47
+	"Jefferson County, NY"	36045	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	50
+	"Jefferson County, NY"	36045	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	35
+	"Jefferson County, NY"	36045	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	49
+	"Jefferson County, NY"	36045	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	46
+	"Jefferson County, NY"	36045	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	29
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	25
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	26
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	23
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	27
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	22
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	37
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	123
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	140
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	144
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	133
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	144
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	144
+	"Jefferson County, NY"	36045	White	2106-3	Hispanic or Latino	2135-2	2016	2016	137
+	"Jefferson County, NY"	36045	White	2106-3	Hispanic or Latino	2135-2	2017	2017	181
+	"Jefferson County, NY"	36045	White	2106-3	Hispanic or Latino	2135-2	2018	2018	142
+	"Jefferson County, NY"	36045	White	2106-3	Hispanic or Latino	2135-2	2019	2019	159
+	"Jefferson County, NY"	36045	White	2106-3	Hispanic or Latino	2135-2	2020	2020	166
+	"Jefferson County, NY"	36045	White	2106-3	Hispanic or Latino	2135-2	2021	2021	173
+	"Jefferson County, NY"	36045	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	1400
+	"Jefferson County, NY"	36045	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	1438
+	"Jefferson County, NY"	36045	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	1363
+	"Jefferson County, NY"	36045	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	1282
+	"Jefferson County, NY"	36045	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	1276
+	"Jefferson County, NY"	36045	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	1267
+	"Kings County, NY"	36047	Asian	A	Hispanic or Latino	2135-2	2016	2016	407
+	"Kings County, NY"	36047	Asian	A	Hispanic or Latino	2135-2	2017	2017	384
+	"Kings County, NY"	36047	Asian	A	Hispanic or Latino	2135-2	2018	2018	38
+	"Kings County, NY"	36047	Asian	A	Hispanic or Latino	2135-2	2019	2019	35
+	"Kings County, NY"	36047	Asian	A	Hispanic or Latino	2135-2	2020	2020	50
+	"Kings County, NY"	36047	Asian	A	Hispanic or Latino	2135-2	2021	2021	60
+	"Kings County, NY"	36047	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	6112
+	"Kings County, NY"	36047	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	5651
+	"Kings County, NY"	36047	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	4986
+	"Kings County, NY"	36047	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	4918
+	"Kings County, NY"	36047	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	4005
+	"Kings County, NY"	36047	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	3578
+	"Kings County, NY"	36047	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	1334
+	"Kings County, NY"	36047	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	1184
+	"Kings County, NY"	36047	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	1144
+	"Kings County, NY"	36047	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	1120
+	"Kings County, NY"	36047	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	1207
+	"Kings County, NY"	36047	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	1494
+	"Kings County, NY"	36047	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	8743
+	"Kings County, NY"	36047	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	8460
+	"Kings County, NY"	36047	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	8016
+	"Kings County, NY"	36047	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	7591
+	"Kings County, NY"	36047	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	6908
+	"Kings County, NY"	36047	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	6563
+	"Kings County, NY"	36047	White	2106-3	Hispanic or Latino	2135-2	2016	2016	4478
+	"Kings County, NY"	36047	White	2106-3	Hispanic or Latino	2135-2	2017	2017	4296
+	"Kings County, NY"	36047	White	2106-3	Hispanic or Latino	2135-2	2018	2018	4814
+	"Kings County, NY"	36047	White	2106-3	Hispanic or Latino	2135-2	2019	2019	4029
+	"Kings County, NY"	36047	White	2106-3	Hispanic or Latino	2135-2	2020	2020	3515
+	"Kings County, NY"	36047	White	2106-3	Hispanic or Latino	2135-2	2021	2021	3717
+	"Kings County, NY"	36047	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	16409
+	"Kings County, NY"	36047	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	16619
+	"Kings County, NY"	36047	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	16565
+	"Kings County, NY"	36047	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	16479
+	"Kings County, NY"	36047	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	15798
+	"Kings County, NY"	36047	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	15708
+	"Monroe County, NY"	36055	Asian	A	Hispanic or Latino	2135-2	2016	2016	26
+	"Monroe County, NY"	36055	Asian	A	Hispanic or Latino	2135-2	2017	2017	25
+	"Monroe County, NY"	36055	Asian	A	Hispanic or Latino	2135-2	2018	2018	11
+	"Monroe County, NY"	36055	Asian	A	Hispanic or Latino	2135-2	2019	2019	Suppressed
+	"Monroe County, NY"	36055	Asian	A	Hispanic or Latino	2135-2	2020	2020	Suppressed
+	"Monroe County, NY"	36055	Asian	A	Hispanic or Latino	2135-2	2021	2021	15
+	"Monroe County, NY"	36055	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	448
+	"Monroe County, NY"	36055	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	402
+	"Monroe County, NY"	36055	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	367
+	"Monroe County, NY"	36055	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	376
+	"Monroe County, NY"	36055	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	323
+	"Monroe County, NY"	36055	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	365
+	"Monroe County, NY"	36055	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	165
+	"Monroe County, NY"	36055	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	187
+	"Monroe County, NY"	36055	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	165
+	"Monroe County, NY"	36055	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	181
+	"Monroe County, NY"	36055	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	209
+	"Monroe County, NY"	36055	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	214
+	"Monroe County, NY"	36055	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	1589
+	"Monroe County, NY"	36055	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	1666
+	"Monroe County, NY"	36055	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	1593
+	"Monroe County, NY"	36055	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	1663
+	"Monroe County, NY"	36055	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	1587
+	"Monroe County, NY"	36055	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	1536
+	"Monroe County, NY"	36055	White	2106-3	Hispanic or Latino	2135-2	2016	2016	661
+	"Monroe County, NY"	36055	White	2106-3	Hispanic or Latino	2135-2	2017	2017	720
+	"Monroe County, NY"	36055	White	2106-3	Hispanic or Latino	2135-2	2018	2018	719
+	"Monroe County, NY"	36055	White	2106-3	Hispanic or Latino	2135-2	2019	2019	734
+	"Monroe County, NY"	36055	White	2106-3	Hispanic or Latino	2135-2	2020	2020	747
+	"Monroe County, NY"	36055	White	2106-3	Hispanic or Latino	2135-2	2021	2021	733
+	"Monroe County, NY"	36055	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	4512
+	"Monroe County, NY"	36055	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	4317
+	"Monroe County, NY"	36055	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	4347
+	"Monroe County, NY"	36055	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	4379
+	"Monroe County, NY"	36055	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	4094
+	"Monroe County, NY"	36055	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	4289
+	"Nassau County, NY"	36059	Asian	A	Hispanic or Latino	2135-2	2016	2016	45
+	"Nassau County, NY"	36059	Asian	A	Hispanic or Latino	2135-2	2017	2017	52
+	"Nassau County, NY"	36059	Asian	A	Hispanic or Latino	2135-2	2018	2018	20
+	"Nassau County, NY"	36059	Asian	A	Hispanic or Latino	2135-2	2019	2019	38
+	"Nassau County, NY"	36059	Asian	A	Hispanic or Latino	2135-2	2020	2020	31
+	"Nassau County, NY"	36059	Asian	A	Hispanic or Latino	2135-2	2021	2021	43
+	"Nassau County, NY"	36059	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	1745
+	"Nassau County, NY"	36059	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	1756
+	"Nassau County, NY"	36059	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	1869
+	"Nassau County, NY"	36059	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	1909
+	"Nassau County, NY"	36059	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	1846
+	"Nassau County, NY"	36059	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	1970
+	"Nassau County, NY"	36059	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	210
+	"Nassau County, NY"	36059	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	208
+	"Nassau County, NY"	36059	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	279
+	"Nassau County, NY"	36059	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	327
+	"Nassau County, NY"	36059	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	340
+	"Nassau County, NY"	36059	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	464
+	"Nassau County, NY"	36059	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	1626
+	"Nassau County, NY"	36059	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	1514
+	"Nassau County, NY"	36059	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	1503
+	"Nassau County, NY"	36059	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	1491
+	"Nassau County, NY"	36059	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	1400
+	"Nassau County, NY"	36059	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	1397
+	"Nassau County, NY"	36059	White	2106-3	Hispanic or Latino	2135-2	2016	2016	3518
+	"Nassau County, NY"	36059	White	2106-3	Hispanic or Latino	2135-2	2017	2017	3409
+	"Nassau County, NY"	36059	White	2106-3	Hispanic or Latino	2135-2	2018	2018	3264
+	"Nassau County, NY"	36059	White	2106-3	Hispanic or Latino	2135-2	2019	2019	3000
+	"Nassau County, NY"	36059	White	2106-3	Hispanic or Latino	2135-2	2020	2020	2891
+	"Nassau County, NY"	36059	White	2106-3	Hispanic or Latino	2135-2	2021	2021	2853
+	"Nassau County, NY"	36059	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	6314
+	"Nassau County, NY"	36059	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	6388
+	"Nassau County, NY"	36059	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	6340
+	"Nassau County, NY"	36059	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	6224
+	"Nassau County, NY"	36059	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	6075
+	"Nassau County, NY"	36059	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	6645
+	"New York County, NY"	36061	Asian	A	Hispanic or Latino	2135-2	2016	2016	244
+	"New York County, NY"	36061	Asian	A	Hispanic or Latino	2135-2	2017	2017	251
+	"New York County, NY"	36061	Asian	A	Hispanic or Latino	2135-2	2018	2018	33
+	"New York County, NY"	36061	Asian	A	Hispanic or Latino	2135-2	2019	2019	35
+	"New York County, NY"	36061	Asian	A	Hispanic or Latino	2135-2	2020	2020	32
+	"New York County, NY"	36061	Asian	A	Hispanic or Latino	2135-2	2021	2021	42
+	"New York County, NY"	36061	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	2604
+	"New York County, NY"	36061	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	2465
+	"New York County, NY"	36061	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	2324
+	"New York County, NY"	36061	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	2342
+	"New York County, NY"	36061	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	1954
+	"New York County, NY"	36061	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	1838
+	"New York County, NY"	36061	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	961
+	"New York County, NY"	36061	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	763
+	"New York County, NY"	36061	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	703
+	"New York County, NY"	36061	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	794
+	"New York County, NY"	36061	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	869
+	"New York County, NY"	36061	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	1110
+	"New York County, NY"	36061	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	1766
+	"New York County, NY"	36061	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	1872
+	"New York County, NY"	36061	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	1853
+	"New York County, NY"	36061	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	1803
+	"New York County, NY"	36061	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	1666
+	"New York County, NY"	36061	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	1622
+	"New York County, NY"	36061	White	2106-3	Hispanic or Latino	2135-2	2016	2016	2946
+	"New York County, NY"	36061	White	2106-3	Hispanic or Latino	2135-2	2017	2017	3006
+	"New York County, NY"	36061	White	2106-3	Hispanic or Latino	2135-2	2018	2018	3048
+	"New York County, NY"	36061	White	2106-3	Hispanic or Latino	2135-2	2019	2019	2864
+	"New York County, NY"	36061	White	2106-3	Hispanic or Latino	2135-2	2020	2020	2347
+	"New York County, NY"	36061	White	2106-3	Hispanic or Latino	2135-2	2021	2021	2312
+	"New York County, NY"	36061	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	6726
+	"New York County, NY"	36061	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	7619
+	"New York County, NY"	36061	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	7583
+	"New York County, NY"	36061	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	7543
+	"New York County, NY"	36061	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	6694
+	"New York County, NY"	36061	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	5988
+	"Niagara County, NY"	36063	Asian	A	Hispanic or Latino	2135-2	2016	2016	Suppressed
+	"Niagara County, NY"	36063	Asian	A	Hispanic or Latino	2135-2	2017	2017	Suppressed
+	"Niagara County, NY"	36063	Asian	A	Hispanic or Latino	2135-2	2018	2018	Suppressed
+	"Niagara County, NY"	36063	Asian	A	Hispanic or Latino	2135-2	2019	2019	Suppressed
+	"Niagara County, NY"	36063	Asian	A	Hispanic or Latino	2135-2	2020	2020	Suppressed
+	"Niagara County, NY"	36063	Asian	A	Hispanic or Latino	2135-2	2021	2021	Suppressed
+	"Niagara County, NY"	36063	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	27
+	"Niagara County, NY"	36063	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	27
+	"Niagara County, NY"	36063	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	41
+	"Niagara County, NY"	36063	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	22
+	"Niagara County, NY"	36063	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	37
+	"Niagara County, NY"	36063	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	28
+	"Niagara County, NY"	36063	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	20
+	"Niagara County, NY"	36063	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	21
+	"Niagara County, NY"	36063	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	16
+	"Niagara County, NY"	36063	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	21
+	"Niagara County, NY"	36063	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	20
+	"Niagara County, NY"	36063	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	25
+	"Niagara County, NY"	36063	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	191
+	"Niagara County, NY"	36063	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	234
+	"Niagara County, NY"	36063	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	199
+	"Niagara County, NY"	36063	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	216
+	"Niagara County, NY"	36063	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	206
+	"Niagara County, NY"	36063	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	184
+	"Niagara County, NY"	36063	White	2106-3	Hispanic or Latino	2135-2	2016	2016	57
+	"Niagara County, NY"	36063	White	2106-3	Hispanic or Latino	2135-2	2017	2017	74
+	"Niagara County, NY"	36063	White	2106-3	Hispanic or Latino	2135-2	2018	2018	77
+	"Niagara County, NY"	36063	White	2106-3	Hispanic or Latino	2135-2	2019	2019	66
+	"Niagara County, NY"	36063	White	2106-3	Hispanic or Latino	2135-2	2020	2020	75
+	"Niagara County, NY"	36063	White	2106-3	Hispanic or Latino	2135-2	2021	2021	59
+	"Niagara County, NY"	36063	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	1627
+	"Niagara County, NY"	36063	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	1560
+	"Niagara County, NY"	36063	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	1547
+	"Niagara County, NY"	36063	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	1553
+	"Niagara County, NY"	36063	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	1421
+	"Niagara County, NY"	36063	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	1478
+	"Oneida County, NY"	36065	Asian	A	Hispanic or Latino	2135-2	2016	2016	18
+	"Oneida County, NY"	36065	Asian	A	Hispanic or Latino	2135-2	2017	2017	Suppressed
+	"Oneida County, NY"	36065	Asian	A	Hispanic or Latino	2135-2	2018	2018	15
+	"Oneida County, NY"	36065	Asian	A	Hispanic or Latino	2135-2	2019	2019	Suppressed
+	"Oneida County, NY"	36065	Asian	A	Hispanic or Latino	2135-2	2020	2020	10
+	"Oneida County, NY"	36065	Asian	A	Hispanic or Latino	2135-2	2021	2021	Suppressed
+	"Oneida County, NY"	36065	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	158
+	"Oneida County, NY"	36065	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	160
+	"Oneida County, NY"	36065	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	158
+	"Oneida County, NY"	36065	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	143
+	"Oneida County, NY"	36065	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	161
+	"Oneida County, NY"	36065	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	139
+	"Oneida County, NY"	36065	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	26
+	"Oneida County, NY"	36065	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	29
+	"Oneida County, NY"	36065	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	24
+	"Oneida County, NY"	36065	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	30
+	"Oneida County, NY"	36065	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	47
+	"Oneida County, NY"	36065	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	38
+	"Oneida County, NY"	36065	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	206
+	"Oneida County, NY"	36065	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	230
+	"Oneida County, NY"	36065	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	216
+	"Oneida County, NY"	36065	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	213
+	"Oneida County, NY"	36065	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	235
+	"Oneida County, NY"	36065	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	234
+	"Oneida County, NY"	36065	White	2106-3	Hispanic or Latino	2135-2	2016	2016	135
+	"Oneida County, NY"	36065	White	2106-3	Hispanic or Latino	2135-2	2017	2017	154
+	"Oneida County, NY"	36065	White	2106-3	Hispanic or Latino	2135-2	2018	2018	152
+	"Oneida County, NY"	36065	White	2106-3	Hispanic or Latino	2135-2	2019	2019	169
+	"Oneida County, NY"	36065	White	2106-3	Hispanic or Latino	2135-2	2020	2020	164
+	"Oneida County, NY"	36065	White	2106-3	Hispanic or Latino	2135-2	2021	2021	153
+	"Oneida County, NY"	36065	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	1766
+	"Oneida County, NY"	36065	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	1758
+	"Oneida County, NY"	36065	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	1743
+	"Oneida County, NY"	36065	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	1753
+	"Oneida County, NY"	36065	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	1580
+	"Oneida County, NY"	36065	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	1702
+	"Onondaga County, NY"	36067	Asian	A	Hispanic or Latino	2135-2	2016	2016	10
+	"Onondaga County, NY"	36067	Asian	A	Hispanic or Latino	2135-2	2017	2017	10
+	"Onondaga County, NY"	36067	Asian	A	Hispanic or Latino	2135-2	2018	2018	Suppressed
+	"Onondaga County, NY"	36067	Asian	A	Hispanic or Latino	2135-2	2019	2019	Suppressed
+	"Onondaga County, NY"	36067	Asian	A	Hispanic or Latino	2135-2	2020	2020	Suppressed
+	"Onondaga County, NY"	36067	Asian	A	Hispanic or Latino	2135-2	2021	2021	Suppressed
+	"Onondaga County, NY"	36067	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	296
+	"Onondaga County, NY"	36067	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	298
+	"Onondaga County, NY"	36067	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	242
+	"Onondaga County, NY"	36067	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	272
+	"Onondaga County, NY"	36067	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	258
+	"Onondaga County, NY"	36067	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	269
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	78
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	69
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	91
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	96
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	99
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	104
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	830
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	874
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	890
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	883
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	902
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	852
+	"Onondaga County, NY"	36067	White	2106-3	Hispanic or Latino	2135-2	2016	2016	218
+	"Onondaga County, NY"	36067	White	2106-3	Hispanic or Latino	2135-2	2017	2017	246
+	"Onondaga County, NY"	36067	White	2106-3	Hispanic or Latino	2135-2	2018	2018	274
+	"Onondaga County, NY"	36067	White	2106-3	Hispanic or Latino	2135-2	2019	2019	253
+	"Onondaga County, NY"	36067	White	2106-3	Hispanic or Latino	2135-2	2020	2020	236
+	"Onondaga County, NY"	36067	White	2106-3	Hispanic or Latino	2135-2	2021	2021	196
+	"Onondaga County, NY"	36067	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	3284
+	"Onondaga County, NY"	36067	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	3072
+	"Onondaga County, NY"	36067	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	3261
+	"Onondaga County, NY"	36067	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	3067
+	"Onondaga County, NY"	36067	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	2907
+	"Onondaga County, NY"	36067	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	2971
+	"Ontario County, NY"	36069	Asian	A	Hispanic or Latino	2135-2	2016	2016	Suppressed
+	"Ontario County, NY"	36069	Asian	A	Hispanic or Latino	2135-2	2017	2017	Suppressed
+	"Ontario County, NY"	36069	Asian	A	Hispanic or Latino	2135-2	2018	2018	Suppressed
+	"Ontario County, NY"	36069	Asian	A	Hispanic or Latino	2135-2	2019	2019	Suppressed
+	"Ontario County, NY"	36069	Asian	A	Hispanic or Latino	2135-2	2020	2020	Suppressed
+	"Ontario County, NY"	36069	Asian	A	Hispanic or Latino	2135-2	2021	2021	Suppressed
+	"Ontario County, NY"	36069	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	25
+	"Ontario County, NY"	36069	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	16
+	"Ontario County, NY"	36069	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	17
+	"Ontario County, NY"	36069	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	12
+	"Ontario County, NY"	36069	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	20
+	"Ontario County, NY"	36069	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	14
+	"Ontario County, NY"	36069	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	Suppressed
+	"Ontario County, NY"	36069	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	Suppressed
+	"Ontario County, NY"	36069	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	12
+	"Ontario County, NY"	36069	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	Suppressed
+	"Ontario County, NY"	36069	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	Suppressed
+	"Ontario County, NY"	36069	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	Suppressed
+	"Ontario County, NY"	36069	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	20
+	"Ontario County, NY"	36069	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	16
+	"Ontario County, NY"	36069	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	24
+	"Ontario County, NY"	36069	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	24
+	"Ontario County, NY"	36069	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	24
+	"Ontario County, NY"	36069	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	24
+	"Ontario County, NY"	36069	White	2106-3	Hispanic or Latino	2135-2	2016	2016	61
+	"Ontario County, NY"	36069	White	2106-3	Hispanic or Latino	2135-2	2017	2017	76
+	"Ontario County, NY"	36069	White	2106-3	Hispanic or Latino	2135-2	2018	2018	51
+	"Ontario County, NY"	36069	White	2106-3	Hispanic or Latino	2135-2	2019	2019	86
+	"Ontario County, NY"	36069	White	2106-3	Hispanic or Latino	2135-2	2020	2020	61
+	"Ontario County, NY"	36069	White	2106-3	Hispanic or Latino	2135-2	2021	2021	86
+	"Ontario County, NY"	36069	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	816
+	"Ontario County, NY"	36069	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	793
+	"Ontario County, NY"	36069	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	787
+	"Ontario County, NY"	36069	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	770
+	"Ontario County, NY"	36069	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	777
+	"Ontario County, NY"	36069	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	797
+	"Orange County, NY"	36071	Asian	A	Hispanic or Latino	2135-2	2016	2016	40
+	"Orange County, NY"	36071	Asian	A	Hispanic or Latino	2135-2	2017	2017	45
+	"Orange County, NY"	36071	Asian	A	Hispanic or Latino	2135-2	2018	2018	11
+	"Orange County, NY"	36071	Asian	A	Hispanic or Latino	2135-2	2019	2019	18
+	"Orange County, NY"	36071	Asian	A	Hispanic or Latino	2135-2	2020	2020	16
+	"Orange County, NY"	36071	Asian	A	Hispanic or Latino	2135-2	2021	2021	15
+	"Orange County, NY"	36071	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	95
+	"Orange County, NY"	36071	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	103
+	"Orange County, NY"	36071	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	131
+	"Orange County, NY"	36071	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	108
+	"Orange County, NY"	36071	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	116
+	"Orange County, NY"	36071	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	129
+	"Orange County, NY"	36071	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	164
+	"Orange County, NY"	36071	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	186
+	"Orange County, NY"	36071	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	186
+	"Orange County, NY"	36071	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	175
+	"Orange County, NY"	36071	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	221
+	"Orange County, NY"	36071	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	197
+	"Orange County, NY"	36071	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	363
+	"Orange County, NY"	36071	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	370
+	"Orange County, NY"	36071	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	397
+	"Orange County, NY"	36071	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	388
+	"Orange County, NY"	36071	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	378
+	"Orange County, NY"	36071	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	422
+	"Orange County, NY"	36071	White	2106-3	Hispanic or Latino	2135-2	2016	2016	872
+	"Orange County, NY"	36071	White	2106-3	Hispanic or Latino	2135-2	2017	2017	914
+	"Orange County, NY"	36071	White	2106-3	Hispanic or Latino	2135-2	2018	2018	905
+	"Orange County, NY"	36071	White	2106-3	Hispanic or Latino	2135-2	2019	2019	930
+	"Orange County, NY"	36071	White	2106-3	Hispanic or Latino	2135-2	2020	2020	915
+	"Orange County, NY"	36071	White	2106-3	Hispanic or Latino	2135-2	2021	2021	1062
+	"Orange County, NY"	36071	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	2991
+	"Orange County, NY"	36071	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	3173
+	"Orange County, NY"	36071	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	3132
+	"Orange County, NY"	36071	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	3228
+	"Orange County, NY"	36071	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	3205
+	"Orange County, NY"	36071	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	3423
+	"Oswego County, NY"	36075	Asian	A	Hispanic or Latino	2135-2	2016	2016	Suppressed
+	"Oswego County, NY"	36075	Asian	A	Hispanic or Latino	2135-2	2017	2017	Suppressed
+	"Oswego County, NY"	36075	Asian	A	Hispanic or Latino	2135-2	2018	2018	Suppressed
+	"Oswego County, NY"	36075	Asian	A	Hispanic or Latino	2135-2	2019	2019	Suppressed
+	"Oswego County, NY"	36075	Asian	A	Hispanic or Latino	2135-2	2020	2020	Suppressed
+	"Oswego County, NY"	36075	Asian	A	Hispanic or Latino	2135-2	2021	2021	Suppressed
+	"Oswego County, NY"	36075	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	10
+	"Oswego County, NY"	36075	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	Suppressed
+	"Oswego County, NY"	36075	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	Suppressed
+	"Oswego County, NY"	36075	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	Suppressed
+	"Oswego County, NY"	36075	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	Suppressed
+	"Oswego County, NY"	36075	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	10
+	"Oswego County, NY"	36075	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	Suppressed
+	"Oswego County, NY"	36075	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	Suppressed
+	"Oswego County, NY"	36075	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	Suppressed
+	"Oswego County, NY"	36075	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	Suppressed
+	"Oswego County, NY"	36075	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	Suppressed
+	"Oswego County, NY"	36075	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	Suppressed
+	"Oswego County, NY"	36075	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	Suppressed
+	"Oswego County, NY"	36075	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	16
+	"Oswego County, NY"	36075	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	Suppressed
+	"Oswego County, NY"	36075	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	10
+	"Oswego County, NY"	36075	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	Suppressed
+	"Oswego County, NY"	36075	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	10
+	"Oswego County, NY"	36075	White	2106-3	Hispanic or Latino	2135-2	2016	2016	35
+	"Oswego County, NY"	36075	White	2106-3	Hispanic or Latino	2135-2	2017	2017	31
+	"Oswego County, NY"	36075	White	2106-3	Hispanic or Latino	2135-2	2018	2018	30
+	"Oswego County, NY"	36075	White	2106-3	Hispanic or Latino	2135-2	2019	2019	26
+	"Oswego County, NY"	36075	White	2106-3	Hispanic or Latino	2135-2	2020	2020	33
+	"Oswego County, NY"	36075	White	2106-3	Hispanic or Latino	2135-2	2021	2021	32
+	"Oswego County, NY"	36075	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	1201
+	"Oswego County, NY"	36075	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	1089
+	"Oswego County, NY"	36075	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	1103
+	"Oswego County, NY"	36075	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	1136
+	"Oswego County, NY"	36075	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	1043
+	"Oswego County, NY"	36075	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	989
+	"Queens County, NY"	36081	Asian	A	Hispanic or Latino	2135-2	2016	2016	517
+	"Queens County, NY"	36081	Asian	A	Hispanic or Latino	2135-2	2017	2017	610
+	"Queens County, NY"	36081	Asian	A	Hispanic or Latino	2135-2	2018	2018	102
+	"Queens County, NY"	36081	Asian	A	Hispanic or Latino	2135-2	2019	2019	91
+	"Queens County, NY"	36081	Asian	A	Hispanic or Latino	2135-2	2020	2020	86
+	"Queens County, NY"	36081	Asian	A	Hispanic or Latino	2135-2	2021	2021	109
+	"Queens County, NY"	36081	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	9513
+	"Queens County, NY"	36081	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	8893
+	"Queens County, NY"	36081	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	8526
+	"Queens County, NY"	36081	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	8348
+	"Queens County, NY"	36081	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	6995
+	"Queens County, NY"	36081	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	6568
+	"Queens County, NY"	36081	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	990
+	"Queens County, NY"	36081	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	1215
+	"Queens County, NY"	36081	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	1021
+	"Queens County, NY"	36081	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	1041
+	"Queens County, NY"	36081	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	1253
+	"Queens County, NY"	36081	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	1540
+	"Queens County, NY"	36081	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	4298
+	"Queens County, NY"	36081	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	4177
+	"Queens County, NY"	36081	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	4121
+	"Queens County, NY"	36081	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	3901
+	"Queens County, NY"	36081	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	3590
+	"Queens County, NY"	36081	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	3495
+	"Queens County, NY"	36081	White	2106-3	Hispanic or Latino	2135-2	2016	2016	6980
+	"Queens County, NY"	36081	White	2106-3	Hispanic or Latino	2135-2	2017	2017	6417
+	"Queens County, NY"	36081	White	2106-3	Hispanic or Latino	2135-2	2018	2018	6696
+	"Queens County, NY"	36081	White	2106-3	Hispanic or Latino	2135-2	2019	2019	6330
+	"Queens County, NY"	36081	White	2106-3	Hispanic or Latino	2135-2	2020	2020	5615
+	"Queens County, NY"	36081	White	2106-3	Hispanic or Latino	2135-2	2021	2021	5543
+	"Queens County, NY"	36081	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	6253
+	"Queens County, NY"	36081	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	6141
+	"Queens County, NY"	36081	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	6049
+	"Queens County, NY"	36081	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	5802
+	"Queens County, NY"	36081	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	5447
+	"Queens County, NY"	36081	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	5143
+	"Rensselaer County, NY"	36083	Asian	A	Hispanic or Latino	2135-2	2016	2016	Suppressed
+	"Rensselaer County, NY"	36083	Asian	A	Hispanic or Latino	2135-2	2017	2017	Suppressed
+	"Rensselaer County, NY"	36083	Asian	A	Hispanic or Latino	2135-2	2018	2018	Suppressed
+	"Rensselaer County, NY"	36083	Asian	A	Hispanic or Latino	2135-2	2019	2019	Suppressed
+	"Rensselaer County, NY"	36083	Asian	A	Hispanic or Latino	2135-2	2020	2020	Suppressed
+	"Rensselaer County, NY"	36083	Asian	A	Hispanic or Latino	2135-2	2021	2021	Suppressed
+	"Rensselaer County, NY"	36083	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	63
+	"Rensselaer County, NY"	36083	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	71
+	"Rensselaer County, NY"	36083	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	69
+	"Rensselaer County, NY"	36083	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	73
+	"Rensselaer County, NY"	36083	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	68
+	"Rensselaer County, NY"	36083	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	46
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	22
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	28
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	19
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	26
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	32
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	24
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	149
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	155
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	169
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	174
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	193
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	168
+	"Rensselaer County, NY"	36083	White	2106-3	Hispanic or Latino	2135-2	2016	2016	87
+	"Rensselaer County, NY"	36083	White	2106-3	Hispanic or Latino	2135-2	2017	2017	86
+	"Rensselaer County, NY"	36083	White	2106-3	Hispanic or Latino	2135-2	2018	2018	93
+	"Rensselaer County, NY"	36083	White	2106-3	Hispanic or Latino	2135-2	2019	2019	87
+	"Rensselaer County, NY"	36083	White	2106-3	Hispanic or Latino	2135-2	2020	2020	88
+	"Rensselaer County, NY"	36083	White	2106-3	Hispanic or Latino	2135-2	2021	2021	72
+	"Rensselaer County, NY"	36083	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	1283
+	"Rensselaer County, NY"	36083	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	1139
+	"Rensselaer County, NY"	36083	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	1148
+	"Rensselaer County, NY"	36083	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	1131
+	"Rensselaer County, NY"	36083	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	1084
+	"Rensselaer County, NY"	36083	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	1057
+	"Richmond County, NY"	36085	Asian	A	Hispanic or Latino	2135-2	2016	2016	83
+	"Richmond County, NY"	36085	Asian	A	Hispanic or Latino	2135-2	2017	2017	75
+	"Richmond County, NY"	36085	Asian	A	Hispanic or Latino	2135-2	2018	2018	19
+	"Richmond County, NY"	36085	Asian	A	Hispanic or Latino	2135-2	2019	2019	12
+	"Richmond County, NY"	36085	Asian	A	Hispanic or Latino	2135-2	2020	2020	12
+	"Richmond County, NY"	36085	Asian	A	Hispanic or Latino	2135-2	2021	2021	Suppressed
+	"Richmond County, NY"	36085	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	509
+	"Richmond County, NY"	36085	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	556
+	"Richmond County, NY"	36085	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	554
+	"Richmond County, NY"	36085	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	624
+	"Richmond County, NY"	36085	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	583
+	"Richmond County, NY"	36085	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	606
+	"Richmond County, NY"	36085	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	204
+	"Richmond County, NY"	36085	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	221
+	"Richmond County, NY"	36085	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	180
+	"Richmond County, NY"	36085	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	210
+	"Richmond County, NY"	36085	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	214
+	"Richmond County, NY"	36085	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	229
+	"Richmond County, NY"	36085	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	608
+	"Richmond County, NY"	36085	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	606
+	"Richmond County, NY"	36085	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	577
+	"Richmond County, NY"	36085	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	603
+	"Richmond County, NY"	36085	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	536
+	"Richmond County, NY"	36085	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	513
+	"Richmond County, NY"	36085	White	2106-3	Hispanic or Latino	2135-2	2016	2016	884
+	"Richmond County, NY"	36085	White	2106-3	Hispanic or Latino	2135-2	2017	2017	902
+	"Richmond County, NY"	36085	White	2106-3	Hispanic or Latino	2135-2	2018	2018	907
+	"Richmond County, NY"	36085	White	2106-3	Hispanic or Latino	2135-2	2019	2019	886
+	"Richmond County, NY"	36085	White	2106-3	Hispanic or Latino	2135-2	2020	2020	858
+	"Richmond County, NY"	36085	White	2106-3	Hispanic or Latino	2135-2	2021	2021	867
+	"Richmond County, NY"	36085	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	2796
+	"Richmond County, NY"	36085	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	2733
+	"Richmond County, NY"	36085	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	2540
+	"Richmond County, NY"	36085	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	2605
+	"Richmond County, NY"	36085	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	2453
+	"Richmond County, NY"	36085	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	2580
+	"Rockland County, NY"	36087	Asian	A	Hispanic or Latino	2135-2	2016	2016	47
+	"Rockland County, NY"	36087	Asian	A	Hispanic or Latino	2135-2	2017	2017	60
+	"Rockland County, NY"	36087	Asian	A	Hispanic or Latino	2135-2	2018	2018	14
+	"Rockland County, NY"	36087	Asian	A	Hispanic or Latino	2135-2	2019	2019	10
+	"Rockland County, NY"	36087	Asian	A	Hispanic or Latino	2135-2	2020	2020	13
+	"Rockland County, NY"	36087	Asian	A	Hispanic or Latino	2135-2	2021	2021	25
+	"Rockland County, NY"	36087	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	203
+	"Rockland County, NY"	36087	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	187
+	"Rockland County, NY"	36087	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	187
+	"Rockland County, NY"	36087	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	199
+	"Rockland County, NY"	36087	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	167
+	"Rockland County, NY"	36087	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	200
+	"Rockland County, NY"	36087	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	132
+	"Rockland County, NY"	36087	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	115
+	"Rockland County, NY"	36087	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	97
+	"Rockland County, NY"	36087	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	111
+	"Rockland County, NY"	36087	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	167
+	"Rockland County, NY"	36087	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	256
+	"Rockland County, NY"	36087	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	363
+	"Rockland County, NY"	36087	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	378
+	"Rockland County, NY"	36087	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	352
+	"Rockland County, NY"	36087	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	333
+	"Rockland County, NY"	36087	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	313
+	"Rockland County, NY"	36087	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	332
+	"Rockland County, NY"	36087	White	2106-3	Hispanic or Latino	2135-2	2016	2016	841
+	"Rockland County, NY"	36087	White	2106-3	Hispanic or Latino	2135-2	2017	2017	843
+	"Rockland County, NY"	36087	White	2106-3	Hispanic or Latino	2135-2	2018	2018	923
+	"Rockland County, NY"	36087	White	2106-3	Hispanic or Latino	2135-2	2019	2019	887
+	"Rockland County, NY"	36087	White	2106-3	Hispanic or Latino	2135-2	2020	2020	847
+	"Rockland County, NY"	36087	White	2106-3	Hispanic or Latino	2135-2	2021	2021	931
+	"Rockland County, NY"	36087	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	3308
+	"Rockland County, NY"	36087	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	3658
+	"Rockland County, NY"	36087	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	3893
+	"Rockland County, NY"	36087	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	3966
+	"Rockland County, NY"	36087	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	3944
+	"Rockland County, NY"	36087	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	4110
+	"St. Lawrence County, NY"	36089	Asian	A	Hispanic or Latino	2135-2	2016	2016	Suppressed
+	"St. Lawrence County, NY"	36089	Asian	A	Hispanic or Latino	2135-2	2017	2017	Suppressed
+	"St. Lawrence County, NY"	36089	Asian	A	Hispanic or Latino	2135-2	2018	2018	Suppressed
+	"St. Lawrence County, NY"	36089	Asian	A	Hispanic or Latino	2135-2	2019	2019	Suppressed
+	"St. Lawrence County, NY"	36089	Asian	A	Hispanic or Latino	2135-2	2020	2020	Suppressed
+	"St. Lawrence County, NY"	36089	Asian	A	Hispanic or Latino	2135-2	2021	2021	Suppressed
+	"St. Lawrence County, NY"	36089	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	18
+	"St. Lawrence County, NY"	36089	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	13
+	"St. Lawrence County, NY"	36089	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	Suppressed
+	"St. Lawrence County, NY"	36089	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	14
+	"St. Lawrence County, NY"	36089	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	11
+	"St. Lawrence County, NY"	36089	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	12
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	Suppressed
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	Suppressed
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	Suppressed
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	Suppressed
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	Suppressed
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	Suppressed
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	Suppressed
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	Suppressed
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	Suppressed
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	Suppressed
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	Suppressed
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	Suppressed
+	"St. Lawrence County, NY"	36089	White	2106-3	Hispanic or Latino	2135-2	2016	2016	Suppressed
+	"St. Lawrence County, NY"	36089	White	2106-3	Hispanic or Latino	2135-2	2017	2017	13
+	"St. Lawrence County, NY"	36089	White	2106-3	Hispanic or Latino	2135-2	2018	2018	10
+	"St. Lawrence County, NY"	36089	White	2106-3	Hispanic or Latino	2135-2	2019	2019	13
+	"St. Lawrence County, NY"	36089	White	2106-3	Hispanic or Latino	2135-2	2020	2020	19
+	"St. Lawrence County, NY"	36089	White	2106-3	Hispanic or Latino	2135-2	2021	2021	15
+	"St. Lawrence County, NY"	36089	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	952
+	"St. Lawrence County, NY"	36089	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	886
+	"St. Lawrence County, NY"	36089	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	937
+	"St. Lawrence County, NY"	36089	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	856
+	"St. Lawrence County, NY"	36089	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	853
+	"St. Lawrence County, NY"	36089	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	870
+	"Saratoga County, NY"	36091	Asian	A	Hispanic or Latino	2135-2	2016	2016	Suppressed
+	"Saratoga County, NY"	36091	Asian	A	Hispanic or Latino	2135-2	2017	2017	Suppressed
+	"Saratoga County, NY"	36091	Asian	A	Hispanic or Latino	2135-2	2018	2018	Suppressed
+	"Saratoga County, NY"	36091	Asian	A	Hispanic or Latino	2135-2	2019	2019	Suppressed
+	"Saratoga County, NY"	36091	Asian	A	Hispanic or Latino	2135-2	2020	2020	Suppressed
+	"Saratoga County, NY"	36091	Asian	A	Hispanic or Latino	2135-2	2021	2021	Suppressed
+	"Saratoga County, NY"	36091	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	148
+	"Saratoga County, NY"	36091	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	119
+	"Saratoga County, NY"	36091	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	112
+	"Saratoga County, NY"	36091	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	100
+	"Saratoga County, NY"	36091	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	82
+	"Saratoga County, NY"	36091	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	87
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	Suppressed
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	Suppressed
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	Suppressed
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	Suppressed
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	13
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	Suppressed
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	36
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	26
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	32
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	45
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	44
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	54
+	"Saratoga County, NY"	36091	White	2106-3	Hispanic or Latino	2135-2	2016	2016	75
+	"Saratoga County, NY"	36091	White	2106-3	Hispanic or Latino	2135-2	2017	2017	81
+	"Saratoga County, NY"	36091	White	2106-3	Hispanic or Latino	2135-2	2018	2018	60
+	"Saratoga County, NY"	36091	White	2106-3	Hispanic or Latino	2135-2	2019	2019	72
+	"Saratoga County, NY"	36091	White	2106-3	Hispanic or Latino	2135-2	2020	2020	62
+	"Saratoga County, NY"	36091	White	2106-3	Hispanic or Latino	2135-2	2021	2021	86
+	"Saratoga County, NY"	36091	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	1832
+	"Saratoga County, NY"	36091	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	1770
+	"Saratoga County, NY"	36091	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	1717
+	"Saratoga County, NY"	36091	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	1709
+	"Saratoga County, NY"	36091	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	1645
+	"Saratoga County, NY"	36091	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	1747
+	"Schenectady County, NY"	36093	Asian	A	Hispanic or Latino	2135-2	2016	2016	Suppressed
+	"Schenectady County, NY"	36093	Asian	A	Hispanic or Latino	2135-2	2017	2017	Suppressed
+	"Schenectady County, NY"	36093	Asian	A	Hispanic or Latino	2135-2	2018	2018	Suppressed
+	"Schenectady County, NY"	36093	Asian	A	Hispanic or Latino	2135-2	2019	2019	Suppressed
+	"Schenectady County, NY"	36093	Asian	A	Hispanic or Latino	2135-2	2020	2020	Suppressed
+	"Schenectady County, NY"	36093	Asian	A	Hispanic or Latino	2135-2	2021	2021	Suppressed
+	"Schenectady County, NY"	36093	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	96
+	"Schenectady County, NY"	36093	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	98
+	"Schenectady County, NY"	36093	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	120
+	"Schenectady County, NY"	36093	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	100
+	"Schenectady County, NY"	36093	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	119
+	"Schenectady County, NY"	36093	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	217
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	40
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	44
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	28
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	43
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	49
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	42
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	261
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	249
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	287
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	287
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	273
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	275
+	"Schenectady County, NY"	36093	White	2106-3	Hispanic or Latino	2135-2	2016	2016	106
+	"Schenectady County, NY"	36093	White	2106-3	Hispanic or Latino	2135-2	2017	2017	101
+	"Schenectady County, NY"	36093	White	2106-3	Hispanic or Latino	2135-2	2018	2018	89
+	"Schenectady County, NY"	36093	White	2106-3	Hispanic or Latino	2135-2	2019	2019	101
+	"Schenectady County, NY"	36093	White	2106-3	Hispanic or Latino	2135-2	2020	2020	99
+	"Schenectady County, NY"	36093	White	2106-3	Hispanic or Latino	2135-2	2021	2021	100
+	"Schenectady County, NY"	36093	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	1103
+	"Schenectady County, NY"	36093	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	1198
+	"Schenectady County, NY"	36093	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	1166
+	"Schenectady County, NY"	36093	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	1129
+	"Schenectady County, NY"	36093	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	1087
+	"Schenectady County, NY"	36093	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	1047
+	"Suffolk County, NY"	36103	Asian	A	Hispanic or Latino	2135-2	2016	2016	76
+	"Suffolk County, NY"	36103	Asian	A	Hispanic or Latino	2135-2	2017	2017	83
+	"Suffolk County, NY"	36103	Asian	A	Hispanic or Latino	2135-2	2018	2018	29
+	"Suffolk County, NY"	36103	Asian	A	Hispanic or Latino	2135-2	2019	2019	47
+	"Suffolk County, NY"	36103	Asian	A	Hispanic or Latino	2135-2	2020	2020	42
+	"Suffolk County, NY"	36103	Asian	A	Hispanic or Latino	2135-2	2021	2021	55
+	"Suffolk County, NY"	36103	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	729
+	"Suffolk County, NY"	36103	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	716
+	"Suffolk County, NY"	36103	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	747
+	"Suffolk County, NY"	36103	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	773
+	"Suffolk County, NY"	36103	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	718
+	"Suffolk County, NY"	36103	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	764
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	202
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	241
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	359
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	491
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	401
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	480
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	1188
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	1199
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	1162
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	1145
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	1138
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	1129
+	"Suffolk County, NY"	36103	White	2106-3	Hispanic or Latino	2135-2	2016	2016	4971
+	"Suffolk County, NY"	36103	White	2106-3	Hispanic or Latino	2135-2	2017	2017	4730
+	"Suffolk County, NY"	36103	White	2106-3	Hispanic or Latino	2135-2	2018	2018	4559
+	"Suffolk County, NY"	36103	White	2106-3	Hispanic or Latino	2135-2	2019	2019	4294
+	"Suffolk County, NY"	36103	White	2106-3	Hispanic or Latino	2135-2	2020	2020	4194
+	"Suffolk County, NY"	36103	White	2106-3	Hispanic or Latino	2135-2	2021	2021	4475
+	"Suffolk County, NY"	36103	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	7493
+	"Suffolk County, NY"	36103	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	7561
+	"Suffolk County, NY"	36103	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	7592
+	"Suffolk County, NY"	36103	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	7478
+	"Suffolk County, NY"	36103	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	7466
+	"Suffolk County, NY"	36103	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	8206
+	"Tompkins County, NY"	36109	Asian	A	Hispanic or Latino	2135-2	2016	2016	Suppressed
+	"Tompkins County, NY"	36109	Asian	A	Hispanic or Latino	2135-2	2017	2017	Suppressed
+	"Tompkins County, NY"	36109	Asian	A	Hispanic or Latino	2135-2	2018	2018	Suppressed
+	"Tompkins County, NY"	36109	Asian	A	Hispanic or Latino	2135-2	2019	2019	Suppressed
+	"Tompkins County, NY"	36109	Asian	A	Hispanic or Latino	2135-2	2020	2020	Suppressed
+	"Tompkins County, NY"	36109	Asian	A	Hispanic or Latino	2135-2	2021	2021	Suppressed
+	"Tompkins County, NY"	36109	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	81
+	"Tompkins County, NY"	36109	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	81
+	"Tompkins County, NY"	36109	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	69
+	"Tompkins County, NY"	36109	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	70
+	"Tompkins County, NY"	36109	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	67
+	"Tompkins County, NY"	36109	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	67
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	Suppressed
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	Suppressed
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	Suppressed
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	Suppressed
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	Suppressed
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	Suppressed
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	28
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	28
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	32
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	28
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	34
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	30
+	"Tompkins County, NY"	36109	White	2106-3	Hispanic or Latino	2135-2	2016	2016	35
+	"Tompkins County, NY"	36109	White	2106-3	Hispanic or Latino	2135-2	2017	2017	39
+	"Tompkins County, NY"	36109	White	2106-3	Hispanic or Latino	2135-2	2018	2018	34
+	"Tompkins County, NY"	36109	White	2106-3	Hispanic or Latino	2135-2	2019	2019	37
+	"Tompkins County, NY"	36109	White	2106-3	Hispanic or Latino	2135-2	2020	2020	41
+	"Tompkins County, NY"	36109	White	2106-3	Hispanic or Latino	2135-2	2021	2021	35
+	"Tompkins County, NY"	36109	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	576
+	"Tompkins County, NY"	36109	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	536
+	"Tompkins County, NY"	36109	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	551
+	"Tompkins County, NY"	36109	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	522
+	"Tompkins County, NY"	36109	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	479
+	"Tompkins County, NY"	36109	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	497
+	"Ulster County, NY"	36111	Asian	A	Hispanic or Latino	2135-2	2016	2016	Suppressed
+	"Ulster County, NY"	36111	Asian	A	Hispanic or Latino	2135-2	2017	2017	Suppressed
+	"Ulster County, NY"	36111	Asian	A	Hispanic or Latino	2135-2	2018	2018	Suppressed
+	"Ulster County, NY"	36111	Asian	A	Hispanic or Latino	2135-2	2019	2019	Suppressed
+	"Ulster County, NY"	36111	Asian	A	Hispanic or Latino	2135-2	2020	2020	Suppressed
+	"Ulster County, NY"	36111	Asian	A	Hispanic or Latino	2135-2	2021	2021	Suppressed
+	"Ulster County, NY"	36111	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	44
+	"Ulster County, NY"	36111	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	36
+	"Ulster County, NY"	36111	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	44
+	"Ulster County, NY"	36111	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	20
+	"Ulster County, NY"	36111	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	35
+	"Ulster County, NY"	36111	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	33
+	"Ulster County, NY"	36111	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	59
+	"Ulster County, NY"	36111	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	58
+	"Ulster County, NY"	36111	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	64
+	"Ulster County, NY"	36111	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	55
+	"Ulster County, NY"	36111	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	39
+	"Ulster County, NY"	36111	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	33
+	"Ulster County, NY"	36111	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	61
+	"Ulster County, NY"	36111	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	99
+	"Ulster County, NY"	36111	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	82
+	"Ulster County, NY"	36111	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	88
+	"Ulster County, NY"	36111	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	92
+	"Ulster County, NY"	36111	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	92
+	"Ulster County, NY"	36111	White	2106-3	Hispanic or Latino	2135-2	2016	2016	131
+	"Ulster County, NY"	36111	White	2106-3	Hispanic or Latino	2135-2	2017	2017	134
+	"Ulster County, NY"	36111	White	2106-3	Hispanic or Latino	2135-2	2018	2018	182
+	"Ulster County, NY"	36111	White	2106-3	Hispanic or Latino	2135-2	2019	2019	162
+	"Ulster County, NY"	36111	White	2106-3	Hispanic or Latino	2135-2	2020	2020	163
+	"Ulster County, NY"	36111	White	2106-3	Hispanic or Latino	2135-2	2021	2021	180
+	"Ulster County, NY"	36111	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	1047
+	"Ulster County, NY"	36111	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	1029
+	"Ulster County, NY"	36111	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	1068
+	"Ulster County, NY"	36111	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	1066
+	"Ulster County, NY"	36111	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	1030
+	"Ulster County, NY"	36111	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	1112
+	"Westchester County, NY"	36119	Asian	A	Hispanic or Latino	2135-2	2016	2016	131
+	"Westchester County, NY"	36119	Asian	A	Hispanic or Latino	2135-2	2017	2017	159
+	"Westchester County, NY"	36119	Asian	A	Hispanic or Latino	2135-2	2018	2018	29
+	"Westchester County, NY"	36119	Asian	A	Hispanic or Latino	2135-2	2019	2019	44
+	"Westchester County, NY"	36119	Asian	A	Hispanic or Latino	2135-2	2020	2020	31
+	"Westchester County, NY"	36119	Asian	A	Hispanic or Latino	2135-2	2021	2021	50
+	"Westchester County, NY"	36119	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	730
+	"Westchester County, NY"	36119	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	775
+	"Westchester County, NY"	36119	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	748
+	"Westchester County, NY"	36119	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	658
+	"Westchester County, NY"	36119	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	672
+	"Westchester County, NY"	36119	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	727
+	"Westchester County, NY"	36119	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	430
+	"Westchester County, NY"	36119	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	444
+	"Westchester County, NY"	36119	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	427
+	"Westchester County, NY"	36119	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	505
+	"Westchester County, NY"	36119	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	482
+	"Westchester County, NY"	36119	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	573
+	"Westchester County, NY"	36119	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	1450
+	"Westchester County, NY"	36119	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	1413
+	"Westchester County, NY"	36119	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	1391
+	"Westchester County, NY"	36119	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	1283
+	"Westchester County, NY"	36119	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	1277
+	"Westchester County, NY"	36119	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	1275
+	"Westchester County, NY"	36119	White	2106-3	Hispanic or Latino	2135-2	2016	2016	2881
+	"Westchester County, NY"	36119	White	2106-3	Hispanic or Latino	2135-2	2017	2017	2931
+	"Westchester County, NY"	36119	White	2106-3	Hispanic or Latino	2135-2	2018	2018	2910
+	"Westchester County, NY"	36119	White	2106-3	Hispanic or Latino	2135-2	2019	2019	2817
+	"Westchester County, NY"	36119	White	2106-3	Hispanic or Latino	2135-2	2020	2020	2657
+	"Westchester County, NY"	36119	White	2106-3	Hispanic or Latino	2135-2	2021	2021	2646
+	"Westchester County, NY"	36119	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	3997
+	"Westchester County, NY"	36119	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	4060
+	"Westchester County, NY"	36119	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	4010
+	"Westchester County, NY"	36119	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	3978
+	"Westchester County, NY"	36119	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	3978
+	"Westchester County, NY"	36119	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	4203
+	"Unidentified Counties, NY"	36999	Asian	A	Hispanic or Latino	2135-2	2016	2016	28
+	"Unidentified Counties, NY"	36999	Asian	A	Hispanic or Latino	2135-2	2017	2017	37
+	"Unidentified Counties, NY"	36999	Asian	A	Hispanic or Latino	2135-2	2018	2018	16
+	"Unidentified Counties, NY"	36999	Asian	A	Hispanic or Latino	2135-2	2019	2019	12
+	"Unidentified Counties, NY"	36999	Asian	A	Hispanic or Latino	2135-2	2020	2020	12
+	"Unidentified Counties, NY"	36999	Asian	A	Hispanic or Latino	2135-2	2021	2021	16
+	"Unidentified Counties, NY"	36999	Asian	A	Not Hispanic or Latino	2186-5	2016	2016	210
+	"Unidentified Counties, NY"	36999	Asian	A	Not Hispanic or Latino	2186-5	2017	2017	210
+	"Unidentified Counties, NY"	36999	Asian	A	Not Hispanic or Latino	2186-5	2018	2018	213
+	"Unidentified Counties, NY"	36999	Asian	A	Not Hispanic or Latino	2186-5	2019	2019	206
+	"Unidentified Counties, NY"	36999	Asian	A	Not Hispanic or Latino	2186-5	2020	2020	220
+	"Unidentified Counties, NY"	36999	Asian	A	Not Hispanic or Latino	2186-5	2021	2021	195
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Hispanic or Latino	2135-2	2016	2016	89
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Hispanic or Latino	2135-2	2017	2017	95
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Hispanic or Latino	2135-2	2018	2018	97
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Hispanic or Latino	2135-2	2019	2019	106
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Hispanic or Latino	2135-2	2020	2020	119
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Hispanic or Latino	2135-2	2021	2021	141
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2016	2016	294
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2017	2017	318
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2018	2018	341
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2019	2019	321
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2020	2020	316
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Not Hispanic or Latino	2186-5	2021	2021	340
+	"Unidentified Counties, NY"	36999	White	2106-3	Hispanic or Latino	2135-2	2016	2016	785
+	"Unidentified Counties, NY"	36999	White	2106-3	Hispanic or Latino	2135-2	2017	2017	841
+	"Unidentified Counties, NY"	36999	White	2106-3	Hispanic or Latino	2135-2	2018	2018	799
+	"Unidentified Counties, NY"	36999	White	2106-3	Hispanic or Latino	2135-2	2019	2019	922
+	"Unidentified Counties, NY"	36999	White	2106-3	Hispanic or Latino	2135-2	2020	2020	887
+	"Unidentified Counties, NY"	36999	White	2106-3	Hispanic or Latino	2135-2	2021	2021	917
+	"Unidentified Counties, NY"	36999	White	2106-3	Not Hispanic or Latino	2186-5	2016	2016	15575
+	"Unidentified Counties, NY"	36999	White	2106-3	Not Hispanic or Latino	2186-5	2017	2017	15155
+	"Unidentified Counties, NY"	36999	White	2106-3	Not Hispanic or Latino	2186-5	2018	2018	15293
+	"Unidentified Counties, NY"	36999	White	2106-3	Not Hispanic or Latino	2186-5	2019	2019	14890
+	"Unidentified Counties, NY"	36999	White	2106-3	Not Hispanic or Latino	2186-5	2020	2020	14283
+	"Unidentified Counties, NY"	36999	White	2106-3	Not Hispanic or Latino	2186-5	2021	2021	14646
+---									
+"Dataset: Natality, 2016-2021 expanded"									
+Query Parameters:									
+Mother's Hispanic Origin: Hispanic or Latino; Not Hispanic or Latino									
+Mother's Single Race 6: Asian; Black or African American; White									
+Plurality: Single									
+States: New York (36)									
+Group By: County of Residence; Mother's Single Race 6; Mother's Hispanic Origin; Year									
+Show Totals: Disabled									
+Show Zero Values: True									
+Show Suppressed: True									
+"Calculate Rates Per: 1,000"									
+---									
+Help: See http://wonder.cdc.gov/wonder/help/Natality-expanded.html for more information.									
+---									
+"Query Date: Apr 5, 2023 11:45:15 AM"									
+---									
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"									
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2016-2021, as compiled from data provided by"									
+the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at									
+"http://wonder.cdc.gov/natality-expanded-current.html on Apr 5, 2023 11:45:15 AM"									
+---									
+Messages:									
+1. Totals are not available for these results due to suppression constraints. More Information:									
+http://wonder.cdc.gov/wonder/help/faq.html#Privacy.									
+---									
+Caveats:									
+1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:									
+http://wonder.cdc.gov/wonder/help/Natality-expanded.html#Assurance of Confidentiality.									
+2. Each birth record represents one liveborn infant.									
+"3. County-level data are shown only for counties with populations of 100,000 persons or more. Within each state, data for all"									
+"counties with fewer than 100,000 persons are combined together under the label ""Unidentified Counties."""									
+"4. Bronx, New York (FIPS code 36005) represents Bronx Borough, New York City."									
+"5. Kings County, New York (FIPS code 36047) represents Brooklyn Borough, New York City."									
+"6. New York County, New York (FIPS code 36061) represents Manhattan Borough, New York City."									
+"7. Queens, New York (FIPS code 36081) represents Queens Borough, New York City."									
+"8. Richmond County, New York (FIPS code 36085) represents Staten Island Borough, New York City."									

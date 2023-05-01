@@ -1,0 +1,26 @@
+﻿BoroName,BoroCode,500-2500g births,total births,prenatal visits,percentage
+Bronx,2,1032,6487,1 to 4 visits,15.90874056
+Bronx,2,2860,23262,5 to 8 visits,12.2947296
+Bronx,2,3177,50629,9 to 12 visits,6.275059748
+Bronx,2,817,17831,13 to 16 visits,4.581907913
+Bronx,2,206,1044,no visits,19.73180077
+Brooklyn,3,938,7435,1 to 4 visits,12.61600538
+Brooklyn,3,3043,26534,5 to 8 visits,11.46830482
+Brooklyn,3,5477,111515,9 to 12 visits,4.911446891
+Brooklyn,3,1760,43810,13 to 16 visits,4.017347638
+Brooklyn,3,161,1077,no visits,14.94893222
+Manhattan,1,400,2530,1 to 4 visits,15.81027668
+Manhattan,1,1325,9768,5 to 8 visits,13.56470106
+Manhattan,1,2319,46903,9 to 12 visits,4.944246637
+Manhattan,1,777,22211,13 to 16 visits,3.498266625
+Manhattan,1,75,419,no visits,17.89976134
+Staten Island,5,64,410,1 to 4 visits,15.6097561
+Staten Island,5,327,3625,5 to 8 visits,9.020689655
+Staten Island,5,613,11791,9 to 12 visits,5.198880502
+Staten Island,5,355,7211,13 to 16 visits,4.923034253
+Staten Island,5,21,137,no visits,15.32846715
+Queens,4,929,7132,1 to 4 visits,13.02579921
+Queens,4,2572,21300,5 to 8 visits,12.07511737
+Queens,4,4524,75994,9 to 12 visits,5.953101561
+Queens,4,1373,33444,13 to 16 visits,4.105370171
+Queens,4,162,1052,no visits,15.39923954

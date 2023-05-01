@@ -1,0 +1,762 @@
+"Notes"	"County"	"County Code"	"Mother's Single Race 6"	"Mother's Single Race 6 Code"	"Age of Infant at Death 5"	"Age of Infant at Death 5 Code"	Deaths	Births	Death Rate
+	"Albany County, NY"	"36001"	"American Indian or Alaska Native"	"1002-5"	"Under 1 hour"	"01"	Suppressed	17	Suppressed
+	"Albany County, NY"	"36001"	"American Indian or Alaska Native"	"1002-5"	"1 - 23 hours"	"02"	Suppressed	17	Suppressed
+	"Albany County, NY"	"36001"	"American Indian or Alaska Native"	"1002-5"	"1 - 6 days"	"03"	Suppressed	17	Suppressed
+	"Albany County, NY"	"36001"	"American Indian or Alaska Native"	"1002-5"	"7 - 27 days"	"04"	Suppressed	17	Suppressed
+	"Albany County, NY"	"36001"	"American Indian or Alaska Native"	"1002-5"	"28 - 364 days"	"05"	Suppressed	17	Suppressed
+	"Albany County, NY"	"36001"	"Asian"	"A"	"Under 1 hour"	"01"	Suppressed	1305	Suppressed
+	"Albany County, NY"	"36001"	"Asian"	"A"	"1 - 23 hours"	"02"	Suppressed	1305	Suppressed
+	"Albany County, NY"	"36001"	"Asian"	"A"	"1 - 6 days"	"03"	Suppressed	1305	Suppressed
+	"Albany County, NY"	"36001"	"Asian"	"A"	"7 - 27 days"	"04"	Suppressed	1305	Suppressed
+	"Albany County, NY"	"36001"	"Asian"	"A"	"28 - 364 days"	"05"	Suppressed	1305	Suppressed
+	"Albany County, NY"	"36001"	"Black or African American"	"2054-5"	"Under 1 hour"	"01"	Suppressed	2481	Suppressed
+	"Albany County, NY"	"36001"	"Black or African American"	"2054-5"	"1 - 23 hours"	"02"	Suppressed	2481	Suppressed
+	"Albany County, NY"	"36001"	"Black or African American"	"2054-5"	"1 - 6 days"	"03"	Suppressed	2481	Suppressed
+	"Albany County, NY"	"36001"	"Black or African American"	"2054-5"	"7 - 27 days"	"04"	Suppressed	2481	Suppressed
+	"Albany County, NY"	"36001"	"Black or African American"	"2054-5"	"28 - 364 days"	"05"	Suppressed	2481	Suppressed
+	"Albany County, NY"	"36001"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Under 1 hour"	"01"	Suppressed	18	Suppressed
+	"Albany County, NY"	"36001"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 23 hours"	"02"	Suppressed	18	Suppressed
+	"Albany County, NY"	"36001"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 6 days"	"03"	Suppressed	18	Suppressed
+	"Albany County, NY"	"36001"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"7 - 27 days"	"04"	Suppressed	18	Suppressed
+	"Albany County, NY"	"36001"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"28 - 364 days"	"05"	Suppressed	18	Suppressed
+	"Albany County, NY"	"36001"	"White"	"2106-3"	"Under 1 hour"	"01"	Suppressed	7363	Suppressed
+	"Albany County, NY"	"36001"	"White"	"2106-3"	"1 - 23 hours"	"02"	10	7363	1.36 (Unreliable)
+	"Albany County, NY"	"36001"	"White"	"2106-3"	"1 - 6 days"	"03"	Suppressed	7363	Suppressed
+	"Albany County, NY"	"36001"	"White"	"2106-3"	"7 - 27 days"	"04"	Suppressed	7363	Suppressed
+	"Albany County, NY"	"36001"	"White"	"2106-3"	"28 - 364 days"	"05"	Suppressed	7363	Suppressed
+	"Albany County, NY"	"36001"	"More than one race"	"M"	"Under 1 hour"	"01"	Suppressed	487	Suppressed
+	"Albany County, NY"	"36001"	"More than one race"	"M"	"1 - 23 hours"	"02"	Suppressed	487	Suppressed
+	"Albany County, NY"	"36001"	"More than one race"	"M"	"1 - 6 days"	"03"	Suppressed	487	Suppressed
+	"Albany County, NY"	"36001"	"More than one race"	"M"	"7 - 27 days"	"04"	Suppressed	487	Suppressed
+	"Albany County, NY"	"36001"	"More than one race"	"M"	"28 - 364 days"	"05"	Suppressed	487	Suppressed
+	"Albany County, NY"	"36001"	"Unknown or Not Stated"	"UNK"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Albany County, NY"	"36001"	"Unknown or Not Stated"	"UNK"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Albany County, NY"	"36001"	"Unknown or Not Stated"	"UNK"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Albany County, NY"	"36001"	"Unknown or Not Stated"	"UNK"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Albany County, NY"	"36001"	"Unknown or Not Stated"	"UNK"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Albany County, NY"	"36001"	"Not Available"	"NA"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Albany County, NY"	"36001"	"Not Available"	"NA"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Albany County, NY"	"36001"	"Not Available"	"NA"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Albany County, NY"	"36001"	"Not Available"	"NA"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Albany County, NY"	"36001"	"Not Available"	"NA"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Albany County, NY"	"36001"	"Not Reported"	"NR"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Albany County, NY"	"36001"	"Not Reported"	"NR"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Albany County, NY"	"36001"	"Not Reported"	"NR"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Albany County, NY"	"36001"	"Not Reported"	"NR"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Albany County, NY"	"36001"	"Not Reported"	"NR"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Bronx County, NY"	"36005"	"American Indian or Alaska Native"	"1002-5"	"Under 1 hour"	"01"	Suppressed	298	Suppressed
+	"Bronx County, NY"	"36005"	"American Indian or Alaska Native"	"1002-5"	"1 - 23 hours"	"02"	Suppressed	298	Suppressed
+	"Bronx County, NY"	"36005"	"American Indian or Alaska Native"	"1002-5"	"1 - 6 days"	"03"	Suppressed	298	Suppressed
+	"Bronx County, NY"	"36005"	"American Indian or Alaska Native"	"1002-5"	"7 - 27 days"	"04"	Suppressed	298	Suppressed
+	"Bronx County, NY"	"36005"	"American Indian or Alaska Native"	"1002-5"	"28 - 364 days"	"05"	Suppressed	298	Suppressed
+	"Bronx County, NY"	"36005"	"Asian"	"A"	"Under 1 hour"	"01"	Suppressed	5182	Suppressed
+	"Bronx County, NY"	"36005"	"Asian"	"A"	"1 - 23 hours"	"02"	Suppressed	5182	Suppressed
+	"Bronx County, NY"	"36005"	"Asian"	"A"	"1 - 6 days"	"03"	Suppressed	5182	Suppressed
+	"Bronx County, NY"	"36005"	"Asian"	"A"	"7 - 27 days"	"04"	Suppressed	5182	Suppressed
+	"Bronx County, NY"	"36005"	"Asian"	"A"	"28 - 364 days"	"05"	Suppressed	5182	Suppressed
+	"Bronx County, NY"	"36005"	"Black or African American"	"2054-5"	"Under 1 hour"	"01"	26	34494	0.75
+	"Bronx County, NY"	"36005"	"Black or African American"	"2054-5"	"1 - 23 hours"	"02"	48	34494	1.39
+	"Bronx County, NY"	"36005"	"Black or African American"	"2054-5"	"1 - 6 days"	"03"	29	34494	0.84
+	"Bronx County, NY"	"36005"	"Black or African American"	"2054-5"	"7 - 27 days"	"04"	29	34494	0.84
+	"Bronx County, NY"	"36005"	"Black or African American"	"2054-5"	"28 - 364 days"	"05"	83	34494	2.41
+	"Bronx County, NY"	"36005"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Under 1 hour"	"01"	Suppressed	64	Suppressed
+	"Bronx County, NY"	"36005"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 23 hours"	"02"	Suppressed	64	Suppressed
+	"Bronx County, NY"	"36005"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 6 days"	"03"	Suppressed	64	Suppressed
+	"Bronx County, NY"	"36005"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"7 - 27 days"	"04"	Suppressed	64	Suppressed
+	"Bronx County, NY"	"36005"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"28 - 364 days"	"05"	Suppressed	64	Suppressed
+	"Bronx County, NY"	"36005"	"White"	"2106-3"	"Under 1 hour"	"01"	23	36217	0.64
+	"Bronx County, NY"	"36005"	"White"	"2106-3"	"1 - 23 hours"	"02"	21	36217	0.58
+	"Bronx County, NY"	"36005"	"White"	"2106-3"	"1 - 6 days"	"03"	22	36217	0.61
+	"Bronx County, NY"	"36005"	"White"	"2106-3"	"7 - 27 days"	"04"	21	36217	0.58
+	"Bronx County, NY"	"36005"	"White"	"2106-3"	"28 - 364 days"	"05"	51	36217	1.41
+	"Bronx County, NY"	"36005"	"More than one race"	"M"	"Under 1 hour"	"01"	Suppressed	1632	Suppressed
+	"Bronx County, NY"	"36005"	"More than one race"	"M"	"1 - 23 hours"	"02"	Suppressed	1632	Suppressed
+	"Bronx County, NY"	"36005"	"More than one race"	"M"	"1 - 6 days"	"03"	Suppressed	1632	Suppressed
+	"Bronx County, NY"	"36005"	"More than one race"	"M"	"7 - 27 days"	"04"	Suppressed	1632	Suppressed
+	"Bronx County, NY"	"36005"	"More than one race"	"M"	"28 - 364 days"	"05"	Suppressed	1632	Suppressed
+	"Bronx County, NY"	"36005"	"Unknown or Not Stated"	"UNK"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Bronx County, NY"	"36005"	"Unknown or Not Stated"	"UNK"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Bronx County, NY"	"36005"	"Unknown or Not Stated"	"UNK"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Bronx County, NY"	"36005"	"Unknown or Not Stated"	"UNK"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Bronx County, NY"	"36005"	"Unknown or Not Stated"	"UNK"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Bronx County, NY"	"36005"	"Not Available"	"NA"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Bronx County, NY"	"36005"	"Not Available"	"NA"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Bronx County, NY"	"36005"	"Not Available"	"NA"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Bronx County, NY"	"36005"	"Not Available"	"NA"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Bronx County, NY"	"36005"	"Not Available"	"NA"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Bronx County, NY"	"36005"	"Not Reported"	"NR"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Bronx County, NY"	"36005"	"Not Reported"	"NR"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Bronx County, NY"	"36005"	"Not Reported"	"NR"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Bronx County, NY"	"36005"	"Not Reported"	"NR"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Bronx County, NY"	"36005"	"Not Reported"	"NR"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Dutchess County, NY"	"36027"	"American Indian or Alaska Native"	"1002-5"	"Under 1 hour"	"01"	Suppressed	22	Suppressed
+	"Dutchess County, NY"	"36027"	"American Indian or Alaska Native"	"1002-5"	"1 - 23 hours"	"02"	Suppressed	22	Suppressed
+	"Dutchess County, NY"	"36027"	"American Indian or Alaska Native"	"1002-5"	"1 - 6 days"	"03"	Suppressed	22	Suppressed
+	"Dutchess County, NY"	"36027"	"American Indian or Alaska Native"	"1002-5"	"7 - 27 days"	"04"	Suppressed	22	Suppressed
+	"Dutchess County, NY"	"36027"	"American Indian or Alaska Native"	"1002-5"	"28 - 364 days"	"05"	Suppressed	22	Suppressed
+	"Dutchess County, NY"	"36027"	"Asian"	"A"	"Under 1 hour"	"01"	Suppressed	407	Suppressed
+	"Dutchess County, NY"	"36027"	"Asian"	"A"	"1 - 23 hours"	"02"	Suppressed	407	Suppressed
+	"Dutchess County, NY"	"36027"	"Asian"	"A"	"1 - 6 days"	"03"	Suppressed	407	Suppressed
+	"Dutchess County, NY"	"36027"	"Asian"	"A"	"7 - 27 days"	"04"	Suppressed	407	Suppressed
+	"Dutchess County, NY"	"36027"	"Asian"	"A"	"28 - 364 days"	"05"	Suppressed	407	Suppressed
+	"Dutchess County, NY"	"36027"	"Black or African American"	"2054-5"	"Under 1 hour"	"01"	Suppressed	1581	Suppressed
+	"Dutchess County, NY"	"36027"	"Black or African American"	"2054-5"	"1 - 23 hours"	"02"	Suppressed	1581	Suppressed
+	"Dutchess County, NY"	"36027"	"Black or African American"	"2054-5"	"1 - 6 days"	"03"	Suppressed	1581	Suppressed
+	"Dutchess County, NY"	"36027"	"Black or African American"	"2054-5"	"7 - 27 days"	"04"	Suppressed	1581	Suppressed
+	"Dutchess County, NY"	"36027"	"Black or African American"	"2054-5"	"28 - 364 days"	"05"	Suppressed	1581	Suppressed
+	"Dutchess County, NY"	"36027"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Dutchess County, NY"	"36027"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Dutchess County, NY"	"36027"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Dutchess County, NY"	"36027"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Dutchess County, NY"	"36027"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Dutchess County, NY"	"36027"	"White"	"2106-3"	"Under 1 hour"	"01"	Suppressed	8067	Suppressed
+	"Dutchess County, NY"	"36027"	"White"	"2106-3"	"1 - 23 hours"	"02"	Suppressed	8067	Suppressed
+	"Dutchess County, NY"	"36027"	"White"	"2106-3"	"1 - 6 days"	"03"	Suppressed	8067	Suppressed
+	"Dutchess County, NY"	"36027"	"White"	"2106-3"	"7 - 27 days"	"04"	Suppressed	8067	Suppressed
+	"Dutchess County, NY"	"36027"	"White"	"2106-3"	"28 - 364 days"	"05"	13	8067	1.61 (Unreliable)
+	"Dutchess County, NY"	"36027"	"More than one race"	"M"	"Under 1 hour"	"01"	Suppressed	337	Suppressed
+	"Dutchess County, NY"	"36027"	"More than one race"	"M"	"1 - 23 hours"	"02"	Suppressed	337	Suppressed
+	"Dutchess County, NY"	"36027"	"More than one race"	"M"	"1 - 6 days"	"03"	Suppressed	337	Suppressed
+	"Dutchess County, NY"	"36027"	"More than one race"	"M"	"7 - 27 days"	"04"	Suppressed	337	Suppressed
+	"Dutchess County, NY"	"36027"	"More than one race"	"M"	"28 - 364 days"	"05"	Suppressed	337	Suppressed
+	"Dutchess County, NY"	"36027"	"Unknown or Not Stated"	"UNK"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Dutchess County, NY"	"36027"	"Unknown or Not Stated"	"UNK"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Dutchess County, NY"	"36027"	"Unknown or Not Stated"	"UNK"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Dutchess County, NY"	"36027"	"Unknown or Not Stated"	"UNK"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Dutchess County, NY"	"36027"	"Unknown or Not Stated"	"UNK"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Dutchess County, NY"	"36027"	"Not Available"	"NA"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Dutchess County, NY"	"36027"	"Not Available"	"NA"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Dutchess County, NY"	"36027"	"Not Available"	"NA"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Dutchess County, NY"	"36027"	"Not Available"	"NA"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Dutchess County, NY"	"36027"	"Not Available"	"NA"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Dutchess County, NY"	"36027"	"Not Reported"	"NR"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Dutchess County, NY"	"36027"	"Not Reported"	"NR"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Dutchess County, NY"	"36027"	"Not Reported"	"NR"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Dutchess County, NY"	"36027"	"Not Reported"	"NR"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Dutchess County, NY"	"36027"	"Not Reported"	"NR"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Erie County, NY"	"36029"	"American Indian or Alaska Native"	"1002-5"	"Under 1 hour"	"01"	Suppressed	310	Suppressed
+	"Erie County, NY"	"36029"	"American Indian or Alaska Native"	"1002-5"	"1 - 23 hours"	"02"	Suppressed	310	Suppressed
+	"Erie County, NY"	"36029"	"American Indian or Alaska Native"	"1002-5"	"1 - 6 days"	"03"	Suppressed	310	Suppressed
+	"Erie County, NY"	"36029"	"American Indian or Alaska Native"	"1002-5"	"7 - 27 days"	"04"	Suppressed	310	Suppressed
+	"Erie County, NY"	"36029"	"American Indian or Alaska Native"	"1002-5"	"28 - 364 days"	"05"	Suppressed	310	Suppressed
+	"Erie County, NY"	"36029"	"Asian"	"A"	"Under 1 hour"	"01"	Suppressed	2488	Suppressed
+	"Erie County, NY"	"36029"	"Asian"	"A"	"1 - 23 hours"	"02"	Suppressed	2488	Suppressed
+	"Erie County, NY"	"36029"	"Asian"	"A"	"1 - 6 days"	"03"	Suppressed	2488	Suppressed
+	"Erie County, NY"	"36029"	"Asian"	"A"	"7 - 27 days"	"04"	Suppressed	2488	Suppressed
+	"Erie County, NY"	"36029"	"Asian"	"A"	"28 - 364 days"	"05"	Suppressed	2488	Suppressed
+	"Erie County, NY"	"36029"	"Black or African American"	"2054-5"	"Under 1 hour"	"01"	16	8152	1.96 (Unreliable)
+	"Erie County, NY"	"36029"	"Black or African American"	"2054-5"	"1 - 23 hours"	"02"	30	8152	3.68
+	"Erie County, NY"	"36029"	"Black or African American"	"2054-5"	"1 - 6 days"	"03"	Suppressed	8152	Suppressed
+	"Erie County, NY"	"36029"	"Black or African American"	"2054-5"	"7 - 27 days"	"04"	10	8152	1.23 (Unreliable)
+	"Erie County, NY"	"36029"	"Black or African American"	"2054-5"	"28 - 364 days"	"05"	30	8152	3.68
+	"Erie County, NY"	"36029"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Under 1 hour"	"01"	Suppressed	24	Suppressed
+	"Erie County, NY"	"36029"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 23 hours"	"02"	Suppressed	24	Suppressed
+	"Erie County, NY"	"36029"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 6 days"	"03"	Suppressed	24	Suppressed
+	"Erie County, NY"	"36029"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"7 - 27 days"	"04"	Suppressed	24	Suppressed
+	"Erie County, NY"	"36029"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"28 - 364 days"	"05"	Suppressed	24	Suppressed
+	"Erie County, NY"	"36029"	"White"	"2106-3"	"Under 1 hour"	"01"	18	26796	0.67 (Unreliable)
+	"Erie County, NY"	"36029"	"White"	"2106-3"	"1 - 23 hours"	"02"	29	26796	1.08
+	"Erie County, NY"	"36029"	"White"	"2106-3"	"1 - 6 days"	"03"	15	26796	0.56 (Unreliable)
+	"Erie County, NY"	"36029"	"White"	"2106-3"	"7 - 27 days"	"04"	17	26796	0.63 (Unreliable)
+	"Erie County, NY"	"36029"	"White"	"2106-3"	"28 - 364 days"	"05"	49	26796	1.83
+	"Erie County, NY"	"36029"	"More than one race"	"M"	"Under 1 hour"	"01"	Suppressed	1066	Suppressed
+	"Erie County, NY"	"36029"	"More than one race"	"M"	"1 - 23 hours"	"02"	Suppressed	1066	Suppressed
+	"Erie County, NY"	"36029"	"More than one race"	"M"	"1 - 6 days"	"03"	Suppressed	1066	Suppressed
+	"Erie County, NY"	"36029"	"More than one race"	"M"	"7 - 27 days"	"04"	Suppressed	1066	Suppressed
+	"Erie County, NY"	"36029"	"More than one race"	"M"	"28 - 364 days"	"05"	Suppressed	1066	Suppressed
+	"Erie County, NY"	"36029"	"Unknown or Not Stated"	"UNK"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Erie County, NY"	"36029"	"Unknown or Not Stated"	"UNK"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Erie County, NY"	"36029"	"Unknown or Not Stated"	"UNK"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Erie County, NY"	"36029"	"Unknown or Not Stated"	"UNK"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Erie County, NY"	"36029"	"Unknown or Not Stated"	"UNK"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Erie County, NY"	"36029"	"Not Available"	"NA"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Erie County, NY"	"36029"	"Not Available"	"NA"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Erie County, NY"	"36029"	"Not Available"	"NA"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Erie County, NY"	"36029"	"Not Available"	"NA"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Erie County, NY"	"36029"	"Not Available"	"NA"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Erie County, NY"	"36029"	"Not Reported"	"NR"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Erie County, NY"	"36029"	"Not Reported"	"NR"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Erie County, NY"	"36029"	"Not Reported"	"NR"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Erie County, NY"	"36029"	"Not Reported"	"NR"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Erie County, NY"	"36029"	"Not Reported"	"NR"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Kings County, NY"	"36047"	"American Indian or Alaska Native"	"1002-5"	"Under 1 hour"	"01"	Suppressed	199	Suppressed
+	"Kings County, NY"	"36047"	"American Indian or Alaska Native"	"1002-5"	"1 - 23 hours"	"02"	Suppressed	199	Suppressed
+	"Kings County, NY"	"36047"	"American Indian or Alaska Native"	"1002-5"	"1 - 6 days"	"03"	Suppressed	199	Suppressed
+	"Kings County, NY"	"36047"	"American Indian or Alaska Native"	"1002-5"	"7 - 27 days"	"04"	Suppressed	199	Suppressed
+	"Kings County, NY"	"36047"	"American Indian or Alaska Native"	"1002-5"	"28 - 364 days"	"05"	Suppressed	199	Suppressed
+	"Kings County, NY"	"36047"	"Asian"	"A"	"Under 1 hour"	"01"	Suppressed	20794	Suppressed
+	"Kings County, NY"	"36047"	"Asian"	"A"	"1 - 23 hours"	"02"	Suppressed	20794	Suppressed
+	"Kings County, NY"	"36047"	"Asian"	"A"	"1 - 6 days"	"03"	Suppressed	20794	Suppressed
+	"Kings County, NY"	"36047"	"Asian"	"A"	"7 - 27 days"	"04"	13	20794	0.63 (Unreliable)
+	"Kings County, NY"	"36047"	"Asian"	"A"	"28 - 364 days"	"05"	18	20794	0.87 (Unreliable)
+	"Kings County, NY"	"36047"	"Black or African American"	"2054-5"	"Under 1 hour"	"01"	29	37318	0.78
+	"Kings County, NY"	"36047"	"Black or African American"	"2054-5"	"1 - 23 hours"	"02"	38	37318	1.02
+	"Kings County, NY"	"36047"	"Black or African American"	"2054-5"	"1 - 6 days"	"03"	44	37318	1.18
+	"Kings County, NY"	"36047"	"Black or African American"	"2054-5"	"7 - 27 days"	"04"	45	37318	1.21
+	"Kings County, NY"	"36047"	"Black or African American"	"2054-5"	"28 - 364 days"	"05"	101	37318	2.71
+	"Kings County, NY"	"36047"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Under 1 hour"	"01"	Suppressed	49	Suppressed
+	"Kings County, NY"	"36047"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 23 hours"	"02"	Suppressed	49	Suppressed
+	"Kings County, NY"	"36047"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 6 days"	"03"	Suppressed	49	Suppressed
+	"Kings County, NY"	"36047"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"7 - 27 days"	"04"	Suppressed	49	Suppressed
+	"Kings County, NY"	"36047"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"28 - 364 days"	"05"	Suppressed	49	Suppressed
+	"Kings County, NY"	"36047"	"White"	"2106-3"	"Under 1 hour"	"01"	20	87790	0.23
+	"Kings County, NY"	"36047"	"White"	"2106-3"	"1 - 23 hours"	"02"	41	87790	0.47
+	"Kings County, NY"	"36047"	"White"	"2106-3"	"1 - 6 days"	"03"	43	87790	0.49
+	"Kings County, NY"	"36047"	"White"	"2106-3"	"7 - 27 days"	"04"	22	87790	0.25
+	"Kings County, NY"	"36047"	"White"	"2106-3"	"28 - 364 days"	"05"	85	87790	0.97
+	"Kings County, NY"	"36047"	"More than one race"	"M"	"Under 1 hour"	"01"	Suppressed	3211	Suppressed
+	"Kings County, NY"	"36047"	"More than one race"	"M"	"1 - 23 hours"	"02"	Suppressed	3211	Suppressed
+	"Kings County, NY"	"36047"	"More than one race"	"M"	"1 - 6 days"	"03"	Suppressed	3211	Suppressed
+	"Kings County, NY"	"36047"	"More than one race"	"M"	"7 - 27 days"	"04"	Suppressed	3211	Suppressed
+	"Kings County, NY"	"36047"	"More than one race"	"M"	"28 - 364 days"	"05"	Suppressed	3211	Suppressed
+	"Kings County, NY"	"36047"	"Unknown or Not Stated"	"UNK"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Kings County, NY"	"36047"	"Unknown or Not Stated"	"UNK"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Kings County, NY"	"36047"	"Unknown or Not Stated"	"UNK"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Kings County, NY"	"36047"	"Unknown or Not Stated"	"UNK"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Kings County, NY"	"36047"	"Unknown or Not Stated"	"UNK"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Kings County, NY"	"36047"	"Not Available"	"NA"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Kings County, NY"	"36047"	"Not Available"	"NA"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Kings County, NY"	"36047"	"Not Available"	"NA"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Kings County, NY"	"36047"	"Not Available"	"NA"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Kings County, NY"	"36047"	"Not Available"	"NA"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Kings County, NY"	"36047"	"Not Reported"	"NR"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Kings County, NY"	"36047"	"Not Reported"	"NR"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Kings County, NY"	"36047"	"Not Reported"	"NR"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Kings County, NY"	"36047"	"Not Reported"	"NR"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Kings County, NY"	"36047"	"Not Reported"	"NR"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Monroe County, NY"	"36055"	"American Indian or Alaska Native"	"1002-5"	"Under 1 hour"	"01"	Suppressed	82	Suppressed
+	"Monroe County, NY"	"36055"	"American Indian or Alaska Native"	"1002-5"	"1 - 23 hours"	"02"	Suppressed	82	Suppressed
+	"Monroe County, NY"	"36055"	"American Indian or Alaska Native"	"1002-5"	"1 - 6 days"	"03"	Suppressed	82	Suppressed
+	"Monroe County, NY"	"36055"	"American Indian or Alaska Native"	"1002-5"	"7 - 27 days"	"04"	Suppressed	82	Suppressed
+	"Monroe County, NY"	"36055"	"American Indian or Alaska Native"	"1002-5"	"28 - 364 days"	"05"	Suppressed	82	Suppressed
+	"Monroe County, NY"	"36055"	"Asian"	"A"	"Under 1 hour"	"01"	Suppressed	1558	Suppressed
+	"Monroe County, NY"	"36055"	"Asian"	"A"	"1 - 23 hours"	"02"	Suppressed	1558	Suppressed
+	"Monroe County, NY"	"36055"	"Asian"	"A"	"1 - 6 days"	"03"	Suppressed	1558	Suppressed
+	"Monroe County, NY"	"36055"	"Asian"	"A"	"7 - 27 days"	"04"	Suppressed	1558	Suppressed
+	"Monroe County, NY"	"36055"	"Asian"	"A"	"28 - 364 days"	"05"	Suppressed	1558	Suppressed
+	"Monroe County, NY"	"36055"	"Black or African American"	"2054-5"	"Under 1 hour"	"01"	27	7601	3.55
+	"Monroe County, NY"	"36055"	"Black or African American"	"2054-5"	"1 - 23 hours"	"02"	36	7601	4.74
+	"Monroe County, NY"	"36055"	"Black or African American"	"2054-5"	"1 - 6 days"	"03"	11	7601	1.45 (Unreliable)
+	"Monroe County, NY"	"36055"	"Black or African American"	"2054-5"	"7 - 27 days"	"04"	Suppressed	7601	Suppressed
+	"Monroe County, NY"	"36055"	"Black or African American"	"2054-5"	"28 - 364 days"	"05"	36	7601	4.74
+	"Monroe County, NY"	"36055"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Under 1 hour"	"01"	Suppressed	23	Suppressed
+	"Monroe County, NY"	"36055"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 23 hours"	"02"	Suppressed	23	Suppressed
+	"Monroe County, NY"	"36055"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 6 days"	"03"	Suppressed	23	Suppressed
+	"Monroe County, NY"	"36055"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"7 - 27 days"	"04"	Suppressed	23	Suppressed
+	"Monroe County, NY"	"36055"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"28 - 364 days"	"05"	Suppressed	23	Suppressed
+	"Monroe County, NY"	"36055"	"White"	"2106-3"	"Under 1 hour"	"01"	25	20878	1.20
+	"Monroe County, NY"	"36055"	"White"	"2106-3"	"1 - 23 hours"	"02"	22	20878	1.05
+	"Monroe County, NY"	"36055"	"White"	"2106-3"	"1 - 6 days"	"03"	Suppressed	20878	Suppressed
+	"Monroe County, NY"	"36055"	"White"	"2106-3"	"7 - 27 days"	"04"	Suppressed	20878	Suppressed
+	"Monroe County, NY"	"36055"	"White"	"2106-3"	"28 - 364 days"	"05"	28	20878	1.34
+	"Monroe County, NY"	"36055"	"More than one race"	"M"	"Under 1 hour"	"01"	Suppressed	958	Suppressed
+	"Monroe County, NY"	"36055"	"More than one race"	"M"	"1 - 23 hours"	"02"	Suppressed	958	Suppressed
+	"Monroe County, NY"	"36055"	"More than one race"	"M"	"1 - 6 days"	"03"	Suppressed	958	Suppressed
+	"Monroe County, NY"	"36055"	"More than one race"	"M"	"7 - 27 days"	"04"	Suppressed	958	Suppressed
+	"Monroe County, NY"	"36055"	"More than one race"	"M"	"28 - 364 days"	"05"	Suppressed	958	Suppressed
+	"Monroe County, NY"	"36055"	"Unknown or Not Stated"	"UNK"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Monroe County, NY"	"36055"	"Unknown or Not Stated"	"UNK"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Monroe County, NY"	"36055"	"Unknown or Not Stated"	"UNK"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Monroe County, NY"	"36055"	"Unknown or Not Stated"	"UNK"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Monroe County, NY"	"36055"	"Unknown or Not Stated"	"UNK"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Monroe County, NY"	"36055"	"Not Available"	"NA"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Monroe County, NY"	"36055"	"Not Available"	"NA"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Monroe County, NY"	"36055"	"Not Available"	"NA"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Monroe County, NY"	"36055"	"Not Available"	"NA"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Monroe County, NY"	"36055"	"Not Available"	"NA"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Monroe County, NY"	"36055"	"Not Reported"	"NR"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Monroe County, NY"	"36055"	"Not Reported"	"NR"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Monroe County, NY"	"36055"	"Not Reported"	"NR"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Monroe County, NY"	"36055"	"Not Reported"	"NR"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Monroe County, NY"	"36055"	"Not Reported"	"NR"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Nassau County, NY"	"36059"	"American Indian or Alaska Native"	"1002-5"	"Under 1 hour"	"01"	Suppressed	54	Suppressed
+	"Nassau County, NY"	"36059"	"American Indian or Alaska Native"	"1002-5"	"1 - 23 hours"	"02"	Suppressed	54	Suppressed
+	"Nassau County, NY"	"36059"	"American Indian or Alaska Native"	"1002-5"	"1 - 6 days"	"03"	Suppressed	54	Suppressed
+	"Nassau County, NY"	"36059"	"American Indian or Alaska Native"	"1002-5"	"7 - 27 days"	"04"	Suppressed	54	Suppressed
+	"Nassau County, NY"	"36059"	"American Indian or Alaska Native"	"1002-5"	"28 - 364 days"	"05"	Suppressed	54	Suppressed
+	"Nassau County, NY"	"36059"	"Asian"	"A"	"Under 1 hour"	"01"	Suppressed	7752	Suppressed
+	"Nassau County, NY"	"36059"	"Asian"	"A"	"1 - 23 hours"	"02"	Suppressed	7752	Suppressed
+	"Nassau County, NY"	"36059"	"Asian"	"A"	"1 - 6 days"	"03"	Suppressed	7752	Suppressed
+	"Nassau County, NY"	"36059"	"Asian"	"A"	"7 - 27 days"	"04"	Suppressed	7752	Suppressed
+	"Nassau County, NY"	"36059"	"Asian"	"A"	"28 - 364 days"	"05"	Suppressed	7752	Suppressed
+	"Nassau County, NY"	"36059"	"Black or African American"	"2054-5"	"Under 1 hour"	"01"	11	7380	1.49 (Unreliable)
+	"Nassau County, NY"	"36059"	"Black or African American"	"2054-5"	"1 - 23 hours"	"02"	13	7380	1.76 (Unreliable)
+	"Nassau County, NY"	"36059"	"Black or African American"	"2054-5"	"1 - 6 days"	"03"	Suppressed	7380	Suppressed
+	"Nassau County, NY"	"36059"	"Black or African American"	"2054-5"	"7 - 27 days"	"04"	Suppressed	7380	Suppressed
+	"Nassau County, NY"	"36059"	"Black or African American"	"2054-5"	"28 - 364 days"	"05"	15	7380	2.03 (Unreliable)
+	"Nassau County, NY"	"36059"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Under 1 hour"	"01"	Suppressed	28	Suppressed
+	"Nassau County, NY"	"36059"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 23 hours"	"02"	Suppressed	28	Suppressed
+	"Nassau County, NY"	"36059"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 6 days"	"03"	Suppressed	28	Suppressed
+	"Nassau County, NY"	"36059"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"7 - 27 days"	"04"	Suppressed	28	Suppressed
+	"Nassau County, NY"	"36059"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"28 - 364 days"	"05"	Suppressed	28	Suppressed
+	"Nassau County, NY"	"36059"	"White"	"2106-3"	"Under 1 hour"	"01"	10	39224	0.25 (Unreliable)
+	"Nassau County, NY"	"36059"	"White"	"2106-3"	"1 - 23 hours"	"02"	21	39224	0.54
+	"Nassau County, NY"	"36059"	"White"	"2106-3"	"1 - 6 days"	"03"	12	39224	0.31 (Unreliable)
+	"Nassau County, NY"	"36059"	"White"	"2106-3"	"7 - 27 days"	"04"	10	39224	0.25 (Unreliable)
+	"Nassau County, NY"	"36059"	"White"	"2106-3"	"28 - 364 days"	"05"	26	39224	0.66
+	"Nassau County, NY"	"36059"	"More than one race"	"M"	"Under 1 hour"	"01"	Suppressed	972	Suppressed
+	"Nassau County, NY"	"36059"	"More than one race"	"M"	"1 - 23 hours"	"02"	Suppressed	972	Suppressed
+	"Nassau County, NY"	"36059"	"More than one race"	"M"	"1 - 6 days"	"03"	Suppressed	972	Suppressed
+	"Nassau County, NY"	"36059"	"More than one race"	"M"	"7 - 27 days"	"04"	Suppressed	972	Suppressed
+	"Nassau County, NY"	"36059"	"More than one race"	"M"	"28 - 364 days"	"05"	Suppressed	972	Suppressed
+	"Nassau County, NY"	"36059"	"Unknown or Not Stated"	"UNK"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Nassau County, NY"	"36059"	"Unknown or Not Stated"	"UNK"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Nassau County, NY"	"36059"	"Unknown or Not Stated"	"UNK"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Nassau County, NY"	"36059"	"Unknown or Not Stated"	"UNK"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Nassau County, NY"	"36059"	"Unknown or Not Stated"	"UNK"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Nassau County, NY"	"36059"	"Not Available"	"NA"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Nassau County, NY"	"36059"	"Not Available"	"NA"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Nassau County, NY"	"36059"	"Not Available"	"NA"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Nassau County, NY"	"36059"	"Not Available"	"NA"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Nassau County, NY"	"36059"	"Not Available"	"NA"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Nassau County, NY"	"36059"	"Not Reported"	"NR"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Nassau County, NY"	"36059"	"Not Reported"	"NR"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Nassau County, NY"	"36059"	"Not Reported"	"NR"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Nassau County, NY"	"36059"	"Not Reported"	"NR"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Nassau County, NY"	"36059"	"Not Reported"	"NR"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"New York County, NY"	"36061"	"American Indian or Alaska Native"	"1002-5"	"Under 1 hour"	"01"	Suppressed	117	Suppressed
+	"New York County, NY"	"36061"	"American Indian or Alaska Native"	"1002-5"	"1 - 23 hours"	"02"	Suppressed	117	Suppressed
+	"New York County, NY"	"36061"	"American Indian or Alaska Native"	"1002-5"	"1 - 6 days"	"03"	Suppressed	117	Suppressed
+	"New York County, NY"	"36061"	"American Indian or Alaska Native"	"1002-5"	"7 - 27 days"	"04"	Suppressed	117	Suppressed
+	"New York County, NY"	"36061"	"American Indian or Alaska Native"	"1002-5"	"28 - 364 days"	"05"	Suppressed	117	Suppressed
+	"New York County, NY"	"36061"	"Asian"	"A"	"Under 1 hour"	"01"	Suppressed	9952	Suppressed
+	"New York County, NY"	"36061"	"Asian"	"A"	"1 - 23 hours"	"02"	Suppressed	9952	Suppressed
+	"New York County, NY"	"36061"	"Asian"	"A"	"1 - 6 days"	"03"	Suppressed	9952	Suppressed
+	"New York County, NY"	"36061"	"Asian"	"A"	"7 - 27 days"	"04"	Suppressed	9952	Suppressed
+	"New York County, NY"	"36061"	"Asian"	"A"	"28 - 364 days"	"05"	Suppressed	9952	Suppressed
+	"New York County, NY"	"36061"	"Black or African American"	"2054-5"	"Under 1 hour"	"01"	Suppressed	10850	Suppressed
+	"New York County, NY"	"36061"	"Black or African American"	"2054-5"	"1 - 23 hours"	"02"	15	10850	1.38 (Unreliable)
+	"New York County, NY"	"36061"	"Black or African American"	"2054-5"	"1 - 6 days"	"03"	Suppressed	10850	Suppressed
+	"New York County, NY"	"36061"	"Black or African American"	"2054-5"	"7 - 27 days"	"04"	14	10850	1.29 (Unreliable)
+	"New York County, NY"	"36061"	"Black or African American"	"2054-5"	"28 - 364 days"	"05"	26	10850	2.40
+	"New York County, NY"	"36061"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Under 1 hour"	"01"	Suppressed	34	Suppressed
+	"New York County, NY"	"36061"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 23 hours"	"02"	Suppressed	34	Suppressed
+	"New York County, NY"	"36061"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 6 days"	"03"	Suppressed	34	Suppressed
+	"New York County, NY"	"36061"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"7 - 27 days"	"04"	Suppressed	34	Suppressed
+	"New York County, NY"	"36061"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"28 - 364 days"	"05"	Suppressed	34	Suppressed
+	"New York County, NY"	"36061"	"White"	"2106-3"	"Under 1 hour"	"01"	15	43469	0.35 (Unreliable)
+	"New York County, NY"	"36061"	"White"	"2106-3"	"1 - 23 hours"	"02"	21	43469	0.48
+	"New York County, NY"	"36061"	"White"	"2106-3"	"1 - 6 days"	"03"	21	43469	0.48
+	"New York County, NY"	"36061"	"White"	"2106-3"	"7 - 27 days"	"04"	14	43469	0.32 (Unreliable)
+	"New York County, NY"	"36061"	"White"	"2106-3"	"28 - 364 days"	"05"	24	43469	0.55
+	"New York County, NY"	"36061"	"More than one race"	"M"	"Under 1 hour"	"01"	Suppressed	1434	Suppressed
+	"New York County, NY"	"36061"	"More than one race"	"M"	"1 - 23 hours"	"02"	Suppressed	1434	Suppressed
+	"New York County, NY"	"36061"	"More than one race"	"M"	"1 - 6 days"	"03"	Suppressed	1434	Suppressed
+	"New York County, NY"	"36061"	"More than one race"	"M"	"7 - 27 days"	"04"	Suppressed	1434	Suppressed
+	"New York County, NY"	"36061"	"More than one race"	"M"	"28 - 364 days"	"05"	Suppressed	1434	Suppressed
+	"New York County, NY"	"36061"	"Unknown or Not Stated"	"UNK"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"New York County, NY"	"36061"	"Unknown or Not Stated"	"UNK"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"New York County, NY"	"36061"	"Unknown or Not Stated"	"UNK"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"New York County, NY"	"36061"	"Unknown or Not Stated"	"UNK"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"New York County, NY"	"36061"	"Unknown or Not Stated"	"UNK"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"New York County, NY"	"36061"	"Not Available"	"NA"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"New York County, NY"	"36061"	"Not Available"	"NA"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"New York County, NY"	"36061"	"Not Available"	"NA"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"New York County, NY"	"36061"	"Not Available"	"NA"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"New York County, NY"	"36061"	"Not Available"	"NA"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"New York County, NY"	"36061"	"Not Reported"	"NR"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"New York County, NY"	"36061"	"Not Reported"	"NR"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"New York County, NY"	"36061"	"Not Reported"	"NR"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"New York County, NY"	"36061"	"Not Reported"	"NR"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"New York County, NY"	"36061"	"Not Reported"	"NR"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Onondaga County, NY"	"36067"	"American Indian or Alaska Native"	"1002-5"	"Under 1 hour"	"01"	Suppressed	183	Suppressed
+	"Onondaga County, NY"	"36067"	"American Indian or Alaska Native"	"1002-5"	"1 - 23 hours"	"02"	Suppressed	183	Suppressed
+	"Onondaga County, NY"	"36067"	"American Indian or Alaska Native"	"1002-5"	"1 - 6 days"	"03"	Suppressed	183	Suppressed
+	"Onondaga County, NY"	"36067"	"American Indian or Alaska Native"	"1002-5"	"7 - 27 days"	"04"	Suppressed	183	Suppressed
+	"Onondaga County, NY"	"36067"	"American Indian or Alaska Native"	"1002-5"	"28 - 364 days"	"05"	Suppressed	183	Suppressed
+	"Onondaga County, NY"	"36067"	"Asian"	"A"	"Under 1 hour"	"01"	Suppressed	1124	Suppressed
+	"Onondaga County, NY"	"36067"	"Asian"	"A"	"1 - 23 hours"	"02"	Suppressed	1124	Suppressed
+	"Onondaga County, NY"	"36067"	"Asian"	"A"	"1 - 6 days"	"03"	Suppressed	1124	Suppressed
+	"Onondaga County, NY"	"36067"	"Asian"	"A"	"7 - 27 days"	"04"	Suppressed	1124	Suppressed
+	"Onondaga County, NY"	"36067"	"Asian"	"A"	"28 - 364 days"	"05"	Suppressed	1124	Suppressed
+	"Onondaga County, NY"	"36067"	"Black or African American"	"2054-5"	"Under 1 hour"	"01"	Suppressed	4057	Suppressed
+	"Onondaga County, NY"	"36067"	"Black or African American"	"2054-5"	"1 - 23 hours"	"02"	17	4057	4.19 (Unreliable)
+	"Onondaga County, NY"	"36067"	"Black or African American"	"2054-5"	"1 - 6 days"	"03"	11	4057	2.71 (Unreliable)
+	"Onondaga County, NY"	"36067"	"Black or African American"	"2054-5"	"7 - 27 days"	"04"	Suppressed	4057	Suppressed
+	"Onondaga County, NY"	"36067"	"Black or African American"	"2054-5"	"28 - 364 days"	"05"	12	4057	2.96 (Unreliable)
+	"Onondaga County, NY"	"36067"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Onondaga County, NY"	"36067"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Onondaga County, NY"	"36067"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Onondaga County, NY"	"36067"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Onondaga County, NY"	"36067"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Onondaga County, NY"	"36067"	"White"	"2106-3"	"Under 1 hour"	"01"	Suppressed	13853	Suppressed
+	"Onondaga County, NY"	"36067"	"White"	"2106-3"	"1 - 23 hours"	"02"	20	13853	1.44
+	"Onondaga County, NY"	"36067"	"White"	"2106-3"	"1 - 6 days"	"03"	10	13853	0.72 (Unreliable)
+	"Onondaga County, NY"	"36067"	"White"	"2106-3"	"7 - 27 days"	"04"	Suppressed	13853	Suppressed
+	"Onondaga County, NY"	"36067"	"White"	"2106-3"	"28 - 364 days"	"05"	10	13853	0.72 (Unreliable)
+	"Onondaga County, NY"	"36067"	"More than one race"	"M"	"Under 1 hour"	"01"	Suppressed	980	Suppressed
+	"Onondaga County, NY"	"36067"	"More than one race"	"M"	"1 - 23 hours"	"02"	Suppressed	980	Suppressed
+	"Onondaga County, NY"	"36067"	"More than one race"	"M"	"1 - 6 days"	"03"	Suppressed	980	Suppressed
+	"Onondaga County, NY"	"36067"	"More than one race"	"M"	"7 - 27 days"	"04"	Suppressed	980	Suppressed
+	"Onondaga County, NY"	"36067"	"More than one race"	"M"	"28 - 364 days"	"05"	Suppressed	980	Suppressed
+	"Onondaga County, NY"	"36067"	"Unknown or Not Stated"	"UNK"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Onondaga County, NY"	"36067"	"Unknown or Not Stated"	"UNK"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Onondaga County, NY"	"36067"	"Unknown or Not Stated"	"UNK"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Onondaga County, NY"	"36067"	"Unknown or Not Stated"	"UNK"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Onondaga County, NY"	"36067"	"Unknown or Not Stated"	"UNK"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Onondaga County, NY"	"36067"	"Not Available"	"NA"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Onondaga County, NY"	"36067"	"Not Available"	"NA"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Onondaga County, NY"	"36067"	"Not Available"	"NA"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Onondaga County, NY"	"36067"	"Not Available"	"NA"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Onondaga County, NY"	"36067"	"Not Available"	"NA"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Onondaga County, NY"	"36067"	"Not Reported"	"NR"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Onondaga County, NY"	"36067"	"Not Reported"	"NR"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Onondaga County, NY"	"36067"	"Not Reported"	"NR"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Onondaga County, NY"	"36067"	"Not Reported"	"NR"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Onondaga County, NY"	"36067"	"Not Reported"	"NR"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Orange County, NY"	"36071"	"American Indian or Alaska Native"	"1002-5"	"Under 1 hour"	"01"	Suppressed	90	Suppressed
+	"Orange County, NY"	"36071"	"American Indian or Alaska Native"	"1002-5"	"1 - 23 hours"	"02"	Suppressed	90	Suppressed
+	"Orange County, NY"	"36071"	"American Indian or Alaska Native"	"1002-5"	"1 - 6 days"	"03"	Suppressed	90	Suppressed
+	"Orange County, NY"	"36071"	"American Indian or Alaska Native"	"1002-5"	"7 - 27 days"	"04"	Suppressed	90	Suppressed
+	"Orange County, NY"	"36071"	"American Indian or Alaska Native"	"1002-5"	"28 - 364 days"	"05"	Suppressed	90	Suppressed
+	"Orange County, NY"	"36071"	"Asian"	"A"	"Under 1 hour"	"01"	Suppressed	574	Suppressed
+	"Orange County, NY"	"36071"	"Asian"	"A"	"1 - 23 hours"	"02"	Suppressed	574	Suppressed
+	"Orange County, NY"	"36071"	"Asian"	"A"	"1 - 6 days"	"03"	Suppressed	574	Suppressed
+	"Orange County, NY"	"36071"	"Asian"	"A"	"7 - 27 days"	"04"	Suppressed	574	Suppressed
+	"Orange County, NY"	"36071"	"Asian"	"A"	"28 - 364 days"	"05"	Suppressed	574	Suppressed
+	"Orange County, NY"	"36071"	"Black or African American"	"2054-5"	"Under 1 hour"	"01"	Suppressed	2447	Suppressed
+	"Orange County, NY"	"36071"	"Black or African American"	"2054-5"	"1 - 23 hours"	"02"	Suppressed	2447	Suppressed
+	"Orange County, NY"	"36071"	"Black or African American"	"2054-5"	"1 - 6 days"	"03"	Suppressed	2447	Suppressed
+	"Orange County, NY"	"36071"	"Black or African American"	"2054-5"	"7 - 27 days"	"04"	Suppressed	2447	Suppressed
+	"Orange County, NY"	"36071"	"Black or African American"	"2054-5"	"28 - 364 days"	"05"	Suppressed	2447	Suppressed
+	"Orange County, NY"	"36071"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Under 1 hour"	"01"	Suppressed	14	Suppressed
+	"Orange County, NY"	"36071"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 23 hours"	"02"	Suppressed	14	Suppressed
+	"Orange County, NY"	"36071"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 6 days"	"03"	Suppressed	14	Suppressed
+	"Orange County, NY"	"36071"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"7 - 27 days"	"04"	Suppressed	14	Suppressed
+	"Orange County, NY"	"36071"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"28 - 364 days"	"05"	Suppressed	14	Suppressed
+	"Orange County, NY"	"36071"	"White"	"2106-3"	"Under 1 hour"	"01"	Suppressed	17024	Suppressed
+	"Orange County, NY"	"36071"	"White"	"2106-3"	"1 - 23 hours"	"02"	10	17024	0.59 (Unreliable)
+	"Orange County, NY"	"36071"	"White"	"2106-3"	"1 - 6 days"	"03"	Suppressed	17024	Suppressed
+	"Orange County, NY"	"36071"	"White"	"2106-3"	"7 - 27 days"	"04"	Suppressed	17024	Suppressed
+	"Orange County, NY"	"36071"	"White"	"2106-3"	"28 - 364 days"	"05"	15	17024	0.88 (Unreliable)
+	"Orange County, NY"	"36071"	"More than one race"	"M"	"Under 1 hour"	"01"	Suppressed	438	Suppressed
+	"Orange County, NY"	"36071"	"More than one race"	"M"	"1 - 23 hours"	"02"	Suppressed	438	Suppressed
+	"Orange County, NY"	"36071"	"More than one race"	"M"	"1 - 6 days"	"03"	Suppressed	438	Suppressed
+	"Orange County, NY"	"36071"	"More than one race"	"M"	"7 - 27 days"	"04"	Suppressed	438	Suppressed
+	"Orange County, NY"	"36071"	"More than one race"	"M"	"28 - 364 days"	"05"	Suppressed	438	Suppressed
+	"Orange County, NY"	"36071"	"Unknown or Not Stated"	"UNK"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Orange County, NY"	"36071"	"Unknown or Not Stated"	"UNK"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Orange County, NY"	"36071"	"Unknown or Not Stated"	"UNK"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Orange County, NY"	"36071"	"Unknown or Not Stated"	"UNK"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Orange County, NY"	"36071"	"Unknown or Not Stated"	"UNK"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Orange County, NY"	"36071"	"Not Available"	"NA"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Orange County, NY"	"36071"	"Not Available"	"NA"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Orange County, NY"	"36071"	"Not Available"	"NA"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Orange County, NY"	"36071"	"Not Available"	"NA"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Orange County, NY"	"36071"	"Not Available"	"NA"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Orange County, NY"	"36071"	"Not Reported"	"NR"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Orange County, NY"	"36071"	"Not Reported"	"NR"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Orange County, NY"	"36071"	"Not Reported"	"NR"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Orange County, NY"	"36071"	"Not Reported"	"NR"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Orange County, NY"	"36071"	"Not Reported"	"NR"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Queens County, NY"	"36081"	"American Indian or Alaska Native"	"1002-5"	"Under 1 hour"	"01"	Suppressed	237	Suppressed
+	"Queens County, NY"	"36081"	"American Indian or Alaska Native"	"1002-5"	"1 - 23 hours"	"02"	Suppressed	237	Suppressed
+	"Queens County, NY"	"36081"	"American Indian or Alaska Native"	"1002-5"	"1 - 6 days"	"03"	Suppressed	237	Suppressed
+	"Queens County, NY"	"36081"	"American Indian or Alaska Native"	"1002-5"	"7 - 27 days"	"04"	Suppressed	237	Suppressed
+	"Queens County, NY"	"36081"	"American Indian or Alaska Native"	"1002-5"	"28 - 364 days"	"05"	Suppressed	237	Suppressed
+	"Queens County, NY"	"36081"	"Asian"	"A"	"Under 1 hour"	"01"	Suppressed	34728	Suppressed
+	"Queens County, NY"	"36081"	"Asian"	"A"	"1 - 23 hours"	"02"	35	34728	1.01
+	"Queens County, NY"	"36081"	"Asian"	"A"	"1 - 6 days"	"03"	16	34728	0.46 (Unreliable)
+	"Queens County, NY"	"36081"	"Asian"	"A"	"7 - 27 days"	"04"	15	34728	0.43 (Unreliable)
+	"Queens County, NY"	"36081"	"Asian"	"A"	"28 - 364 days"	"05"	27	34728	0.78
+	"Queens County, NY"	"36081"	"Black or African American"	"2054-5"	"Under 1 hour"	"01"	21	21163	0.99
+	"Queens County, NY"	"36081"	"Black or African American"	"2054-5"	"1 - 23 hours"	"02"	41	21163	1.94
+	"Queens County, NY"	"36081"	"Black or African American"	"2054-5"	"1 - 6 days"	"03"	16	21163	0.76 (Unreliable)
+	"Queens County, NY"	"36081"	"Black or African American"	"2054-5"	"7 - 27 days"	"04"	24	21163	1.13
+	"Queens County, NY"	"36081"	"Black or African American"	"2054-5"	"28 - 364 days"	"05"	44	21163	2.08
+	"Queens County, NY"	"36081"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Under 1 hour"	"01"	Suppressed	53	Suppressed
+	"Queens County, NY"	"36081"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 23 hours"	"02"	Suppressed	53	Suppressed
+	"Queens County, NY"	"36081"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 6 days"	"03"	Suppressed	53	Suppressed
+	"Queens County, NY"	"36081"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"7 - 27 days"	"04"	Suppressed	53	Suppressed
+	"Queens County, NY"	"36081"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"28 - 364 days"	"05"	Suppressed	53	Suppressed
+	"Queens County, NY"	"36081"	"White"	"2106-3"	"Under 1 hour"	"01"	31	50520	0.61
+	"Queens County, NY"	"36081"	"White"	"2106-3"	"1 - 23 hours"	"02"	29	50520	0.57
+	"Queens County, NY"	"36081"	"White"	"2106-3"	"1 - 6 days"	"03"	29	50520	0.57
+	"Queens County, NY"	"36081"	"White"	"2106-3"	"7 - 27 days"	"04"	17	50520	0.34 (Unreliable)
+	"Queens County, NY"	"36081"	"White"	"2106-3"	"28 - 364 days"	"05"	53	50520	1.05
+	"Queens County, NY"	"36081"	"More than one race"	"M"	"Under 1 hour"	"01"	Suppressed	2047	Suppressed
+	"Queens County, NY"	"36081"	"More than one race"	"M"	"1 - 23 hours"	"02"	Suppressed	2047	Suppressed
+	"Queens County, NY"	"36081"	"More than one race"	"M"	"1 - 6 days"	"03"	Suppressed	2047	Suppressed
+	"Queens County, NY"	"36081"	"More than one race"	"M"	"7 - 27 days"	"04"	Suppressed	2047	Suppressed
+	"Queens County, NY"	"36081"	"More than one race"	"M"	"28 - 364 days"	"05"	Suppressed	2047	Suppressed
+	"Queens County, NY"	"36081"	"Unknown or Not Stated"	"UNK"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Queens County, NY"	"36081"	"Unknown or Not Stated"	"UNK"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Queens County, NY"	"36081"	"Unknown or Not Stated"	"UNK"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Queens County, NY"	"36081"	"Unknown or Not Stated"	"UNK"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Queens County, NY"	"36081"	"Unknown or Not Stated"	"UNK"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Queens County, NY"	"36081"	"Not Available"	"NA"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Queens County, NY"	"36081"	"Not Available"	"NA"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Queens County, NY"	"36081"	"Not Available"	"NA"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Queens County, NY"	"36081"	"Not Available"	"NA"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Queens County, NY"	"36081"	"Not Available"	"NA"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Queens County, NY"	"36081"	"Not Reported"	"NR"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Queens County, NY"	"36081"	"Not Reported"	"NR"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Queens County, NY"	"36081"	"Not Reported"	"NR"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Queens County, NY"	"36081"	"Not Reported"	"NR"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Queens County, NY"	"36081"	"Not Reported"	"NR"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Richmond County, NY"	"36085"	"American Indian or Alaska Native"	"1002-5"	"Under 1 hour"	"01"	Suppressed	51	Suppressed
+	"Richmond County, NY"	"36085"	"American Indian or Alaska Native"	"1002-5"	"1 - 23 hours"	"02"	Suppressed	51	Suppressed
+	"Richmond County, NY"	"36085"	"American Indian or Alaska Native"	"1002-5"	"1 - 6 days"	"03"	Suppressed	51	Suppressed
+	"Richmond County, NY"	"36085"	"American Indian or Alaska Native"	"1002-5"	"7 - 27 days"	"04"	Suppressed	51	Suppressed
+	"Richmond County, NY"	"36085"	"American Indian or Alaska Native"	"1002-5"	"28 - 364 days"	"05"	Suppressed	51	Suppressed
+	"Richmond County, NY"	"36085"	"Asian"	"A"	"Under 1 hour"	"01"	Suppressed	2498	Suppressed
+	"Richmond County, NY"	"36085"	"Asian"	"A"	"1 - 23 hours"	"02"	Suppressed	2498	Suppressed
+	"Richmond County, NY"	"36085"	"Asian"	"A"	"1 - 6 days"	"03"	Suppressed	2498	Suppressed
+	"Richmond County, NY"	"36085"	"Asian"	"A"	"7 - 27 days"	"04"	Suppressed	2498	Suppressed
+	"Richmond County, NY"	"36085"	"Asian"	"A"	"28 - 364 days"	"05"	Suppressed	2498	Suppressed
+	"Richmond County, NY"	"36085"	"Black or African American"	"2054-5"	"Under 1 hour"	"01"	Suppressed	3321	Suppressed
+	"Richmond County, NY"	"36085"	"Black or African American"	"2054-5"	"1 - 23 hours"	"02"	Suppressed	3321	Suppressed
+	"Richmond County, NY"	"36085"	"Black or African American"	"2054-5"	"1 - 6 days"	"03"	Suppressed	3321	Suppressed
+	"Richmond County, NY"	"36085"	"Black or African American"	"2054-5"	"7 - 27 days"	"04"	Suppressed	3321	Suppressed
+	"Richmond County, NY"	"36085"	"Black or African American"	"2054-5"	"28 - 364 days"	"05"	12	3321	3.61 (Unreliable)
+	"Richmond County, NY"	"36085"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Under 1 hour"	"01"	Suppressed	11	Suppressed
+	"Richmond County, NY"	"36085"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 23 hours"	"02"	Suppressed	11	Suppressed
+	"Richmond County, NY"	"36085"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 6 days"	"03"	Suppressed	11	Suppressed
+	"Richmond County, NY"	"36085"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"7 - 27 days"	"04"	Suppressed	11	Suppressed
+	"Richmond County, NY"	"36085"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"28 - 364 days"	"05"	Suppressed	11	Suppressed
+	"Richmond County, NY"	"36085"	"White"	"2106-3"	"Under 1 hour"	"01"	Suppressed	14604	Suppressed
+	"Richmond County, NY"	"36085"	"White"	"2106-3"	"1 - 23 hours"	"02"	21	14604	1.44
+	"Richmond County, NY"	"36085"	"White"	"2106-3"	"1 - 6 days"	"03"	Suppressed	14604	Suppressed
+	"Richmond County, NY"	"36085"	"White"	"2106-3"	"7 - 27 days"	"04"	10	14604	0.68 (Unreliable)
+	"Richmond County, NY"	"36085"	"White"	"2106-3"	"28 - 364 days"	"05"	10	14604	0.68 (Unreliable)
+	"Richmond County, NY"	"36085"	"More than one race"	"M"	"Under 1 hour"	"01"	Suppressed	386	Suppressed
+	"Richmond County, NY"	"36085"	"More than one race"	"M"	"1 - 23 hours"	"02"	Suppressed	386	Suppressed
+	"Richmond County, NY"	"36085"	"More than one race"	"M"	"1 - 6 days"	"03"	Suppressed	386	Suppressed
+	"Richmond County, NY"	"36085"	"More than one race"	"M"	"7 - 27 days"	"04"	Suppressed	386	Suppressed
+	"Richmond County, NY"	"36085"	"More than one race"	"M"	"28 - 364 days"	"05"	Suppressed	386	Suppressed
+	"Richmond County, NY"	"36085"	"Unknown or Not Stated"	"UNK"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Richmond County, NY"	"36085"	"Unknown or Not Stated"	"UNK"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Richmond County, NY"	"36085"	"Unknown or Not Stated"	"UNK"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Richmond County, NY"	"36085"	"Unknown or Not Stated"	"UNK"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Richmond County, NY"	"36085"	"Unknown or Not Stated"	"UNK"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Richmond County, NY"	"36085"	"Not Available"	"NA"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Richmond County, NY"	"36085"	"Not Available"	"NA"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Richmond County, NY"	"36085"	"Not Available"	"NA"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Richmond County, NY"	"36085"	"Not Available"	"NA"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Richmond County, NY"	"36085"	"Not Available"	"NA"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Richmond County, NY"	"36085"	"Not Reported"	"NR"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Richmond County, NY"	"36085"	"Not Reported"	"NR"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Richmond County, NY"	"36085"	"Not Reported"	"NR"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Richmond County, NY"	"36085"	"Not Reported"	"NR"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Richmond County, NY"	"36085"	"Not Reported"	"NR"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Rockland County, NY"	"36087"	"American Indian or Alaska Native"	"1002-5"	"Under 1 hour"	"01"	Suppressed	30	Suppressed
+	"Rockland County, NY"	"36087"	"American Indian or Alaska Native"	"1002-5"	"1 - 23 hours"	"02"	Suppressed	30	Suppressed
+	"Rockland County, NY"	"36087"	"American Indian or Alaska Native"	"1002-5"	"1 - 6 days"	"03"	Suppressed	30	Suppressed
+	"Rockland County, NY"	"36087"	"American Indian or Alaska Native"	"1002-5"	"7 - 27 days"	"04"	Suppressed	30	Suppressed
+	"Rockland County, NY"	"36087"	"American Indian or Alaska Native"	"1002-5"	"28 - 364 days"	"05"	Suppressed	30	Suppressed
+	"Rockland County, NY"	"36087"	"Asian"	"A"	"Under 1 hour"	"01"	Suppressed	880	Suppressed
+	"Rockland County, NY"	"36087"	"Asian"	"A"	"1 - 23 hours"	"02"	Suppressed	880	Suppressed
+	"Rockland County, NY"	"36087"	"Asian"	"A"	"1 - 6 days"	"03"	Suppressed	880	Suppressed
+	"Rockland County, NY"	"36087"	"Asian"	"A"	"7 - 27 days"	"04"	Suppressed	880	Suppressed
+	"Rockland County, NY"	"36087"	"Asian"	"A"	"28 - 364 days"	"05"	Suppressed	880	Suppressed
+	"Rockland County, NY"	"36087"	"Black or African American"	"2054-5"	"Under 1 hour"	"01"	Suppressed	1960	Suppressed
+	"Rockland County, NY"	"36087"	"Black or African American"	"2054-5"	"1 - 23 hours"	"02"	Suppressed	1960	Suppressed
+	"Rockland County, NY"	"36087"	"Black or African American"	"2054-5"	"1 - 6 days"	"03"	Suppressed	1960	Suppressed
+	"Rockland County, NY"	"36087"	"Black or African American"	"2054-5"	"7 - 27 days"	"04"	Suppressed	1960	Suppressed
+	"Rockland County, NY"	"36087"	"Black or African American"	"2054-5"	"28 - 364 days"	"05"	Suppressed	1960	Suppressed
+	"Rockland County, NY"	"36087"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Rockland County, NY"	"36087"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Rockland County, NY"	"36087"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Rockland County, NY"	"36087"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Rockland County, NY"	"36087"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Rockland County, NY"	"36087"	"White"	"2106-3"	"Under 1 hour"	"01"	Suppressed	19641	Suppressed
+	"Rockland County, NY"	"36087"	"White"	"2106-3"	"1 - 23 hours"	"02"	14	19641	0.71 (Unreliable)
+	"Rockland County, NY"	"36087"	"White"	"2106-3"	"1 - 6 days"	"03"	Suppressed	19641	Suppressed
+	"Rockland County, NY"	"36087"	"White"	"2106-3"	"7 - 27 days"	"04"	Suppressed	19641	Suppressed
+	"Rockland County, NY"	"36087"	"White"	"2106-3"	"28 - 364 days"	"05"	22	19641	1.12
+	"Rockland County, NY"	"36087"	"More than one race"	"M"	"Under 1 hour"	"01"	Suppressed	123	Suppressed
+	"Rockland County, NY"	"36087"	"More than one race"	"M"	"1 - 23 hours"	"02"	Suppressed	123	Suppressed
+	"Rockland County, NY"	"36087"	"More than one race"	"M"	"1 - 6 days"	"03"	Suppressed	123	Suppressed
+	"Rockland County, NY"	"36087"	"More than one race"	"M"	"7 - 27 days"	"04"	Suppressed	123	Suppressed
+	"Rockland County, NY"	"36087"	"More than one race"	"M"	"28 - 364 days"	"05"	Suppressed	123	Suppressed
+	"Rockland County, NY"	"36087"	"Unknown or Not Stated"	"UNK"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Rockland County, NY"	"36087"	"Unknown or Not Stated"	"UNK"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Rockland County, NY"	"36087"	"Unknown or Not Stated"	"UNK"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Rockland County, NY"	"36087"	"Unknown or Not Stated"	"UNK"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Rockland County, NY"	"36087"	"Unknown or Not Stated"	"UNK"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Rockland County, NY"	"36087"	"Not Available"	"NA"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Rockland County, NY"	"36087"	"Not Available"	"NA"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Rockland County, NY"	"36087"	"Not Available"	"NA"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Rockland County, NY"	"36087"	"Not Available"	"NA"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Rockland County, NY"	"36087"	"Not Available"	"NA"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Rockland County, NY"	"36087"	"Not Reported"	"NR"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Rockland County, NY"	"36087"	"Not Reported"	"NR"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Rockland County, NY"	"36087"	"Not Reported"	"NR"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Rockland County, NY"	"36087"	"Not Reported"	"NR"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Rockland County, NY"	"36087"	"Not Reported"	"NR"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Suffolk County, NY"	"36103"	"American Indian or Alaska Native"	"1002-5"	"Under 1 hour"	"01"	Suppressed	151	Suppressed
+	"Suffolk County, NY"	"36103"	"American Indian or Alaska Native"	"1002-5"	"1 - 23 hours"	"02"	Suppressed	151	Suppressed
+	"Suffolk County, NY"	"36103"	"American Indian or Alaska Native"	"1002-5"	"1 - 6 days"	"03"	Suppressed	151	Suppressed
+	"Suffolk County, NY"	"36103"	"American Indian or Alaska Native"	"1002-5"	"7 - 27 days"	"04"	Suppressed	151	Suppressed
+	"Suffolk County, NY"	"36103"	"American Indian or Alaska Native"	"1002-5"	"28 - 364 days"	"05"	Suppressed	151	Suppressed
+	"Suffolk County, NY"	"36103"	"Asian"	"A"	"Under 1 hour"	"01"	Suppressed	3248	Suppressed
+	"Suffolk County, NY"	"36103"	"Asian"	"A"	"1 - 23 hours"	"02"	Suppressed	3248	Suppressed
+	"Suffolk County, NY"	"36103"	"Asian"	"A"	"1 - 6 days"	"03"	Suppressed	3248	Suppressed
+	"Suffolk County, NY"	"36103"	"Asian"	"A"	"7 - 27 days"	"04"	Suppressed	3248	Suppressed
+	"Suffolk County, NY"	"36103"	"Asian"	"A"	"28 - 364 days"	"05"	Suppressed	3248	Suppressed
+	"Suffolk County, NY"	"36103"	"Black or African American"	"2054-5"	"Under 1 hour"	"01"	Suppressed	6386	Suppressed
+	"Suffolk County, NY"	"36103"	"Black or African American"	"2054-5"	"1 - 23 hours"	"02"	Suppressed	6386	Suppressed
+	"Suffolk County, NY"	"36103"	"Black or African American"	"2054-5"	"1 - 6 days"	"03"	Suppressed	6386	Suppressed
+	"Suffolk County, NY"	"36103"	"Black or African American"	"2054-5"	"7 - 27 days"	"04"	11	6386	1.72 (Unreliable)
+	"Suffolk County, NY"	"36103"	"Black or African American"	"2054-5"	"28 - 364 days"	"05"	14	6386	2.19 (Unreliable)
+	"Suffolk County, NY"	"36103"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Under 1 hour"	"01"	Suppressed	44	Suppressed
+	"Suffolk County, NY"	"36103"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 23 hours"	"02"	Suppressed	44	Suppressed
+	"Suffolk County, NY"	"36103"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 6 days"	"03"	Suppressed	44	Suppressed
+	"Suffolk County, NY"	"36103"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"7 - 27 days"	"04"	Suppressed	44	Suppressed
+	"Suffolk County, NY"	"36103"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"28 - 364 days"	"05"	Suppressed	44	Suppressed
+	"Suffolk County, NY"	"36103"	"White"	"2106-3"	"Under 1 hour"	"01"	29	49685	0.58
+	"Suffolk County, NY"	"36103"	"White"	"2106-3"	"1 - 23 hours"	"02"	43	49685	0.87
+	"Suffolk County, NY"	"36103"	"White"	"2106-3"	"1 - 6 days"	"03"	32	49685	0.64
+	"Suffolk County, NY"	"36103"	"White"	"2106-3"	"7 - 27 days"	"04"	21	49685	0.42
+	"Suffolk County, NY"	"36103"	"White"	"2106-3"	"28 - 364 days"	"05"	44	49685	0.89
+	"Suffolk County, NY"	"36103"	"More than one race"	"M"	"Under 1 hour"	"01"	Suppressed	901	Suppressed
+	"Suffolk County, NY"	"36103"	"More than one race"	"M"	"1 - 23 hours"	"02"	Suppressed	901	Suppressed
+	"Suffolk County, NY"	"36103"	"More than one race"	"M"	"1 - 6 days"	"03"	Suppressed	901	Suppressed
+	"Suffolk County, NY"	"36103"	"More than one race"	"M"	"7 - 27 days"	"04"	Suppressed	901	Suppressed
+	"Suffolk County, NY"	"36103"	"More than one race"	"M"	"28 - 364 days"	"05"	Suppressed	901	Suppressed
+	"Suffolk County, NY"	"36103"	"Unknown or Not Stated"	"UNK"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Suffolk County, NY"	"36103"	"Unknown or Not Stated"	"UNK"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Suffolk County, NY"	"36103"	"Unknown or Not Stated"	"UNK"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Suffolk County, NY"	"36103"	"Unknown or Not Stated"	"UNK"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Suffolk County, NY"	"36103"	"Unknown or Not Stated"	"UNK"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Suffolk County, NY"	"36103"	"Not Available"	"NA"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Suffolk County, NY"	"36103"	"Not Available"	"NA"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Suffolk County, NY"	"36103"	"Not Available"	"NA"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Suffolk County, NY"	"36103"	"Not Available"	"NA"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Suffolk County, NY"	"36103"	"Not Available"	"NA"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Suffolk County, NY"	"36103"	"Not Reported"	"NR"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Suffolk County, NY"	"36103"	"Not Reported"	"NR"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Suffolk County, NY"	"36103"	"Not Reported"	"NR"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Suffolk County, NY"	"36103"	"Not Reported"	"NR"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Suffolk County, NY"	"36103"	"Not Reported"	"NR"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Westchester County, NY"	"36119"	"American Indian or Alaska Native"	"1002-5"	"Under 1 hour"	"01"	Suppressed	134	Suppressed
+	"Westchester County, NY"	"36119"	"American Indian or Alaska Native"	"1002-5"	"1 - 23 hours"	"02"	Suppressed	134	Suppressed
+	"Westchester County, NY"	"36119"	"American Indian or Alaska Native"	"1002-5"	"1 - 6 days"	"03"	Suppressed	134	Suppressed
+	"Westchester County, NY"	"36119"	"American Indian or Alaska Native"	"1002-5"	"7 - 27 days"	"04"	Suppressed	134	Suppressed
+	"Westchester County, NY"	"36119"	"American Indian or Alaska Native"	"1002-5"	"28 - 364 days"	"05"	Suppressed	134	Suppressed
+	"Westchester County, NY"	"36119"	"Asian"	"A"	"Under 1 hour"	"01"	Suppressed	3206	Suppressed
+	"Westchester County, NY"	"36119"	"Asian"	"A"	"1 - 23 hours"	"02"	Suppressed	3206	Suppressed
+	"Westchester County, NY"	"36119"	"Asian"	"A"	"1 - 6 days"	"03"	Suppressed	3206	Suppressed
+	"Westchester County, NY"	"36119"	"Asian"	"A"	"7 - 27 days"	"04"	Suppressed	3206	Suppressed
+	"Westchester County, NY"	"36119"	"Asian"	"A"	"28 - 364 days"	"05"	Suppressed	3206	Suppressed
+	"Westchester County, NY"	"36119"	"Black or African American"	"2054-5"	"Under 1 hour"	"01"	15	7561	1.98 (Unreliable)
+	"Westchester County, NY"	"36119"	"Black or African American"	"2054-5"	"1 - 23 hours"	"02"	14	7561	1.85 (Unreliable)
+	"Westchester County, NY"	"36119"	"Black or African American"	"2054-5"	"1 - 6 days"	"03"	Suppressed	7561	Suppressed
+	"Westchester County, NY"	"36119"	"Black or African American"	"2054-5"	"7 - 27 days"	"04"	Suppressed	7561	Suppressed
+	"Westchester County, NY"	"36119"	"Black or African American"	"2054-5"	"28 - 364 days"	"05"	17	7561	2.25 (Unreliable)
+	"Westchester County, NY"	"36119"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Under 1 hour"	"01"	Suppressed	25	Suppressed
+	"Westchester County, NY"	"36119"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 23 hours"	"02"	Suppressed	25	Suppressed
+	"Westchester County, NY"	"36119"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 6 days"	"03"	Suppressed	25	Suppressed
+	"Westchester County, NY"	"36119"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"7 - 27 days"	"04"	Suppressed	25	Suppressed
+	"Westchester County, NY"	"36119"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"28 - 364 days"	"05"	Suppressed	25	Suppressed
+	"Westchester County, NY"	"36119"	"White"	"2106-3"	"Under 1 hour"	"01"	Suppressed	28451	Suppressed
+	"Westchester County, NY"	"36119"	"White"	"2106-3"	"1 - 23 hours"	"02"	21	28451	0.74
+	"Westchester County, NY"	"36119"	"White"	"2106-3"	"1 - 6 days"	"03"	22	28451	0.77
+	"Westchester County, NY"	"36119"	"White"	"2106-3"	"7 - 27 days"	"04"	Suppressed	28451	Suppressed
+	"Westchester County, NY"	"36119"	"White"	"2106-3"	"28 - 364 days"	"05"	27	28451	0.95
+	"Westchester County, NY"	"36119"	"More than one race"	"M"	"Under 1 hour"	"01"	Suppressed	612	Suppressed
+	"Westchester County, NY"	"36119"	"More than one race"	"M"	"1 - 23 hours"	"02"	Suppressed	612	Suppressed
+	"Westchester County, NY"	"36119"	"More than one race"	"M"	"1 - 6 days"	"03"	Suppressed	612	Suppressed
+	"Westchester County, NY"	"36119"	"More than one race"	"M"	"7 - 27 days"	"04"	Suppressed	612	Suppressed
+	"Westchester County, NY"	"36119"	"More than one race"	"M"	"28 - 364 days"	"05"	Suppressed	612	Suppressed
+	"Westchester County, NY"	"36119"	"Unknown or Not Stated"	"UNK"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Westchester County, NY"	"36119"	"Unknown or Not Stated"	"UNK"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Westchester County, NY"	"36119"	"Unknown or Not Stated"	"UNK"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Westchester County, NY"	"36119"	"Unknown or Not Stated"	"UNK"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Westchester County, NY"	"36119"	"Unknown or Not Stated"	"UNK"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Westchester County, NY"	"36119"	"Not Available"	"NA"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Westchester County, NY"	"36119"	"Not Available"	"NA"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Westchester County, NY"	"36119"	"Not Available"	"NA"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Westchester County, NY"	"36119"	"Not Available"	"NA"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Westchester County, NY"	"36119"	"Not Available"	"NA"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Westchester County, NY"	"36119"	"Not Reported"	"NR"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Westchester County, NY"	"36119"	"Not Reported"	"NR"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Westchester County, NY"	"36119"	"Not Reported"	"NR"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Westchester County, NY"	"36119"	"Not Reported"	"NR"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Westchester County, NY"	"36119"	"Not Reported"	"NR"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Unidentified Counties, NY"	"36999"	"American Indian or Alaska Native"	"1002-5"	"Under 1 hour"	"01"	Suppressed	815	Suppressed
+	"Unidentified Counties, NY"	"36999"	"American Indian or Alaska Native"	"1002-5"	"1 - 23 hours"	"02"	Suppressed	815	Suppressed
+	"Unidentified Counties, NY"	"36999"	"American Indian or Alaska Native"	"1002-5"	"1 - 6 days"	"03"	Suppressed	815	Suppressed
+	"Unidentified Counties, NY"	"36999"	"American Indian or Alaska Native"	"1002-5"	"7 - 27 days"	"04"	Suppressed	815	Suppressed
+	"Unidentified Counties, NY"	"36999"	"American Indian or Alaska Native"	"1002-5"	"28 - 364 days"	"05"	Suppressed	815	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Asian"	"A"	"Under 1 hour"	"01"	Suppressed	4195	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Asian"	"A"	"1 - 23 hours"	"02"	Suppressed	4195	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Asian"	"A"	"1 - 6 days"	"03"	Suppressed	4195	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Asian"	"A"	"7 - 27 days"	"04"	Suppressed	4195	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Asian"	"A"	"28 - 364 days"	"05"	Suppressed	4195	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Black or African American"	"2054-5"	"Under 1 hour"	"01"	25	8920	2.80
+	"Unidentified Counties, NY"	"36999"	"Black or African American"	"2054-5"	"1 - 23 hours"	"02"	27	8920	3.03
+	"Unidentified Counties, NY"	"36999"	"Black or African American"	"2054-5"	"1 - 6 days"	"03"	Suppressed	8920	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Black or African American"	"2054-5"	"7 - 27 days"	"04"	Suppressed	8920	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Black or African American"	"2054-5"	"28 - 364 days"	"05"	31	8920	3.48
+	"Unidentified Counties, NY"	"36999"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Under 1 hour"	"01"	Suppressed	126	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 23 hours"	"02"	Suppressed	126	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"1 - 6 days"	"03"	Suppressed	126	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"7 - 27 days"	"04"	Suppressed	126	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"28 - 364 days"	"05"	Suppressed	126	Suppressed
+	"Unidentified Counties, NY"	"36999"	"White"	"2106-3"	"Under 1 hour"	"01"	105	134988	0.78
+	"Unidentified Counties, NY"	"36999"	"White"	"2106-3"	"1 - 23 hours"	"02"	174	134988	1.29
+	"Unidentified Counties, NY"	"36999"	"White"	"2106-3"	"1 - 6 days"	"03"	98	134988	0.73
+	"Unidentified Counties, NY"	"36999"	"White"	"2106-3"	"7 - 27 days"	"04"	92	134988	0.68
+	"Unidentified Counties, NY"	"36999"	"White"	"2106-3"	"28 - 364 days"	"05"	249	134988	1.84
+	"Unidentified Counties, NY"	"36999"	"More than one race"	"M"	"Under 1 hour"	"01"	Suppressed	3814	Suppressed
+	"Unidentified Counties, NY"	"36999"	"More than one race"	"M"	"1 - 23 hours"	"02"	10	3814	2.62 (Unreliable)
+	"Unidentified Counties, NY"	"36999"	"More than one race"	"M"	"1 - 6 days"	"03"	Suppressed	3814	Suppressed
+	"Unidentified Counties, NY"	"36999"	"More than one race"	"M"	"7 - 27 days"	"04"	Suppressed	3814	Suppressed
+	"Unidentified Counties, NY"	"36999"	"More than one race"	"M"	"28 - 364 days"	"05"	17	3814	4.46 (Unreliable)
+	"Unidentified Counties, NY"	"36999"	"Unknown or Not Stated"	"UNK"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Unknown or Not Stated"	"UNK"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Unknown or Not Stated"	"UNK"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Unknown or Not Stated"	"UNK"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Unknown or Not Stated"	"UNK"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Not Available"	"NA"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Not Available"	"NA"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Not Available"	"NA"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Not Available"	"NA"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Not Available"	"NA"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Not Reported"	"NR"	"Under 1 hour"	"01"	Suppressed	Suppressed	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Not Reported"	"NR"	"1 - 23 hours"	"02"	Suppressed	Suppressed	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Not Reported"	"NR"	"1 - 6 days"	"03"	Suppressed	Suppressed	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Not Reported"	"NR"	"7 - 27 days"	"04"	Suppressed	Suppressed	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Not Reported"	"NR"	"28 - 364 days"	"05"	Suppressed	Suppressed	Suppressed
+"---"
+"Dataset: Linked Birth / Infant Death Records, 2017-2020 Expanded"
+"Query Parameters:"
+"Title: neonatal death by race and age of infant at death"
+"States: New York (36)"
+"Group By: County; Mother's Single Race 6; Age of Infant at Death 5"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: True"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/lbd-expanded.html for more information."
+"---"
+"Query Date: Mar 25, 2023 2:36:01 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Linked Birth / Infant Deaths on CDC WONDER Online Database. Data are from the Linked Birth / Infant Deaths Records"
+"2017-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/lbd-current-expanded.html on Mar 25, 2023 2:36:01 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. 'Suppressed' appears instead of death, birth, and rate values when the death value represents 0-9 sub-national events. This"
+"is because the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd-expanded.html#Assurance of Confidentiality."
+"2. 'Unreliable' appears for rates when there are fewer than 20 deaths in the numerator. This is because the figure does not meet"
+"the NCHS standard of reliability or precision. More information: http://wonder.cdc.gov/wonder/help/lbd-expanded.html#Unreliable."
+"3. Infant deaths are weighted so numbers may not exactly add to totals due to rounding. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd-expanded.html#WeightFactors-Totals."
+"4. Note that there may be slight differences in the number of infant deaths when comparing the Linked Birth / Death Records to"
+"the other vital statistics. More information: http://wonder.cdc.gov/wonder/help/lbd-expanded.html#Weight Factors."
+"5. County-level data are shown only for counties with populations of 250,000 persons or more. Data for all counties with fewer"
+"than 250,000 persons within a state are combined together under the label ""Unidentified Counties."""
+"6. Bronx, New York (FIPS code 36005) represents Bronx Borough, New York City."
+"7. Kings county, New York (FIPS code 36047) represents Brooklyn Borough, New York City."
+"8. New York county, New York (FIPS code 36061) represents Manhattan Borough, New York City."
+"9. Queens, New York (FIPS code 36081) represents Queens Borough, New York City."
+"10. Richmond county, New York (FIPS code 36085) represents Staten Island Borough, New York City."

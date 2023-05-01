@@ -1,0 +1,2095 @@
+Notes	County of Residence	County of Residence Code	Mother's Single Race 6	Mother's Single Race 6 Code	Plurality	Plurality Code	Infant Birth Weight 12	Infant Birth Weight 12 Code	Births
+	"Albany County, NY"	36001	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Albany County, NY"	36001	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Albany County, NY"	36001	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Albany County, NY"	36001	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Albany County, NY"	36001	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Albany County, NY"	36001	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Albany County, NY"	36001	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	Suppressed
+	"Albany County, NY"	36001	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Albany County, NY"	36001	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Albany County, NY"	36001	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Albany County, NY"	36001	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Albany County, NY"	36001	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Albany County, NY"	36001	American Indian or Alaska Native	1002-5	Single	1			Suppressed
+Total	"Albany County, NY"	36001	American Indian or Alaska Native	1002-5					Suppressed
+	"Albany County, NY"	36001	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Albany County, NY"	36001	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Albany County, NY"	36001	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Albany County, NY"	36001	Asian	A	Single	1	1500 - 1999 grams	4	Suppressed
+	"Albany County, NY"	36001	Asian	A	Single	1	2000 - 2499 grams	5	17
+	"Albany County, NY"	36001	Asian	A	Single	1	2500 - 2999 grams	6	60
+	"Albany County, NY"	36001	Asian	A	Single	1	3000 - 3499 grams	7	111
+	"Albany County, NY"	36001	Asian	A	Single	1	3500 - 3999 grams	8	49
+	"Albany County, NY"	36001	Asian	A	Single	1	4000 - 4499 grams	9	16
+	"Albany County, NY"	36001	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Albany County, NY"	36001	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Albany County, NY"	36001	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Albany County, NY"	36001	Asian	A	Single	1			261
+Total	"Albany County, NY"	36001	Asian	A					261
+	"Albany County, NY"	36001	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Albany County, NY"	36001	Black or African American	2054-5	Single	1	500 - 999 grams	2	Suppressed
+	"Albany County, NY"	36001	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Albany County, NY"	36001	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Albany County, NY"	36001	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	31
+	"Albany County, NY"	36001	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	133
+	"Albany County, NY"	36001	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	216
+	"Albany County, NY"	36001	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	118
+	"Albany County, NY"	36001	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	28
+	"Albany County, NY"	36001	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Albany County, NY"	36001	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Albany County, NY"	36001	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Albany County, NY"	36001	Black or African American	2054-5	Single	1			553
+Total	"Albany County, NY"	36001	Black or African American	2054-5					553
+	"Albany County, NY"	36001	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Albany County, NY"	36001	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Albany County, NY"	36001	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Albany County, NY"	36001	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Albany County, NY"	36001	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Albany County, NY"	36001	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Albany County, NY"	36001	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Albany County, NY"	36001	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Albany County, NY"	36001	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Albany County, NY"	36001	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Albany County, NY"	36001	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Albany County, NY"	36001	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Albany County, NY"	36001	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"Albany County, NY"	36001	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"Albany County, NY"	36001	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Albany County, NY"	36001	White	2106-3	Single	1	500 - 999 grams	2	11
+	"Albany County, NY"	36001	White	2106-3	Single	1	1000 - 1499 grams	3	Suppressed
+	"Albany County, NY"	36001	White	2106-3	Single	1	1500 - 1999 grams	4	18
+	"Albany County, NY"	36001	White	2106-3	Single	1	2000 - 2499 grams	5	64
+	"Albany County, NY"	36001	White	2106-3	Single	1	2500 - 2999 grams	6	260
+	"Albany County, NY"	36001	White	2106-3	Single	1	3000 - 3499 grams	7	719
+	"Albany County, NY"	36001	White	2106-3	Single	1	3500 - 3999 grams	8	548
+	"Albany County, NY"	36001	White	2106-3	Single	1	4000 - 4499 grams	9	158
+	"Albany County, NY"	36001	White	2106-3	Single	1	4500 - 4999 grams	10	29
+	"Albany County, NY"	36001	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Albany County, NY"	36001	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Albany County, NY"	36001	White	2106-3	Single	1			1820
+Total	"Albany County, NY"	36001	White	2106-3					1820
+Total	"Albany County, NY"	36001							2638
+	"Bronx County, NY"	36005	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Bronx County, NY"	36005	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Bronx County, NY"	36005	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Bronx County, NY"	36005	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Bronx County, NY"	36005	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Bronx County, NY"	36005	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	17
+	"Bronx County, NY"	36005	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	30
+	"Bronx County, NY"	36005	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	21
+	"Bronx County, NY"	36005	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Bronx County, NY"	36005	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Bronx County, NY"	36005	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Bronx County, NY"	36005	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Bronx County, NY"	36005	American Indian or Alaska Native	1002-5	Single	1			79
+Total	"Bronx County, NY"	36005	American Indian or Alaska Native	1002-5					79
+	"Bronx County, NY"	36005	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Bronx County, NY"	36005	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Bronx County, NY"	36005	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Bronx County, NY"	36005	Asian	A	Single	1	1500 - 1999 grams	4	19
+	"Bronx County, NY"	36005	Asian	A	Single	1	2000 - 2499 grams	5	79
+	"Bronx County, NY"	36005	Asian	A	Single	1	2500 - 2999 grams	6	270
+	"Bronx County, NY"	36005	Asian	A	Single	1	3000 - 3499 grams	7	452
+	"Bronx County, NY"	36005	Asian	A	Single	1	3500 - 3999 grams	8	183
+	"Bronx County, NY"	36005	Asian	A	Single	1	4000 - 4499 grams	9	20
+	"Bronx County, NY"	36005	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Bronx County, NY"	36005	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Bronx County, NY"	36005	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Bronx County, NY"	36005	Asian	A	Single	1			1041
+Total	"Bronx County, NY"	36005	Asian	A					1041
+	"Bronx County, NY"	36005	Black or African American	2054-5	Single	1	499 grams or less	1	14
+	"Bronx County, NY"	36005	Black or African American	2054-5	Single	1	500 - 999 grams	2	89
+	"Bronx County, NY"	36005	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	71
+	"Bronx County, NY"	36005	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	141
+	"Bronx County, NY"	36005	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	521
+	"Bronx County, NY"	36005	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	1845
+	"Bronx County, NY"	36005	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	3406
+	"Bronx County, NY"	36005	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	1862
+	"Bronx County, NY"	36005	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	390
+	"Bronx County, NY"	36005	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	37
+	"Bronx County, NY"	36005	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Bronx County, NY"	36005	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Bronx County, NY"	36005	Black or African American	2054-5	Single	1			8386
+Total	"Bronx County, NY"	36005	Black or African American	2054-5					8386
+	"Bronx County, NY"	36005	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Bronx County, NY"	36005	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Bronx County, NY"	36005	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Bronx County, NY"	36005	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Bronx County, NY"	36005	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Bronx County, NY"	36005	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Bronx County, NY"	36005	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Bronx County, NY"	36005	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Bronx County, NY"	36005	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Bronx County, NY"	36005	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Bronx County, NY"	36005	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Bronx County, NY"	36005	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Bronx County, NY"	36005	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			17
+Total	"Bronx County, NY"	36005	Native Hawaiian or Other Pacific Islander	NHOPI					17
+	"Bronx County, NY"	36005	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Bronx County, NY"	36005	White	2106-3	Single	1	500 - 999 grams	2	28
+	"Bronx County, NY"	36005	White	2106-3	Single	1	1000 - 1499 grams	3	47
+	"Bronx County, NY"	36005	White	2106-3	Single	1	1500 - 1999 grams	4	89
+	"Bronx County, NY"	36005	White	2106-3	Single	1	2000 - 2499 grams	5	304
+	"Bronx County, NY"	36005	White	2106-3	Single	1	2500 - 2999 grams	6	1368
+	"Bronx County, NY"	36005	White	2106-3	Single	1	3000 - 3499 grams	7	2657
+	"Bronx County, NY"	36005	White	2106-3	Single	1	3500 - 3999 grams	8	1756
+	"Bronx County, NY"	36005	White	2106-3	Single	1	4000 - 4499 grams	9	411
+	"Bronx County, NY"	36005	White	2106-3	Single	1	4500 - 4999 grams	10	35
+	"Bronx County, NY"	36005	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Bronx County, NY"	36005	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Bronx County, NY"	36005	White	2106-3	Single	1			6702
+Total	"Bronx County, NY"	36005	White	2106-3					6702
+Total	"Bronx County, NY"	36005							16225
+	"Broome County, NY"	36007	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Broome County, NY"	36007	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Broome County, NY"	36007	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Broome County, NY"	36007	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Broome County, NY"	36007	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Broome County, NY"	36007	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Broome County, NY"	36007	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	Suppressed
+	"Broome County, NY"	36007	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Broome County, NY"	36007	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Broome County, NY"	36007	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Broome County, NY"	36007	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Broome County, NY"	36007	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Broome County, NY"	36007	American Indian or Alaska Native	1002-5	Single	1			Suppressed
+Total	"Broome County, NY"	36007	American Indian or Alaska Native	1002-5					Suppressed
+	"Broome County, NY"	36007	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Broome County, NY"	36007	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Broome County, NY"	36007	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Broome County, NY"	36007	Asian	A	Single	1	1500 - 1999 grams	4	Suppressed
+	"Broome County, NY"	36007	Asian	A	Single	1	2000 - 2499 grams	5	Suppressed
+	"Broome County, NY"	36007	Asian	A	Single	1	2500 - 2999 grams	6	16
+	"Broome County, NY"	36007	Asian	A	Single	1	3000 - 3499 grams	7	31
+	"Broome County, NY"	36007	Asian	A	Single	1	3500 - 3999 grams	8	16
+	"Broome County, NY"	36007	Asian	A	Single	1	4000 - 4499 grams	9	Suppressed
+	"Broome County, NY"	36007	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Broome County, NY"	36007	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Broome County, NY"	36007	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Broome County, NY"	36007	Asian	A	Single	1			75
+Total	"Broome County, NY"	36007	Asian	A					75
+	"Broome County, NY"	36007	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Broome County, NY"	36007	Black or African American	2054-5	Single	1	500 - 999 grams	2	Suppressed
+	"Broome County, NY"	36007	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Broome County, NY"	36007	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Broome County, NY"	36007	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	12
+	"Broome County, NY"	36007	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	59
+	"Broome County, NY"	36007	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	71
+	"Broome County, NY"	36007	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	38
+	"Broome County, NY"	36007	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Broome County, NY"	36007	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Broome County, NY"	36007	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Broome County, NY"	36007	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Broome County, NY"	36007	Black or African American	2054-5	Single	1			200
+Total	"Broome County, NY"	36007	Black or African American	2054-5					200
+	"Broome County, NY"	36007	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Broome County, NY"	36007	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Broome County, NY"	36007	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Broome County, NY"	36007	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Broome County, NY"	36007	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Broome County, NY"	36007	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Broome County, NY"	36007	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Broome County, NY"	36007	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Broome County, NY"	36007	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Broome County, NY"	36007	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Broome County, NY"	36007	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Broome County, NY"	36007	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Broome County, NY"	36007	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"Broome County, NY"	36007	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"Broome County, NY"	36007	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Broome County, NY"	36007	White	2106-3	Single	1	500 - 999 grams	2	Suppressed
+	"Broome County, NY"	36007	White	2106-3	Single	1	1000 - 1499 grams	3	Suppressed
+	"Broome County, NY"	36007	White	2106-3	Single	1	1500 - 1999 grams	4	18
+	"Broome County, NY"	36007	White	2106-3	Single	1	2000 - 2499 grams	5	45
+	"Broome County, NY"	36007	White	2106-3	Single	1	2500 - 2999 grams	6	255
+	"Broome County, NY"	36007	White	2106-3	Single	1	3000 - 3499 grams	7	565
+	"Broome County, NY"	36007	White	2106-3	Single	1	3500 - 3999 grams	8	424
+	"Broome County, NY"	36007	White	2106-3	Single	1	4000 - 4499 grams	9	104
+	"Broome County, NY"	36007	White	2106-3	Single	1	4500 - 4999 grams	10	18
+	"Broome County, NY"	36007	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Broome County, NY"	36007	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Broome County, NY"	36007	White	2106-3	Single	1			1448
+Total	"Broome County, NY"	36007	White	2106-3					1448
+Total	"Broome County, NY"	36007							1728
+	"Chautauqua County, NY"	36013	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Chautauqua County, NY"	36013	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Chautauqua County, NY"	36013	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Chautauqua County, NY"	36013	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Chautauqua County, NY"	36013	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Chautauqua County, NY"	36013	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Chautauqua County, NY"	36013	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	Suppressed
+	"Chautauqua County, NY"	36013	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Chautauqua County, NY"	36013	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Chautauqua County, NY"	36013	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Chautauqua County, NY"	36013	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Chautauqua County, NY"	36013	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Chautauqua County, NY"	36013	American Indian or Alaska Native	1002-5	Single	1			Suppressed
+Total	"Chautauqua County, NY"	36013	American Indian or Alaska Native	1002-5					Suppressed
+	"Chautauqua County, NY"	36013	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Chautauqua County, NY"	36013	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Chautauqua County, NY"	36013	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Chautauqua County, NY"	36013	Asian	A	Single	1	1500 - 1999 grams	4	Suppressed
+	"Chautauqua County, NY"	36013	Asian	A	Single	1	2000 - 2499 grams	5	Suppressed
+	"Chautauqua County, NY"	36013	Asian	A	Single	1	2500 - 2999 grams	6	Suppressed
+	"Chautauqua County, NY"	36013	Asian	A	Single	1	3000 - 3499 grams	7	Suppressed
+	"Chautauqua County, NY"	36013	Asian	A	Single	1	3500 - 3999 grams	8	Suppressed
+	"Chautauqua County, NY"	36013	Asian	A	Single	1	4000 - 4499 grams	9	Suppressed
+	"Chautauqua County, NY"	36013	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Chautauqua County, NY"	36013	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Chautauqua County, NY"	36013	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Chautauqua County, NY"	36013	Asian	A	Single	1			Suppressed
+Total	"Chautauqua County, NY"	36013	Asian	A					Suppressed
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Single	1	500 - 999 grams	2	Suppressed
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	10
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	10
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Chautauqua County, NY"	36013	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Chautauqua County, NY"	36013	Black or African American	2054-5	Single	1			35
+Total	"Chautauqua County, NY"	36013	Black or African American	2054-5					35
+	"Chautauqua County, NY"	36013	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Chautauqua County, NY"	36013	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Chautauqua County, NY"	36013	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Chautauqua County, NY"	36013	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Chautauqua County, NY"	36013	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Chautauqua County, NY"	36013	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Chautauqua County, NY"	36013	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Chautauqua County, NY"	36013	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Chautauqua County, NY"	36013	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Chautauqua County, NY"	36013	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Chautauqua County, NY"	36013	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Chautauqua County, NY"	36013	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Chautauqua County, NY"	36013	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"Chautauqua County, NY"	36013	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"Chautauqua County, NY"	36013	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Chautauqua County, NY"	36013	White	2106-3	Single	1	500 - 999 grams	2	Suppressed
+	"Chautauqua County, NY"	36013	White	2106-3	Single	1	1000 - 1499 grams	3	Suppressed
+	"Chautauqua County, NY"	36013	White	2106-3	Single	1	1500 - 1999 grams	4	14
+	"Chautauqua County, NY"	36013	White	2106-3	Single	1	2000 - 2499 grams	5	49
+	"Chautauqua County, NY"	36013	White	2106-3	Single	1	2500 - 2999 grams	6	181
+	"Chautauqua County, NY"	36013	White	2106-3	Single	1	3000 - 3499 grams	7	449
+	"Chautauqua County, NY"	36013	White	2106-3	Single	1	3500 - 3999 grams	8	289
+	"Chautauqua County, NY"	36013	White	2106-3	Single	1	4000 - 4499 grams	9	72
+	"Chautauqua County, NY"	36013	White	2106-3	Single	1	4500 - 4999 grams	10	15
+	"Chautauqua County, NY"	36013	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Chautauqua County, NY"	36013	White	2106-3	Single	1	Unknown or Not Stated	12	35
+Total	"Chautauqua County, NY"	36013	White	2106-3	Single	1			1112
+Total	"Chautauqua County, NY"	36013	White	2106-3					1112
+Total	"Chautauqua County, NY"	36013							1165
+	"Dutchess County, NY"	36027	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Dutchess County, NY"	36027	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Dutchess County, NY"	36027	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Dutchess County, NY"	36027	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Dutchess County, NY"	36027	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Dutchess County, NY"	36027	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Dutchess County, NY"	36027	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	Suppressed
+	"Dutchess County, NY"	36027	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Dutchess County, NY"	36027	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Dutchess County, NY"	36027	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Dutchess County, NY"	36027	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Dutchess County, NY"	36027	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Dutchess County, NY"	36027	American Indian or Alaska Native	1002-5	Single	1			Suppressed
+Total	"Dutchess County, NY"	36027	American Indian or Alaska Native	1002-5					Suppressed
+	"Dutchess County, NY"	36027	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Dutchess County, NY"	36027	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Dutchess County, NY"	36027	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Dutchess County, NY"	36027	Asian	A	Single	1	1500 - 1999 grams	4	Suppressed
+	"Dutchess County, NY"	36027	Asian	A	Single	1	2000 - 2499 grams	5	Suppressed
+	"Dutchess County, NY"	36027	Asian	A	Single	1	2500 - 2999 grams	6	17
+	"Dutchess County, NY"	36027	Asian	A	Single	1	3000 - 3499 grams	7	33
+	"Dutchess County, NY"	36027	Asian	A	Single	1	3500 - 3999 grams	8	25
+	"Dutchess County, NY"	36027	Asian	A	Single	1	4000 - 4499 grams	9	Suppressed
+	"Dutchess County, NY"	36027	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Dutchess County, NY"	36027	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Dutchess County, NY"	36027	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Dutchess County, NY"	36027	Asian	A	Single	1			86
+Total	"Dutchess County, NY"	36027	Asian	A					86
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Single	1	500 - 999 grams	2	Suppressed
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	26
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	70
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	126
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	83
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	24
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Dutchess County, NY"	36027	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Dutchess County, NY"	36027	Black or African American	2054-5	Single	1			351
+Total	"Dutchess County, NY"	36027	Black or African American	2054-5					351
+	"Dutchess County, NY"	36027	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Dutchess County, NY"	36027	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Dutchess County, NY"	36027	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Dutchess County, NY"	36027	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Dutchess County, NY"	36027	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Dutchess County, NY"	36027	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Dutchess County, NY"	36027	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Dutchess County, NY"	36027	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Dutchess County, NY"	36027	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Dutchess County, NY"	36027	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Dutchess County, NY"	36027	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Dutchess County, NY"	36027	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Dutchess County, NY"	36027	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"Dutchess County, NY"	36027	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"Dutchess County, NY"	36027	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Dutchess County, NY"	36027	White	2106-3	Single	1	500 - 999 grams	2	Suppressed
+	"Dutchess County, NY"	36027	White	2106-3	Single	1	1000 - 1499 grams	3	Suppressed
+	"Dutchess County, NY"	36027	White	2106-3	Single	1	1500 - 1999 grams	4	25
+	"Dutchess County, NY"	36027	White	2106-3	Single	1	2000 - 2499 grams	5	70
+	"Dutchess County, NY"	36027	White	2106-3	Single	1	2500 - 2999 grams	6	311
+	"Dutchess County, NY"	36027	White	2106-3	Single	1	3000 - 3499 grams	7	780
+	"Dutchess County, NY"	36027	White	2106-3	Single	1	3500 - 3999 grams	8	638
+	"Dutchess County, NY"	36027	White	2106-3	Single	1	4000 - 4499 grams	9	188
+	"Dutchess County, NY"	36027	White	2106-3	Single	1	4500 - 4999 grams	10	21
+	"Dutchess County, NY"	36027	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Dutchess County, NY"	36027	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Dutchess County, NY"	36027	White	2106-3	Single	1			2049
+Total	"Dutchess County, NY"	36027	White	2106-3					2049
+Total	"Dutchess County, NY"	36027							2492
+	"Erie County, NY"	36029	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Erie County, NY"	36029	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Erie County, NY"	36029	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Erie County, NY"	36029	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Erie County, NY"	36029	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Erie County, NY"	36029	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Erie County, NY"	36029	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	23
+	"Erie County, NY"	36029	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	24
+	"Erie County, NY"	36029	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Erie County, NY"	36029	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Erie County, NY"	36029	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Erie County, NY"	36029	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Erie County, NY"	36029	American Indian or Alaska Native	1002-5	Single	1			71
+Total	"Erie County, NY"	36029	American Indian or Alaska Native	1002-5					71
+	"Erie County, NY"	36029	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Erie County, NY"	36029	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Erie County, NY"	36029	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Erie County, NY"	36029	Asian	A	Single	1	1500 - 1999 grams	4	13
+	"Erie County, NY"	36029	Asian	A	Single	1	2000 - 2499 grams	5	33
+	"Erie County, NY"	36029	Asian	A	Single	1	2500 - 2999 grams	6	182
+	"Erie County, NY"	36029	Asian	A	Single	1	3000 - 3499 grams	7	306
+	"Erie County, NY"	36029	Asian	A	Single	1	3500 - 3999 grams	8	131
+	"Erie County, NY"	36029	Asian	A	Single	1	4000 - 4499 grams	9	21
+	"Erie County, NY"	36029	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Erie County, NY"	36029	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Erie County, NY"	36029	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Erie County, NY"	36029	Asian	A	Single	1			697
+Total	"Erie County, NY"	36029	Asian	A					697
+	"Erie County, NY"	36029	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Erie County, NY"	36029	Black or African American	2054-5	Single	1	500 - 999 grams	2	18
+	"Erie County, NY"	36029	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	20
+	"Erie County, NY"	36029	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	44
+	"Erie County, NY"	36029	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	138
+	"Erie County, NY"	36029	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	444
+	"Erie County, NY"	36029	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	722
+	"Erie County, NY"	36029	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	337
+	"Erie County, NY"	36029	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	84
+	"Erie County, NY"	36029	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Erie County, NY"	36029	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Erie County, NY"	36029	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Erie County, NY"	36029	Black or African American	2054-5	Single	1			1825
+Total	"Erie County, NY"	36029	Black or African American	2054-5					1825
+	"Erie County, NY"	36029	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Erie County, NY"	36029	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Erie County, NY"	36029	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Erie County, NY"	36029	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Erie County, NY"	36029	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Erie County, NY"	36029	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Erie County, NY"	36029	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Erie County, NY"	36029	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Erie County, NY"	36029	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Erie County, NY"	36029	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Erie County, NY"	36029	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Erie County, NY"	36029	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Erie County, NY"	36029	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"Erie County, NY"	36029	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"Erie County, NY"	36029	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Erie County, NY"	36029	White	2106-3	Single	1	500 - 999 grams	2	17
+	"Erie County, NY"	36029	White	2106-3	Single	1	1000 - 1499 grams	3	40
+	"Erie County, NY"	36029	White	2106-3	Single	1	1500 - 1999 grams	4	61
+	"Erie County, NY"	36029	White	2106-3	Single	1	2000 - 2499 grams	5	239
+	"Erie County, NY"	36029	White	2106-3	Single	1	2500 - 2999 grams	6	1002
+	"Erie County, NY"	36029	White	2106-3	Single	1	3000 - 3499 grams	7	2412
+	"Erie County, NY"	36029	White	2106-3	Single	1	3500 - 3999 grams	8	1840
+	"Erie County, NY"	36029	White	2106-3	Single	1	4000 - 4499 grams	9	538
+	"Erie County, NY"	36029	White	2106-3	Single	1	4500 - 4999 grams	10	62
+	"Erie County, NY"	36029	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Erie County, NY"	36029	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Erie County, NY"	36029	White	2106-3	Single	1			6228
+Total	"Erie County, NY"	36029	White	2106-3					6228
+Total	"Erie County, NY"	36029							8830
+	"Jefferson County, NY"	36045	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Jefferson County, NY"	36045	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Jefferson County, NY"	36045	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Jefferson County, NY"	36045	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Jefferson County, NY"	36045	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Jefferson County, NY"	36045	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Jefferson County, NY"	36045	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	Suppressed
+	"Jefferson County, NY"	36045	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Jefferson County, NY"	36045	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Jefferson County, NY"	36045	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Jefferson County, NY"	36045	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Jefferson County, NY"	36045	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Jefferson County, NY"	36045	American Indian or Alaska Native	1002-5	Single	1			Suppressed
+Total	"Jefferson County, NY"	36045	American Indian or Alaska Native	1002-5					Suppressed
+	"Jefferson County, NY"	36045	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Jefferson County, NY"	36045	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Jefferson County, NY"	36045	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Jefferson County, NY"	36045	Asian	A	Single	1	1500 - 1999 grams	4	Suppressed
+	"Jefferson County, NY"	36045	Asian	A	Single	1	2000 - 2499 grams	5	Suppressed
+	"Jefferson County, NY"	36045	Asian	A	Single	1	2500 - 2999 grams	6	Suppressed
+	"Jefferson County, NY"	36045	Asian	A	Single	1	3000 - 3499 grams	7	13
+	"Jefferson County, NY"	36045	Asian	A	Single	1	3500 - 3999 grams	8	Suppressed
+	"Jefferson County, NY"	36045	Asian	A	Single	1	4000 - 4499 grams	9	Suppressed
+	"Jefferson County, NY"	36045	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Jefferson County, NY"	36045	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Jefferson County, NY"	36045	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Jefferson County, NY"	36045	Asian	A	Single	1			35
+Total	"Jefferson County, NY"	36045	Asian	A					35
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Single	1	500 - 999 grams	2	Suppressed
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	11
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	43
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	67
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	46
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Jefferson County, NY"	36045	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Jefferson County, NY"	36045	Black or African American	2054-5	Single	1			183
+Total	"Jefferson County, NY"	36045	Black or African American	2054-5					183
+	"Jefferson County, NY"	36045	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Jefferson County, NY"	36045	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Jefferson County, NY"	36045	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Jefferson County, NY"	36045	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Jefferson County, NY"	36045	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Jefferson County, NY"	36045	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Jefferson County, NY"	36045	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Jefferson County, NY"	36045	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Jefferson County, NY"	36045	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Jefferson County, NY"	36045	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Jefferson County, NY"	36045	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Jefferson County, NY"	36045	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Jefferson County, NY"	36045	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			19
+Total	"Jefferson County, NY"	36045	Native Hawaiian or Other Pacific Islander	NHOPI					19
+	"Jefferson County, NY"	36045	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Jefferson County, NY"	36045	White	2106-3	Single	1	500 - 999 grams	2	Suppressed
+	"Jefferson County, NY"	36045	White	2106-3	Single	1	1000 - 1499 grams	3	10
+	"Jefferson County, NY"	36045	White	2106-3	Single	1	1500 - 1999 grams	4	19
+	"Jefferson County, NY"	36045	White	2106-3	Single	1	2000 - 2499 grams	5	54
+	"Jefferson County, NY"	36045	White	2106-3	Single	1	2500 - 2999 grams	6	254
+	"Jefferson County, NY"	36045	White	2106-3	Single	1	3000 - 3499 grams	7	538
+	"Jefferson County, NY"	36045	White	2106-3	Single	1	3500 - 3999 grams	8	427
+	"Jefferson County, NY"	36045	White	2106-3	Single	1	4000 - 4499 grams	9	124
+	"Jefferson County, NY"	36045	White	2106-3	Single	1	4500 - 4999 grams	10	15
+	"Jefferson County, NY"	36045	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Jefferson County, NY"	36045	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Jefferson County, NY"	36045	White	2106-3	Single	1			1454
+Total	"Jefferson County, NY"	36045	White	2106-3					1454
+Total	"Jefferson County, NY"	36045							1698
+	"Kings County, NY"	36047	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Kings County, NY"	36047	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Kings County, NY"	36047	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Kings County, NY"	36047	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Kings County, NY"	36047	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Kings County, NY"	36047	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	24
+	"Kings County, NY"	36047	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	44
+	"Kings County, NY"	36047	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	23
+	"Kings County, NY"	36047	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Kings County, NY"	36047	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Kings County, NY"	36047	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Kings County, NY"	36047	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Kings County, NY"	36047	American Indian or Alaska Native	1002-5	Single	1			106
+Total	"Kings County, NY"	36047	American Indian or Alaska Native	1002-5					106
+	"Kings County, NY"	36047	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Kings County, NY"	36047	Asian	A	Single	1	500 - 999 grams	2	15
+	"Kings County, NY"	36047	Asian	A	Single	1	1000 - 1499 grams	3	19
+	"Kings County, NY"	36047	Asian	A	Single	1	1500 - 1999 grams	4	38
+	"Kings County, NY"	36047	Asian	A	Single	1	2000 - 2499 grams	5	208
+	"Kings County, NY"	36047	Asian	A	Single	1	2500 - 2999 grams	6	946
+	"Kings County, NY"	36047	Asian	A	Single	1	3000 - 3499 grams	7	1644
+	"Kings County, NY"	36047	Asian	A	Single	1	3500 - 3999 grams	8	712
+	"Kings County, NY"	36047	Asian	A	Single	1	4000 - 4499 grams	9	120
+	"Kings County, NY"	36047	Asian	A	Single	1	4500 - 4999 grams	10	10
+	"Kings County, NY"	36047	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Kings County, NY"	36047	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Kings County, NY"	36047	Asian	A	Single	1			3716
+Total	"Kings County, NY"	36047	Asian	A					3716
+	"Kings County, NY"	36047	Black or African American	2054-5	Single	1	499 grams or less	1	13
+	"Kings County, NY"	36047	Black or African American	2054-5	Single	1	500 - 999 grams	2	71
+	"Kings County, NY"	36047	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	104
+	"Kings County, NY"	36047	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	167
+	"Kings County, NY"	36047	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	531
+	"Kings County, NY"	36047	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	1979
+	"Kings County, NY"	36047	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	3203
+	"Kings County, NY"	36047	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	1676
+	"Kings County, NY"	36047	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	342
+	"Kings County, NY"	36047	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	42
+	"Kings County, NY"	36047	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Kings County, NY"	36047	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Kings County, NY"	36047	Black or African American	2054-5	Single	1			8137
+Total	"Kings County, NY"	36047	Black or African American	2054-5					8137
+	"Kings County, NY"	36047	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Kings County, NY"	36047	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Kings County, NY"	36047	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Kings County, NY"	36047	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Kings County, NY"	36047	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Kings County, NY"	36047	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Kings County, NY"	36047	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Kings County, NY"	36047	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Kings County, NY"	36047	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Kings County, NY"	36047	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Kings County, NY"	36047	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Kings County, NY"	36047	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Kings County, NY"	36047	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"Kings County, NY"	36047	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"Kings County, NY"	36047	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Kings County, NY"	36047	White	2106-3	Single	1	500 - 999 grams	2	33
+	"Kings County, NY"	36047	White	2106-3	Single	1	1000 - 1499 grams	3	57
+	"Kings County, NY"	36047	White	2106-3	Single	1	1500 - 1999 grams	4	142
+	"Kings County, NY"	36047	White	2106-3	Single	1	2000 - 2499 grams	5	660
+	"Kings County, NY"	36047	White	2106-3	Single	1	2500 - 2999 grams	6	3499
+	"Kings County, NY"	36047	White	2106-3	Single	1	3000 - 3499 grams	7	8399
+	"Kings County, NY"	36047	White	2106-3	Single	1	3500 - 3999 grams	8	5854
+	"Kings County, NY"	36047	White	2106-3	Single	1	4000 - 4499 grams	9	1396
+	"Kings County, NY"	36047	White	2106-3	Single	1	4500 - 4999 grams	10	142
+	"Kings County, NY"	36047	White	2106-3	Single	1	5000 - 8165 grams	11	13
+	"Kings County, NY"	36047	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Kings County, NY"	36047	White	2106-3	Single	1			20199
+Total	"Kings County, NY"	36047	White	2106-3					20199
+Total	"Kings County, NY"	36047							32163
+	"Monroe County, NY"	36055	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Monroe County, NY"	36055	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Monroe County, NY"	36055	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Monroe County, NY"	36055	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Monroe County, NY"	36055	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Monroe County, NY"	36055	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Monroe County, NY"	36055	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	Suppressed
+	"Monroe County, NY"	36055	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Monroe County, NY"	36055	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Monroe County, NY"	36055	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Monroe County, NY"	36055	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Monroe County, NY"	36055	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Monroe County, NY"	36055	American Indian or Alaska Native	1002-5	Single	1			22
+Total	"Monroe County, NY"	36055	American Indian or Alaska Native	1002-5					22
+	"Monroe County, NY"	36055	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Monroe County, NY"	36055	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Monroe County, NY"	36055	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Monroe County, NY"	36055	Asian	A	Single	1	1500 - 1999 grams	4	Suppressed
+	"Monroe County, NY"	36055	Asian	A	Single	1	2000 - 2499 grams	5	20
+	"Monroe County, NY"	36055	Asian	A	Single	1	2500 - 2999 grams	6	78
+	"Monroe County, NY"	36055	Asian	A	Single	1	3000 - 3499 grams	7	163
+	"Monroe County, NY"	36055	Asian	A	Single	1	3500 - 3999 grams	8	87
+	"Monroe County, NY"	36055	Asian	A	Single	1	4000 - 4499 grams	9	21
+	"Monroe County, NY"	36055	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Monroe County, NY"	36055	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Monroe County, NY"	36055	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Monroe County, NY"	36055	Asian	A	Single	1			380
+Total	"Monroe County, NY"	36055	Asian	A					380
+	"Monroe County, NY"	36055	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Monroe County, NY"	36055	Black or African American	2054-5	Single	1	500 - 999 grams	2	18
+	"Monroe County, NY"	36055	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	24
+	"Monroe County, NY"	36055	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	51
+	"Monroe County, NY"	36055	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	136
+	"Monroe County, NY"	36055	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	447
+	"Monroe County, NY"	36055	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	652
+	"Monroe County, NY"	36055	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	329
+	"Monroe County, NY"	36055	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	81
+	"Monroe County, NY"	36055	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Monroe County, NY"	36055	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Monroe County, NY"	36055	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Monroe County, NY"	36055	Black or African American	2054-5	Single	1			1751
+Total	"Monroe County, NY"	36055	Black or African American	2054-5					1751
+	"Monroe County, NY"	36055	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Monroe County, NY"	36055	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Monroe County, NY"	36055	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Monroe County, NY"	36055	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Monroe County, NY"	36055	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Monroe County, NY"	36055	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Monroe County, NY"	36055	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Monroe County, NY"	36055	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Monroe County, NY"	36055	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Monroe County, NY"	36055	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Monroe County, NY"	36055	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Monroe County, NY"	36055	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Monroe County, NY"	36055	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"Monroe County, NY"	36055	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"Monroe County, NY"	36055	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Monroe County, NY"	36055	White	2106-3	Single	1	500 - 999 grams	2	17
+	"Monroe County, NY"	36055	White	2106-3	Single	1	1000 - 1499 grams	3	25
+	"Monroe County, NY"	36055	White	2106-3	Single	1	1500 - 1999 grams	4	47
+	"Monroe County, NY"	36055	White	2106-3	Single	1	2000 - 2499 grams	5	195
+	"Monroe County, NY"	36055	White	2106-3	Single	1	2500 - 2999 grams	6	805
+	"Monroe County, NY"	36055	White	2106-3	Single	1	3000 - 3499 grams	7	1875
+	"Monroe County, NY"	36055	White	2106-3	Single	1	3500 - 3999 grams	8	1529
+	"Monroe County, NY"	36055	White	2106-3	Single	1	4000 - 4499 grams	9	472
+	"Monroe County, NY"	36055	White	2106-3	Single	1	4500 - 4999 grams	10	46
+	"Monroe County, NY"	36055	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Monroe County, NY"	36055	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Monroe County, NY"	36055	White	2106-3	Single	1			5023
+Total	"Monroe County, NY"	36055	White	2106-3					5023
+Total	"Monroe County, NY"	36055							7180
+	"Nassau County, NY"	36059	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Nassau County, NY"	36059	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Nassau County, NY"	36059	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Nassau County, NY"	36059	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Nassau County, NY"	36059	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Nassau County, NY"	36059	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Nassau County, NY"	36059	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	Suppressed
+	"Nassau County, NY"	36059	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Nassau County, NY"	36059	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Nassau County, NY"	36059	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Nassau County, NY"	36059	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Nassau County, NY"	36059	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Nassau County, NY"	36059	American Indian or Alaska Native	1002-5	Single	1			24
+Total	"Nassau County, NY"	36059	American Indian or Alaska Native	1002-5					24
+	"Nassau County, NY"	36059	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Nassau County, NY"	36059	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Nassau County, NY"	36059	Asian	A	Single	1	1000 - 1499 grams	3	12
+	"Nassau County, NY"	36059	Asian	A	Single	1	1500 - 1999 grams	4	20
+	"Nassau County, NY"	36059	Asian	A	Single	1	2000 - 2499 grams	5	151
+	"Nassau County, NY"	36059	Asian	A	Single	1	2500 - 2999 grams	6	490
+	"Nassau County, NY"	36059	Asian	A	Single	1	3000 - 3499 grams	7	865
+	"Nassau County, NY"	36059	Asian	A	Single	1	3500 - 3999 grams	8	402
+	"Nassau County, NY"	36059	Asian	A	Single	1	4000 - 4499 grams	9	59
+	"Nassau County, NY"	36059	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Nassau County, NY"	36059	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Nassau County, NY"	36059	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Nassau County, NY"	36059	Asian	A	Single	1			2019
+Total	"Nassau County, NY"	36059	Asian	A					2019
+	"Nassau County, NY"	36059	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Nassau County, NY"	36059	Black or African American	2054-5	Single	1	500 - 999 grams	2	12
+	"Nassau County, NY"	36059	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	18
+	"Nassau County, NY"	36059	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	36
+	"Nassau County, NY"	36059	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	116
+	"Nassau County, NY"	36059	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	444
+	"Nassau County, NY"	36059	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	743
+	"Nassau County, NY"	36059	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	418
+	"Nassau County, NY"	36059	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	67
+	"Nassau County, NY"	36059	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Nassau County, NY"	36059	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Nassau County, NY"	36059	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Nassau County, NY"	36059	Black or African American	2054-5	Single	1			1867
+Total	"Nassau County, NY"	36059	Black or African American	2054-5					1867
+	"Nassau County, NY"	36059	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Nassau County, NY"	36059	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Nassau County, NY"	36059	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Nassau County, NY"	36059	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Nassau County, NY"	36059	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Nassau County, NY"	36059	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Nassau County, NY"	36059	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Nassau County, NY"	36059	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Nassau County, NY"	36059	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Nassau County, NY"	36059	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Nassau County, NY"	36059	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Nassau County, NY"	36059	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Nassau County, NY"	36059	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			10
+Total	"Nassau County, NY"	36059	Native Hawaiian or Other Pacific Islander	NHOPI					10
+	"Nassau County, NY"	36059	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Nassau County, NY"	36059	White	2106-3	Single	1	500 - 999 grams	2	25
+	"Nassau County, NY"	36059	White	2106-3	Single	1	1000 - 1499 grams	3	30
+	"Nassau County, NY"	36059	White	2106-3	Single	1	1500 - 1999 grams	4	77
+	"Nassau County, NY"	36059	White	2106-3	Single	1	2000 - 2499 grams	5	334
+	"Nassau County, NY"	36059	White	2106-3	Single	1	2500 - 2999 grams	6	1589
+	"Nassau County, NY"	36059	White	2106-3	Single	1	3000 - 3499 grams	7	3929
+	"Nassau County, NY"	36059	White	2106-3	Single	1	3500 - 3999 grams	8	2755
+	"Nassau County, NY"	36059	White	2106-3	Single	1	4000 - 4499 grams	9	657
+	"Nassau County, NY"	36059	White	2106-3	Single	1	4500 - 4999 grams	10	94
+	"Nassau County, NY"	36059	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Nassau County, NY"	36059	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Nassau County, NY"	36059	White	2106-3	Single	1			9509
+Total	"Nassau County, NY"	36059	White	2106-3					9509
+Total	"Nassau County, NY"	36059							13429
+	"New York County, NY"	36061	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"New York County, NY"	36061	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"New York County, NY"	36061	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"New York County, NY"	36061	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"New York County, NY"	36061	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"New York County, NY"	36061	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"New York County, NY"	36061	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	Suppressed
+	"New York County, NY"	36061	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"New York County, NY"	36061	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"New York County, NY"	36061	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"New York County, NY"	36061	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"New York County, NY"	36061	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"New York County, NY"	36061	American Indian or Alaska Native	1002-5	Single	1			29
+Total	"New York County, NY"	36061	American Indian or Alaska Native	1002-5					29
+	"New York County, NY"	36061	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"New York County, NY"	36061	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"New York County, NY"	36061	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"New York County, NY"	36061	Asian	A	Single	1	1500 - 1999 grams	4	17
+	"New York County, NY"	36061	Asian	A	Single	1	2000 - 2499 grams	5	100
+	"New York County, NY"	36061	Asian	A	Single	1	2500 - 2999 grams	6	539
+	"New York County, NY"	36061	Asian	A	Single	1	3000 - 3499 grams	7	821
+	"New York County, NY"	36061	Asian	A	Single	1	3500 - 3999 grams	8	389
+	"New York County, NY"	36061	Asian	A	Single	1	4000 - 4499 grams	9	48
+	"New York County, NY"	36061	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"New York County, NY"	36061	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"New York County, NY"	36061	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"New York County, NY"	36061	Asian	A	Single	1			1929
+Total	"New York County, NY"	36061	Asian	A					1929
+	"New York County, NY"	36061	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"New York County, NY"	36061	Black or African American	2054-5	Single	1	500 - 999 grams	2	20
+	"New York County, NY"	36061	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	17
+	"New York County, NY"	36061	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	52
+	"New York County, NY"	36061	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	191
+	"New York County, NY"	36061	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	727
+	"New York County, NY"	36061	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	1033
+	"New York County, NY"	36061	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	584
+	"New York County, NY"	36061	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	121
+	"New York County, NY"	36061	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	12
+	"New York County, NY"	36061	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"New York County, NY"	36061	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"New York County, NY"	36061	Black or African American	2054-5	Single	1			2765
+Total	"New York County, NY"	36061	Black or African American	2054-5					2765
+	"New York County, NY"	36061	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"New York County, NY"	36061	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"New York County, NY"	36061	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"New York County, NY"	36061	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"New York County, NY"	36061	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"New York County, NY"	36061	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"New York County, NY"	36061	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"New York County, NY"	36061	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"New York County, NY"	36061	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"New York County, NY"	36061	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"New York County, NY"	36061	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"New York County, NY"	36061	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"New York County, NY"	36061	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"New York County, NY"	36061	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"New York County, NY"	36061	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"New York County, NY"	36061	White	2106-3	Single	1	500 - 999 grams	2	17
+	"New York County, NY"	36061	White	2106-3	Single	1	1000 - 1499 grams	3	32
+	"New York County, NY"	36061	White	2106-3	Single	1	1500 - 1999 grams	4	90
+	"New York County, NY"	36061	White	2106-3	Single	1	2000 - 2499 grams	5	347
+	"New York County, NY"	36061	White	2106-3	Single	1	2500 - 2999 grams	6	1719
+	"New York County, NY"	36061	White	2106-3	Single	1	3000 - 3499 grams	7	3621
+	"New York County, NY"	36061	White	2106-3	Single	1	3500 - 3999 grams	8	2221
+	"New York County, NY"	36061	White	2106-3	Single	1	4000 - 4499 grams	9	438
+	"New York County, NY"	36061	White	2106-3	Single	1	4500 - 4999 grams	10	39
+	"New York County, NY"	36061	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"New York County, NY"	36061	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"New York County, NY"	36061	White	2106-3	Single	1			8528
+Total	"New York County, NY"	36061	White	2106-3					8528
+Total	"New York County, NY"	36061							13260
+	"Niagara County, NY"	36063	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Niagara County, NY"	36063	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Niagara County, NY"	36063	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Niagara County, NY"	36063	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Niagara County, NY"	36063	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Niagara County, NY"	36063	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Niagara County, NY"	36063	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	12
+	"Niagara County, NY"	36063	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Niagara County, NY"	36063	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Niagara County, NY"	36063	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Niagara County, NY"	36063	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Niagara County, NY"	36063	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Niagara County, NY"	36063	American Indian or Alaska Native	1002-5	Single	1			32
+Total	"Niagara County, NY"	36063	American Indian or Alaska Native	1002-5					32
+	"Niagara County, NY"	36063	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Niagara County, NY"	36063	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Niagara County, NY"	36063	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Niagara County, NY"	36063	Asian	A	Single	1	1500 - 1999 grams	4	Suppressed
+	"Niagara County, NY"	36063	Asian	A	Single	1	2000 - 2499 grams	5	Suppressed
+	"Niagara County, NY"	36063	Asian	A	Single	1	2500 - 2999 grams	6	Suppressed
+	"Niagara County, NY"	36063	Asian	A	Single	1	3000 - 3499 grams	7	17
+	"Niagara County, NY"	36063	Asian	A	Single	1	3500 - 3999 grams	8	Suppressed
+	"Niagara County, NY"	36063	Asian	A	Single	1	4000 - 4499 grams	9	Suppressed
+	"Niagara County, NY"	36063	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Niagara County, NY"	36063	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Niagara County, NY"	36063	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Niagara County, NY"	36063	Asian	A	Single	1			33
+Total	"Niagara County, NY"	36063	Asian	A					33
+	"Niagara County, NY"	36063	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Niagara County, NY"	36063	Black or African American	2054-5	Single	1	500 - 999 grams	2	Suppressed
+	"Niagara County, NY"	36063	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Niagara County, NY"	36063	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	13
+	"Niagara County, NY"	36063	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	15
+	"Niagara County, NY"	36063	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	60
+	"Niagara County, NY"	36063	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	80
+	"Niagara County, NY"	36063	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	29
+	"Niagara County, NY"	36063	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Niagara County, NY"	36063	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Niagara County, NY"	36063	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Niagara County, NY"	36063	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Niagara County, NY"	36063	Black or African American	2054-5	Single	1			209
+Total	"Niagara County, NY"	36063	Black or African American	2054-5					209
+	"Niagara County, NY"	36063	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Niagara County, NY"	36063	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Niagara County, NY"	36063	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Niagara County, NY"	36063	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Niagara County, NY"	36063	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Niagara County, NY"	36063	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Niagara County, NY"	36063	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Niagara County, NY"	36063	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Niagara County, NY"	36063	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Niagara County, NY"	36063	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Niagara County, NY"	36063	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Niagara County, NY"	36063	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Niagara County, NY"	36063	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"Niagara County, NY"	36063	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"Niagara County, NY"	36063	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Niagara County, NY"	36063	White	2106-3	Single	1	500 - 999 grams	2	Suppressed
+	"Niagara County, NY"	36063	White	2106-3	Single	1	1000 - 1499 grams	3	12
+	"Niagara County, NY"	36063	White	2106-3	Single	1	1500 - 1999 grams	4	11
+	"Niagara County, NY"	36063	White	2106-3	Single	1	2000 - 2499 grams	5	64
+	"Niagara County, NY"	36063	White	2106-3	Single	1	2500 - 2999 grams	6	253
+	"Niagara County, NY"	36063	White	2106-3	Single	1	3000 - 3499 grams	7	582
+	"Niagara County, NY"	36063	White	2106-3	Single	1	3500 - 3999 grams	8	461
+	"Niagara County, NY"	36063	White	2106-3	Single	1	4000 - 4499 grams	9	131
+	"Niagara County, NY"	36063	White	2106-3	Single	1	4500 - 4999 grams	10	14
+	"Niagara County, NY"	36063	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Niagara County, NY"	36063	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Niagara County, NY"	36063	White	2106-3	Single	1			1539
+Total	"Niagara County, NY"	36063	White	2106-3					1539
+Total	"Niagara County, NY"	36063							1813
+	"Oneida County, NY"	36065	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Oneida County, NY"	36065	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Oneida County, NY"	36065	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Oneida County, NY"	36065	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Oneida County, NY"	36065	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Oneida County, NY"	36065	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Oneida County, NY"	36065	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	Suppressed
+	"Oneida County, NY"	36065	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Oneida County, NY"	36065	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Oneida County, NY"	36065	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Oneida County, NY"	36065	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Oneida County, NY"	36065	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Oneida County, NY"	36065	American Indian or Alaska Native	1002-5	Single	1			Suppressed
+Total	"Oneida County, NY"	36065	American Indian or Alaska Native	1002-5					Suppressed
+	"Oneida County, NY"	36065	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Oneida County, NY"	36065	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Oneida County, NY"	36065	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Oneida County, NY"	36065	Asian	A	Single	1	1500 - 1999 grams	4	Suppressed
+	"Oneida County, NY"	36065	Asian	A	Single	1	2000 - 2499 grams	5	Suppressed
+	"Oneida County, NY"	36065	Asian	A	Single	1	2500 - 2999 grams	6	32
+	"Oneida County, NY"	36065	Asian	A	Single	1	3000 - 3499 grams	7	63
+	"Oneida County, NY"	36065	Asian	A	Single	1	3500 - 3999 grams	8	30
+	"Oneida County, NY"	36065	Asian	A	Single	1	4000 - 4499 grams	9	Suppressed
+	"Oneida County, NY"	36065	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Oneida County, NY"	36065	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Oneida County, NY"	36065	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Oneida County, NY"	36065	Asian	A	Single	1			144
+Total	"Oneida County, NY"	36065	Asian	A					144
+	"Oneida County, NY"	36065	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Oneida County, NY"	36065	Black or African American	2054-5	Single	1	500 - 999 grams	2	Suppressed
+	"Oneida County, NY"	36065	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Oneida County, NY"	36065	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Oneida County, NY"	36065	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	26
+	"Oneida County, NY"	36065	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	65
+	"Oneida County, NY"	36065	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	108
+	"Oneida County, NY"	36065	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	49
+	"Oneida County, NY"	36065	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	10
+	"Oneida County, NY"	36065	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Oneida County, NY"	36065	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Oneida County, NY"	36065	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Oneida County, NY"	36065	Black or African American	2054-5	Single	1			272
+Total	"Oneida County, NY"	36065	Black or African American	2054-5					272
+	"Oneida County, NY"	36065	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Oneida County, NY"	36065	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Oneida County, NY"	36065	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Oneida County, NY"	36065	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Oneida County, NY"	36065	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Oneida County, NY"	36065	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Oneida County, NY"	36065	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Oneida County, NY"	36065	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Oneida County, NY"	36065	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Oneida County, NY"	36065	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Oneida County, NY"	36065	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Oneida County, NY"	36065	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Oneida County, NY"	36065	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"Oneida County, NY"	36065	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"Oneida County, NY"	36065	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Oneida County, NY"	36065	White	2106-3	Single	1	500 - 999 grams	2	Suppressed
+	"Oneida County, NY"	36065	White	2106-3	Single	1	1000 - 1499 grams	3	Suppressed
+	"Oneida County, NY"	36065	White	2106-3	Single	1	1500 - 1999 grams	4	19
+	"Oneida County, NY"	36065	White	2106-3	Single	1	2000 - 2499 grams	5	92
+	"Oneida County, NY"	36065	White	2106-3	Single	1	2500 - 2999 grams	6	304
+	"Oneida County, NY"	36065	White	2106-3	Single	1	3000 - 3499 grams	7	740
+	"Oneida County, NY"	36065	White	2106-3	Single	1	3500 - 3999 grams	8	522
+	"Oneida County, NY"	36065	White	2106-3	Single	1	4000 - 4499 grams	9	141
+	"Oneida County, NY"	36065	White	2106-3	Single	1	4500 - 4999 grams	10	26
+	"Oneida County, NY"	36065	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Oneida County, NY"	36065	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Oneida County, NY"	36065	White	2106-3	Single	1			1856
+Total	"Oneida County, NY"	36065	White	2106-3					1856
+Total	"Oneida County, NY"	36065							2277
+	"Onondaga County, NY"	36067	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Onondaga County, NY"	36067	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Onondaga County, NY"	36067	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Onondaga County, NY"	36067	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Onondaga County, NY"	36067	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Onondaga County, NY"	36067	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Onondaga County, NY"	36067	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	13
+	"Onondaga County, NY"	36067	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	14
+	"Onondaga County, NY"	36067	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Onondaga County, NY"	36067	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Onondaga County, NY"	36067	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Onondaga County, NY"	36067	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Onondaga County, NY"	36067	American Indian or Alaska Native	1002-5	Single	1			44
+Total	"Onondaga County, NY"	36067	American Indian or Alaska Native	1002-5					44
+	"Onondaga County, NY"	36067	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Onondaga County, NY"	36067	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Onondaga County, NY"	36067	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Onondaga County, NY"	36067	Asian	A	Single	1	1500 - 1999 grams	4	Suppressed
+	"Onondaga County, NY"	36067	Asian	A	Single	1	2000 - 2499 grams	5	15
+	"Onondaga County, NY"	36067	Asian	A	Single	1	2500 - 2999 grams	6	71
+	"Onondaga County, NY"	36067	Asian	A	Single	1	3000 - 3499 grams	7	110
+	"Onondaga County, NY"	36067	Asian	A	Single	1	3500 - 3999 grams	8	59
+	"Onondaga County, NY"	36067	Asian	A	Single	1	4000 - 4499 grams	9	13
+	"Onondaga County, NY"	36067	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Onondaga County, NY"	36067	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Onondaga County, NY"	36067	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Onondaga County, NY"	36067	Asian	A	Single	1			273
+Total	"Onondaga County, NY"	36067	Asian	A					273
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Single	1	500 - 999 grams	2	Suppressed
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	24
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	69
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	233
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	384
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	185
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	34
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Onondaga County, NY"	36067	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Onondaga County, NY"	36067	Black or African American	2054-5	Single	1			956
+Total	"Onondaga County, NY"	36067	Black or African American	2054-5					956
+	"Onondaga County, NY"	36067	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Onondaga County, NY"	36067	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Onondaga County, NY"	36067	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Onondaga County, NY"	36067	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Onondaga County, NY"	36067	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Onondaga County, NY"	36067	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Onondaga County, NY"	36067	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Onondaga County, NY"	36067	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Onondaga County, NY"	36067	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Onondaga County, NY"	36067	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Onondaga County, NY"	36067	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Onondaga County, NY"	36067	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Onondaga County, NY"	36067	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"Onondaga County, NY"	36067	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"Onondaga County, NY"	36067	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Onondaga County, NY"	36067	White	2106-3	Single	1	500 - 999 grams	2	Suppressed
+	"Onondaga County, NY"	36067	White	2106-3	Single	1	1000 - 1499 grams	3	17
+	"Onondaga County, NY"	36067	White	2106-3	Single	1	1500 - 1999 grams	4	31
+	"Onondaga County, NY"	36067	White	2106-3	Single	1	2000 - 2499 grams	5	110
+	"Onondaga County, NY"	36067	White	2106-3	Single	1	2500 - 2999 grams	6	473
+	"Onondaga County, NY"	36067	White	2106-3	Single	1	3000 - 3499 grams	7	1180
+	"Onondaga County, NY"	36067	White	2106-3	Single	1	3500 - 3999 grams	8	1009
+	"Onondaga County, NY"	36067	White	2106-3	Single	1	4000 - 4499 grams	9	300
+	"Onondaga County, NY"	36067	White	2106-3	Single	1	4500 - 4999 grams	10	34
+	"Onondaga County, NY"	36067	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Onondaga County, NY"	36067	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Onondaga County, NY"	36067	White	2106-3	Single	1			3169
+Total	"Onondaga County, NY"	36067	White	2106-3					3169
+Total	"Onondaga County, NY"	36067							4445
+	"Ontario County, NY"	36069	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Ontario County, NY"	36069	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Ontario County, NY"	36069	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Ontario County, NY"	36069	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Ontario County, NY"	36069	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Ontario County, NY"	36069	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Ontario County, NY"	36069	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	Suppressed
+	"Ontario County, NY"	36069	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Ontario County, NY"	36069	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Ontario County, NY"	36069	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Ontario County, NY"	36069	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Ontario County, NY"	36069	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Ontario County, NY"	36069	American Indian or Alaska Native	1002-5	Single	1			Suppressed
+Total	"Ontario County, NY"	36069	American Indian or Alaska Native	1002-5					Suppressed
+	"Ontario County, NY"	36069	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Ontario County, NY"	36069	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Ontario County, NY"	36069	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Ontario County, NY"	36069	Asian	A	Single	1	1500 - 1999 grams	4	Suppressed
+	"Ontario County, NY"	36069	Asian	A	Single	1	2000 - 2499 grams	5	Suppressed
+	"Ontario County, NY"	36069	Asian	A	Single	1	2500 - 2999 grams	6	Suppressed
+	"Ontario County, NY"	36069	Asian	A	Single	1	3000 - 3499 grams	7	Suppressed
+	"Ontario County, NY"	36069	Asian	A	Single	1	3500 - 3999 grams	8	Suppressed
+	"Ontario County, NY"	36069	Asian	A	Single	1	4000 - 4499 grams	9	Suppressed
+	"Ontario County, NY"	36069	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Ontario County, NY"	36069	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Ontario County, NY"	36069	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Ontario County, NY"	36069	Asian	A	Single	1			14
+Total	"Ontario County, NY"	36069	Asian	A					14
+	"Ontario County, NY"	36069	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Ontario County, NY"	36069	Black or African American	2054-5	Single	1	500 - 999 grams	2	Suppressed
+	"Ontario County, NY"	36069	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Ontario County, NY"	36069	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Ontario County, NY"	36069	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Ontario County, NY"	36069	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Ontario County, NY"	36069	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	14
+	"Ontario County, NY"	36069	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Ontario County, NY"	36069	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Ontario County, NY"	36069	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Ontario County, NY"	36069	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Ontario County, NY"	36069	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Ontario County, NY"	36069	Black or African American	2054-5	Single	1			33
+Total	"Ontario County, NY"	36069	Black or African American	2054-5					33
+	"Ontario County, NY"	36069	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Ontario County, NY"	36069	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Ontario County, NY"	36069	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Ontario County, NY"	36069	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Ontario County, NY"	36069	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Ontario County, NY"	36069	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Ontario County, NY"	36069	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Ontario County, NY"	36069	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Ontario County, NY"	36069	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Ontario County, NY"	36069	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Ontario County, NY"	36069	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Ontario County, NY"	36069	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Ontario County, NY"	36069	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"Ontario County, NY"	36069	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"Ontario County, NY"	36069	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Ontario County, NY"	36069	White	2106-3	Single	1	500 - 999 grams	2	Suppressed
+	"Ontario County, NY"	36069	White	2106-3	Single	1	1000 - 1499 grams	3	Suppressed
+	"Ontario County, NY"	36069	White	2106-3	Single	1	1500 - 1999 grams	4	14
+	"Ontario County, NY"	36069	White	2106-3	Single	1	2000 - 2499 grams	5	29
+	"Ontario County, NY"	36069	White	2106-3	Single	1	2500 - 2999 grams	6	122
+	"Ontario County, NY"	36069	White	2106-3	Single	1	3000 - 3499 grams	7	330
+	"Ontario County, NY"	36069	White	2106-3	Single	1	3500 - 3999 grams	8	271
+	"Ontario County, NY"	36069	White	2106-3	Single	1	4000 - 4499 grams	9	94
+	"Ontario County, NY"	36069	White	2106-3	Single	1	4500 - 4999 grams	10	14
+	"Ontario County, NY"	36069	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Ontario County, NY"	36069	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Ontario County, NY"	36069	White	2106-3	Single	1			886
+Total	"Ontario County, NY"	36069	White	2106-3					886
+Total	"Ontario County, NY"	36069							934
+	"Orange County, NY"	36071	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Orange County, NY"	36071	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Orange County, NY"	36071	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Orange County, NY"	36071	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Orange County, NY"	36071	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Orange County, NY"	36071	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Orange County, NY"	36071	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	Suppressed
+	"Orange County, NY"	36071	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Orange County, NY"	36071	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Orange County, NY"	36071	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Orange County, NY"	36071	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Orange County, NY"	36071	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Orange County, NY"	36071	American Indian or Alaska Native	1002-5	Single	1			12
+Total	"Orange County, NY"	36071	American Indian or Alaska Native	1002-5					12
+	"Orange County, NY"	36071	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Orange County, NY"	36071	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Orange County, NY"	36071	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Orange County, NY"	36071	Asian	A	Single	1	1500 - 1999 grams	4	Suppressed
+	"Orange County, NY"	36071	Asian	A	Single	1	2000 - 2499 grams	5	Suppressed
+	"Orange County, NY"	36071	Asian	A	Single	1	2500 - 2999 grams	6	35
+	"Orange County, NY"	36071	Asian	A	Single	1	3000 - 3499 grams	7	68
+	"Orange County, NY"	36071	Asian	A	Single	1	3500 - 3999 grams	8	28
+	"Orange County, NY"	36071	Asian	A	Single	1	4000 - 4499 grams	9	Suppressed
+	"Orange County, NY"	36071	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Orange County, NY"	36071	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Orange County, NY"	36071	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Orange County, NY"	36071	Asian	A	Single	1			146
+Total	"Orange County, NY"	36071	Asian	A					146
+	"Orange County, NY"	36071	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Orange County, NY"	36071	Black or African American	2054-5	Single	1	500 - 999 grams	2	11
+	"Orange County, NY"	36071	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Orange County, NY"	36071	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	11
+	"Orange County, NY"	36071	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	26
+	"Orange County, NY"	36071	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	125
+	"Orange County, NY"	36071	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	244
+	"Orange County, NY"	36071	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	144
+	"Orange County, NY"	36071	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	41
+	"Orange County, NY"	36071	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Orange County, NY"	36071	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Orange County, NY"	36071	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Orange County, NY"	36071	Black or African American	2054-5	Single	1			622
+Total	"Orange County, NY"	36071	Black or African American	2054-5					622
+	"Orange County, NY"	36071	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Orange County, NY"	36071	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Orange County, NY"	36071	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Orange County, NY"	36071	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Orange County, NY"	36071	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Orange County, NY"	36071	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Orange County, NY"	36071	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Orange County, NY"	36071	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Orange County, NY"	36071	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Orange County, NY"	36071	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Orange County, NY"	36071	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Orange County, NY"	36071	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Orange County, NY"	36071	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"Orange County, NY"	36071	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"Orange County, NY"	36071	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Orange County, NY"	36071	White	2106-3	Single	1	500 - 999 grams	2	11
+	"Orange County, NY"	36071	White	2106-3	Single	1	1000 - 1499 grams	3	15
+	"Orange County, NY"	36071	White	2106-3	Single	1	1500 - 1999 grams	4	42
+	"Orange County, NY"	36071	White	2106-3	Single	1	2000 - 2499 grams	5	151
+	"Orange County, NY"	36071	White	2106-3	Single	1	2500 - 2999 grams	6	698
+	"Orange County, NY"	36071	White	2106-3	Single	1	3000 - 3499 grams	7	1781
+	"Orange County, NY"	36071	White	2106-3	Single	1	3500 - 3999 grams	8	1423
+	"Orange County, NY"	36071	White	2106-3	Single	1	4000 - 4499 grams	9	356
+	"Orange County, NY"	36071	White	2106-3	Single	1	4500 - 4999 grams	10	42
+	"Orange County, NY"	36071	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Orange County, NY"	36071	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Orange County, NY"	36071	White	2106-3	Single	1			4526
+Total	"Orange County, NY"	36071	White	2106-3					4526
+Total	"Orange County, NY"	36071							5312
+	"Oswego County, NY"	36075	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Oswego County, NY"	36075	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Oswego County, NY"	36075	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Oswego County, NY"	36075	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Oswego County, NY"	36075	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Oswego County, NY"	36075	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Oswego County, NY"	36075	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	Suppressed
+	"Oswego County, NY"	36075	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Oswego County, NY"	36075	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Oswego County, NY"	36075	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Oswego County, NY"	36075	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Oswego County, NY"	36075	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Oswego County, NY"	36075	American Indian or Alaska Native	1002-5	Single	1			Suppressed
+Total	"Oswego County, NY"	36075	American Indian or Alaska Native	1002-5					Suppressed
+	"Oswego County, NY"	36075	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Oswego County, NY"	36075	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Oswego County, NY"	36075	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Oswego County, NY"	36075	Asian	A	Single	1	1500 - 1999 grams	4	Suppressed
+	"Oswego County, NY"	36075	Asian	A	Single	1	2000 - 2499 grams	5	Suppressed
+	"Oswego County, NY"	36075	Asian	A	Single	1	2500 - 2999 grams	6	Suppressed
+	"Oswego County, NY"	36075	Asian	A	Single	1	3000 - 3499 grams	7	Suppressed
+	"Oswego County, NY"	36075	Asian	A	Single	1	3500 - 3999 grams	8	Suppressed
+	"Oswego County, NY"	36075	Asian	A	Single	1	4000 - 4499 grams	9	Suppressed
+	"Oswego County, NY"	36075	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Oswego County, NY"	36075	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Oswego County, NY"	36075	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Oswego County, NY"	36075	Asian	A	Single	1			12
+Total	"Oswego County, NY"	36075	Asian	A					12
+	"Oswego County, NY"	36075	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Oswego County, NY"	36075	Black or African American	2054-5	Single	1	500 - 999 grams	2	Suppressed
+	"Oswego County, NY"	36075	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Oswego County, NY"	36075	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Oswego County, NY"	36075	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Oswego County, NY"	36075	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Oswego County, NY"	36075	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	Suppressed
+	"Oswego County, NY"	36075	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Oswego County, NY"	36075	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Oswego County, NY"	36075	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Oswego County, NY"	36075	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Oswego County, NY"	36075	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Oswego County, NY"	36075	Black or African American	2054-5	Single	1			11
+Total	"Oswego County, NY"	36075	Black or African American	2054-5					11
+	"Oswego County, NY"	36075	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Oswego County, NY"	36075	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Oswego County, NY"	36075	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Oswego County, NY"	36075	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Oswego County, NY"	36075	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Oswego County, NY"	36075	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Oswego County, NY"	36075	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Oswego County, NY"	36075	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Oswego County, NY"	36075	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Oswego County, NY"	36075	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Oswego County, NY"	36075	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Oswego County, NY"	36075	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Oswego County, NY"	36075	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"Oswego County, NY"	36075	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"Oswego County, NY"	36075	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Oswego County, NY"	36075	White	2106-3	Single	1	500 - 999 grams	2	Suppressed
+	"Oswego County, NY"	36075	White	2106-3	Single	1	1000 - 1499 grams	3	Suppressed
+	"Oswego County, NY"	36075	White	2106-3	Single	1	1500 - 1999 grams	4	12
+	"Oswego County, NY"	36075	White	2106-3	Single	1	2000 - 2499 grams	5	59
+	"Oswego County, NY"	36075	White	2106-3	Single	1	2500 - 2999 grams	6	145
+	"Oswego County, NY"	36075	White	2106-3	Single	1	3000 - 3499 grams	7	369
+	"Oswego County, NY"	36075	White	2106-3	Single	1	3500 - 3999 grams	8	323
+	"Oswego County, NY"	36075	White	2106-3	Single	1	4000 - 4499 grams	9	96
+	"Oswego County, NY"	36075	White	2106-3	Single	1	4500 - 4999 grams	10	Suppressed
+	"Oswego County, NY"	36075	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Oswego County, NY"	36075	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Oswego County, NY"	36075	White	2106-3	Single	1			1034
+Total	"Oswego County, NY"	36075	White	2106-3					1034
+Total	"Oswego County, NY"	36075							1061
+	"Queens County, NY"	36081	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Queens County, NY"	36081	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Queens County, NY"	36081	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Queens County, NY"	36081	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Queens County, NY"	36081	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	11
+	"Queens County, NY"	36081	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	22
+	"Queens County, NY"	36081	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	47
+	"Queens County, NY"	36081	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	23
+	"Queens County, NY"	36081	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Queens County, NY"	36081	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Queens County, NY"	36081	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Queens County, NY"	36081	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Queens County, NY"	36081	American Indian or Alaska Native	1002-5	Single	1			109
+Total	"Queens County, NY"	36081	American Indian or Alaska Native	1002-5					109
+	"Queens County, NY"	36081	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Queens County, NY"	36081	Asian	A	Single	1	500 - 999 grams	2	19
+	"Queens County, NY"	36081	Asian	A	Single	1	1000 - 1499 grams	3	44
+	"Queens County, NY"	36081	Asian	A	Single	1	1500 - 1999 grams	4	97
+	"Queens County, NY"	36081	Asian	A	Single	1	2000 - 2499 grams	5	431
+	"Queens County, NY"	36081	Asian	A	Single	1	2500 - 2999 grams	6	1740
+	"Queens County, NY"	36081	Asian	A	Single	1	3000 - 3499 grams	7	2841
+	"Queens County, NY"	36081	Asian	A	Single	1	3500 - 3999 grams	8	1286
+	"Queens County, NY"	36081	Asian	A	Single	1	4000 - 4499 grams	9	211
+	"Queens County, NY"	36081	Asian	A	Single	1	4500 - 4999 grams	10	28
+	"Queens County, NY"	36081	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Queens County, NY"	36081	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Queens County, NY"	36081	Asian	A	Single	1			6701
+Total	"Queens County, NY"	36081	Asian	A					6701
+	"Queens County, NY"	36081	Black or African American	2054-5	Single	1	499 grams or less	1	12
+	"Queens County, NY"	36081	Black or African American	2054-5	Single	1	500 - 999 grams	2	42
+	"Queens County, NY"	36081	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	54
+	"Queens County, NY"	36081	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	84
+	"Queens County, NY"	36081	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	355
+	"Queens County, NY"	36081	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	1203
+	"Queens County, NY"	36081	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	1961
+	"Queens County, NY"	36081	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	1098
+	"Queens County, NY"	36081	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	204
+	"Queens County, NY"	36081	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	33
+	"Queens County, NY"	36081	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Queens County, NY"	36081	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Queens County, NY"	36081	Black or African American	2054-5	Single	1			5050
+Total	"Queens County, NY"	36081	Black or African American	2054-5					5050
+	"Queens County, NY"	36081	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Queens County, NY"	36081	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Queens County, NY"	36081	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Queens County, NY"	36081	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Queens County, NY"	36081	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Queens County, NY"	36081	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Queens County, NY"	36081	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Queens County, NY"	36081	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Queens County, NY"	36081	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Queens County, NY"	36081	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Queens County, NY"	36081	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Queens County, NY"	36081	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Queens County, NY"	36081	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			15
+Total	"Queens County, NY"	36081	Native Hawaiian or Other Pacific Islander	NHOPI					15
+	"Queens County, NY"	36081	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Queens County, NY"	36081	White	2106-3	Single	1	500 - 999 grams	2	46
+	"Queens County, NY"	36081	White	2106-3	Single	1	1000 - 1499 grams	3	42
+	"Queens County, NY"	36081	White	2106-3	Single	1	1500 - 1999 grams	4	120
+	"Queens County, NY"	36081	White	2106-3	Single	1	2000 - 2499 grams	5	437
+	"Queens County, NY"	36081	White	2106-3	Single	1	2500 - 2999 grams	6	1941
+	"Queens County, NY"	36081	White	2106-3	Single	1	3000 - 3499 grams	7	4518
+	"Queens County, NY"	36081	White	2106-3	Single	1	3500 - 3999 grams	8	2931
+	"Queens County, NY"	36081	White	2106-3	Single	1	4000 - 4499 grams	9	657
+	"Queens County, NY"	36081	White	2106-3	Single	1	4500 - 4999 grams	10	86
+	"Queens County, NY"	36081	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Queens County, NY"	36081	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Queens County, NY"	36081	White	2106-3	Single	1			10790
+Total	"Queens County, NY"	36081	White	2106-3					10790
+Total	"Queens County, NY"	36081							22665
+	"Rensselaer County, NY"	36083	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Rensselaer County, NY"	36083	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Rensselaer County, NY"	36083	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Rensselaer County, NY"	36083	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Rensselaer County, NY"	36083	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Rensselaer County, NY"	36083	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Rensselaer County, NY"	36083	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	Suppressed
+	"Rensselaer County, NY"	36083	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Rensselaer County, NY"	36083	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Rensselaer County, NY"	36083	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Rensselaer County, NY"	36083	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Rensselaer County, NY"	36083	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Rensselaer County, NY"	36083	American Indian or Alaska Native	1002-5	Single	1			Suppressed
+Total	"Rensselaer County, NY"	36083	American Indian or Alaska Native	1002-5					Suppressed
+	"Rensselaer County, NY"	36083	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Rensselaer County, NY"	36083	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Rensselaer County, NY"	36083	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Rensselaer County, NY"	36083	Asian	A	Single	1	1500 - 1999 grams	4	Suppressed
+	"Rensselaer County, NY"	36083	Asian	A	Single	1	2000 - 2499 grams	5	Suppressed
+	"Rensselaer County, NY"	36083	Asian	A	Single	1	2500 - 2999 grams	6	10
+	"Rensselaer County, NY"	36083	Asian	A	Single	1	3000 - 3499 grams	7	22
+	"Rensselaer County, NY"	36083	Asian	A	Single	1	3500 - 3999 grams	8	12
+	"Rensselaer County, NY"	36083	Asian	A	Single	1	4000 - 4499 grams	9	Suppressed
+	"Rensselaer County, NY"	36083	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Rensselaer County, NY"	36083	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Rensselaer County, NY"	36083	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Rensselaer County, NY"	36083	Asian	A	Single	1			49
+Total	"Rensselaer County, NY"	36083	Asian	A					49
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Single	1	500 - 999 grams	2	Suppressed
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	14
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	58
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	63
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	35
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	15
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Rensselaer County, NY"	36083	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Rensselaer County, NY"	36083	Black or African American	2054-5	Single	1			192
+Total	"Rensselaer County, NY"	36083	Black or African American	2054-5					192
+	"Rensselaer County, NY"	36083	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Rensselaer County, NY"	36083	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Rensselaer County, NY"	36083	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Rensselaer County, NY"	36083	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Rensselaer County, NY"	36083	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Rensselaer County, NY"	36083	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Rensselaer County, NY"	36083	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Rensselaer County, NY"	36083	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Rensselaer County, NY"	36083	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Rensselaer County, NY"	36083	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Rensselaer County, NY"	36083	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Rensselaer County, NY"	36083	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Rensselaer County, NY"	36083	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"Rensselaer County, NY"	36083	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"Rensselaer County, NY"	36083	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Rensselaer County, NY"	36083	White	2106-3	Single	1	500 - 999 grams	2	Suppressed
+	"Rensselaer County, NY"	36083	White	2106-3	Single	1	1000 - 1499 grams	3	Suppressed
+	"Rensselaer County, NY"	36083	White	2106-3	Single	1	1500 - 1999 grams	4	Suppressed
+	"Rensselaer County, NY"	36083	White	2106-3	Single	1	2000 - 2499 grams	5	37
+	"Rensselaer County, NY"	36083	White	2106-3	Single	1	2500 - 2999 grams	6	181
+	"Rensselaer County, NY"	36083	White	2106-3	Single	1	3000 - 3499 grams	7	418
+	"Rensselaer County, NY"	36083	White	2106-3	Single	1	3500 - 3999 grams	8	341
+	"Rensselaer County, NY"	36083	White	2106-3	Single	1	4000 - 4499 grams	9	122
+	"Rensselaer County, NY"	36083	White	2106-3	Single	1	4500 - 4999 grams	10	13
+	"Rensselaer County, NY"	36083	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Rensselaer County, NY"	36083	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Rensselaer County, NY"	36083	White	2106-3	Single	1			1132
+Total	"Rensselaer County, NY"	36083	White	2106-3					1132
+Total	"Rensselaer County, NY"	36083							1376
+	"Richmond County, NY"	36085	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Richmond County, NY"	36085	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Richmond County, NY"	36085	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Richmond County, NY"	36085	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Richmond County, NY"	36085	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Richmond County, NY"	36085	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Richmond County, NY"	36085	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	Suppressed
+	"Richmond County, NY"	36085	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Richmond County, NY"	36085	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Richmond County, NY"	36085	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Richmond County, NY"	36085	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Richmond County, NY"	36085	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Richmond County, NY"	36085	American Indian or Alaska Native	1002-5	Single	1			Suppressed
+Total	"Richmond County, NY"	36085	American Indian or Alaska Native	1002-5					Suppressed
+	"Richmond County, NY"	36085	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Richmond County, NY"	36085	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Richmond County, NY"	36085	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Richmond County, NY"	36085	Asian	A	Single	1	1500 - 1999 grams	4	Suppressed
+	"Richmond County, NY"	36085	Asian	A	Single	1	2000 - 2499 grams	5	38
+	"Richmond County, NY"	36085	Asian	A	Single	1	2500 - 2999 grams	6	171
+	"Richmond County, NY"	36085	Asian	A	Single	1	3000 - 3499 grams	7	265
+	"Richmond County, NY"	36085	Asian	A	Single	1	3500 - 3999 grams	8	105
+	"Richmond County, NY"	36085	Asian	A	Single	1	4000 - 4499 grams	9	26
+	"Richmond County, NY"	36085	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Richmond County, NY"	36085	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Richmond County, NY"	36085	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Richmond County, NY"	36085	Asian	A	Single	1			620
+Total	"Richmond County, NY"	36085	Asian	A					620
+	"Richmond County, NY"	36085	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Richmond County, NY"	36085	Black or African American	2054-5	Single	1	500 - 999 grams	2	Suppressed
+	"Richmond County, NY"	36085	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Richmond County, NY"	36085	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	15
+	"Richmond County, NY"	36085	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	49
+	"Richmond County, NY"	36085	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	162
+	"Richmond County, NY"	36085	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	311
+	"Richmond County, NY"	36085	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	152
+	"Richmond County, NY"	36085	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	31
+	"Richmond County, NY"	36085	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Richmond County, NY"	36085	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Richmond County, NY"	36085	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Richmond County, NY"	36085	Black or African American	2054-5	Single	1			742
+Total	"Richmond County, NY"	36085	Black or African American	2054-5					742
+	"Richmond County, NY"	36085	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Richmond County, NY"	36085	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Richmond County, NY"	36085	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Richmond County, NY"	36085	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Richmond County, NY"	36085	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Richmond County, NY"	36085	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Richmond County, NY"	36085	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Richmond County, NY"	36085	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Richmond County, NY"	36085	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Richmond County, NY"	36085	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Richmond County, NY"	36085	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Richmond County, NY"	36085	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Richmond County, NY"	36085	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"Richmond County, NY"	36085	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"Richmond County, NY"	36085	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Richmond County, NY"	36085	White	2106-3	Single	1	500 - 999 grams	2	Suppressed
+	"Richmond County, NY"	36085	White	2106-3	Single	1	1000 - 1499 grams	3	16
+	"Richmond County, NY"	36085	White	2106-3	Single	1	1500 - 1999 grams	4	35
+	"Richmond County, NY"	36085	White	2106-3	Single	1	2000 - 2499 grams	5	114
+	"Richmond County, NY"	36085	White	2106-3	Single	1	2500 - 2999 grams	6	605
+	"Richmond County, NY"	36085	White	2106-3	Single	1	3000 - 3499 grams	7	1535
+	"Richmond County, NY"	36085	White	2106-3	Single	1	3500 - 3999 grams	8	901
+	"Richmond County, NY"	36085	White	2106-3	Single	1	4000 - 4499 grams	9	232
+	"Richmond County, NY"	36085	White	2106-3	Single	1	4500 - 4999 grams	10	24
+	"Richmond County, NY"	36085	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Richmond County, NY"	36085	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Richmond County, NY"	36085	White	2106-3	Single	1			3472
+Total	"Richmond County, NY"	36085	White	2106-3					3472
+Total	"Richmond County, NY"	36085							4845
+	"Rockland County, NY"	36087	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Rockland County, NY"	36087	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Rockland County, NY"	36087	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Rockland County, NY"	36087	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Rockland County, NY"	36087	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Rockland County, NY"	36087	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Rockland County, NY"	36087	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	Suppressed
+	"Rockland County, NY"	36087	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Rockland County, NY"	36087	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Rockland County, NY"	36087	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Rockland County, NY"	36087	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Rockland County, NY"	36087	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Rockland County, NY"	36087	American Indian or Alaska Native	1002-5	Single	1			Suppressed
+Total	"Rockland County, NY"	36087	American Indian or Alaska Native	1002-5					Suppressed
+	"Rockland County, NY"	36087	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Rockland County, NY"	36087	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Rockland County, NY"	36087	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Rockland County, NY"	36087	Asian	A	Single	1	1500 - 1999 grams	4	Suppressed
+	"Rockland County, NY"	36087	Asian	A	Single	1	2000 - 2499 grams	5	14
+	"Rockland County, NY"	36087	Asian	A	Single	1	2500 - 2999 grams	6	52
+	"Rockland County, NY"	36087	Asian	A	Single	1	3000 - 3499 grams	7	93
+	"Rockland County, NY"	36087	Asian	A	Single	1	3500 - 3999 grams	8	55
+	"Rockland County, NY"	36087	Asian	A	Single	1	4000 - 4499 grams	9	Suppressed
+	"Rockland County, NY"	36087	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Rockland County, NY"	36087	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Rockland County, NY"	36087	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Rockland County, NY"	36087	Asian	A	Single	1			227
+Total	"Rockland County, NY"	36087	Asian	A					227
+	"Rockland County, NY"	36087	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Rockland County, NY"	36087	Black or African American	2054-5	Single	1	500 - 999 grams	2	Suppressed
+	"Rockland County, NY"	36087	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Rockland County, NY"	36087	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Rockland County, NY"	36087	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	25
+	"Rockland County, NY"	36087	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	120
+	"Rockland County, NY"	36087	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	227
+	"Rockland County, NY"	36087	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	162
+	"Rockland County, NY"	36087	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	31
+	"Rockland County, NY"	36087	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Rockland County, NY"	36087	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Rockland County, NY"	36087	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Rockland County, NY"	36087	Black or African American	2054-5	Single	1			595
+Total	"Rockland County, NY"	36087	Black or African American	2054-5					595
+	"Rockland County, NY"	36087	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Rockland County, NY"	36087	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Rockland County, NY"	36087	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Rockland County, NY"	36087	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Rockland County, NY"	36087	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Rockland County, NY"	36087	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Rockland County, NY"	36087	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Rockland County, NY"	36087	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Rockland County, NY"	36087	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Rockland County, NY"	36087	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Rockland County, NY"	36087	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Rockland County, NY"	36087	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Rockland County, NY"	36087	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"Rockland County, NY"	36087	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"Rockland County, NY"	36087	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Rockland County, NY"	36087	White	2106-3	Single	1	500 - 999 grams	2	Suppressed
+	"Rockland County, NY"	36087	White	2106-3	Single	1	1000 - 1499 grams	3	11
+	"Rockland County, NY"	36087	White	2106-3	Single	1	1500 - 1999 grams	4	29
+	"Rockland County, NY"	36087	White	2106-3	Single	1	2000 - 2499 grams	5	145
+	"Rockland County, NY"	36087	White	2106-3	Single	1	2500 - 2999 grams	6	785
+	"Rockland County, NY"	36087	White	2106-3	Single	1	3000 - 3499 grams	7	2105
+	"Rockland County, NY"	36087	White	2106-3	Single	1	3500 - 3999 grams	8	1561
+	"Rockland County, NY"	36087	White	2106-3	Single	1	4000 - 4499 grams	9	414
+	"Rockland County, NY"	36087	White	2106-3	Single	1	4500 - 4999 grams	10	52
+	"Rockland County, NY"	36087	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Rockland County, NY"	36087	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Rockland County, NY"	36087	White	2106-3	Single	1			5119
+Total	"Rockland County, NY"	36087	White	2106-3					5119
+Total	"Rockland County, NY"	36087							5950
+	"St. Lawrence County, NY"	36089	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"St. Lawrence County, NY"	36089	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"St. Lawrence County, NY"	36089	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"St. Lawrence County, NY"	36089	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"St. Lawrence County, NY"	36089	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"St. Lawrence County, NY"	36089	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"St. Lawrence County, NY"	36089	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	Suppressed
+	"St. Lawrence County, NY"	36089	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"St. Lawrence County, NY"	36089	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"St. Lawrence County, NY"	36089	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"St. Lawrence County, NY"	36089	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"St. Lawrence County, NY"	36089	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"St. Lawrence County, NY"	36089	American Indian or Alaska Native	1002-5	Single	1			Suppressed
+Total	"St. Lawrence County, NY"	36089	American Indian or Alaska Native	1002-5					Suppressed
+	"St. Lawrence County, NY"	36089	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"St. Lawrence County, NY"	36089	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"St. Lawrence County, NY"	36089	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"St. Lawrence County, NY"	36089	Asian	A	Single	1	1500 - 1999 grams	4	Suppressed
+	"St. Lawrence County, NY"	36089	Asian	A	Single	1	2000 - 2499 grams	5	Suppressed
+	"St. Lawrence County, NY"	36089	Asian	A	Single	1	2500 - 2999 grams	6	Suppressed
+	"St. Lawrence County, NY"	36089	Asian	A	Single	1	3000 - 3499 grams	7	Suppressed
+	"St. Lawrence County, NY"	36089	Asian	A	Single	1	3500 - 3999 grams	8	Suppressed
+	"St. Lawrence County, NY"	36089	Asian	A	Single	1	4000 - 4499 grams	9	Suppressed
+	"St. Lawrence County, NY"	36089	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"St. Lawrence County, NY"	36089	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"St. Lawrence County, NY"	36089	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"St. Lawrence County, NY"	36089	Asian	A	Single	1			17
+Total	"St. Lawrence County, NY"	36089	Asian	A					17
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Single	1	500 - 999 grams	2	Suppressed
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	Suppressed
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"St. Lawrence County, NY"	36089	Black or African American	2054-5	Single	1			12
+Total	"St. Lawrence County, NY"	36089	Black or African American	2054-5					12
+	"St. Lawrence County, NY"	36089	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"St. Lawrence County, NY"	36089	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"St. Lawrence County, NY"	36089	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"St. Lawrence County, NY"	36089	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"St. Lawrence County, NY"	36089	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"St. Lawrence County, NY"	36089	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"St. Lawrence County, NY"	36089	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"St. Lawrence County, NY"	36089	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"St. Lawrence County, NY"	36089	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"St. Lawrence County, NY"	36089	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"St. Lawrence County, NY"	36089	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"St. Lawrence County, NY"	36089	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"St. Lawrence County, NY"	36089	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"St. Lawrence County, NY"	36089	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"St. Lawrence County, NY"	36089	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"St. Lawrence County, NY"	36089	White	2106-3	Single	1	500 - 999 grams	2	Suppressed
+	"St. Lawrence County, NY"	36089	White	2106-3	Single	1	1000 - 1499 grams	3	Suppressed
+	"St. Lawrence County, NY"	36089	White	2106-3	Single	1	1500 - 1999 grams	4	Suppressed
+	"St. Lawrence County, NY"	36089	White	2106-3	Single	1	2000 - 2499 grams	5	44
+	"St. Lawrence County, NY"	36089	White	2106-3	Single	1	2500 - 2999 grams	6	139
+	"St. Lawrence County, NY"	36089	White	2106-3	Single	1	3000 - 3499 grams	7	336
+	"St. Lawrence County, NY"	36089	White	2106-3	Single	1	3500 - 3999 grams	8	271
+	"St. Lawrence County, NY"	36089	White	2106-3	Single	1	4000 - 4499 grams	9	88
+	"St. Lawrence County, NY"	36089	White	2106-3	Single	1	4500 - 4999 grams	10	16
+	"St. Lawrence County, NY"	36089	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"St. Lawrence County, NY"	36089	White	2106-3	Single	1	Unknown or Not Stated	12	33
+Total	"St. Lawrence County, NY"	36089	White	2106-3	Single	1			937
+Total	"St. Lawrence County, NY"	36089	White	2106-3					937
+Total	"St. Lawrence County, NY"	36089							970
+	"Saratoga County, NY"	36091	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Saratoga County, NY"	36091	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Saratoga County, NY"	36091	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Saratoga County, NY"	36091	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Saratoga County, NY"	36091	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Saratoga County, NY"	36091	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Saratoga County, NY"	36091	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	Suppressed
+	"Saratoga County, NY"	36091	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Saratoga County, NY"	36091	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Saratoga County, NY"	36091	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Saratoga County, NY"	36091	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Saratoga County, NY"	36091	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Saratoga County, NY"	36091	American Indian or Alaska Native	1002-5	Single	1			Suppressed
+Total	"Saratoga County, NY"	36091	American Indian or Alaska Native	1002-5					Suppressed
+	"Saratoga County, NY"	36091	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Saratoga County, NY"	36091	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Saratoga County, NY"	36091	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Saratoga County, NY"	36091	Asian	A	Single	1	1500 - 1999 grams	4	Suppressed
+	"Saratoga County, NY"	36091	Asian	A	Single	1	2000 - 2499 grams	5	Suppressed
+	"Saratoga County, NY"	36091	Asian	A	Single	1	2500 - 2999 grams	6	23
+	"Saratoga County, NY"	36091	Asian	A	Single	1	3000 - 3499 grams	7	38
+	"Saratoga County, NY"	36091	Asian	A	Single	1	3500 - 3999 grams	8	12
+	"Saratoga County, NY"	36091	Asian	A	Single	1	4000 - 4499 grams	9	Suppressed
+	"Saratoga County, NY"	36091	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Saratoga County, NY"	36091	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Saratoga County, NY"	36091	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Saratoga County, NY"	36091	Asian	A	Single	1			89
+Total	"Saratoga County, NY"	36091	Asian	A					89
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Single	1	500 - 999 grams	2	Suppressed
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	16
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	23
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	16
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Saratoga County, NY"	36091	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Saratoga County, NY"	36091	Black or African American	2054-5	Single	1			62
+Total	"Saratoga County, NY"	36091	Black or African American	2054-5					62
+	"Saratoga County, NY"	36091	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Saratoga County, NY"	36091	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Saratoga County, NY"	36091	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Saratoga County, NY"	36091	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Saratoga County, NY"	36091	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Saratoga County, NY"	36091	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Saratoga County, NY"	36091	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Saratoga County, NY"	36091	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Saratoga County, NY"	36091	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Saratoga County, NY"	36091	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Saratoga County, NY"	36091	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Saratoga County, NY"	36091	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Saratoga County, NY"	36091	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"Saratoga County, NY"	36091	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"Saratoga County, NY"	36091	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Saratoga County, NY"	36091	White	2106-3	Single	1	500 - 999 grams	2	Suppressed
+	"Saratoga County, NY"	36091	White	2106-3	Single	1	1000 - 1499 grams	3	Suppressed
+	"Saratoga County, NY"	36091	White	2106-3	Single	1	1500 - 1999 grams	4	16
+	"Saratoga County, NY"	36091	White	2106-3	Single	1	2000 - 2499 grams	5	59
+	"Saratoga County, NY"	36091	White	2106-3	Single	1	2500 - 2999 grams	6	257
+	"Saratoga County, NY"	36091	White	2106-3	Single	1	3000 - 3499 grams	7	688
+	"Saratoga County, NY"	36091	White	2106-3	Single	1	3500 - 3999 grams	8	615
+	"Saratoga County, NY"	36091	White	2106-3	Single	1	4000 - 4499 grams	9	154
+	"Saratoga County, NY"	36091	White	2106-3	Single	1	4500 - 4999 grams	10	28
+	"Saratoga County, NY"	36091	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Saratoga County, NY"	36091	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Saratoga County, NY"	36091	White	2106-3	Single	1			1834
+Total	"Saratoga County, NY"	36091	White	2106-3					1834
+Total	"Saratoga County, NY"	36091							1990
+	"Schenectady County, NY"	36093	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Schenectady County, NY"	36093	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Schenectady County, NY"	36093	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Schenectady County, NY"	36093	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Schenectady County, NY"	36093	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Schenectady County, NY"	36093	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Schenectady County, NY"	36093	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	Suppressed
+	"Schenectady County, NY"	36093	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Schenectady County, NY"	36093	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Schenectady County, NY"	36093	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Schenectady County, NY"	36093	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Schenectady County, NY"	36093	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Schenectady County, NY"	36093	American Indian or Alaska Native	1002-5	Single	1			Suppressed
+Total	"Schenectady County, NY"	36093	American Indian or Alaska Native	1002-5					Suppressed
+	"Schenectady County, NY"	36093	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Schenectady County, NY"	36093	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Schenectady County, NY"	36093	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Schenectady County, NY"	36093	Asian	A	Single	1	1500 - 1999 grams	4	Suppressed
+	"Schenectady County, NY"	36093	Asian	A	Single	1	2000 - 2499 grams	5	14
+	"Schenectady County, NY"	36093	Asian	A	Single	1	2500 - 2999 grams	6	56
+	"Schenectady County, NY"	36093	Asian	A	Single	1	3000 - 3499 grams	7	92
+	"Schenectady County, NY"	36093	Asian	A	Single	1	3500 - 3999 grams	8	44
+	"Schenectady County, NY"	36093	Asian	A	Single	1	4000 - 4499 grams	9	Suppressed
+	"Schenectady County, NY"	36093	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Schenectady County, NY"	36093	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Schenectady County, NY"	36093	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Schenectady County, NY"	36093	Asian	A	Single	1			221
+Total	"Schenectady County, NY"	36093	Asian	A					221
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Single	1	500 - 999 grams	2	Suppressed
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	17
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	71
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	119
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	78
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	18
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Schenectady County, NY"	36093	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Schenectady County, NY"	36093	Black or African American	2054-5	Single	1			317
+Total	"Schenectady County, NY"	36093	Black or African American	2054-5					317
+	"Schenectady County, NY"	36093	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Schenectady County, NY"	36093	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Schenectady County, NY"	36093	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Schenectady County, NY"	36093	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Schenectady County, NY"	36093	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Schenectady County, NY"	36093	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Schenectady County, NY"	36093	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Schenectady County, NY"	36093	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Schenectady County, NY"	36093	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Schenectady County, NY"	36093	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Schenectady County, NY"	36093	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Schenectady County, NY"	36093	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Schenectady County, NY"	36093	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"Schenectady County, NY"	36093	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"Schenectady County, NY"	36093	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Schenectady County, NY"	36093	White	2106-3	Single	1	500 - 999 grams	2	Suppressed
+	"Schenectady County, NY"	36093	White	2106-3	Single	1	1000 - 1499 grams	3	Suppressed
+	"Schenectady County, NY"	36093	White	2106-3	Single	1	1500 - 1999 grams	4	10
+	"Schenectady County, NY"	36093	White	2106-3	Single	1	2000 - 2499 grams	5	32
+	"Schenectady County, NY"	36093	White	2106-3	Single	1	2500 - 2999 grams	6	168
+	"Schenectady County, NY"	36093	White	2106-3	Single	1	3000 - 3499 grams	7	442
+	"Schenectady County, NY"	36093	White	2106-3	Single	1	3500 - 3999 grams	8	363
+	"Schenectady County, NY"	36093	White	2106-3	Single	1	4000 - 4499 grams	9	107
+	"Schenectady County, NY"	36093	White	2106-3	Single	1	4500 - 4999 grams	10	20
+	"Schenectady County, NY"	36093	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Schenectady County, NY"	36093	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Schenectady County, NY"	36093	White	2106-3	Single	1			1147
+Total	"Schenectady County, NY"	36093	White	2106-3					1147
+Total	"Schenectady County, NY"	36093							1696
+	"Suffolk County, NY"	36103	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Suffolk County, NY"	36103	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Suffolk County, NY"	36103	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Suffolk County, NY"	36103	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Suffolk County, NY"	36103	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Suffolk County, NY"	36103	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Suffolk County, NY"	36103	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	15
+	"Suffolk County, NY"	36103	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Suffolk County, NY"	36103	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Suffolk County, NY"	36103	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Suffolk County, NY"	36103	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Suffolk County, NY"	36103	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Suffolk County, NY"	36103	American Indian or Alaska Native	1002-5	Single	1			33
+Total	"Suffolk County, NY"	36103	American Indian or Alaska Native	1002-5					33
+	"Suffolk County, NY"	36103	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Suffolk County, NY"	36103	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Suffolk County, NY"	36103	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Suffolk County, NY"	36103	Asian	A	Single	1	1500 - 1999 grams	4	Suppressed
+	"Suffolk County, NY"	36103	Asian	A	Single	1	2000 - 2499 grams	5	47
+	"Suffolk County, NY"	36103	Asian	A	Single	1	2500 - 2999 grams	6	213
+	"Suffolk County, NY"	36103	Asian	A	Single	1	3000 - 3499 grams	7	324
+	"Suffolk County, NY"	36103	Asian	A	Single	1	3500 - 3999 grams	8	181
+	"Suffolk County, NY"	36103	Asian	A	Single	1	4000 - 4499 grams	9	36
+	"Suffolk County, NY"	36103	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Suffolk County, NY"	36103	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Suffolk County, NY"	36103	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Suffolk County, NY"	36103	Asian	A	Single	1			822
+Total	"Suffolk County, NY"	36103	Asian	A					822
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Single	1	500 - 999 grams	2	18
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	15
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	26
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	112
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	347
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	657
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	342
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	79
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	12
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Suffolk County, NY"	36103	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Suffolk County, NY"	36103	Black or African American	2054-5	Single	1			1610
+Total	"Suffolk County, NY"	36103	Black or African American	2054-5					1610
+	"Suffolk County, NY"	36103	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Suffolk County, NY"	36103	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Suffolk County, NY"	36103	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Suffolk County, NY"	36103	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Suffolk County, NY"	36103	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Suffolk County, NY"	36103	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Suffolk County, NY"	36103	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Suffolk County, NY"	36103	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Suffolk County, NY"	36103	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Suffolk County, NY"	36103	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Suffolk County, NY"	36103	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Suffolk County, NY"	36103	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Suffolk County, NY"	36103	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			12
+Total	"Suffolk County, NY"	36103	Native Hawaiian or Other Pacific Islander	NHOPI					12
+	"Suffolk County, NY"	36103	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Suffolk County, NY"	36103	White	2106-3	Single	1	500 - 999 grams	2	31
+	"Suffolk County, NY"	36103	White	2106-3	Single	1	1000 - 1499 grams	3	58
+	"Suffolk County, NY"	36103	White	2106-3	Single	1	1500 - 1999 grams	4	117
+	"Suffolk County, NY"	36103	White	2106-3	Single	1	2000 - 2499 grams	5	532
+	"Suffolk County, NY"	36103	White	2106-3	Single	1	2500 - 2999 grams	6	2115
+	"Suffolk County, NY"	36103	White	2106-3	Single	1	3000 - 3499 grams	7	5128
+	"Suffolk County, NY"	36103	White	2106-3	Single	1	3500 - 3999 grams	8	3672
+	"Suffolk County, NY"	36103	White	2106-3	Single	1	4000 - 4499 grams	9	911
+	"Suffolk County, NY"	36103	White	2106-3	Single	1	4500 - 4999 grams	10	105
+	"Suffolk County, NY"	36103	White	2106-3	Single	1	5000 - 8165 grams	11	10
+	"Suffolk County, NY"	36103	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Suffolk County, NY"	36103	White	2106-3	Single	1			12687
+Total	"Suffolk County, NY"	36103	White	2106-3					12687
+Total	"Suffolk County, NY"	36103							15164
+	"Tompkins County, NY"	36109	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Tompkins County, NY"	36109	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Tompkins County, NY"	36109	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Tompkins County, NY"	36109	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Tompkins County, NY"	36109	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Tompkins County, NY"	36109	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Tompkins County, NY"	36109	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	Suppressed
+	"Tompkins County, NY"	36109	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Tompkins County, NY"	36109	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Tompkins County, NY"	36109	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Tompkins County, NY"	36109	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Tompkins County, NY"	36109	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Tompkins County, NY"	36109	American Indian or Alaska Native	1002-5	Single	1			Suppressed
+Total	"Tompkins County, NY"	36109	American Indian or Alaska Native	1002-5					Suppressed
+	"Tompkins County, NY"	36109	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Tompkins County, NY"	36109	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Tompkins County, NY"	36109	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Tompkins County, NY"	36109	Asian	A	Single	1	1500 - 1999 grams	4	Suppressed
+	"Tompkins County, NY"	36109	Asian	A	Single	1	2000 - 2499 grams	5	Suppressed
+	"Tompkins County, NY"	36109	Asian	A	Single	1	2500 - 2999 grams	6	22
+	"Tompkins County, NY"	36109	Asian	A	Single	1	3000 - 3499 grams	7	23
+	"Tompkins County, NY"	36109	Asian	A	Single	1	3500 - 3999 grams	8	22
+	"Tompkins County, NY"	36109	Asian	A	Single	1	4000 - 4499 grams	9	Suppressed
+	"Tompkins County, NY"	36109	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Tompkins County, NY"	36109	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Tompkins County, NY"	36109	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Tompkins County, NY"	36109	Asian	A	Single	1			71
+Total	"Tompkins County, NY"	36109	Asian	A					71
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Single	1	500 - 999 grams	2	Suppressed
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	17
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Tompkins County, NY"	36109	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Tompkins County, NY"	36109	Black or African American	2054-5	Single	1			37
+Total	"Tompkins County, NY"	36109	Black or African American	2054-5					37
+	"Tompkins County, NY"	36109	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Tompkins County, NY"	36109	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Tompkins County, NY"	36109	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Tompkins County, NY"	36109	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Tompkins County, NY"	36109	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Tompkins County, NY"	36109	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Tompkins County, NY"	36109	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Tompkins County, NY"	36109	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Tompkins County, NY"	36109	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Tompkins County, NY"	36109	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Tompkins County, NY"	36109	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Tompkins County, NY"	36109	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Tompkins County, NY"	36109	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"Tompkins County, NY"	36109	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"Tompkins County, NY"	36109	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Tompkins County, NY"	36109	White	2106-3	Single	1	500 - 999 grams	2	Suppressed
+	"Tompkins County, NY"	36109	White	2106-3	Single	1	1000 - 1499 grams	3	Suppressed
+	"Tompkins County, NY"	36109	White	2106-3	Single	1	1500 - 1999 grams	4	Suppressed
+	"Tompkins County, NY"	36109	White	2106-3	Single	1	2000 - 2499 grams	5	10
+	"Tompkins County, NY"	36109	White	2106-3	Single	1	2500 - 2999 grams	6	78
+	"Tompkins County, NY"	36109	White	2106-3	Single	1	3000 - 3499 grams	7	198
+	"Tompkins County, NY"	36109	White	2106-3	Single	1	3500 - 3999 grams	8	188
+	"Tompkins County, NY"	36109	White	2106-3	Single	1	4000 - 4499 grams	9	46
+	"Tompkins County, NY"	36109	White	2106-3	Single	1	4500 - 4999 grams	10	Suppressed
+	"Tompkins County, NY"	36109	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Tompkins County, NY"	36109	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Tompkins County, NY"	36109	White	2106-3	Single	1			533
+Total	"Tompkins County, NY"	36109	White	2106-3					533
+Total	"Tompkins County, NY"	36109							641
+	"Ulster County, NY"	36111	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Ulster County, NY"	36111	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Ulster County, NY"	36111	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Ulster County, NY"	36111	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Ulster County, NY"	36111	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Ulster County, NY"	36111	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Ulster County, NY"	36111	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	Suppressed
+	"Ulster County, NY"	36111	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	Suppressed
+	"Ulster County, NY"	36111	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Ulster County, NY"	36111	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Ulster County, NY"	36111	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Ulster County, NY"	36111	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Ulster County, NY"	36111	American Indian or Alaska Native	1002-5	Single	1			Suppressed
+Total	"Ulster County, NY"	36111	American Indian or Alaska Native	1002-5					Suppressed
+	"Ulster County, NY"	36111	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Ulster County, NY"	36111	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Ulster County, NY"	36111	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Ulster County, NY"	36111	Asian	A	Single	1	1500 - 1999 grams	4	Suppressed
+	"Ulster County, NY"	36111	Asian	A	Single	1	2000 - 2499 grams	5	Suppressed
+	"Ulster County, NY"	36111	Asian	A	Single	1	2500 - 2999 grams	6	Suppressed
+	"Ulster County, NY"	36111	Asian	A	Single	1	3000 - 3499 grams	7	15
+	"Ulster County, NY"	36111	Asian	A	Single	1	3500 - 3999 grams	8	Suppressed
+	"Ulster County, NY"	36111	Asian	A	Single	1	4000 - 4499 grams	9	Suppressed
+	"Ulster County, NY"	36111	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Ulster County, NY"	36111	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Ulster County, NY"	36111	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Ulster County, NY"	36111	Asian	A	Single	1			34
+Total	"Ulster County, NY"	36111	Asian	A					34
+	"Ulster County, NY"	36111	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Ulster County, NY"	36111	Black or African American	2054-5	Single	1	500 - 999 grams	2	Suppressed
+	"Ulster County, NY"	36111	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Ulster County, NY"	36111	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Ulster County, NY"	36111	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Ulster County, NY"	36111	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	33
+	"Ulster County, NY"	36111	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	39
+	"Ulster County, NY"	36111	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	38
+	"Ulster County, NY"	36111	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Ulster County, NY"	36111	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Ulster County, NY"	36111	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Ulster County, NY"	36111	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Ulster County, NY"	36111	Black or African American	2054-5	Single	1			126
+Total	"Ulster County, NY"	36111	Black or African American	2054-5					126
+	"Ulster County, NY"	36111	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Ulster County, NY"	36111	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Ulster County, NY"	36111	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Ulster County, NY"	36111	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Ulster County, NY"	36111	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Ulster County, NY"	36111	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Ulster County, NY"	36111	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Ulster County, NY"	36111	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Ulster County, NY"	36111	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Ulster County, NY"	36111	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Ulster County, NY"	36111	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Ulster County, NY"	36111	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Ulster County, NY"	36111	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"Ulster County, NY"	36111	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"Ulster County, NY"	36111	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Ulster County, NY"	36111	White	2106-3	Single	1	500 - 999 grams	2	Suppressed
+	"Ulster County, NY"	36111	White	2106-3	Single	1	1000 - 1499 grams	3	Suppressed
+	"Ulster County, NY"	36111	White	2106-3	Single	1	1500 - 1999 grams	4	17
+	"Ulster County, NY"	36111	White	2106-3	Single	1	2000 - 2499 grams	5	45
+	"Ulster County, NY"	36111	White	2106-3	Single	1	2500 - 2999 grams	6	184
+	"Ulster County, NY"	36111	White	2106-3	Single	1	3000 - 3499 grams	7	488
+	"Ulster County, NY"	36111	White	2106-3	Single	1	3500 - 3999 grams	8	412
+	"Ulster County, NY"	36111	White	2106-3	Single	1	4000 - 4499 grams	9	122
+	"Ulster County, NY"	36111	White	2106-3	Single	1	4500 - 4999 grams	10	11
+	"Ulster County, NY"	36111	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Ulster County, NY"	36111	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Ulster County, NY"	36111	White	2106-3	Single	1			1296
+Total	"Ulster County, NY"	36111	White	2106-3					1296
+Total	"Ulster County, NY"	36111							1458
+	"Westchester County, NY"	36119	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Westchester County, NY"	36119	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Westchester County, NY"	36119	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Westchester County, NY"	36119	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Westchester County, NY"	36119	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Westchester County, NY"	36119	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	Suppressed
+	"Westchester County, NY"	36119	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	11
+	"Westchester County, NY"	36119	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	11
+	"Westchester County, NY"	36119	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	Suppressed
+	"Westchester County, NY"	36119	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Westchester County, NY"	36119	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Westchester County, NY"	36119	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Westchester County, NY"	36119	American Indian or Alaska Native	1002-5	Single	1			32
+Total	"Westchester County, NY"	36119	American Indian or Alaska Native	1002-5					32
+	"Westchester County, NY"	36119	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Westchester County, NY"	36119	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Westchester County, NY"	36119	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Westchester County, NY"	36119	Asian	A	Single	1	1500 - 1999 grams	4	13
+	"Westchester County, NY"	36119	Asian	A	Single	1	2000 - 2499 grams	5	35
+	"Westchester County, NY"	36119	Asian	A	Single	1	2500 - 2999 grams	6	205
+	"Westchester County, NY"	36119	Asian	A	Single	1	3000 - 3499 grams	7	327
+	"Westchester County, NY"	36119	Asian	A	Single	1	3500 - 3999 grams	8	161
+	"Westchester County, NY"	36119	Asian	A	Single	1	4000 - 4499 grams	9	30
+	"Westchester County, NY"	36119	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Westchester County, NY"	36119	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Westchester County, NY"	36119	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Westchester County, NY"	36119	Asian	A	Single	1			779
+Total	"Westchester County, NY"	36119	Asian	A					779
+	"Westchester County, NY"	36119	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Westchester County, NY"	36119	Black or African American	2054-5	Single	1	500 - 999 grams	2	24
+	"Westchester County, NY"	36119	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	19
+	"Westchester County, NY"	36119	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	34
+	"Westchester County, NY"	36119	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	97
+	"Westchester County, NY"	36119	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	433
+	"Westchester County, NY"	36119	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	729
+	"Westchester County, NY"	36119	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	417
+	"Westchester County, NY"	36119	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	92
+	"Westchester County, NY"	36119	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Westchester County, NY"	36119	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Westchester County, NY"	36119	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Westchester County, NY"	36119	Black or African American	2054-5	Single	1			1852
+Total	"Westchester County, NY"	36119	Black or African American	2054-5					1852
+	"Westchester County, NY"	36119	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Westchester County, NY"	36119	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Westchester County, NY"	36119	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Westchester County, NY"	36119	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Westchester County, NY"	36119	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Westchester County, NY"	36119	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Westchester County, NY"	36119	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Westchester County, NY"	36119	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Westchester County, NY"	36119	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Westchester County, NY"	36119	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Westchester County, NY"	36119	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Westchester County, NY"	36119	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Westchester County, NY"	36119	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"Westchester County, NY"	36119	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"Westchester County, NY"	36119	White	2106-3	Single	1	499 grams or less	1	Suppressed
+	"Westchester County, NY"	36119	White	2106-3	Single	1	500 - 999 grams	2	10
+	"Westchester County, NY"	36119	White	2106-3	Single	1	1000 - 1499 grams	3	29
+	"Westchester County, NY"	36119	White	2106-3	Single	1	1500 - 1999 grams	4	49
+	"Westchester County, NY"	36119	White	2106-3	Single	1	2000 - 2499 grams	5	244
+	"Westchester County, NY"	36119	White	2106-3	Single	1	2500 - 2999 grams	6	1142
+	"Westchester County, NY"	36119	White	2106-3	Single	1	3000 - 3499 grams	7	2839
+	"Westchester County, NY"	36119	White	2106-3	Single	1	3500 - 3999 grams	8	1981
+	"Westchester County, NY"	36119	White	2106-3	Single	1	4000 - 4499 grams	9	502
+	"Westchester County, NY"	36119	White	2106-3	Single	1	4500 - 4999 grams	10	71
+	"Westchester County, NY"	36119	White	2106-3	Single	1	5000 - 8165 grams	11	Suppressed
+	"Westchester County, NY"	36119	White	2106-3	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Westchester County, NY"	36119	White	2106-3	Single	1			6872
+Total	"Westchester County, NY"	36119	White	2106-3					6872
+Total	"Westchester County, NY"	36119							9544
+	"Unidentified Counties, NY"	36999	American Indian or Alaska Native	1002-5	Single	1	499 grams or less	1	Suppressed
+	"Unidentified Counties, NY"	36999	American Indian or Alaska Native	1002-5	Single	1	500 - 999 grams	2	Suppressed
+	"Unidentified Counties, NY"	36999	American Indian or Alaska Native	1002-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Unidentified Counties, NY"	36999	American Indian or Alaska Native	1002-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Unidentified Counties, NY"	36999	American Indian or Alaska Native	1002-5	Single	1	2000 - 2499 grams	5	Suppressed
+	"Unidentified Counties, NY"	36999	American Indian or Alaska Native	1002-5	Single	1	2500 - 2999 grams	6	18
+	"Unidentified Counties, NY"	36999	American Indian or Alaska Native	1002-5	Single	1	3000 - 3499 grams	7	28
+	"Unidentified Counties, NY"	36999	American Indian or Alaska Native	1002-5	Single	1	3500 - 3999 grams	8	33
+	"Unidentified Counties, NY"	36999	American Indian or Alaska Native	1002-5	Single	1	4000 - 4499 grams	9	12
+	"Unidentified Counties, NY"	36999	American Indian or Alaska Native	1002-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Unidentified Counties, NY"	36999	American Indian or Alaska Native	1002-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Unidentified Counties, NY"	36999	American Indian or Alaska Native	1002-5	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Unidentified Counties, NY"	36999	American Indian or Alaska Native	1002-5	Single	1			100
+Total	"Unidentified Counties, NY"	36999	American Indian or Alaska Native	1002-5					100
+	"Unidentified Counties, NY"	36999	Asian	A	Single	1	499 grams or less	1	Suppressed
+	"Unidentified Counties, NY"	36999	Asian	A	Single	1	500 - 999 grams	2	Suppressed
+	"Unidentified Counties, NY"	36999	Asian	A	Single	1	1000 - 1499 grams	3	Suppressed
+	"Unidentified Counties, NY"	36999	Asian	A	Single	1	1500 - 1999 grams	4	Suppressed
+	"Unidentified Counties, NY"	36999	Asian	A	Single	1	2000 - 2499 grams	5	16
+	"Unidentified Counties, NY"	36999	Asian	A	Single	1	2500 - 2999 grams	6	37
+	"Unidentified Counties, NY"	36999	Asian	A	Single	1	3000 - 3499 grams	7	86
+	"Unidentified Counties, NY"	36999	Asian	A	Single	1	3500 - 3999 grams	8	56
+	"Unidentified Counties, NY"	36999	Asian	A	Single	1	4000 - 4499 grams	9	10
+	"Unidentified Counties, NY"	36999	Asian	A	Single	1	4500 - 4999 grams	10	Suppressed
+	"Unidentified Counties, NY"	36999	Asian	A	Single	1	5000 - 8165 grams	11	Suppressed
+	"Unidentified Counties, NY"	36999	Asian	A	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Unidentified Counties, NY"	36999	Asian	A	Single	1			218
+Total	"Unidentified Counties, NY"	36999	Asian	A					218
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Single	1	499 grams or less	1	Suppressed
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Single	1	500 - 999 grams	2	Suppressed
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Single	1	1000 - 1499 grams	3	Suppressed
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Single	1	1500 - 1999 grams	4	Suppressed
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Single	1	2000 - 2499 grams	5	33
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Single	1	2500 - 2999 grams	6	89
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Single	1	3000 - 3499 grams	7	201
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Single	1	3500 - 3999 grams	8	98
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Single	1	4000 - 4499 grams	9	35
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Single	1	4500 - 4999 grams	10	Suppressed
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Single	1	5000 - 8165 grams	11	Suppressed
+	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Single	1	Unknown or Not Stated	12	27
+Total	"Unidentified Counties, NY"	36999	Black or African American	2054-5	Single	1			512
+Total	"Unidentified Counties, NY"	36999	Black or African American	2054-5					512
+	"Unidentified Counties, NY"	36999	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	499 grams or less	1	Suppressed
+	"Unidentified Counties, NY"	36999	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	500 - 999 grams	2	Suppressed
+	"Unidentified Counties, NY"	36999	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1000 - 1499 grams	3	Suppressed
+	"Unidentified Counties, NY"	36999	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	1500 - 1999 grams	4	Suppressed
+	"Unidentified Counties, NY"	36999	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2000 - 2499 grams	5	Suppressed
+	"Unidentified Counties, NY"	36999	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	2500 - 2999 grams	6	Suppressed
+	"Unidentified Counties, NY"	36999	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3000 - 3499 grams	7	Suppressed
+	"Unidentified Counties, NY"	36999	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	3500 - 3999 grams	8	Suppressed
+	"Unidentified Counties, NY"	36999	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4000 - 4499 grams	9	Suppressed
+	"Unidentified Counties, NY"	36999	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	4500 - 4999 grams	10	Suppressed
+	"Unidentified Counties, NY"	36999	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	5000 - 8165 grams	11	Suppressed
+	"Unidentified Counties, NY"	36999	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1	Unknown or Not Stated	12	Suppressed
+Total	"Unidentified Counties, NY"	36999	Native Hawaiian or Other Pacific Islander	NHOPI	Single	1			Suppressed
+Total	"Unidentified Counties, NY"	36999	Native Hawaiian or Other Pacific Islander	NHOPI					Suppressed
+	"Unidentified Counties, NY"	36999	White	2106-3	Single	1	499 grams or less	1	10
+	"Unidentified Counties, NY"	36999	White	2106-3	Single	1	500 - 999 grams	2	54
+	"Unidentified Counties, NY"	36999	White	2106-3	Single	1	1000 - 1499 grams	3	64
+	"Unidentified Counties, NY"	36999	White	2106-3	Single	1	1500 - 1999 grams	4	163
+	"Unidentified Counties, NY"	36999	White	2106-3	Single	1	2000 - 2499 grams	5	578
+	"Unidentified Counties, NY"	36999	White	2106-3	Single	1	2500 - 2999 grams	6	2369
+	"Unidentified Counties, NY"	36999	White	2106-3	Single	1	3000 - 3499 grams	7	5855
+	"Unidentified Counties, NY"	36999	White	2106-3	Single	1	3500 - 3999 grams	8	4841
+	"Unidentified Counties, NY"	36999	White	2106-3	Single	1	4000 - 4499 grams	9	1409
+	"Unidentified Counties, NY"	36999	White	2106-3	Single	1	4500 - 4999 grams	10	224
+	"Unidentified Counties, NY"	36999	White	2106-3	Single	1	5000 - 8165 grams	11	19
+	"Unidentified Counties, NY"	36999	White	2106-3	Single	1	Unknown or Not Stated	12	164
+Total	"Unidentified Counties, NY"	36999	White	2106-3	Single	1			15750
+Total	"Unidentified Counties, NY"	36999	White	2106-3					15750
+Total	"Unidentified Counties, NY"	36999							16587
+Total									199536
+---									
+"Dataset: Natality, 2016-2021 expanded"									
+Query Parameters:									
+Mother's Single Race 6: American Indian or Alaska Native; Asian; Black or African American; Native Hawaiian or Other Pacific									
+Islander; White									
+Plurality: Single									
+States: New York (36)									
+Year: 2021									
+Group By: County of Residence; Mother's Single Race 6; Plurality; Infant Birth Weight 12									
+Show Totals: True									
+Show Zero Values: True									
+Show Suppressed: True									
+"Calculate Rates Per: 1,000"									
+---									
+Help: See http://wonder.cdc.gov/wonder/help/Natality-expanded.html for more information.									
+---									
+"Query Date: Apr 4, 2023 10:31:43 PM"									
+---									
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"									
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2016-2021, as compiled from data provided by"									
+the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at									
+"http://wonder.cdc.gov/natality-expanded-current.html on Apr 4, 2023 10:31:43 PM"									
+---									
+Caveats:									
+1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:									
+http://wonder.cdc.gov/wonder/help/Natality-expanded.html#Assurance of Confidentiality.									
+2. Each birth record represents one liveborn infant.									
+"3. County-level data are shown only for counties with populations of 100,000 persons or more. Within each state, data for all"									
+"counties with fewer than 100,000 persons are combined together under the label ""Unidentified Counties."""									
+"4. Bronx, New York (FIPS code 36005) represents Bronx Borough, New York City."									
+"5. Kings County, New York (FIPS code 36047) represents Brooklyn Borough, New York City."									
+"6. New York County, New York (FIPS code 36061) represents Manhattan Borough, New York City."									
+"7. Queens, New York (FIPS code 36081) represents Queens Borough, New York City."									
+"8. Richmond County, New York (FIPS code 36085) represents Staten Island Borough, New York City."									

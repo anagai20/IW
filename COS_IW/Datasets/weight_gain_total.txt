@@ -1,0 +1,911 @@
+"Notes"	"County of Residence"	"County of Residence Code"	"Year"	"Year Code"	"Mother's Weight Gain Recode"	"Mother's Weight Gain Recode Code"	Births
+	"Albany County, NY"	"36001"	"2016"	"2016"	"Less than 11 pounds"	"1"	Suppressed
+	"Albany County, NY"	"36001"	"2016"	"2016"	"11 to 20 pounds"	"2"	12
+	"Albany County, NY"	"36001"	"2016"	"2016"	"21 to 30 pounds"	"3"	13
+	"Albany County, NY"	"36001"	"2016"	"2016"	"31 to 40 pounds"	"4"	Suppressed
+	"Albany County, NY"	"36001"	"2016"	"2016"	"41 to 98 pounds"	"5"	Suppressed
+	"Albany County, NY"	"36001"	"2017"	"2017"	"Less than 11 pounds"	"1"	19
+	"Albany County, NY"	"36001"	"2017"	"2017"	"11 to 20 pounds"	"2"	13
+	"Albany County, NY"	"36001"	"2017"	"2017"	"21 to 30 pounds"	"3"	12
+	"Albany County, NY"	"36001"	"2017"	"2017"	"31 to 40 pounds"	"4"	Suppressed
+	"Albany County, NY"	"36001"	"2017"	"2017"	"41 to 98 pounds"	"5"	Suppressed
+	"Albany County, NY"	"36001"	"2018"	"2018"	"Less than 11 pounds"	"1"	10
+	"Albany County, NY"	"36001"	"2018"	"2018"	"11 to 20 pounds"	"2"	18
+	"Albany County, NY"	"36001"	"2018"	"2018"	"21 to 30 pounds"	"3"	13
+	"Albany County, NY"	"36001"	"2018"	"2018"	"31 to 40 pounds"	"4"	Suppressed
+	"Albany County, NY"	"36001"	"2018"	"2018"	"41 to 98 pounds"	"5"	Suppressed
+	"Albany County, NY"	"36001"	"2019"	"2019"	"Less than 11 pounds"	"1"	10
+	"Albany County, NY"	"36001"	"2019"	"2019"	"11 to 20 pounds"	"2"	18
+	"Albany County, NY"	"36001"	"2019"	"2019"	"21 to 30 pounds"	"3"	17
+	"Albany County, NY"	"36001"	"2019"	"2019"	"31 to 40 pounds"	"4"	Suppressed
+	"Albany County, NY"	"36001"	"2019"	"2019"	"41 to 98 pounds"	"5"	Suppressed
+	"Albany County, NY"	"36001"	"2020"	"2020"	"Less than 11 pounds"	"1"	13
+	"Albany County, NY"	"36001"	"2020"	"2020"	"11 to 20 pounds"	"2"	21
+	"Albany County, NY"	"36001"	"2020"	"2020"	"21 to 30 pounds"	"3"	Suppressed
+	"Albany County, NY"	"36001"	"2020"	"2020"	"31 to 40 pounds"	"4"	Suppressed
+	"Albany County, NY"	"36001"	"2020"	"2020"	"41 to 98 pounds"	"5"	Suppressed
+	"Albany County, NY"	"36001"	"2021"	"2021"	"Less than 11 pounds"	"1"	23
+	"Albany County, NY"	"36001"	"2021"	"2021"	"11 to 20 pounds"	"2"	17
+	"Albany County, NY"	"36001"	"2021"	"2021"	"21 to 30 pounds"	"3"	11
+	"Albany County, NY"	"36001"	"2021"	"2021"	"31 to 40 pounds"	"4"	Suppressed
+	"Albany County, NY"	"36001"	"2021"	"2021"	"41 to 98 pounds"	"5"	Suppressed
+	"Bronx County, NY"	"36005"	"2016"	"2016"	"Less than 11 pounds"	"1"	62
+	"Bronx County, NY"	"36005"	"2016"	"2016"	"11 to 20 pounds"	"2"	185
+	"Bronx County, NY"	"36005"	"2016"	"2016"	"21 to 30 pounds"	"3"	183
+	"Bronx County, NY"	"36005"	"2016"	"2016"	"31 to 40 pounds"	"4"	55
+	"Bronx County, NY"	"36005"	"2016"	"2016"	"41 to 98 pounds"	"5"	50
+	"Bronx County, NY"	"36005"	"2017"	"2017"	"Less than 11 pounds"	"1"	72
+	"Bronx County, NY"	"36005"	"2017"	"2017"	"11 to 20 pounds"	"2"	181
+	"Bronx County, NY"	"36005"	"2017"	"2017"	"21 to 30 pounds"	"3"	179
+	"Bronx County, NY"	"36005"	"2017"	"2017"	"31 to 40 pounds"	"4"	77
+	"Bronx County, NY"	"36005"	"2017"	"2017"	"41 to 98 pounds"	"5"	40
+	"Bronx County, NY"	"36005"	"2018"	"2018"	"Less than 11 pounds"	"1"	74
+	"Bronx County, NY"	"36005"	"2018"	"2018"	"11 to 20 pounds"	"2"	156
+	"Bronx County, NY"	"36005"	"2018"	"2018"	"21 to 30 pounds"	"3"	169
+	"Bronx County, NY"	"36005"	"2018"	"2018"	"31 to 40 pounds"	"4"	63
+	"Bronx County, NY"	"36005"	"2018"	"2018"	"41 to 98 pounds"	"5"	40
+	"Bronx County, NY"	"36005"	"2019"	"2019"	"Less than 11 pounds"	"1"	72
+	"Bronx County, NY"	"36005"	"2019"	"2019"	"11 to 20 pounds"	"2"	170
+	"Bronx County, NY"	"36005"	"2019"	"2019"	"21 to 30 pounds"	"3"	180
+	"Bronx County, NY"	"36005"	"2019"	"2019"	"31 to 40 pounds"	"4"	74
+	"Bronx County, NY"	"36005"	"2019"	"2019"	"41 to 98 pounds"	"5"	34
+	"Bronx County, NY"	"36005"	"2020"	"2020"	"Less than 11 pounds"	"1"	101
+	"Bronx County, NY"	"36005"	"2020"	"2020"	"11 to 20 pounds"	"2"	137
+	"Bronx County, NY"	"36005"	"2020"	"2020"	"21 to 30 pounds"	"3"	165
+	"Bronx County, NY"	"36005"	"2020"	"2020"	"31 to 40 pounds"	"4"	63
+	"Bronx County, NY"	"36005"	"2020"	"2020"	"41 to 98 pounds"	"5"	34
+	"Bronx County, NY"	"36005"	"2021"	"2021"	"Less than 11 pounds"	"1"	92
+	"Bronx County, NY"	"36005"	"2021"	"2021"	"11 to 20 pounds"	"2"	141
+	"Bronx County, NY"	"36005"	"2021"	"2021"	"21 to 30 pounds"	"3"	136
+	"Bronx County, NY"	"36005"	"2021"	"2021"	"31 to 40 pounds"	"4"	52
+	"Bronx County, NY"	"36005"	"2021"	"2021"	"41 to 98 pounds"	"5"	46
+	"Broome County, NY"	"36007"	"2016"	"2016"	"Less than 11 pounds"	"1"	Suppressed
+	"Broome County, NY"	"36007"	"2016"	"2016"	"11 to 20 pounds"	"2"	Suppressed
+	"Broome County, NY"	"36007"	"2016"	"2016"	"21 to 30 pounds"	"3"	Suppressed
+	"Broome County, NY"	"36007"	"2016"	"2016"	"31 to 40 pounds"	"4"	Suppressed
+	"Broome County, NY"	"36007"	"2016"	"2016"	"41 to 98 pounds"	"5"	Suppressed
+	"Broome County, NY"	"36007"	"2017"	"2017"	"Less than 11 pounds"	"1"	11
+	"Broome County, NY"	"36007"	"2017"	"2017"	"11 to 20 pounds"	"2"	12
+	"Broome County, NY"	"36007"	"2017"	"2017"	"21 to 30 pounds"	"3"	Suppressed
+	"Broome County, NY"	"36007"	"2017"	"2017"	"31 to 40 pounds"	"4"	Suppressed
+	"Broome County, NY"	"36007"	"2017"	"2017"	"41 to 98 pounds"	"5"	Suppressed
+	"Broome County, NY"	"36007"	"2018"	"2018"	"Less than 11 pounds"	"1"	Suppressed
+	"Broome County, NY"	"36007"	"2018"	"2018"	"11 to 20 pounds"	"2"	10
+	"Broome County, NY"	"36007"	"2018"	"2018"	"21 to 30 pounds"	"3"	Suppressed
+	"Broome County, NY"	"36007"	"2018"	"2018"	"31 to 40 pounds"	"4"	Suppressed
+	"Broome County, NY"	"36007"	"2018"	"2018"	"41 to 98 pounds"	"5"	Suppressed
+	"Broome County, NY"	"36007"	"2019"	"2019"	"Less than 11 pounds"	"1"	Suppressed
+	"Broome County, NY"	"36007"	"2019"	"2019"	"11 to 20 pounds"	"2"	Suppressed
+	"Broome County, NY"	"36007"	"2019"	"2019"	"21 to 30 pounds"	"3"	Suppressed
+	"Broome County, NY"	"36007"	"2019"	"2019"	"31 to 40 pounds"	"4"	Suppressed
+	"Broome County, NY"	"36007"	"2019"	"2019"	"41 to 98 pounds"	"5"	Suppressed
+	"Broome County, NY"	"36007"	"2020"	"2020"	"Less than 11 pounds"	"1"	15
+	"Broome County, NY"	"36007"	"2020"	"2020"	"11 to 20 pounds"	"2"	Suppressed
+	"Broome County, NY"	"36007"	"2020"	"2020"	"21 to 30 pounds"	"3"	Suppressed
+	"Broome County, NY"	"36007"	"2020"	"2020"	"31 to 40 pounds"	"4"	Suppressed
+	"Broome County, NY"	"36007"	"2020"	"2020"	"41 to 98 pounds"	"5"	Suppressed
+	"Broome County, NY"	"36007"	"2021"	"2021"	"Less than 11 pounds"	"1"	17
+	"Broome County, NY"	"36007"	"2021"	"2021"	"11 to 20 pounds"	"2"	Suppressed
+	"Broome County, NY"	"36007"	"2021"	"2021"	"21 to 30 pounds"	"3"	Suppressed
+	"Broome County, NY"	"36007"	"2021"	"2021"	"31 to 40 pounds"	"4"	Suppressed
+	"Broome County, NY"	"36007"	"2021"	"2021"	"41 to 98 pounds"	"5"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2016"	"2016"	"Less than 11 pounds"	"1"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2016"	"2016"	"11 to 20 pounds"	"2"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2016"	"2016"	"21 to 30 pounds"	"3"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2016"	"2016"	"31 to 40 pounds"	"4"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2016"	"2016"	"41 to 98 pounds"	"5"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2017"	"2017"	"Less than 11 pounds"	"1"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2017"	"2017"	"11 to 20 pounds"	"2"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2017"	"2017"	"21 to 30 pounds"	"3"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2017"	"2017"	"31 to 40 pounds"	"4"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2017"	"2017"	"41 to 98 pounds"	"5"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2018"	"2018"	"Less than 11 pounds"	"1"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2018"	"2018"	"11 to 20 pounds"	"2"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2018"	"2018"	"21 to 30 pounds"	"3"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2018"	"2018"	"31 to 40 pounds"	"4"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2018"	"2018"	"41 to 98 pounds"	"5"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2019"	"2019"	"Less than 11 pounds"	"1"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2019"	"2019"	"11 to 20 pounds"	"2"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2019"	"2019"	"21 to 30 pounds"	"3"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2019"	"2019"	"31 to 40 pounds"	"4"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2019"	"2019"	"41 to 98 pounds"	"5"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2020"	"2020"	"Less than 11 pounds"	"1"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2020"	"2020"	"11 to 20 pounds"	"2"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2020"	"2020"	"21 to 30 pounds"	"3"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2020"	"2020"	"31 to 40 pounds"	"4"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2020"	"2020"	"41 to 98 pounds"	"5"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2021"	"2021"	"Less than 11 pounds"	"1"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2021"	"2021"	"11 to 20 pounds"	"2"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2021"	"2021"	"21 to 30 pounds"	"3"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2021"	"2021"	"31 to 40 pounds"	"4"	Suppressed
+	"Chautauqua County, NY"	"36013"	"2021"	"2021"	"41 to 98 pounds"	"5"	Suppressed
+	"Dutchess County, NY"	"36027"	"2016"	"2016"	"Less than 11 pounds"	"1"	16
+	"Dutchess County, NY"	"36027"	"2016"	"2016"	"11 to 20 pounds"	"2"	14
+	"Dutchess County, NY"	"36027"	"2016"	"2016"	"21 to 30 pounds"	"3"	11
+	"Dutchess County, NY"	"36027"	"2016"	"2016"	"31 to 40 pounds"	"4"	Suppressed
+	"Dutchess County, NY"	"36027"	"2016"	"2016"	"41 to 98 pounds"	"5"	Suppressed
+	"Dutchess County, NY"	"36027"	"2017"	"2017"	"Less than 11 pounds"	"1"	18
+	"Dutchess County, NY"	"36027"	"2017"	"2017"	"11 to 20 pounds"	"2"	12
+	"Dutchess County, NY"	"36027"	"2017"	"2017"	"21 to 30 pounds"	"3"	Suppressed
+	"Dutchess County, NY"	"36027"	"2017"	"2017"	"31 to 40 pounds"	"4"	Suppressed
+	"Dutchess County, NY"	"36027"	"2017"	"2017"	"41 to 98 pounds"	"5"	Suppressed
+	"Dutchess County, NY"	"36027"	"2018"	"2018"	"Less than 11 pounds"	"1"	Suppressed
+	"Dutchess County, NY"	"36027"	"2018"	"2018"	"11 to 20 pounds"	"2"	14
+	"Dutchess County, NY"	"36027"	"2018"	"2018"	"21 to 30 pounds"	"3"	12
+	"Dutchess County, NY"	"36027"	"2018"	"2018"	"31 to 40 pounds"	"4"	Suppressed
+	"Dutchess County, NY"	"36027"	"2018"	"2018"	"41 to 98 pounds"	"5"	Suppressed
+	"Dutchess County, NY"	"36027"	"2019"	"2019"	"Less than 11 pounds"	"1"	10
+	"Dutchess County, NY"	"36027"	"2019"	"2019"	"11 to 20 pounds"	"2"	Suppressed
+	"Dutchess County, NY"	"36027"	"2019"	"2019"	"21 to 30 pounds"	"3"	Suppressed
+	"Dutchess County, NY"	"36027"	"2019"	"2019"	"31 to 40 pounds"	"4"	Suppressed
+	"Dutchess County, NY"	"36027"	"2019"	"2019"	"41 to 98 pounds"	"5"	Suppressed
+	"Dutchess County, NY"	"36027"	"2020"	"2020"	"Less than 11 pounds"	"1"	10
+	"Dutchess County, NY"	"36027"	"2020"	"2020"	"11 to 20 pounds"	"2"	14
+	"Dutchess County, NY"	"36027"	"2020"	"2020"	"21 to 30 pounds"	"3"	Suppressed
+	"Dutchess County, NY"	"36027"	"2020"	"2020"	"31 to 40 pounds"	"4"	Suppressed
+	"Dutchess County, NY"	"36027"	"2020"	"2020"	"41 to 98 pounds"	"5"	Suppressed
+	"Dutchess County, NY"	"36027"	"2021"	"2021"	"Less than 11 pounds"	"1"	Suppressed
+	"Dutchess County, NY"	"36027"	"2021"	"2021"	"11 to 20 pounds"	"2"	19
+	"Dutchess County, NY"	"36027"	"2021"	"2021"	"21 to 30 pounds"	"3"	13
+	"Dutchess County, NY"	"36027"	"2021"	"2021"	"31 to 40 pounds"	"4"	Suppressed
+	"Dutchess County, NY"	"36027"	"2021"	"2021"	"41 to 98 pounds"	"5"	Suppressed
+	"Erie County, NY"	"36029"	"2016"	"2016"	"Less than 11 pounds"	"1"	53
+	"Erie County, NY"	"36029"	"2016"	"2016"	"11 to 20 pounds"	"2"	53
+	"Erie County, NY"	"36029"	"2016"	"2016"	"21 to 30 pounds"	"3"	44
+	"Erie County, NY"	"36029"	"2016"	"2016"	"31 to 40 pounds"	"4"	14
+	"Erie County, NY"	"36029"	"2016"	"2016"	"41 to 98 pounds"	"5"	10
+	"Erie County, NY"	"36029"	"2017"	"2017"	"Less than 11 pounds"	"1"	35
+	"Erie County, NY"	"36029"	"2017"	"2017"	"11 to 20 pounds"	"2"	54
+	"Erie County, NY"	"36029"	"2017"	"2017"	"21 to 30 pounds"	"3"	37
+	"Erie County, NY"	"36029"	"2017"	"2017"	"31 to 40 pounds"	"4"	12
+	"Erie County, NY"	"36029"	"2017"	"2017"	"41 to 98 pounds"	"5"	20
+	"Erie County, NY"	"36029"	"2018"	"2018"	"Less than 11 pounds"	"1"	43
+	"Erie County, NY"	"36029"	"2018"	"2018"	"11 to 20 pounds"	"2"	60
+	"Erie County, NY"	"36029"	"2018"	"2018"	"21 to 30 pounds"	"3"	34
+	"Erie County, NY"	"36029"	"2018"	"2018"	"31 to 40 pounds"	"4"	20
+	"Erie County, NY"	"36029"	"2018"	"2018"	"41 to 98 pounds"	"5"	11
+	"Erie County, NY"	"36029"	"2019"	"2019"	"Less than 11 pounds"	"1"	34
+	"Erie County, NY"	"36029"	"2019"	"2019"	"11 to 20 pounds"	"2"	48
+	"Erie County, NY"	"36029"	"2019"	"2019"	"21 to 30 pounds"	"3"	37
+	"Erie County, NY"	"36029"	"2019"	"2019"	"31 to 40 pounds"	"4"	23
+	"Erie County, NY"	"36029"	"2019"	"2019"	"41 to 98 pounds"	"5"	Suppressed
+	"Erie County, NY"	"36029"	"2020"	"2020"	"Less than 11 pounds"	"1"	50
+	"Erie County, NY"	"36029"	"2020"	"2020"	"11 to 20 pounds"	"2"	41
+	"Erie County, NY"	"36029"	"2020"	"2020"	"21 to 30 pounds"	"3"	32
+	"Erie County, NY"	"36029"	"2020"	"2020"	"31 to 40 pounds"	"4"	13
+	"Erie County, NY"	"36029"	"2020"	"2020"	"41 to 98 pounds"	"5"	11
+	"Erie County, NY"	"36029"	"2021"	"2021"	"Less than 11 pounds"	"1"	37
+	"Erie County, NY"	"36029"	"2021"	"2021"	"11 to 20 pounds"	"2"	58
+	"Erie County, NY"	"36029"	"2021"	"2021"	"21 to 30 pounds"	"3"	35
+	"Erie County, NY"	"36029"	"2021"	"2021"	"31 to 40 pounds"	"4"	27
+	"Erie County, NY"	"36029"	"2021"	"2021"	"41 to 98 pounds"	"5"	Suppressed
+	"Jefferson County, NY"	"36045"	"2016"	"2016"	"Less than 11 pounds"	"1"	Suppressed
+	"Jefferson County, NY"	"36045"	"2016"	"2016"	"11 to 20 pounds"	"2"	Suppressed
+	"Jefferson County, NY"	"36045"	"2016"	"2016"	"21 to 30 pounds"	"3"	Suppressed
+	"Jefferson County, NY"	"36045"	"2016"	"2016"	"31 to 40 pounds"	"4"	Suppressed
+	"Jefferson County, NY"	"36045"	"2016"	"2016"	"41 to 98 pounds"	"5"	Suppressed
+	"Jefferson County, NY"	"36045"	"2017"	"2017"	"Less than 11 pounds"	"1"	Suppressed
+	"Jefferson County, NY"	"36045"	"2017"	"2017"	"11 to 20 pounds"	"2"	Suppressed
+	"Jefferson County, NY"	"36045"	"2017"	"2017"	"21 to 30 pounds"	"3"	Suppressed
+	"Jefferson County, NY"	"36045"	"2017"	"2017"	"31 to 40 pounds"	"4"	Suppressed
+	"Jefferson County, NY"	"36045"	"2017"	"2017"	"41 to 98 pounds"	"5"	Suppressed
+	"Jefferson County, NY"	"36045"	"2018"	"2018"	"Less than 11 pounds"	"1"	Suppressed
+	"Jefferson County, NY"	"36045"	"2018"	"2018"	"11 to 20 pounds"	"2"	Suppressed
+	"Jefferson County, NY"	"36045"	"2018"	"2018"	"21 to 30 pounds"	"3"	Suppressed
+	"Jefferson County, NY"	"36045"	"2018"	"2018"	"31 to 40 pounds"	"4"	Suppressed
+	"Jefferson County, NY"	"36045"	"2018"	"2018"	"41 to 98 pounds"	"5"	Suppressed
+	"Jefferson County, NY"	"36045"	"2019"	"2019"	"Less than 11 pounds"	"1"	Suppressed
+	"Jefferson County, NY"	"36045"	"2019"	"2019"	"11 to 20 pounds"	"2"	Suppressed
+	"Jefferson County, NY"	"36045"	"2019"	"2019"	"21 to 30 pounds"	"3"	Suppressed
+	"Jefferson County, NY"	"36045"	"2019"	"2019"	"31 to 40 pounds"	"4"	Suppressed
+	"Jefferson County, NY"	"36045"	"2019"	"2019"	"41 to 98 pounds"	"5"	Suppressed
+	"Jefferson County, NY"	"36045"	"2020"	"2020"	"Less than 11 pounds"	"1"	Suppressed
+	"Jefferson County, NY"	"36045"	"2020"	"2020"	"11 to 20 pounds"	"2"	Suppressed
+	"Jefferson County, NY"	"36045"	"2020"	"2020"	"21 to 30 pounds"	"3"	Suppressed
+	"Jefferson County, NY"	"36045"	"2020"	"2020"	"31 to 40 pounds"	"4"	Suppressed
+	"Jefferson County, NY"	"36045"	"2020"	"2020"	"41 to 98 pounds"	"5"	Suppressed
+	"Jefferson County, NY"	"36045"	"2021"	"2021"	"Less than 11 pounds"	"1"	Suppressed
+	"Jefferson County, NY"	"36045"	"2021"	"2021"	"11 to 20 pounds"	"2"	Suppressed
+	"Jefferson County, NY"	"36045"	"2021"	"2021"	"21 to 30 pounds"	"3"	Suppressed
+	"Jefferson County, NY"	"36045"	"2021"	"2021"	"31 to 40 pounds"	"4"	Suppressed
+	"Jefferson County, NY"	"36045"	"2021"	"2021"	"41 to 98 pounds"	"5"	Suppressed
+	"Kings County, NY"	"36047"	"2016"	"2016"	"Less than 11 pounds"	"1"	109
+	"Kings County, NY"	"36047"	"2016"	"2016"	"11 to 20 pounds"	"2"	204
+	"Kings County, NY"	"36047"	"2016"	"2016"	"21 to 30 pounds"	"3"	214
+	"Kings County, NY"	"36047"	"2016"	"2016"	"31 to 40 pounds"	"4"	131
+	"Kings County, NY"	"36047"	"2016"	"2016"	"41 to 98 pounds"	"5"	55
+	"Kings County, NY"	"36047"	"2017"	"2017"	"Less than 11 pounds"	"1"	118
+	"Kings County, NY"	"36047"	"2017"	"2017"	"11 to 20 pounds"	"2"	234
+	"Kings County, NY"	"36047"	"2017"	"2017"	"21 to 30 pounds"	"3"	202
+	"Kings County, NY"	"36047"	"2017"	"2017"	"31 to 40 pounds"	"4"	125
+	"Kings County, NY"	"36047"	"2017"	"2017"	"41 to 98 pounds"	"5"	48
+	"Kings County, NY"	"36047"	"2018"	"2018"	"Less than 11 pounds"	"1"	104
+	"Kings County, NY"	"36047"	"2018"	"2018"	"11 to 20 pounds"	"2"	187
+	"Kings County, NY"	"36047"	"2018"	"2018"	"21 to 30 pounds"	"3"	216
+	"Kings County, NY"	"36047"	"2018"	"2018"	"31 to 40 pounds"	"4"	140
+	"Kings County, NY"	"36047"	"2018"	"2018"	"41 to 98 pounds"	"5"	56
+	"Kings County, NY"	"36047"	"2019"	"2019"	"Less than 11 pounds"	"1"	113
+	"Kings County, NY"	"36047"	"2019"	"2019"	"11 to 20 pounds"	"2"	192
+	"Kings County, NY"	"36047"	"2019"	"2019"	"21 to 30 pounds"	"3"	186
+	"Kings County, NY"	"36047"	"2019"	"2019"	"31 to 40 pounds"	"4"	110
+	"Kings County, NY"	"36047"	"2019"	"2019"	"41 to 98 pounds"	"5"	46
+	"Kings County, NY"	"36047"	"2020"	"2020"	"Less than 11 pounds"	"1"	90
+	"Kings County, NY"	"36047"	"2020"	"2020"	"11 to 20 pounds"	"2"	185
+	"Kings County, NY"	"36047"	"2020"	"2020"	"21 to 30 pounds"	"3"	192
+	"Kings County, NY"	"36047"	"2020"	"2020"	"31 to 40 pounds"	"4"	102
+	"Kings County, NY"	"36047"	"2020"	"2020"	"41 to 98 pounds"	"5"	43
+	"Kings County, NY"	"36047"	"2021"	"2021"	"Less than 11 pounds"	"1"	92
+	"Kings County, NY"	"36047"	"2021"	"2021"	"11 to 20 pounds"	"2"	175
+	"Kings County, NY"	"36047"	"2021"	"2021"	"21 to 30 pounds"	"3"	190
+	"Kings County, NY"	"36047"	"2021"	"2021"	"31 to 40 pounds"	"4"	98
+	"Kings County, NY"	"36047"	"2021"	"2021"	"41 to 98 pounds"	"5"	50
+	"Monroe County, NY"	"36055"	"2016"	"2016"	"Less than 11 pounds"	"1"	32
+	"Monroe County, NY"	"36055"	"2016"	"2016"	"11 to 20 pounds"	"2"	31
+	"Monroe County, NY"	"36055"	"2016"	"2016"	"21 to 30 pounds"	"3"	16
+	"Monroe County, NY"	"36055"	"2016"	"2016"	"31 to 40 pounds"	"4"	18
+	"Monroe County, NY"	"36055"	"2016"	"2016"	"41 to 98 pounds"	"5"	17
+	"Monroe County, NY"	"36055"	"2017"	"2017"	"Less than 11 pounds"	"1"	41
+	"Monroe County, NY"	"36055"	"2017"	"2017"	"11 to 20 pounds"	"2"	36
+	"Monroe County, NY"	"36055"	"2017"	"2017"	"21 to 30 pounds"	"3"	32
+	"Monroe County, NY"	"36055"	"2017"	"2017"	"31 to 40 pounds"	"4"	27
+	"Monroe County, NY"	"36055"	"2017"	"2017"	"41 to 98 pounds"	"5"	10
+	"Monroe County, NY"	"36055"	"2018"	"2018"	"Less than 11 pounds"	"1"	33
+	"Monroe County, NY"	"36055"	"2018"	"2018"	"11 to 20 pounds"	"2"	47
+	"Monroe County, NY"	"36055"	"2018"	"2018"	"21 to 30 pounds"	"3"	31
+	"Monroe County, NY"	"36055"	"2018"	"2018"	"31 to 40 pounds"	"4"	24
+	"Monroe County, NY"	"36055"	"2018"	"2018"	"41 to 98 pounds"	"5"	16
+	"Monroe County, NY"	"36055"	"2019"	"2019"	"Less than 11 pounds"	"1"	40
+	"Monroe County, NY"	"36055"	"2019"	"2019"	"11 to 20 pounds"	"2"	46
+	"Monroe County, NY"	"36055"	"2019"	"2019"	"21 to 30 pounds"	"3"	34
+	"Monroe County, NY"	"36055"	"2019"	"2019"	"31 to 40 pounds"	"4"	22
+	"Monroe County, NY"	"36055"	"2019"	"2019"	"41 to 98 pounds"	"5"	Suppressed
+	"Monroe County, NY"	"36055"	"2020"	"2020"	"Less than 11 pounds"	"1"	25
+	"Monroe County, NY"	"36055"	"2020"	"2020"	"11 to 20 pounds"	"2"	32
+	"Monroe County, NY"	"36055"	"2020"	"2020"	"21 to 30 pounds"	"3"	29
+	"Monroe County, NY"	"36055"	"2020"	"2020"	"31 to 40 pounds"	"4"	13
+	"Monroe County, NY"	"36055"	"2020"	"2020"	"41 to 98 pounds"	"5"	11
+	"Monroe County, NY"	"36055"	"2021"	"2021"	"Less than 11 pounds"	"1"	46
+	"Monroe County, NY"	"36055"	"2021"	"2021"	"11 to 20 pounds"	"2"	35
+	"Monroe County, NY"	"36055"	"2021"	"2021"	"21 to 30 pounds"	"3"	40
+	"Monroe County, NY"	"36055"	"2021"	"2021"	"31 to 40 pounds"	"4"	12
+	"Monroe County, NY"	"36055"	"2021"	"2021"	"41 to 98 pounds"	"5"	11
+	"Nassau County, NY"	"36059"	"2016"	"2016"	"Less than 11 pounds"	"1"	39
+	"Nassau County, NY"	"36059"	"2016"	"2016"	"11 to 20 pounds"	"2"	84
+	"Nassau County, NY"	"36059"	"2016"	"2016"	"21 to 30 pounds"	"3"	73
+	"Nassau County, NY"	"36059"	"2016"	"2016"	"31 to 40 pounds"	"4"	27
+	"Nassau County, NY"	"36059"	"2016"	"2016"	"41 to 98 pounds"	"5"	20
+	"Nassau County, NY"	"36059"	"2017"	"2017"	"Less than 11 pounds"	"1"	47
+	"Nassau County, NY"	"36059"	"2017"	"2017"	"11 to 20 pounds"	"2"	62
+	"Nassau County, NY"	"36059"	"2017"	"2017"	"21 to 30 pounds"	"3"	74
+	"Nassau County, NY"	"36059"	"2017"	"2017"	"31 to 40 pounds"	"4"	37
+	"Nassau County, NY"	"36059"	"2017"	"2017"	"41 to 98 pounds"	"5"	24
+	"Nassau County, NY"	"36059"	"2018"	"2018"	"Less than 11 pounds"	"1"	45
+	"Nassau County, NY"	"36059"	"2018"	"2018"	"11 to 20 pounds"	"2"	68
+	"Nassau County, NY"	"36059"	"2018"	"2018"	"21 to 30 pounds"	"3"	64
+	"Nassau County, NY"	"36059"	"2018"	"2018"	"31 to 40 pounds"	"4"	35
+	"Nassau County, NY"	"36059"	"2018"	"2018"	"41 to 98 pounds"	"5"	15
+	"Nassau County, NY"	"36059"	"2019"	"2019"	"Less than 11 pounds"	"1"	41
+	"Nassau County, NY"	"36059"	"2019"	"2019"	"11 to 20 pounds"	"2"	71
+	"Nassau County, NY"	"36059"	"2019"	"2019"	"21 to 30 pounds"	"3"	63
+	"Nassau County, NY"	"36059"	"2019"	"2019"	"31 to 40 pounds"	"4"	24
+	"Nassau County, NY"	"36059"	"2019"	"2019"	"41 to 98 pounds"	"5"	22
+	"Nassau County, NY"	"36059"	"2020"	"2020"	"Less than 11 pounds"	"1"	39
+	"Nassau County, NY"	"36059"	"2020"	"2020"	"11 to 20 pounds"	"2"	65
+	"Nassau County, NY"	"36059"	"2020"	"2020"	"21 to 30 pounds"	"3"	72
+	"Nassau County, NY"	"36059"	"2020"	"2020"	"31 to 40 pounds"	"4"	21
+	"Nassau County, NY"	"36059"	"2020"	"2020"	"41 to 98 pounds"	"5"	28
+	"Nassau County, NY"	"36059"	"2021"	"2021"	"Less than 11 pounds"	"1"	36
+	"Nassau County, NY"	"36059"	"2021"	"2021"	"11 to 20 pounds"	"2"	70
+	"Nassau County, NY"	"36059"	"2021"	"2021"	"21 to 30 pounds"	"3"	60
+	"Nassau County, NY"	"36059"	"2021"	"2021"	"31 to 40 pounds"	"4"	38
+	"Nassau County, NY"	"36059"	"2021"	"2021"	"41 to 98 pounds"	"5"	28
+	"New York County, NY"	"36061"	"2016"	"2016"	"Less than 11 pounds"	"1"	36
+	"New York County, NY"	"36061"	"2016"	"2016"	"11 to 20 pounds"	"2"	69
+	"New York County, NY"	"36061"	"2016"	"2016"	"21 to 30 pounds"	"3"	86
+	"New York County, NY"	"36061"	"2016"	"2016"	"31 to 40 pounds"	"4"	34
+	"New York County, NY"	"36061"	"2016"	"2016"	"41 to 98 pounds"	"5"	23
+	"New York County, NY"	"36061"	"2017"	"2017"	"Less than 11 pounds"	"1"	44
+	"New York County, NY"	"36061"	"2017"	"2017"	"11 to 20 pounds"	"2"	84
+	"New York County, NY"	"36061"	"2017"	"2017"	"21 to 30 pounds"	"3"	95
+	"New York County, NY"	"36061"	"2017"	"2017"	"31 to 40 pounds"	"4"	62
+	"New York County, NY"	"36061"	"2017"	"2017"	"41 to 98 pounds"	"5"	11
+	"New York County, NY"	"36061"	"2018"	"2018"	"Less than 11 pounds"	"1"	46
+	"New York County, NY"	"36061"	"2018"	"2018"	"11 to 20 pounds"	"2"	89
+	"New York County, NY"	"36061"	"2018"	"2018"	"21 to 30 pounds"	"3"	98
+	"New York County, NY"	"36061"	"2018"	"2018"	"31 to 40 pounds"	"4"	48
+	"New York County, NY"	"36061"	"2018"	"2018"	"41 to 98 pounds"	"5"	20
+	"New York County, NY"	"36061"	"2019"	"2019"	"Less than 11 pounds"	"1"	39
+	"New York County, NY"	"36061"	"2019"	"2019"	"11 to 20 pounds"	"2"	83
+	"New York County, NY"	"36061"	"2019"	"2019"	"21 to 30 pounds"	"3"	87
+	"New York County, NY"	"36061"	"2019"	"2019"	"31 to 40 pounds"	"4"	27
+	"New York County, NY"	"36061"	"2019"	"2019"	"41 to 98 pounds"	"5"	20
+	"New York County, NY"	"36061"	"2020"	"2020"	"Less than 11 pounds"	"1"	52
+	"New York County, NY"	"36061"	"2020"	"2020"	"11 to 20 pounds"	"2"	64
+	"New York County, NY"	"36061"	"2020"	"2020"	"21 to 30 pounds"	"3"	73
+	"New York County, NY"	"36061"	"2020"	"2020"	"31 to 40 pounds"	"4"	40
+	"New York County, NY"	"36061"	"2020"	"2020"	"41 to 98 pounds"	"5"	18
+	"New York County, NY"	"36061"	"2021"	"2021"	"Less than 11 pounds"	"1"	41
+	"New York County, NY"	"36061"	"2021"	"2021"	"11 to 20 pounds"	"2"	75
+	"New York County, NY"	"36061"	"2021"	"2021"	"21 to 30 pounds"	"3"	79
+	"New York County, NY"	"36061"	"2021"	"2021"	"31 to 40 pounds"	"4"	36
+	"New York County, NY"	"36061"	"2021"	"2021"	"41 to 98 pounds"	"5"	Suppressed
+	"Niagara County, NY"	"36063"	"2016"	"2016"	"Less than 11 pounds"	"1"	11
+	"Niagara County, NY"	"36063"	"2016"	"2016"	"11 to 20 pounds"	"2"	Suppressed
+	"Niagara County, NY"	"36063"	"2016"	"2016"	"21 to 30 pounds"	"3"	10
+	"Niagara County, NY"	"36063"	"2016"	"2016"	"31 to 40 pounds"	"4"	Suppressed
+	"Niagara County, NY"	"36063"	"2016"	"2016"	"41 to 98 pounds"	"5"	Suppressed
+	"Niagara County, NY"	"36063"	"2017"	"2017"	"Less than 11 pounds"	"1"	Suppressed
+	"Niagara County, NY"	"36063"	"2017"	"2017"	"11 to 20 pounds"	"2"	13
+	"Niagara County, NY"	"36063"	"2017"	"2017"	"21 to 30 pounds"	"3"	10
+	"Niagara County, NY"	"36063"	"2017"	"2017"	"31 to 40 pounds"	"4"	Suppressed
+	"Niagara County, NY"	"36063"	"2017"	"2017"	"41 to 98 pounds"	"5"	Suppressed
+	"Niagara County, NY"	"36063"	"2018"	"2018"	"Less than 11 pounds"	"1"	Suppressed
+	"Niagara County, NY"	"36063"	"2018"	"2018"	"11 to 20 pounds"	"2"	11
+	"Niagara County, NY"	"36063"	"2018"	"2018"	"21 to 30 pounds"	"3"	11
+	"Niagara County, NY"	"36063"	"2018"	"2018"	"31 to 40 pounds"	"4"	Suppressed
+	"Niagara County, NY"	"36063"	"2018"	"2018"	"41 to 98 pounds"	"5"	Suppressed
+	"Niagara County, NY"	"36063"	"2019"	"2019"	"Less than 11 pounds"	"1"	Suppressed
+	"Niagara County, NY"	"36063"	"2019"	"2019"	"11 to 20 pounds"	"2"	Suppressed
+	"Niagara County, NY"	"36063"	"2019"	"2019"	"21 to 30 pounds"	"3"	Suppressed
+	"Niagara County, NY"	"36063"	"2019"	"2019"	"31 to 40 pounds"	"4"	Suppressed
+	"Niagara County, NY"	"36063"	"2019"	"2019"	"41 to 98 pounds"	"5"	Suppressed
+	"Niagara County, NY"	"36063"	"2020"	"2020"	"Less than 11 pounds"	"1"	Suppressed
+	"Niagara County, NY"	"36063"	"2020"	"2020"	"11 to 20 pounds"	"2"	Suppressed
+	"Niagara County, NY"	"36063"	"2020"	"2020"	"21 to 30 pounds"	"3"	Suppressed
+	"Niagara County, NY"	"36063"	"2020"	"2020"	"31 to 40 pounds"	"4"	Suppressed
+	"Niagara County, NY"	"36063"	"2020"	"2020"	"41 to 98 pounds"	"5"	Suppressed
+	"Niagara County, NY"	"36063"	"2021"	"2021"	"Less than 11 pounds"	"1"	Suppressed
+	"Niagara County, NY"	"36063"	"2021"	"2021"	"11 to 20 pounds"	"2"	11
+	"Niagara County, NY"	"36063"	"2021"	"2021"	"21 to 30 pounds"	"3"	Suppressed
+	"Niagara County, NY"	"36063"	"2021"	"2021"	"31 to 40 pounds"	"4"	Suppressed
+	"Niagara County, NY"	"36063"	"2021"	"2021"	"41 to 98 pounds"	"5"	Suppressed
+	"Oneida County, NY"	"36065"	"2016"	"2016"	"Less than 11 pounds"	"1"	13
+	"Oneida County, NY"	"36065"	"2016"	"2016"	"11 to 20 pounds"	"2"	Suppressed
+	"Oneida County, NY"	"36065"	"2016"	"2016"	"21 to 30 pounds"	"3"	Suppressed
+	"Oneida County, NY"	"36065"	"2016"	"2016"	"31 to 40 pounds"	"4"	Suppressed
+	"Oneida County, NY"	"36065"	"2016"	"2016"	"41 to 98 pounds"	"5"	Suppressed
+	"Oneida County, NY"	"36065"	"2017"	"2017"	"Less than 11 pounds"	"1"	11
+	"Oneida County, NY"	"36065"	"2017"	"2017"	"11 to 20 pounds"	"2"	19
+	"Oneida County, NY"	"36065"	"2017"	"2017"	"21 to 30 pounds"	"3"	Suppressed
+	"Oneida County, NY"	"36065"	"2017"	"2017"	"31 to 40 pounds"	"4"	Suppressed
+	"Oneida County, NY"	"36065"	"2017"	"2017"	"41 to 98 pounds"	"5"	Suppressed
+	"Oneida County, NY"	"36065"	"2018"	"2018"	"Less than 11 pounds"	"1"	Suppressed
+	"Oneida County, NY"	"36065"	"2018"	"2018"	"11 to 20 pounds"	"2"	17
+	"Oneida County, NY"	"36065"	"2018"	"2018"	"21 to 30 pounds"	"3"	Suppressed
+	"Oneida County, NY"	"36065"	"2018"	"2018"	"31 to 40 pounds"	"4"	Suppressed
+	"Oneida County, NY"	"36065"	"2018"	"2018"	"41 to 98 pounds"	"5"	Suppressed
+	"Oneida County, NY"	"36065"	"2019"	"2019"	"Less than 11 pounds"	"1"	15
+	"Oneida County, NY"	"36065"	"2019"	"2019"	"11 to 20 pounds"	"2"	Suppressed
+	"Oneida County, NY"	"36065"	"2019"	"2019"	"21 to 30 pounds"	"3"	12
+	"Oneida County, NY"	"36065"	"2019"	"2019"	"31 to 40 pounds"	"4"	Suppressed
+	"Oneida County, NY"	"36065"	"2019"	"2019"	"41 to 98 pounds"	"5"	Suppressed
+	"Oneida County, NY"	"36065"	"2020"	"2020"	"Less than 11 pounds"	"1"	20
+	"Oneida County, NY"	"36065"	"2020"	"2020"	"11 to 20 pounds"	"2"	14
+	"Oneida County, NY"	"36065"	"2020"	"2020"	"21 to 30 pounds"	"3"	13
+	"Oneida County, NY"	"36065"	"2020"	"2020"	"31 to 40 pounds"	"4"	Suppressed
+	"Oneida County, NY"	"36065"	"2020"	"2020"	"41 to 98 pounds"	"5"	Suppressed
+	"Oneida County, NY"	"36065"	"2021"	"2021"	"Less than 11 pounds"	"1"	Suppressed
+	"Oneida County, NY"	"36065"	"2021"	"2021"	"11 to 20 pounds"	"2"	16
+	"Oneida County, NY"	"36065"	"2021"	"2021"	"21 to 30 pounds"	"3"	Suppressed
+	"Oneida County, NY"	"36065"	"2021"	"2021"	"31 to 40 pounds"	"4"	Suppressed
+	"Oneida County, NY"	"36065"	"2021"	"2021"	"41 to 98 pounds"	"5"	Suppressed
+	"Onondaga County, NY"	"36067"	"2016"	"2016"	"Less than 11 pounds"	"1"	22
+	"Onondaga County, NY"	"36067"	"2016"	"2016"	"11 to 20 pounds"	"2"	33
+	"Onondaga County, NY"	"36067"	"2016"	"2016"	"21 to 30 pounds"	"3"	Suppressed
+	"Onondaga County, NY"	"36067"	"2016"	"2016"	"31 to 40 pounds"	"4"	12
+	"Onondaga County, NY"	"36067"	"2016"	"2016"	"41 to 98 pounds"	"5"	Suppressed
+	"Onondaga County, NY"	"36067"	"2017"	"2017"	"Less than 11 pounds"	"1"	25
+	"Onondaga County, NY"	"36067"	"2017"	"2017"	"11 to 20 pounds"	"2"	25
+	"Onondaga County, NY"	"36067"	"2017"	"2017"	"21 to 30 pounds"	"3"	19
+	"Onondaga County, NY"	"36067"	"2017"	"2017"	"31 to 40 pounds"	"4"	10
+	"Onondaga County, NY"	"36067"	"2017"	"2017"	"41 to 98 pounds"	"5"	10
+	"Onondaga County, NY"	"36067"	"2018"	"2018"	"Less than 11 pounds"	"1"	32
+	"Onondaga County, NY"	"36067"	"2018"	"2018"	"11 to 20 pounds"	"2"	23
+	"Onondaga County, NY"	"36067"	"2018"	"2018"	"21 to 30 pounds"	"3"	20
+	"Onondaga County, NY"	"36067"	"2018"	"2018"	"31 to 40 pounds"	"4"	11
+	"Onondaga County, NY"	"36067"	"2018"	"2018"	"41 to 98 pounds"	"5"	Suppressed
+	"Onondaga County, NY"	"36067"	"2019"	"2019"	"Less than 11 pounds"	"1"	17
+	"Onondaga County, NY"	"36067"	"2019"	"2019"	"11 to 20 pounds"	"2"	30
+	"Onondaga County, NY"	"36067"	"2019"	"2019"	"21 to 30 pounds"	"3"	18
+	"Onondaga County, NY"	"36067"	"2019"	"2019"	"31 to 40 pounds"	"4"	Suppressed
+	"Onondaga County, NY"	"36067"	"2019"	"2019"	"41 to 98 pounds"	"5"	Suppressed
+	"Onondaga County, NY"	"36067"	"2020"	"2020"	"Less than 11 pounds"	"1"	36
+	"Onondaga County, NY"	"36067"	"2020"	"2020"	"11 to 20 pounds"	"2"	26
+	"Onondaga County, NY"	"36067"	"2020"	"2020"	"21 to 30 pounds"	"3"	20
+	"Onondaga County, NY"	"36067"	"2020"	"2020"	"31 to 40 pounds"	"4"	Suppressed
+	"Onondaga County, NY"	"36067"	"2020"	"2020"	"41 to 98 pounds"	"5"	Suppressed
+	"Onondaga County, NY"	"36067"	"2021"	"2021"	"Less than 11 pounds"	"1"	24
+	"Onondaga County, NY"	"36067"	"2021"	"2021"	"11 to 20 pounds"	"2"	21
+	"Onondaga County, NY"	"36067"	"2021"	"2021"	"21 to 30 pounds"	"3"	22
+	"Onondaga County, NY"	"36067"	"2021"	"2021"	"31 to 40 pounds"	"4"	Suppressed
+	"Onondaga County, NY"	"36067"	"2021"	"2021"	"41 to 98 pounds"	"5"	Suppressed
+	"Ontario County, NY"	"36069"	"2016"	"2016"	"Less than 11 pounds"	"1"	Suppressed
+	"Ontario County, NY"	"36069"	"2016"	"2016"	"11 to 20 pounds"	"2"	Suppressed
+	"Ontario County, NY"	"36069"	"2016"	"2016"	"21 to 30 pounds"	"3"	Suppressed
+	"Ontario County, NY"	"36069"	"2016"	"2016"	"31 to 40 pounds"	"4"	Suppressed
+	"Ontario County, NY"	"36069"	"2016"	"2016"	"41 to 98 pounds"	"5"	Suppressed
+	"Ontario County, NY"	"36069"	"2017"	"2017"	"Less than 11 pounds"	"1"	Suppressed
+	"Ontario County, NY"	"36069"	"2017"	"2017"	"11 to 20 pounds"	"2"	Suppressed
+	"Ontario County, NY"	"36069"	"2017"	"2017"	"21 to 30 pounds"	"3"	Suppressed
+	"Ontario County, NY"	"36069"	"2017"	"2017"	"31 to 40 pounds"	"4"	Suppressed
+	"Ontario County, NY"	"36069"	"2017"	"2017"	"41 to 98 pounds"	"5"	Suppressed
+	"Ontario County, NY"	"36069"	"2018"	"2018"	"Less than 11 pounds"	"1"	Suppressed
+	"Ontario County, NY"	"36069"	"2018"	"2018"	"11 to 20 pounds"	"2"	Suppressed
+	"Ontario County, NY"	"36069"	"2018"	"2018"	"21 to 30 pounds"	"3"	Suppressed
+	"Ontario County, NY"	"36069"	"2018"	"2018"	"31 to 40 pounds"	"4"	Suppressed
+	"Ontario County, NY"	"36069"	"2018"	"2018"	"41 to 98 pounds"	"5"	Suppressed
+	"Ontario County, NY"	"36069"	"2019"	"2019"	"Less than 11 pounds"	"1"	Suppressed
+	"Ontario County, NY"	"36069"	"2019"	"2019"	"11 to 20 pounds"	"2"	Suppressed
+	"Ontario County, NY"	"36069"	"2019"	"2019"	"21 to 30 pounds"	"3"	Suppressed
+	"Ontario County, NY"	"36069"	"2019"	"2019"	"31 to 40 pounds"	"4"	Suppressed
+	"Ontario County, NY"	"36069"	"2019"	"2019"	"41 to 98 pounds"	"5"	Suppressed
+	"Ontario County, NY"	"36069"	"2020"	"2020"	"Less than 11 pounds"	"1"	Suppressed
+	"Ontario County, NY"	"36069"	"2020"	"2020"	"11 to 20 pounds"	"2"	Suppressed
+	"Ontario County, NY"	"36069"	"2020"	"2020"	"21 to 30 pounds"	"3"	Suppressed
+	"Ontario County, NY"	"36069"	"2020"	"2020"	"31 to 40 pounds"	"4"	Suppressed
+	"Ontario County, NY"	"36069"	"2020"	"2020"	"41 to 98 pounds"	"5"	Suppressed
+	"Ontario County, NY"	"36069"	"2021"	"2021"	"Less than 11 pounds"	"1"	Suppressed
+	"Ontario County, NY"	"36069"	"2021"	"2021"	"11 to 20 pounds"	"2"	Suppressed
+	"Ontario County, NY"	"36069"	"2021"	"2021"	"21 to 30 pounds"	"3"	Suppressed
+	"Ontario County, NY"	"36069"	"2021"	"2021"	"31 to 40 pounds"	"4"	Suppressed
+	"Ontario County, NY"	"36069"	"2021"	"2021"	"41 to 98 pounds"	"5"	Suppressed
+	"Orange County, NY"	"36071"	"2016"	"2016"	"Less than 11 pounds"	"1"	Suppressed
+	"Orange County, NY"	"36071"	"2016"	"2016"	"11 to 20 pounds"	"2"	22
+	"Orange County, NY"	"36071"	"2016"	"2016"	"21 to 30 pounds"	"3"	21
+	"Orange County, NY"	"36071"	"2016"	"2016"	"31 to 40 pounds"	"4"	Suppressed
+	"Orange County, NY"	"36071"	"2016"	"2016"	"41 to 98 pounds"	"5"	Suppressed
+	"Orange County, NY"	"36071"	"2017"	"2017"	"Less than 11 pounds"	"1"	12
+	"Orange County, NY"	"36071"	"2017"	"2017"	"11 to 20 pounds"	"2"	19
+	"Orange County, NY"	"36071"	"2017"	"2017"	"21 to 30 pounds"	"3"	18
+	"Orange County, NY"	"36071"	"2017"	"2017"	"31 to 40 pounds"	"4"	Suppressed
+	"Orange County, NY"	"36071"	"2017"	"2017"	"41 to 98 pounds"	"5"	Suppressed
+	"Orange County, NY"	"36071"	"2018"	"2018"	"Less than 11 pounds"	"1"	18
+	"Orange County, NY"	"36071"	"2018"	"2018"	"11 to 20 pounds"	"2"	24
+	"Orange County, NY"	"36071"	"2018"	"2018"	"21 to 30 pounds"	"3"	17
+	"Orange County, NY"	"36071"	"2018"	"2018"	"31 to 40 pounds"	"4"	10
+	"Orange County, NY"	"36071"	"2018"	"2018"	"41 to 98 pounds"	"5"	Suppressed
+	"Orange County, NY"	"36071"	"2019"	"2019"	"Less than 11 pounds"	"1"	13
+	"Orange County, NY"	"36071"	"2019"	"2019"	"11 to 20 pounds"	"2"	28
+	"Orange County, NY"	"36071"	"2019"	"2019"	"21 to 30 pounds"	"3"	14
+	"Orange County, NY"	"36071"	"2019"	"2019"	"31 to 40 pounds"	"4"	Suppressed
+	"Orange County, NY"	"36071"	"2019"	"2019"	"41 to 98 pounds"	"5"	Suppressed
+	"Orange County, NY"	"36071"	"2020"	"2020"	"Less than 11 pounds"	"1"	Suppressed
+	"Orange County, NY"	"36071"	"2020"	"2020"	"11 to 20 pounds"	"2"	12
+	"Orange County, NY"	"36071"	"2020"	"2020"	"21 to 30 pounds"	"3"	20
+	"Orange County, NY"	"36071"	"2020"	"2020"	"31 to 40 pounds"	"4"	Suppressed
+	"Orange County, NY"	"36071"	"2020"	"2020"	"41 to 98 pounds"	"5"	Suppressed
+	"Orange County, NY"	"36071"	"2021"	"2021"	"Less than 11 pounds"	"1"	15
+	"Orange County, NY"	"36071"	"2021"	"2021"	"11 to 20 pounds"	"2"	24
+	"Orange County, NY"	"36071"	"2021"	"2021"	"21 to 30 pounds"	"3"	20
+	"Orange County, NY"	"36071"	"2021"	"2021"	"31 to 40 pounds"	"4"	Suppressed
+	"Orange County, NY"	"36071"	"2021"	"2021"	"41 to 98 pounds"	"5"	Suppressed
+	"Oswego County, NY"	"36075"	"2016"	"2016"	"Less than 11 pounds"	"1"	Suppressed
+	"Oswego County, NY"	"36075"	"2016"	"2016"	"11 to 20 pounds"	"2"	Suppressed
+	"Oswego County, NY"	"36075"	"2016"	"2016"	"21 to 30 pounds"	"3"	Suppressed
+	"Oswego County, NY"	"36075"	"2016"	"2016"	"31 to 40 pounds"	"4"	Suppressed
+	"Oswego County, NY"	"36075"	"2016"	"2016"	"41 to 98 pounds"	"5"	Suppressed
+	"Oswego County, NY"	"36075"	"2017"	"2017"	"Less than 11 pounds"	"1"	Suppressed
+	"Oswego County, NY"	"36075"	"2017"	"2017"	"11 to 20 pounds"	"2"	Suppressed
+	"Oswego County, NY"	"36075"	"2017"	"2017"	"21 to 30 pounds"	"3"	Suppressed
+	"Oswego County, NY"	"36075"	"2017"	"2017"	"31 to 40 pounds"	"4"	Suppressed
+	"Oswego County, NY"	"36075"	"2017"	"2017"	"41 to 98 pounds"	"5"	Suppressed
+	"Oswego County, NY"	"36075"	"2018"	"2018"	"Less than 11 pounds"	"1"	Suppressed
+	"Oswego County, NY"	"36075"	"2018"	"2018"	"11 to 20 pounds"	"2"	Suppressed
+	"Oswego County, NY"	"36075"	"2018"	"2018"	"21 to 30 pounds"	"3"	Suppressed
+	"Oswego County, NY"	"36075"	"2018"	"2018"	"31 to 40 pounds"	"4"	Suppressed
+	"Oswego County, NY"	"36075"	"2018"	"2018"	"41 to 98 pounds"	"5"	Suppressed
+	"Oswego County, NY"	"36075"	"2019"	"2019"	"Less than 11 pounds"	"1"	Suppressed
+	"Oswego County, NY"	"36075"	"2019"	"2019"	"11 to 20 pounds"	"2"	Suppressed
+	"Oswego County, NY"	"36075"	"2019"	"2019"	"21 to 30 pounds"	"3"	Suppressed
+	"Oswego County, NY"	"36075"	"2019"	"2019"	"31 to 40 pounds"	"4"	Suppressed
+	"Oswego County, NY"	"36075"	"2019"	"2019"	"41 to 98 pounds"	"5"	Suppressed
+	"Oswego County, NY"	"36075"	"2020"	"2020"	"Less than 11 pounds"	"1"	Suppressed
+	"Oswego County, NY"	"36075"	"2020"	"2020"	"11 to 20 pounds"	"2"	Suppressed
+	"Oswego County, NY"	"36075"	"2020"	"2020"	"21 to 30 pounds"	"3"	Suppressed
+	"Oswego County, NY"	"36075"	"2020"	"2020"	"31 to 40 pounds"	"4"	Suppressed
+	"Oswego County, NY"	"36075"	"2020"	"2020"	"41 to 98 pounds"	"5"	Suppressed
+	"Oswego County, NY"	"36075"	"2021"	"2021"	"Less than 11 pounds"	"1"	Suppressed
+	"Oswego County, NY"	"36075"	"2021"	"2021"	"11 to 20 pounds"	"2"	Suppressed
+	"Oswego County, NY"	"36075"	"2021"	"2021"	"21 to 30 pounds"	"3"	Suppressed
+	"Oswego County, NY"	"36075"	"2021"	"2021"	"31 to 40 pounds"	"4"	Suppressed
+	"Oswego County, NY"	"36075"	"2021"	"2021"	"41 to 98 pounds"	"5"	Suppressed
+	"Queens County, NY"	"36081"	"2016"	"2016"	"Less than 11 pounds"	"1"	114
+	"Queens County, NY"	"36081"	"2016"	"2016"	"11 to 20 pounds"	"2"	157
+	"Queens County, NY"	"36081"	"2016"	"2016"	"21 to 30 pounds"	"3"	146
+	"Queens County, NY"	"36081"	"2016"	"2016"	"31 to 40 pounds"	"4"	82
+	"Queens County, NY"	"36081"	"2016"	"2016"	"41 to 98 pounds"	"5"	51
+	"Queens County, NY"	"36081"	"2017"	"2017"	"Less than 11 pounds"	"1"	116
+	"Queens County, NY"	"36081"	"2017"	"2017"	"11 to 20 pounds"	"2"	175
+	"Queens County, NY"	"36081"	"2017"	"2017"	"21 to 30 pounds"	"3"	154
+	"Queens County, NY"	"36081"	"2017"	"2017"	"31 to 40 pounds"	"4"	81
+	"Queens County, NY"	"36081"	"2017"	"2017"	"41 to 98 pounds"	"5"	34
+	"Queens County, NY"	"36081"	"2018"	"2018"	"Less than 11 pounds"	"1"	125
+	"Queens County, NY"	"36081"	"2018"	"2018"	"11 to 20 pounds"	"2"	173
+	"Queens County, NY"	"36081"	"2018"	"2018"	"21 to 30 pounds"	"3"	162
+	"Queens County, NY"	"36081"	"2018"	"2018"	"31 to 40 pounds"	"4"	75
+	"Queens County, NY"	"36081"	"2018"	"2018"	"41 to 98 pounds"	"5"	39
+	"Queens County, NY"	"36081"	"2019"	"2019"	"Less than 11 pounds"	"1"	102
+	"Queens County, NY"	"36081"	"2019"	"2019"	"11 to 20 pounds"	"2"	170
+	"Queens County, NY"	"36081"	"2019"	"2019"	"21 to 30 pounds"	"3"	168
+	"Queens County, NY"	"36081"	"2019"	"2019"	"31 to 40 pounds"	"4"	77
+	"Queens County, NY"	"36081"	"2019"	"2019"	"41 to 98 pounds"	"5"	38
+	"Queens County, NY"	"36081"	"2020"	"2020"	"Less than 11 pounds"	"1"	106
+	"Queens County, NY"	"36081"	"2020"	"2020"	"11 to 20 pounds"	"2"	151
+	"Queens County, NY"	"36081"	"2020"	"2020"	"21 to 30 pounds"	"3"	126
+	"Queens County, NY"	"36081"	"2020"	"2020"	"31 to 40 pounds"	"4"	75
+	"Queens County, NY"	"36081"	"2020"	"2020"	"41 to 98 pounds"	"5"	38
+	"Queens County, NY"	"36081"	"2021"	"2021"	"Less than 11 pounds"	"1"	103
+	"Queens County, NY"	"36081"	"2021"	"2021"	"11 to 20 pounds"	"2"	188
+	"Queens County, NY"	"36081"	"2021"	"2021"	"21 to 30 pounds"	"3"	126
+	"Queens County, NY"	"36081"	"2021"	"2021"	"31 to 40 pounds"	"4"	55
+	"Queens County, NY"	"36081"	"2021"	"2021"	"41 to 98 pounds"	"5"	49
+	"Rensselaer County, NY"	"36083"	"2016"	"2016"	"Less than 11 pounds"	"1"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2016"	"2016"	"11 to 20 pounds"	"2"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2016"	"2016"	"21 to 30 pounds"	"3"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2016"	"2016"	"31 to 40 pounds"	"4"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2016"	"2016"	"41 to 98 pounds"	"5"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2017"	"2017"	"Less than 11 pounds"	"1"	10
+	"Rensselaer County, NY"	"36083"	"2017"	"2017"	"11 to 20 pounds"	"2"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2017"	"2017"	"21 to 30 pounds"	"3"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2017"	"2017"	"31 to 40 pounds"	"4"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2017"	"2017"	"41 to 98 pounds"	"5"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2018"	"2018"	"Less than 11 pounds"	"1"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2018"	"2018"	"11 to 20 pounds"	"2"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2018"	"2018"	"21 to 30 pounds"	"3"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2018"	"2018"	"31 to 40 pounds"	"4"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2018"	"2018"	"41 to 98 pounds"	"5"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2019"	"2019"	"Less than 11 pounds"	"1"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2019"	"2019"	"11 to 20 pounds"	"2"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2019"	"2019"	"21 to 30 pounds"	"3"	13
+	"Rensselaer County, NY"	"36083"	"2019"	"2019"	"31 to 40 pounds"	"4"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2019"	"2019"	"41 to 98 pounds"	"5"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2020"	"2020"	"Less than 11 pounds"	"1"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2020"	"2020"	"11 to 20 pounds"	"2"	14
+	"Rensselaer County, NY"	"36083"	"2020"	"2020"	"21 to 30 pounds"	"3"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2020"	"2020"	"31 to 40 pounds"	"4"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2020"	"2020"	"41 to 98 pounds"	"5"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2021"	"2021"	"Less than 11 pounds"	"1"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2021"	"2021"	"11 to 20 pounds"	"2"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2021"	"2021"	"21 to 30 pounds"	"3"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2021"	"2021"	"31 to 40 pounds"	"4"	Suppressed
+	"Rensselaer County, NY"	"36083"	"2021"	"2021"	"41 to 98 pounds"	"5"	Suppressed
+	"Richmond County, NY"	"36085"	"2016"	"2016"	"Less than 11 pounds"	"1"	Suppressed
+	"Richmond County, NY"	"36085"	"2016"	"2016"	"11 to 20 pounds"	"2"	20
+	"Richmond County, NY"	"36085"	"2016"	"2016"	"21 to 30 pounds"	"3"	24
+	"Richmond County, NY"	"36085"	"2016"	"2016"	"31 to 40 pounds"	"4"	10
+	"Richmond County, NY"	"36085"	"2016"	"2016"	"41 to 98 pounds"	"5"	10
+	"Richmond County, NY"	"36085"	"2017"	"2017"	"Less than 11 pounds"	"1"	11
+	"Richmond County, NY"	"36085"	"2017"	"2017"	"11 to 20 pounds"	"2"	21
+	"Richmond County, NY"	"36085"	"2017"	"2017"	"21 to 30 pounds"	"3"	28
+	"Richmond County, NY"	"36085"	"2017"	"2017"	"31 to 40 pounds"	"4"	15
+	"Richmond County, NY"	"36085"	"2017"	"2017"	"41 to 98 pounds"	"5"	17
+	"Richmond County, NY"	"36085"	"2018"	"2018"	"Less than 11 pounds"	"1"	14
+	"Richmond County, NY"	"36085"	"2018"	"2018"	"11 to 20 pounds"	"2"	21
+	"Richmond County, NY"	"36085"	"2018"	"2018"	"21 to 30 pounds"	"3"	27
+	"Richmond County, NY"	"36085"	"2018"	"2018"	"31 to 40 pounds"	"4"	16
+	"Richmond County, NY"	"36085"	"2018"	"2018"	"41 to 98 pounds"	"5"	13
+	"Richmond County, NY"	"36085"	"2019"	"2019"	"Less than 11 pounds"	"1"	21
+	"Richmond County, NY"	"36085"	"2019"	"2019"	"11 to 20 pounds"	"2"	27
+	"Richmond County, NY"	"36085"	"2019"	"2019"	"21 to 30 pounds"	"3"	26
+	"Richmond County, NY"	"36085"	"2019"	"2019"	"31 to 40 pounds"	"4"	15
+	"Richmond County, NY"	"36085"	"2019"	"2019"	"41 to 98 pounds"	"5"	Suppressed
+	"Richmond County, NY"	"36085"	"2020"	"2020"	"Less than 11 pounds"	"1"	15
+	"Richmond County, NY"	"36085"	"2020"	"2020"	"11 to 20 pounds"	"2"	22
+	"Richmond County, NY"	"36085"	"2020"	"2020"	"21 to 30 pounds"	"3"	31
+	"Richmond County, NY"	"36085"	"2020"	"2020"	"31 to 40 pounds"	"4"	14
+	"Richmond County, NY"	"36085"	"2020"	"2020"	"41 to 98 pounds"	"5"	11
+	"Richmond County, NY"	"36085"	"2021"	"2021"	"Less than 11 pounds"	"1"	10
+	"Richmond County, NY"	"36085"	"2021"	"2021"	"11 to 20 pounds"	"2"	27
+	"Richmond County, NY"	"36085"	"2021"	"2021"	"21 to 30 pounds"	"3"	30
+	"Richmond County, NY"	"36085"	"2021"	"2021"	"31 to 40 pounds"	"4"	16
+	"Richmond County, NY"	"36085"	"2021"	"2021"	"41 to 98 pounds"	"5"	11
+	"Rockland County, NY"	"36087"	"2016"	"2016"	"Less than 11 pounds"	"1"	Suppressed
+	"Rockland County, NY"	"36087"	"2016"	"2016"	"11 to 20 pounds"	"2"	19
+	"Rockland County, NY"	"36087"	"2016"	"2016"	"21 to 30 pounds"	"3"	18
+	"Rockland County, NY"	"36087"	"2016"	"2016"	"31 to 40 pounds"	"4"	Suppressed
+	"Rockland County, NY"	"36087"	"2016"	"2016"	"41 to 98 pounds"	"5"	Suppressed
+	"Rockland County, NY"	"36087"	"2017"	"2017"	"Less than 11 pounds"	"1"	Suppressed
+	"Rockland County, NY"	"36087"	"2017"	"2017"	"11 to 20 pounds"	"2"	21
+	"Rockland County, NY"	"36087"	"2017"	"2017"	"21 to 30 pounds"	"3"	16
+	"Rockland County, NY"	"36087"	"2017"	"2017"	"31 to 40 pounds"	"4"	Suppressed
+	"Rockland County, NY"	"36087"	"2017"	"2017"	"41 to 98 pounds"	"5"	Suppressed
+	"Rockland County, NY"	"36087"	"2018"	"2018"	"Less than 11 pounds"	"1"	11
+	"Rockland County, NY"	"36087"	"2018"	"2018"	"11 to 20 pounds"	"2"	25
+	"Rockland County, NY"	"36087"	"2018"	"2018"	"21 to 30 pounds"	"3"	17
+	"Rockland County, NY"	"36087"	"2018"	"2018"	"31 to 40 pounds"	"4"	Suppressed
+	"Rockland County, NY"	"36087"	"2018"	"2018"	"41 to 98 pounds"	"5"	Suppressed
+	"Rockland County, NY"	"36087"	"2019"	"2019"	"Less than 11 pounds"	"1"	10
+	"Rockland County, NY"	"36087"	"2019"	"2019"	"11 to 20 pounds"	"2"	16
+	"Rockland County, NY"	"36087"	"2019"	"2019"	"21 to 30 pounds"	"3"	16
+	"Rockland County, NY"	"36087"	"2019"	"2019"	"31 to 40 pounds"	"4"	Suppressed
+	"Rockland County, NY"	"36087"	"2019"	"2019"	"41 to 98 pounds"	"5"	Suppressed
+	"Rockland County, NY"	"36087"	"2020"	"2020"	"Less than 11 pounds"	"1"	14
+	"Rockland County, NY"	"36087"	"2020"	"2020"	"11 to 20 pounds"	"2"	27
+	"Rockland County, NY"	"36087"	"2020"	"2020"	"21 to 30 pounds"	"3"	16
+	"Rockland County, NY"	"36087"	"2020"	"2020"	"31 to 40 pounds"	"4"	Suppressed
+	"Rockland County, NY"	"36087"	"2020"	"2020"	"41 to 98 pounds"	"5"	Suppressed
+	"Rockland County, NY"	"36087"	"2021"	"2021"	"Less than 11 pounds"	"1"	14
+	"Rockland County, NY"	"36087"	"2021"	"2021"	"11 to 20 pounds"	"2"	23
+	"Rockland County, NY"	"36087"	"2021"	"2021"	"21 to 30 pounds"	"3"	12
+	"Rockland County, NY"	"36087"	"2021"	"2021"	"31 to 40 pounds"	"4"	Suppressed
+	"Rockland County, NY"	"36087"	"2021"	"2021"	"41 to 98 pounds"	"5"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2016"	"2016"	"Less than 11 pounds"	"1"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2016"	"2016"	"11 to 20 pounds"	"2"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2016"	"2016"	"21 to 30 pounds"	"3"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2016"	"2016"	"31 to 40 pounds"	"4"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2016"	"2016"	"41 to 98 pounds"	"5"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2017"	"2017"	"Less than 11 pounds"	"1"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2017"	"2017"	"11 to 20 pounds"	"2"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2017"	"2017"	"21 to 30 pounds"	"3"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2017"	"2017"	"31 to 40 pounds"	"4"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2017"	"2017"	"41 to 98 pounds"	"5"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2018"	"2018"	"Less than 11 pounds"	"1"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2018"	"2018"	"11 to 20 pounds"	"2"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2018"	"2018"	"21 to 30 pounds"	"3"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2018"	"2018"	"31 to 40 pounds"	"4"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2018"	"2018"	"41 to 98 pounds"	"5"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2019"	"2019"	"Less than 11 pounds"	"1"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2019"	"2019"	"11 to 20 pounds"	"2"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2019"	"2019"	"21 to 30 pounds"	"3"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2019"	"2019"	"31 to 40 pounds"	"4"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2019"	"2019"	"41 to 98 pounds"	"5"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2020"	"2020"	"Less than 11 pounds"	"1"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2020"	"2020"	"11 to 20 pounds"	"2"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2020"	"2020"	"21 to 30 pounds"	"3"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2020"	"2020"	"31 to 40 pounds"	"4"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2020"	"2020"	"41 to 98 pounds"	"5"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2021"	"2021"	"Less than 11 pounds"	"1"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2021"	"2021"	"11 to 20 pounds"	"2"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2021"	"2021"	"21 to 30 pounds"	"3"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2021"	"2021"	"31 to 40 pounds"	"4"	Suppressed
+	"St. Lawrence County, NY"	"36089"	"2021"	"2021"	"41 to 98 pounds"	"5"	Suppressed
+	"Saratoga County, NY"	"36091"	"2016"	"2016"	"Less than 11 pounds"	"1"	Suppressed
+	"Saratoga County, NY"	"36091"	"2016"	"2016"	"11 to 20 pounds"	"2"	12
+	"Saratoga County, NY"	"36091"	"2016"	"2016"	"21 to 30 pounds"	"3"	Suppressed
+	"Saratoga County, NY"	"36091"	"2016"	"2016"	"31 to 40 pounds"	"4"	Suppressed
+	"Saratoga County, NY"	"36091"	"2016"	"2016"	"41 to 98 pounds"	"5"	Suppressed
+	"Saratoga County, NY"	"36091"	"2017"	"2017"	"Less than 11 pounds"	"1"	Suppressed
+	"Saratoga County, NY"	"36091"	"2017"	"2017"	"11 to 20 pounds"	"2"	Suppressed
+	"Saratoga County, NY"	"36091"	"2017"	"2017"	"21 to 30 pounds"	"3"	Suppressed
+	"Saratoga County, NY"	"36091"	"2017"	"2017"	"31 to 40 pounds"	"4"	Suppressed
+	"Saratoga County, NY"	"36091"	"2017"	"2017"	"41 to 98 pounds"	"5"	Suppressed
+	"Saratoga County, NY"	"36091"	"2018"	"2018"	"Less than 11 pounds"	"1"	10
+	"Saratoga County, NY"	"36091"	"2018"	"2018"	"11 to 20 pounds"	"2"	13
+	"Saratoga County, NY"	"36091"	"2018"	"2018"	"21 to 30 pounds"	"3"	Suppressed
+	"Saratoga County, NY"	"36091"	"2018"	"2018"	"31 to 40 pounds"	"4"	Suppressed
+	"Saratoga County, NY"	"36091"	"2018"	"2018"	"41 to 98 pounds"	"5"	Suppressed
+	"Saratoga County, NY"	"36091"	"2019"	"2019"	"Less than 11 pounds"	"1"	10
+	"Saratoga County, NY"	"36091"	"2019"	"2019"	"11 to 20 pounds"	"2"	Suppressed
+	"Saratoga County, NY"	"36091"	"2019"	"2019"	"21 to 30 pounds"	"3"	Suppressed
+	"Saratoga County, NY"	"36091"	"2019"	"2019"	"31 to 40 pounds"	"4"	Suppressed
+	"Saratoga County, NY"	"36091"	"2019"	"2019"	"41 to 98 pounds"	"5"	Suppressed
+	"Saratoga County, NY"	"36091"	"2020"	"2020"	"Less than 11 pounds"	"1"	Suppressed
+	"Saratoga County, NY"	"36091"	"2020"	"2020"	"11 to 20 pounds"	"2"	Suppressed
+	"Saratoga County, NY"	"36091"	"2020"	"2020"	"21 to 30 pounds"	"3"	Suppressed
+	"Saratoga County, NY"	"36091"	"2020"	"2020"	"31 to 40 pounds"	"4"	Suppressed
+	"Saratoga County, NY"	"36091"	"2020"	"2020"	"41 to 98 pounds"	"5"	Suppressed
+	"Saratoga County, NY"	"36091"	"2021"	"2021"	"Less than 11 pounds"	"1"	Suppressed
+	"Saratoga County, NY"	"36091"	"2021"	"2021"	"11 to 20 pounds"	"2"	Suppressed
+	"Saratoga County, NY"	"36091"	"2021"	"2021"	"21 to 30 pounds"	"3"	Suppressed
+	"Saratoga County, NY"	"36091"	"2021"	"2021"	"31 to 40 pounds"	"4"	Suppressed
+	"Saratoga County, NY"	"36091"	"2021"	"2021"	"41 to 98 pounds"	"5"	Suppressed
+	"Schenectady County, NY"	"36093"	"2016"	"2016"	"Less than 11 pounds"	"1"	12
+	"Schenectady County, NY"	"36093"	"2016"	"2016"	"11 to 20 pounds"	"2"	11
+	"Schenectady County, NY"	"36093"	"2016"	"2016"	"21 to 30 pounds"	"3"	Suppressed
+	"Schenectady County, NY"	"36093"	"2016"	"2016"	"31 to 40 pounds"	"4"	Suppressed
+	"Schenectady County, NY"	"36093"	"2016"	"2016"	"41 to 98 pounds"	"5"	Suppressed
+	"Schenectady County, NY"	"36093"	"2017"	"2017"	"Less than 11 pounds"	"1"	15
+	"Schenectady County, NY"	"36093"	"2017"	"2017"	"11 to 20 pounds"	"2"	10
+	"Schenectady County, NY"	"36093"	"2017"	"2017"	"21 to 30 pounds"	"3"	Suppressed
+	"Schenectady County, NY"	"36093"	"2017"	"2017"	"31 to 40 pounds"	"4"	Suppressed
+	"Schenectady County, NY"	"36093"	"2017"	"2017"	"41 to 98 pounds"	"5"	Suppressed
+	"Schenectady County, NY"	"36093"	"2018"	"2018"	"Less than 11 pounds"	"1"	Suppressed
+	"Schenectady County, NY"	"36093"	"2018"	"2018"	"11 to 20 pounds"	"2"	Suppressed
+	"Schenectady County, NY"	"36093"	"2018"	"2018"	"21 to 30 pounds"	"3"	Suppressed
+	"Schenectady County, NY"	"36093"	"2018"	"2018"	"31 to 40 pounds"	"4"	Suppressed
+	"Schenectady County, NY"	"36093"	"2018"	"2018"	"41 to 98 pounds"	"5"	Suppressed
+	"Schenectady County, NY"	"36093"	"2019"	"2019"	"Less than 11 pounds"	"1"	Suppressed
+	"Schenectady County, NY"	"36093"	"2019"	"2019"	"11 to 20 pounds"	"2"	Suppressed
+	"Schenectady County, NY"	"36093"	"2019"	"2019"	"21 to 30 pounds"	"3"	11
+	"Schenectady County, NY"	"36093"	"2019"	"2019"	"31 to 40 pounds"	"4"	Suppressed
+	"Schenectady County, NY"	"36093"	"2019"	"2019"	"41 to 98 pounds"	"5"	Suppressed
+	"Schenectady County, NY"	"36093"	"2020"	"2020"	"Less than 11 pounds"	"1"	Suppressed
+	"Schenectady County, NY"	"36093"	"2020"	"2020"	"11 to 20 pounds"	"2"	Suppressed
+	"Schenectady County, NY"	"36093"	"2020"	"2020"	"21 to 30 pounds"	"3"	Suppressed
+	"Schenectady County, NY"	"36093"	"2020"	"2020"	"31 to 40 pounds"	"4"	Suppressed
+	"Schenectady County, NY"	"36093"	"2020"	"2020"	"41 to 98 pounds"	"5"	Suppressed
+	"Schenectady County, NY"	"36093"	"2021"	"2021"	"Less than 11 pounds"	"1"	Suppressed
+	"Schenectady County, NY"	"36093"	"2021"	"2021"	"11 to 20 pounds"	"2"	12
+	"Schenectady County, NY"	"36093"	"2021"	"2021"	"21 to 30 pounds"	"3"	Suppressed
+	"Schenectady County, NY"	"36093"	"2021"	"2021"	"31 to 40 pounds"	"4"	Suppressed
+	"Schenectady County, NY"	"36093"	"2021"	"2021"	"41 to 98 pounds"	"5"	Suppressed
+	"Suffolk County, NY"	"36103"	"2016"	"2016"	"Less than 11 pounds"	"1"	38
+	"Suffolk County, NY"	"36103"	"2016"	"2016"	"11 to 20 pounds"	"2"	56
+	"Suffolk County, NY"	"36103"	"2016"	"2016"	"21 to 30 pounds"	"3"	62
+	"Suffolk County, NY"	"36103"	"2016"	"2016"	"31 to 40 pounds"	"4"	30
+	"Suffolk County, NY"	"36103"	"2016"	"2016"	"41 to 98 pounds"	"5"	27
+	"Suffolk County, NY"	"36103"	"2017"	"2017"	"Less than 11 pounds"	"1"	40
+	"Suffolk County, NY"	"36103"	"2017"	"2017"	"11 to 20 pounds"	"2"	63
+	"Suffolk County, NY"	"36103"	"2017"	"2017"	"21 to 30 pounds"	"3"	45
+	"Suffolk County, NY"	"36103"	"2017"	"2017"	"31 to 40 pounds"	"4"	25
+	"Suffolk County, NY"	"36103"	"2017"	"2017"	"41 to 98 pounds"	"5"	20
+	"Suffolk County, NY"	"36103"	"2018"	"2018"	"Less than 11 pounds"	"1"	39
+	"Suffolk County, NY"	"36103"	"2018"	"2018"	"11 to 20 pounds"	"2"	69
+	"Suffolk County, NY"	"36103"	"2018"	"2018"	"21 to 30 pounds"	"3"	60
+	"Suffolk County, NY"	"36103"	"2018"	"2018"	"31 to 40 pounds"	"4"	24
+	"Suffolk County, NY"	"36103"	"2018"	"2018"	"41 to 98 pounds"	"5"	23
+	"Suffolk County, NY"	"36103"	"2019"	"2019"	"Less than 11 pounds"	"1"	36
+	"Suffolk County, NY"	"36103"	"2019"	"2019"	"11 to 20 pounds"	"2"	67
+	"Suffolk County, NY"	"36103"	"2019"	"2019"	"21 to 30 pounds"	"3"	57
+	"Suffolk County, NY"	"36103"	"2019"	"2019"	"31 to 40 pounds"	"4"	25
+	"Suffolk County, NY"	"36103"	"2019"	"2019"	"41 to 98 pounds"	"5"	25
+	"Suffolk County, NY"	"36103"	"2020"	"2020"	"Less than 11 pounds"	"1"	42
+	"Suffolk County, NY"	"36103"	"2020"	"2020"	"11 to 20 pounds"	"2"	44
+	"Suffolk County, NY"	"36103"	"2020"	"2020"	"21 to 30 pounds"	"3"	49
+	"Suffolk County, NY"	"36103"	"2020"	"2020"	"31 to 40 pounds"	"4"	22
+	"Suffolk County, NY"	"36103"	"2020"	"2020"	"41 to 98 pounds"	"5"	19
+	"Suffolk County, NY"	"36103"	"2021"	"2021"	"Less than 11 pounds"	"1"	49
+	"Suffolk County, NY"	"36103"	"2021"	"2021"	"11 to 20 pounds"	"2"	68
+	"Suffolk County, NY"	"36103"	"2021"	"2021"	"21 to 30 pounds"	"3"	52
+	"Suffolk County, NY"	"36103"	"2021"	"2021"	"31 to 40 pounds"	"4"	30
+	"Suffolk County, NY"	"36103"	"2021"	"2021"	"41 to 98 pounds"	"5"	21
+	"Tompkins County, NY"	"36109"	"2016"	"2016"	"Less than 11 pounds"	"1"	Suppressed
+	"Tompkins County, NY"	"36109"	"2016"	"2016"	"11 to 20 pounds"	"2"	Suppressed
+	"Tompkins County, NY"	"36109"	"2016"	"2016"	"21 to 30 pounds"	"3"	Suppressed
+	"Tompkins County, NY"	"36109"	"2016"	"2016"	"31 to 40 pounds"	"4"	Suppressed
+	"Tompkins County, NY"	"36109"	"2016"	"2016"	"41 to 98 pounds"	"5"	Suppressed
+	"Tompkins County, NY"	"36109"	"2017"	"2017"	"Less than 11 pounds"	"1"	Suppressed
+	"Tompkins County, NY"	"36109"	"2017"	"2017"	"11 to 20 pounds"	"2"	Suppressed
+	"Tompkins County, NY"	"36109"	"2017"	"2017"	"21 to 30 pounds"	"3"	Suppressed
+	"Tompkins County, NY"	"36109"	"2017"	"2017"	"31 to 40 pounds"	"4"	Suppressed
+	"Tompkins County, NY"	"36109"	"2017"	"2017"	"41 to 98 pounds"	"5"	Suppressed
+	"Tompkins County, NY"	"36109"	"2018"	"2018"	"Less than 11 pounds"	"1"	Suppressed
+	"Tompkins County, NY"	"36109"	"2018"	"2018"	"11 to 20 pounds"	"2"	Suppressed
+	"Tompkins County, NY"	"36109"	"2018"	"2018"	"21 to 30 pounds"	"3"	Suppressed
+	"Tompkins County, NY"	"36109"	"2018"	"2018"	"31 to 40 pounds"	"4"	Suppressed
+	"Tompkins County, NY"	"36109"	"2018"	"2018"	"41 to 98 pounds"	"5"	Suppressed
+	"Tompkins County, NY"	"36109"	"2019"	"2019"	"Less than 11 pounds"	"1"	Suppressed
+	"Tompkins County, NY"	"36109"	"2019"	"2019"	"11 to 20 pounds"	"2"	Suppressed
+	"Tompkins County, NY"	"36109"	"2019"	"2019"	"21 to 30 pounds"	"3"	Suppressed
+	"Tompkins County, NY"	"36109"	"2019"	"2019"	"31 to 40 pounds"	"4"	Suppressed
+	"Tompkins County, NY"	"36109"	"2019"	"2019"	"41 to 98 pounds"	"5"	Suppressed
+	"Tompkins County, NY"	"36109"	"2020"	"2020"	"Less than 11 pounds"	"1"	Suppressed
+	"Tompkins County, NY"	"36109"	"2020"	"2020"	"11 to 20 pounds"	"2"	Suppressed
+	"Tompkins County, NY"	"36109"	"2020"	"2020"	"21 to 30 pounds"	"3"	Suppressed
+	"Tompkins County, NY"	"36109"	"2020"	"2020"	"31 to 40 pounds"	"4"	Suppressed
+	"Tompkins County, NY"	"36109"	"2020"	"2020"	"41 to 98 pounds"	"5"	Suppressed
+	"Tompkins County, NY"	"36109"	"2021"	"2021"	"Less than 11 pounds"	"1"	Suppressed
+	"Tompkins County, NY"	"36109"	"2021"	"2021"	"11 to 20 pounds"	"2"	Suppressed
+	"Tompkins County, NY"	"36109"	"2021"	"2021"	"21 to 30 pounds"	"3"	Suppressed
+	"Tompkins County, NY"	"36109"	"2021"	"2021"	"31 to 40 pounds"	"4"	Suppressed
+	"Tompkins County, NY"	"36109"	"2021"	"2021"	"41 to 98 pounds"	"5"	Suppressed
+	"Ulster County, NY"	"36111"	"2016"	"2016"	"Less than 11 pounds"	"1"	Suppressed
+	"Ulster County, NY"	"36111"	"2016"	"2016"	"11 to 20 pounds"	"2"	Suppressed
+	"Ulster County, NY"	"36111"	"2016"	"2016"	"21 to 30 pounds"	"3"	Suppressed
+	"Ulster County, NY"	"36111"	"2016"	"2016"	"31 to 40 pounds"	"4"	Suppressed
+	"Ulster County, NY"	"36111"	"2016"	"2016"	"41 to 98 pounds"	"5"	Suppressed
+	"Ulster County, NY"	"36111"	"2017"	"2017"	"Less than 11 pounds"	"1"	Suppressed
+	"Ulster County, NY"	"36111"	"2017"	"2017"	"11 to 20 pounds"	"2"	Suppressed
+	"Ulster County, NY"	"36111"	"2017"	"2017"	"21 to 30 pounds"	"3"	Suppressed
+	"Ulster County, NY"	"36111"	"2017"	"2017"	"31 to 40 pounds"	"4"	Suppressed
+	"Ulster County, NY"	"36111"	"2017"	"2017"	"41 to 98 pounds"	"5"	Suppressed
+	"Ulster County, NY"	"36111"	"2018"	"2018"	"Less than 11 pounds"	"1"	12
+	"Ulster County, NY"	"36111"	"2018"	"2018"	"11 to 20 pounds"	"2"	Suppressed
+	"Ulster County, NY"	"36111"	"2018"	"2018"	"21 to 30 pounds"	"3"	Suppressed
+	"Ulster County, NY"	"36111"	"2018"	"2018"	"31 to 40 pounds"	"4"	Suppressed
+	"Ulster County, NY"	"36111"	"2018"	"2018"	"41 to 98 pounds"	"5"	Suppressed
+	"Ulster County, NY"	"36111"	"2019"	"2019"	"Less than 11 pounds"	"1"	Suppressed
+	"Ulster County, NY"	"36111"	"2019"	"2019"	"11 to 20 pounds"	"2"	Suppressed
+	"Ulster County, NY"	"36111"	"2019"	"2019"	"21 to 30 pounds"	"3"	Suppressed
+	"Ulster County, NY"	"36111"	"2019"	"2019"	"31 to 40 pounds"	"4"	Suppressed
+	"Ulster County, NY"	"36111"	"2019"	"2019"	"41 to 98 pounds"	"5"	Suppressed
+	"Ulster County, NY"	"36111"	"2020"	"2020"	"Less than 11 pounds"	"1"	Suppressed
+	"Ulster County, NY"	"36111"	"2020"	"2020"	"11 to 20 pounds"	"2"	Suppressed
+	"Ulster County, NY"	"36111"	"2020"	"2020"	"21 to 30 pounds"	"3"	Suppressed
+	"Ulster County, NY"	"36111"	"2020"	"2020"	"31 to 40 pounds"	"4"	Suppressed
+	"Ulster County, NY"	"36111"	"2020"	"2020"	"41 to 98 pounds"	"5"	Suppressed
+	"Ulster County, NY"	"36111"	"2021"	"2021"	"Less than 11 pounds"	"1"	12
+	"Ulster County, NY"	"36111"	"2021"	"2021"	"11 to 20 pounds"	"2"	10
+	"Ulster County, NY"	"36111"	"2021"	"2021"	"21 to 30 pounds"	"3"	Suppressed
+	"Ulster County, NY"	"36111"	"2021"	"2021"	"31 to 40 pounds"	"4"	Suppressed
+	"Ulster County, NY"	"36111"	"2021"	"2021"	"41 to 98 pounds"	"5"	Suppressed
+	"Westchester County, NY"	"36119"	"2016"	"2016"	"Less than 11 pounds"	"1"	34
+	"Westchester County, NY"	"36119"	"2016"	"2016"	"11 to 20 pounds"	"2"	37
+	"Westchester County, NY"	"36119"	"2016"	"2016"	"21 to 30 pounds"	"3"	48
+	"Westchester County, NY"	"36119"	"2016"	"2016"	"31 to 40 pounds"	"4"	16
+	"Westchester County, NY"	"36119"	"2016"	"2016"	"41 to 98 pounds"	"5"	12
+	"Westchester County, NY"	"36119"	"2017"	"2017"	"Less than 11 pounds"	"1"	Suppressed
+	"Westchester County, NY"	"36119"	"2017"	"2017"	"11 to 20 pounds"	"2"	48
+	"Westchester County, NY"	"36119"	"2017"	"2017"	"21 to 30 pounds"	"3"	48
+	"Westchester County, NY"	"36119"	"2017"	"2017"	"31 to 40 pounds"	"4"	27
+	"Westchester County, NY"	"36119"	"2017"	"2017"	"41 to 98 pounds"	"5"	12
+	"Westchester County, NY"	"36119"	"2018"	"2018"	"Less than 11 pounds"	"1"	19
+	"Westchester County, NY"	"36119"	"2018"	"2018"	"11 to 20 pounds"	"2"	43
+	"Westchester County, NY"	"36119"	"2018"	"2018"	"21 to 30 pounds"	"3"	50
+	"Westchester County, NY"	"36119"	"2018"	"2018"	"31 to 40 pounds"	"4"	29
+	"Westchester County, NY"	"36119"	"2018"	"2018"	"41 to 98 pounds"	"5"	10
+	"Westchester County, NY"	"36119"	"2019"	"2019"	"Less than 11 pounds"	"1"	24
+	"Westchester County, NY"	"36119"	"2019"	"2019"	"11 to 20 pounds"	"2"	40
+	"Westchester County, NY"	"36119"	"2019"	"2019"	"21 to 30 pounds"	"3"	41
+	"Westchester County, NY"	"36119"	"2019"	"2019"	"31 to 40 pounds"	"4"	25
+	"Westchester County, NY"	"36119"	"2019"	"2019"	"41 to 98 pounds"	"5"	Suppressed
+	"Westchester County, NY"	"36119"	"2020"	"2020"	"Less than 11 pounds"	"1"	27
+	"Westchester County, NY"	"36119"	"2020"	"2020"	"11 to 20 pounds"	"2"	45
+	"Westchester County, NY"	"36119"	"2020"	"2020"	"21 to 30 pounds"	"3"	37
+	"Westchester County, NY"	"36119"	"2020"	"2020"	"31 to 40 pounds"	"4"	18
+	"Westchester County, NY"	"36119"	"2020"	"2020"	"41 to 98 pounds"	"5"	12
+	"Westchester County, NY"	"36119"	"2021"	"2021"	"Less than 11 pounds"	"1"	19
+	"Westchester County, NY"	"36119"	"2021"	"2021"	"11 to 20 pounds"	"2"	59
+	"Westchester County, NY"	"36119"	"2021"	"2021"	"21 to 30 pounds"	"3"	43
+	"Westchester County, NY"	"36119"	"2021"	"2021"	"31 to 40 pounds"	"4"	17
+	"Westchester County, NY"	"36119"	"2021"	"2021"	"41 to 98 pounds"	"5"	11
+	"Unidentified Counties, NY"	"36999"	"2016"	"2016"	"Less than 11 pounds"	"1"	57
+	"Unidentified Counties, NY"	"36999"	"2016"	"2016"	"11 to 20 pounds"	"2"	80
+	"Unidentified Counties, NY"	"36999"	"2016"	"2016"	"21 to 30 pounds"	"3"	52
+	"Unidentified Counties, NY"	"36999"	"2016"	"2016"	"31 to 40 pounds"	"4"	37
+	"Unidentified Counties, NY"	"36999"	"2016"	"2016"	"41 to 98 pounds"	"5"	20
+	"Unidentified Counties, NY"	"36999"	"2017"	"2017"	"Less than 11 pounds"	"1"	65
+	"Unidentified Counties, NY"	"36999"	"2017"	"2017"	"11 to 20 pounds"	"2"	66
+	"Unidentified Counties, NY"	"36999"	"2017"	"2017"	"21 to 30 pounds"	"3"	56
+	"Unidentified Counties, NY"	"36999"	"2017"	"2017"	"31 to 40 pounds"	"4"	25
+	"Unidentified Counties, NY"	"36999"	"2017"	"2017"	"41 to 98 pounds"	"5"	18
+	"Unidentified Counties, NY"	"36999"	"2018"	"2018"	"Less than 11 pounds"	"1"	62
+	"Unidentified Counties, NY"	"36999"	"2018"	"2018"	"11 to 20 pounds"	"2"	76
+	"Unidentified Counties, NY"	"36999"	"2018"	"2018"	"21 to 30 pounds"	"3"	64
+	"Unidentified Counties, NY"	"36999"	"2018"	"2018"	"31 to 40 pounds"	"4"	27
+	"Unidentified Counties, NY"	"36999"	"2018"	"2018"	"41 to 98 pounds"	"5"	16
+	"Unidentified Counties, NY"	"36999"	"2019"	"2019"	"Less than 11 pounds"	"1"	77
+	"Unidentified Counties, NY"	"36999"	"2019"	"2019"	"11 to 20 pounds"	"2"	69
+	"Unidentified Counties, NY"	"36999"	"2019"	"2019"	"21 to 30 pounds"	"3"	61
+	"Unidentified Counties, NY"	"36999"	"2019"	"2019"	"31 to 40 pounds"	"4"	36
+	"Unidentified Counties, NY"	"36999"	"2019"	"2019"	"41 to 98 pounds"	"5"	13
+	"Unidentified Counties, NY"	"36999"	"2020"	"2020"	"Less than 11 pounds"	"1"	77
+	"Unidentified Counties, NY"	"36999"	"2020"	"2020"	"11 to 20 pounds"	"2"	81
+	"Unidentified Counties, NY"	"36999"	"2020"	"2020"	"21 to 30 pounds"	"3"	50
+	"Unidentified Counties, NY"	"36999"	"2020"	"2020"	"31 to 40 pounds"	"4"	38
+	"Unidentified Counties, NY"	"36999"	"2020"	"2020"	"41 to 98 pounds"	"5"	22
+	"Unidentified Counties, NY"	"36999"	"2021"	"2021"	"Less than 11 pounds"	"1"	71
+	"Unidentified Counties, NY"	"36999"	"2021"	"2021"	"11 to 20 pounds"	"2"	76
+	"Unidentified Counties, NY"	"36999"	"2021"	"2021"	"21 to 30 pounds"	"3"	65
+	"Unidentified Counties, NY"	"36999"	"2021"	"2021"	"31 to 40 pounds"	"4"	24
+	"Unidentified Counties, NY"	"36999"	"2021"	"2021"	"41 to 98 pounds"	"5"	22
+"---"
+"Dataset: Natality, 2016-2021 expanded"
+"Query Parameters:"
+"Infant Birth Weight 12: 500 - 999 grams; 1000 - 1499 grams; 1500 - 1999 grams"
+"Mother's Hispanic Origin: Hispanic or Latino; Not Hispanic or Latino"
+"Mother's Single Race 6: Asian; Black or African American; White"
+"Mother's Weight Gain Recode: Less than 11 pounds; 11 to 20 pounds; 21 to 30 pounds; 31 to 40 pounds; 41 to 98 pounds"
+"Plurality: Single"
+"Source of Payment for Delivery: Medicaid; Private Insurance; Self Pay"
+"States: New York (36)"
+"Group By: County of Residence; Year; Mother's Weight Gain Recode"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: True"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality-expanded.html for more information."
+"---"
+"Query Date: Apr 14, 2023 12:05:37 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2016-2021, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-expanded-current.html on Apr 14, 2023 12:05:37 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/Natality-expanded.html#Assurance of Confidentiality."
+"2. Each birth record represents one liveborn infant."
+"3. County-level data are shown only for counties with populations of 100,000 persons or more. Within each state, data for all"
+"counties with fewer than 100,000 persons are combined together under the label ""Unidentified Counties."""
+"4. Bronx, New York (FIPS code 36005) represents Bronx Borough, New York City."
+"5. Kings County, New York (FIPS code 36047) represents Brooklyn Borough, New York City."
+"6. New York County, New York (FIPS code 36061) represents Manhattan Borough, New York City."
+"7. Queens, New York (FIPS code 36081) represents Queens Borough, New York City."
+"8. Richmond County, New York (FIPS code 36085) represents Staten Island Borough, New York City."

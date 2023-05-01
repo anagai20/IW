@@ -1,0 +1,21 @@
+﻿BoroName,BoroCode,race,500-2500g births,Medicaid,Private Insurance,Self Pay
+Bronx,2,Asian,571,436,131,supp
+Bronx,2,Black or African American,2075,2299,721,55
+Bronx,2,White,480,289,181,10
+Bronx,2,Hispanic,4547,3716,783,48
+Brooklyn,3,Asian,1864,1278,575,11
+Brooklyn,3,Black or African American,4525,3211,1277,37
+Brooklyn,3,White,3632,1938,1678,16
+Brooklyn,3,Hispanic,2186,1709,459,18
+Manhattan,1,Asian,804,134,668,supp
+Manhattan,1,Black or African American,1030,713,303,14
+Manhattan,1,White,1872,174,1685,13
+Manhattan,1,Hispanic,1539,1122,406,11
+Staten Island,5,Asian,206,114,91,supp
+Staten Island,5,Black or African American,343,236,99,supp
+Staten Island,5,White,658,217,435,supp
+Staten Island,5,Hispanic,441,320,116,supp
+Queens,4,Asian,3802,2370,1385,47
+Queens,4,Black or African American,2446,1481,914,51
+Queens,4,White,1465,563,894,supp
+Queens,4,Hispanic,2787,2082,682,23

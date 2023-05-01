@@ -1,0 +1,21 @@
+﻿BoroName,BoroCode,race,500-2500g births,1 to 4 visits,5 to 8 visits,9 to 12 visits,13 to 16 visits,no visits
+Bronx,2,Asian,571,36,159,257,89,0
+Bronx,2,Black or African American,2075,425,1073,1050,254,90
+Bronx,2,White,480,50,137,189,55,16
+Bronx,2,Hispanic,4547,521,1491,1681,419,96
+Brooklyn,3,Asian,1864,79,349,1029,283,9
+Brooklyn,3,Black or African American,4525,510,1222,1711,655,79
+Brooklyn,3,White,3632,169,850,1862,506,35
+Brooklyn,3,Hispanic,2186,180,622,875,316,38
+Manhattan,1,Asian,804,33,181,399,148,0
+Manhattan,1,Black or African American,1030,131,314,356,107,36
+Manhattan,1,White,1872,65,405,920,361,12
+Manhattan,1,Hispanic,1539,171,425,644,161,22
+Staten Island,5,Asian,206,0,32,87,50,0
+Staten Island,5,Black or African American,343,22,74,123,74,0
+Staten Island,5,White,658,19,123,244,133,11
+Staten Island,5,Hispanic,441,18,98,159,98,0
+Queens,4,Asian,3802,287,844,1688,563,42
+Queens,4,Black or African American,2446,273,677,978,265,53
+Queens,4,White,1465,88,326,706,204,19
+Queens,4,Hispanic,2787,281,725,1152,341,48

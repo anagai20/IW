@@ -1,0 +1,1083 @@
+BoroCode	BoroName	Year	Mother's Single Race 6	Mother's Hispanic Origin	total births	500-2000g births	percentage
+	"Albany County, NY"	2016	Asian	Hispanic or Latino	Suppressed		
+	"Albany County, NY"	2016	Asian	Not Hispanic or Latino	301		
+	"Albany County, NY"	2016	Black or African American	Hispanic or Latino	54		
+	"Albany County, NY"	2016	Black or African American	Not Hispanic or Latino	494		
+	"Albany County, NY"	2016	White	Hispanic or Latino	168		
+	"Albany County, NY"	2016	White	Not Hispanic or Latino	1658		
+	"Albany County, NY"	2017	Asian	Hispanic or Latino	Suppressed		
+	"Albany County, NY"	2017	Asian	Not Hispanic or Latino	297		
+	"Albany County, NY"	2017	Black or African American	Hispanic or Latino	57		
+	"Albany County, NY"	2017	Black or African American	Not Hispanic or Latino	504		
+	"Albany County, NY"	2017	White	Hispanic or Latino	143		
+	"Albany County, NY"	2017	White	Not Hispanic or Latino	1660		
+	"Albany County, NY"	2018	Asian	Hispanic or Latino	Suppressed		
+	"Albany County, NY"	2018	Asian	Not Hispanic or Latino	287		
+	"Albany County, NY"	2018	Black or African American	Hispanic or Latino	74		
+	"Albany County, NY"	2018	Black or African American	Not Hispanic or Latino	464		
+	"Albany County, NY"	2018	White	Hispanic or Latino	150		
+	"Albany County, NY"	2018	White	Not Hispanic or Latino	1617		
+	"Albany County, NY"	2019	Asian	Hispanic or Latino	Suppressed		
+	"Albany County, NY"	2019	Asian	Not Hispanic or Latino	309		
+	"Albany County, NY"	2019	Black or African American	Hispanic or Latino	85		
+	"Albany County, NY"	2019	Black or African American	Not Hispanic or Latino	531		
+	"Albany County, NY"	2019	White	Hispanic or Latino	159		
+	"Albany County, NY"	2019	White	Not Hispanic or Latino	1536		
+	"Albany County, NY"	2020	Asian	Hispanic or Latino	10		
+	"Albany County, NY"	2020	Asian	Not Hispanic or Latino	296		
+	"Albany County, NY"	2020	Black or African American	Hispanic or Latino	85		
+	"Albany County, NY"	2020	Black or African American	Not Hispanic or Latino	479		
+	"Albany County, NY"	2020	White	Hispanic or Latino	123		
+	"Albany County, NY"	2020	White	Not Hispanic or Latino	1521		
+	"Albany County, NY"	2021	Asian	Hispanic or Latino	Suppressed		
+	"Albany County, NY"	2021	Asian	Not Hispanic or Latino	248		
+	"Albany County, NY"	2021	Black or African American	Hispanic or Latino	64		
+	"Albany County, NY"	2021	Black or African American	Not Hispanic or Latino	450		
+	"Albany County, NY"	2021	White	Hispanic or Latino	131		
+	"Albany County, NY"	2021	White	Not Hispanic or Latino	1645		
+2	"Bronx County, NY"	2016	Asian	Hispanic or Latino	872	23	0.026376147
+2	"Bronx County, NY"	2016	Asian	Not Hispanic or Latino	991	25	0.025227043
+2	"Bronx County, NY"	2016	Black or African American	Hispanic or Latino	3407	85	0.024948635
+2	"Bronx County, NY"	2016	Black or African American	Not Hispanic or Latino	5735	204	0.035571055
+2	"Bronx County, NY"	2016	White	Hispanic or Latino	7182	174	0.024227235
+2	"Bronx County, NY"	2016	White	Not Hispanic or Latino	1437	29	0.020180932
+2	"Bronx County, NY"	2017	Asian	Hispanic or Latino	776	13	0.016752577
+2	"Bronx County, NY"	2017	Asian	Not Hispanic or Latino	930	20	0.021505376
+2	"Bronx County, NY"	2017	Black or African American	Hispanic or Latino	2766	95	0.034345625
+2	"Bronx County, NY"	2017	Black or African American	Not Hispanic or Latino	5602	221	0.039450196
+2	"Bronx County, NY"	2017	White	Hispanic or Latino	7388	179	0.024228479
+2	"Bronx County, NY"	2017	White	Not Hispanic or Latino	1552	27	0.017396907
+2	"Bronx County, NY"	2018	Asian	Hispanic or Latino	79	0	0
+2	"Bronx County, NY"	2018	Asian	Not Hispanic or Latino	1029	29	0.028182702
+2	"Bronx County, NY"	2018	Black or African American	Hispanic or Latino	2497	73	0.029235082
+2	"Bronx County, NY"	2018	Black or African American	Not Hispanic or Latino	5511	207	0.037561241
+2	"Bronx County, NY"	2018	White	Hispanic or Latino	8068	179	0.022186415
+2	"Bronx County, NY"	2018	White	Not Hispanic or Latino	1484	21	0.014150943
+2	"Bronx County, NY"	2019	Asian	Hispanic or Latino	83	0	0
+2	"Bronx County, NY"	2019	Asian	Not Hispanic or Latino	1038	20	0.019267823
+2	"Bronx County, NY"	2019	Black or African American	Hispanic or Latino	2829	83	0.029338989
+2	"Bronx County, NY"	2019	Black or African American	Not Hispanic or Latino	5067	211	0.041641997
+2	"Bronx County, NY"	2019	White	Hispanic or Latino	7233	203	0.028065809
+2	"Bronx County, NY"	2019	White	Not Hispanic or Latino	1431	17	0.011879804
+2	"Bronx County, NY"	2020	Asian	Hispanic or Latino	66	0	0
+2	"Bronx County, NY"	2020	Asian	Not Hispanic or Latino	941	24	0.025504782
+2	"Bronx County, NY"	2020	Black or African American	Hispanic or Latino	3313	113	0.034108059
+2	"Bronx County, NY"	2020	Black or African American	Not Hispanic or Latino	4587	183	0.039895356
+2	"Bronx County, NY"	2020	White	Hispanic or Latino	6136	169	0.027542373
+2	"Bronx County, NY"	2020	White	Not Hispanic or Latino	1316	16	0.012158055
+2	"Bronx County, NY"	2021	Asian	Hispanic or Latino	75	0	0
+2	"Bronx County, NY"	2021	Asian	Not Hispanic or Latino	935	28	0.029946524
+2	"Bronx County, NY"	2021	Black or African American	Hispanic or Latino	3779	98	0.025932786
+2	"Bronx County, NY"	2021	Black or African American	Not Hispanic or Latino	4310	188	0.04361949
+2	"Bronx County, NY"	2021	White	Hispanic or Latino	5252	135	0.025704494
+2	"Bronx County, NY"	2021	White	Not Hispanic or Latino	1225	22	0.017959184
+	"Broome County, NY"	2016	Asian	Hispanic or Latino	Suppressed		
+	"Broome County, NY"	2016	Asian	Not Hispanic or Latino	64		
+	"Broome County, NY"	2016	Black or African American	Hispanic or Latino	29		
+	"Broome County, NY"	2016	Black or African American	Not Hispanic or Latino	133		
+	"Broome County, NY"	2016	White	Hispanic or Latino	83		
+	"Broome County, NY"	2016	White	Not Hispanic or Latino	1499		
+	"Broome County, NY"	2017	Asian	Hispanic or Latino	Suppressed		
+	"Broome County, NY"	2017	Asian	Not Hispanic or Latino	59		
+	"Broome County, NY"	2017	Black or African American	Hispanic or Latino	28		
+	"Broome County, NY"	2017	Black or African American	Not Hispanic or Latino	157		
+	"Broome County, NY"	2017	White	Hispanic or Latino	58		
+	"Broome County, NY"	2017	White	Not Hispanic or Latino	1481		
+	"Broome County, NY"	2018	Asian	Hispanic or Latino	Suppressed		
+	"Broome County, NY"	2018	Asian	Not Hispanic or Latino	70		
+	"Broome County, NY"	2018	Black or African American	Hispanic or Latino	27		
+	"Broome County, NY"	2018	Black or African American	Not Hispanic or Latino	149		
+	"Broome County, NY"	2018	White	Hispanic or Latino	70		
+	"Broome County, NY"	2018	White	Not Hispanic or Latino	1396		
+	"Broome County, NY"	2019	Asian	Hispanic or Latino	Suppressed		
+	"Broome County, NY"	2019	Asian	Not Hispanic or Latino	81		
+	"Broome County, NY"	2019	Black or African American	Hispanic or Latino	32		
+	"Broome County, NY"	2019	Black or African American	Not Hispanic or Latino	143		
+	"Broome County, NY"	2019	White	Hispanic or Latino	67		
+	"Broome County, NY"	2019	White	Not Hispanic or Latino	1461		
+	"Broome County, NY"	2020	Asian	Hispanic or Latino	Suppressed		
+	"Broome County, NY"	2020	Asian	Not Hispanic or Latino	68		
+	"Broome County, NY"	2020	Black or African American	Hispanic or Latino	50		
+	"Broome County, NY"	2020	Black or African American	Not Hispanic or Latino	145		
+	"Broome County, NY"	2020	White	Hispanic or Latino	78		
+	"Broome County, NY"	2020	White	Not Hispanic or Latino	1235		
+	"Broome County, NY"	2021	Asian	Hispanic or Latino	Suppressed		
+	"Broome County, NY"	2021	Asian	Not Hispanic or Latino	67		
+	"Broome County, NY"	2021	Black or African American	Hispanic or Latino	33		
+	"Broome County, NY"	2021	Black or African American	Not Hispanic or Latino	163		
+	"Broome County, NY"	2021	White	Hispanic or Latino	92		
+	"Broome County, NY"	2021	White	Not Hispanic or Latino	1315		
+	"Chautauqua County, NY"	2016	Asian	Hispanic or Latino	Suppressed		
+	"Chautauqua County, NY"	2016	Asian	Not Hispanic or Latino	Suppressed		
+	"Chautauqua County, NY"	2016	Black or African American	Hispanic or Latino	Suppressed		
+	"Chautauqua County, NY"	2016	Black or African American	Not Hispanic or Latino	18		
+	"Chautauqua County, NY"	2016	White	Hispanic or Latino	126		
+	"Chautauqua County, NY"	2016	White	Not Hispanic or Latino	1015		
+	"Chautauqua County, NY"	2017	Asian	Hispanic or Latino	Suppressed		
+	"Chautauqua County, NY"	2017	Asian	Not Hispanic or Latino	Suppressed		
+	"Chautauqua County, NY"	2017	Black or African American	Hispanic or Latino	11		
+	"Chautauqua County, NY"	2017	Black or African American	Not Hispanic or Latino	Suppressed		
+	"Chautauqua County, NY"	2017	White	Hispanic or Latino	128		
+	"Chautauqua County, NY"	2017	White	Not Hispanic or Latino	1004		
+	"Chautauqua County, NY"	2018	Asian	Hispanic or Latino	Suppressed		
+	"Chautauqua County, NY"	2018	Asian	Not Hispanic or Latino	Suppressed		
+	"Chautauqua County, NY"	2018	Black or African American	Hispanic or Latino	12		
+	"Chautauqua County, NY"	2018	Black or African American	Not Hispanic or Latino	13		
+	"Chautauqua County, NY"	2018	White	Hispanic or Latino	129		
+	"Chautauqua County, NY"	2018	White	Not Hispanic or Latino	897		
+	"Chautauqua County, NY"	2019	Asian	Hispanic or Latino	Suppressed		
+	"Chautauqua County, NY"	2019	Asian	Not Hispanic or Latino	Suppressed		
+	"Chautauqua County, NY"	2019	Black or African American	Hispanic or Latino	Suppressed		
+	"Chautauqua County, NY"	2019	Black or African American	Not Hispanic or Latino	Suppressed		
+	"Chautauqua County, NY"	2019	White	Hispanic or Latino	106		
+	"Chautauqua County, NY"	2019	White	Not Hispanic or Latino	709		
+	"Chautauqua County, NY"	2020	Asian	Hispanic or Latino	Suppressed		
+	"Chautauqua County, NY"	2020	Asian	Not Hispanic or Latino	13		
+	"Chautauqua County, NY"	2020	Black or African American	Hispanic or Latino	14		
+	"Chautauqua County, NY"	2020	Black or African American	Not Hispanic or Latino	15		
+	"Chautauqua County, NY"	2020	White	Hispanic or Latino	107		
+	"Chautauqua County, NY"	2020	White	Not Hispanic or Latino	840		
+	"Chautauqua County, NY"	2021	Asian	Hispanic or Latino	Suppressed		
+	"Chautauqua County, NY"	2021	Asian	Not Hispanic or Latino	Suppressed		
+	"Chautauqua County, NY"	2021	Black or African American	Hispanic or Latino	Suppressed		
+	"Chautauqua County, NY"	2021	Black or African American	Not Hispanic or Latino	19		
+	"Chautauqua County, NY"	2021	White	Hispanic or Latino	142		
+	"Chautauqua County, NY"	2021	White	Not Hispanic or Latino	829		
+	"Dutchess County, NY"	2016	Asian	Hispanic or Latino	Suppressed		
+	"Dutchess County, NY"	2016	Asian	Not Hispanic or Latino	75		
+	"Dutchess County, NY"	2016	Black or African American	Hispanic or Latino	35		
+	"Dutchess County, NY"	2016	Black or African American	Not Hispanic or Latino	272		
+	"Dutchess County, NY"	2016	White	Hispanic or Latino	342		
+	"Dutchess County, NY"	2016	White	Not Hispanic or Latino	1572		
+	"Dutchess County, NY"	2017	Asian	Hispanic or Latino	Suppressed		
+	"Dutchess County, NY"	2017	Asian	Not Hispanic or Latino	77		
+	"Dutchess County, NY"	2017	Black or African American	Hispanic or Latino	45		
+	"Dutchess County, NY"	2017	Black or African American	Not Hispanic or Latino	309		
+	"Dutchess County, NY"	2017	White	Hispanic or Latino	369		
+	"Dutchess County, NY"	2017	White	Not Hispanic or Latino	1555		
+	"Dutchess County, NY"	2018	Asian	Hispanic or Latino	Suppressed		
+	"Dutchess County, NY"	2018	Asian	Not Hispanic or Latino	93		
+	"Dutchess County, NY"	2018	Black or African American	Hispanic or Latino	79		
+	"Dutchess County, NY"	2018	Black or African American	Not Hispanic or Latino	289		
+	"Dutchess County, NY"	2018	White	Hispanic or Latino	391		
+	"Dutchess County, NY"	2018	White	Not Hispanic or Latino	1477		
+	"Dutchess County, NY"	2019	Asian	Hispanic or Latino	Suppressed		
+	"Dutchess County, NY"	2019	Asian	Not Hispanic or Latino	112		
+	"Dutchess County, NY"	2019	Black or African American	Hispanic or Latino	74		
+	"Dutchess County, NY"	2019	Black or African American	Not Hispanic or Latino	302		
+	"Dutchess County, NY"	2019	White	Hispanic or Latino	400		
+	"Dutchess County, NY"	2019	White	Not Hispanic or Latino	1529		
+	"Dutchess County, NY"	2020	Asian	Hispanic or Latino	Suppressed		
+	"Dutchess County, NY"	2020	Asian	Not Hispanic or Latino	81		
+	"Dutchess County, NY"	2020	Black or African American	Hispanic or Latino	95		
+	"Dutchess County, NY"	2020	Black or African American	Not Hispanic or Latino	278		
+	"Dutchess County, NY"	2020	White	Hispanic or Latino	390		
+	"Dutchess County, NY"	2020	White	Not Hispanic or Latino	1446		
+	"Dutchess County, NY"	2021	Asian	Hispanic or Latino	Suppressed		
+	"Dutchess County, NY"	2021	Asian	Not Hispanic or Latino	79		
+	"Dutchess County, NY"	2021	Black or African American	Hispanic or Latino	66		
+	"Dutchess County, NY"	2021	Black or African American	Not Hispanic or Latino	266		
+	"Dutchess County, NY"	2021	White	Hispanic or Latino	428		
+	"Dutchess County, NY"	2021	White	Not Hispanic or Latino	1553		
+	"Erie County, NY"	2016	Asian	Hispanic or Latino	27		
+	"Erie County, NY"	2016	Asian	Not Hispanic or Latino	562		
+	"Erie County, NY"	2016	Black or African American	Hispanic or Latino	143		
+	"Erie County, NY"	2016	Black or African American	Not Hispanic or Latino	1719		
+	"Erie County, NY"	2016	White	Hispanic or Latino	492		
+	"Erie County, NY"	2016	White	Not Hispanic or Latino	5863		
+	"Erie County, NY"	2017	Asian	Hispanic or Latino	15		
+	"Erie County, NY"	2017	Asian	Not Hispanic or Latino	474		
+	"Erie County, NY"	2017	Black or African American	Hispanic or Latino	94		
+	"Erie County, NY"	2017	Black or African American	Not Hispanic or Latino	1535		
+	"Erie County, NY"	2017	White	Hispanic or Latino	458		
+	"Erie County, NY"	2017	White	Not Hispanic or Latino	5690		
+	"Erie County, NY"	2018	Asian	Hispanic or Latino	Suppressed		
+	"Erie County, NY"	2018	Asian	Not Hispanic or Latino	587		
+	"Erie County, NY"	2018	Black or African American	Hispanic or Latino	146		
+	"Erie County, NY"	2018	Black or African American	Not Hispanic or Latino	1734		
+	"Erie County, NY"	2018	White	Hispanic or Latino	518		
+	"Erie County, NY"	2018	White	Not Hispanic or Latino	5743		
+	"Erie County, NY"	2019	Asian	Hispanic or Latino	13		
+	"Erie County, NY"	2019	Asian	Not Hispanic or Latino	581		
+	"Erie County, NY"	2019	Black or African American	Hispanic or Latino	145		
+	"Erie County, NY"	2019	Black or African American	Not Hispanic or Latino	1724		
+	"Erie County, NY"	2019	White	Hispanic or Latino	507		
+	"Erie County, NY"	2019	White	Not Hispanic or Latino	5591		
+	"Erie County, NY"	2020	Asian	Hispanic or Latino	Suppressed		
+	"Erie County, NY"	2020	Asian	Not Hispanic or Latino	583		
+	"Erie County, NY"	2020	Black or African American	Hispanic or Latino	126		
+	"Erie County, NY"	2020	Black or African American	Not Hispanic or Latino	1693		
+	"Erie County, NY"	2020	White	Hispanic or Latino	487		
+	"Erie County, NY"	2020	White	Not Hispanic or Latino	5426		
+	"Erie County, NY"	2021	Asian	Hispanic or Latino	10		
+	"Erie County, NY"	2021	Asian	Not Hispanic or Latino	640		
+	"Erie County, NY"	2021	Black or African American	Hispanic or Latino	161		
+	"Erie County, NY"	2021	Black or African American	Not Hispanic or Latino	1522		
+	"Erie County, NY"	2021	White	Hispanic or Latino	459		
+	"Erie County, NY"	2021	White	Not Hispanic or Latino	5392		
+	"Jefferson County, NY"	2016	Asian	Hispanic or Latino	Suppressed		
+	"Jefferson County, NY"	2016	Asian	Not Hispanic or Latino	13		
+	"Jefferson County, NY"	2016	Black or African American	Hispanic or Latino	Suppressed		
+	"Jefferson County, NY"	2016	Black or African American	Not Hispanic or Latino	25		
+	"Jefferson County, NY"	2016	White	Hispanic or Latino	24		
+	"Jefferson County, NY"	2016	White	Not Hispanic or Latino	802		
+	"Jefferson County, NY"	2017	Asian	Hispanic or Latino	Suppressed		
+	"Jefferson County, NY"	2017	Asian	Not Hispanic or Latino	15		
+	"Jefferson County, NY"	2017	Black or African American	Hispanic or Latino	Suppressed		
+	"Jefferson County, NY"	2017	Black or African American	Not Hispanic or Latino	19		
+	"Jefferson County, NY"	2017	White	Hispanic or Latino	31		
+	"Jefferson County, NY"	2017	White	Not Hispanic or Latino	834		
+	"Jefferson County, NY"	2018	Asian	Hispanic or Latino	Suppressed		
+	"Jefferson County, NY"	2018	Asian	Not Hispanic or Latino	10		
+	"Jefferson County, NY"	2018	Black or African American	Hispanic or Latino	Suppressed		
+	"Jefferson County, NY"	2018	Black or African American	Not Hispanic or Latino	22		
+	"Jefferson County, NY"	2018	White	Hispanic or Latino	28		
+	"Jefferson County, NY"	2018	White	Not Hispanic or Latino	824		
+	"Jefferson County, NY"	2019	Asian	Hispanic or Latino	Suppressed		
+	"Jefferson County, NY"	2019	Asian	Not Hispanic or Latino	Suppressed		
+	"Jefferson County, NY"	2019	Black or African American	Hispanic or Latino	Suppressed		
+	"Jefferson County, NY"	2019	Black or African American	Not Hispanic or Latino	27		
+	"Jefferson County, NY"	2019	White	Hispanic or Latino	34		
+	"Jefferson County, NY"	2019	White	Not Hispanic or Latino	803		
+	"Jefferson County, NY"	2020	Asian	Hispanic or Latino	Suppressed		
+	"Jefferson County, NY"	2020	Asian	Not Hispanic or Latino	Suppressed		
+	"Jefferson County, NY"	2020	Black or African American	Hispanic or Latino	Suppressed		
+	"Jefferson County, NY"	2020	Black or African American	Not Hispanic or Latino	33		
+	"Jefferson County, NY"	2020	White	Hispanic or Latino	29		
+	"Jefferson County, NY"	2020	White	Not Hispanic or Latino	757		
+	"Jefferson County, NY"	2021	Asian	Hispanic or Latino	Suppressed		
+	"Jefferson County, NY"	2021	Asian	Not Hispanic or Latino	10		
+	"Jefferson County, NY"	2021	Black or African American	Hispanic or Latino	Suppressed		
+	"Jefferson County, NY"	2021	Black or African American	Not Hispanic or Latino	30		
+	"Jefferson County, NY"	2021	White	Hispanic or Latino	42		
+	"Jefferson County, NY"	2021	White	Not Hispanic or Latino	779		
+3	"Kings County, NY"	2016	Asian	Hispanic or Latino	398	10	0.025125628
+3	"Kings County, NY"	2016	Asian	Not Hispanic or Latino	6081	96	0.015786877
+3	"Kings County, NY"	2016	Black or African American	Hispanic or Latino	1303	31	0.023791251
+3	"Kings County, NY"	2016	Black or African American	Not Hispanic or Latino	8515	323	0.037933059
+3	"Kings County, NY"	2016	White	Hispanic or Latino	4415	94	0.021291053
+3	"Kings County, NY"	2016	White	Not Hispanic or Latino	16327	174	0.010657194
+3	"Kings County, NY"	2017	Asian	Hispanic or Latino	382	0	0
+3	"Kings County, NY"	2017	Asian	Not Hispanic or Latino	5621	90	0.016011386
+3	"Kings County, NY"	2017	Black or African American	Hispanic or Latino	1169	33	0.028229256
+3	"Kings County, NY"	2017	Black or African American	Not Hispanic or Latino	8249	352	0.042671839
+3	"Kings County, NY"	2017	White	Hispanic or Latino	4238	93	0.021944313
+3	"Kings County, NY"	2017	White	Not Hispanic or Latino	16517	170	0.010292426
+3	"Kings County, NY"	2018	Asian	Hispanic or Latino	37	0	0
+3	"Kings County, NY"	2018	Asian	Not Hispanic or Latino	4923	87	0.017672151
+3	"Kings County, NY"	2018	Black or African American	Hispanic or Latino	1118	29	0.025939177
+3	"Kings County, NY"	2018	Black or African American	Not Hispanic or Latino	7772	348	0.044776119
+3	"Kings County, NY"	2018	White	Hispanic or Latino	4730	91	0.019238901
+3	"Kings County, NY"	2018	White	Not Hispanic or Latino	16361	164	0.010023837
+3	"Kings County, NY"	2019	Asian	Hispanic or Latino	34	0	0
+3	"Kings County, NY"	2019	Asian	Not Hispanic or Latino	4875	89	0.01825641
+3	"Kings County, NY"	2019	Black or African American	Hispanic or Latino	1079	29	0.026876738
+3	"Kings County, NY"	2019	Black or African American	Not Hispanic or Latino	7342	298	0.040588396
+3	"Kings County, NY"	2019	White	Hispanic or Latino	3934	89	0.022623284
+3	"Kings County, NY"	2019	White	Not Hispanic or Latino	16312	154	0.009440902
+3	"Kings County, NY"	2020	Asian	Hispanic or Latino	48	0	0
+3	"Kings County, NY"	2020	Asian	Not Hispanic or Latino	3945	74	0.018757921
+3	"Kings County, NY"	2020	Black or African American	Hispanic or Latino	1159	32	0.027610009
+3	"Kings County, NY"	2020	Black or African American	Not Hispanic or Latino	6635	292	0.044009043
+3	"Kings County, NY"	2020	White	Hispanic or Latino	3437	77	0.022403259
+3	"Kings County, NY"	2020	White	Not Hispanic or Latino	15658	153	0.009771363
+3	"Kings County, NY"	2021	Asian	Hispanic or Latino	59	0	0
+3	"Kings County, NY"	2021	Asian	Not Hispanic or Latino	3530	68	0.019263456
+3	"Kings County, NY"	2021	Black or African American	Hispanic or Latino	1449	48	0.033126294
+3	"Kings County, NY"	2021	Black or African American	Not Hispanic or Latino	6397	281	0.043926841
+3	"Kings County, NY"	2021	White	Hispanic or Latino	3660	69	0.018852459
+3	"Kings County, NY"	2021	White	Not Hispanic or Latino	15533	149	0.009592481
+	"Monroe County, NY"	2016	Asian	Hispanic or Latino	26		
+	"Monroe County, NY"	2016	Asian	Not Hispanic or Latino	439		
+	"Monroe County, NY"	2016	Black or African American	Hispanic or Latino	159		
+	"Monroe County, NY"	2016	Black or African American	Not Hispanic or Latino	1569		
+	"Monroe County, NY"	2016	White	Hispanic or Latino	657		
+	"Monroe County, NY"	2016	White	Not Hispanic or Latino	4455		
+	"Monroe County, NY"	2017	Asian	Hispanic or Latino	25		
+	"Monroe County, NY"	2017	Asian	Not Hispanic or Latino	401		
+	"Monroe County, NY"	2017	Black or African American	Hispanic or Latino	186		
+	"Monroe County, NY"	2017	Black or African American	Not Hispanic or Latino	1637		
+	"Monroe County, NY"	2017	White	Hispanic or Latino	711		
+	"Monroe County, NY"	2017	White	Not Hispanic or Latino	4263		
+	"Monroe County, NY"	2018	Asian	Hispanic or Latino	11		
+	"Monroe County, NY"	2018	Asian	Not Hispanic or Latino	365		
+	"Monroe County, NY"	2018	Black or African American	Hispanic or Latino	163		
+	"Monroe County, NY"	2018	Black or African American	Not Hispanic or Latino	1583		
+	"Monroe County, NY"	2018	White	Hispanic or Latino	710		
+	"Monroe County, NY"	2018	White	Not Hispanic or Latino	4302		
+	"Monroe County, NY"	2019	Asian	Hispanic or Latino	Suppressed		
+	"Monroe County, NY"	2019	Asian	Not Hispanic or Latino	372		
+	"Monroe County, NY"	2019	Black or African American	Hispanic or Latino	179		
+	"Monroe County, NY"	2019	Black or African American	Not Hispanic or Latino	1649		
+	"Monroe County, NY"	2019	White	Hispanic or Latino	720		
+	"Monroe County, NY"	2019	White	Not Hispanic or Latino	4316		
+	"Monroe County, NY"	2020	Asian	Hispanic or Latino	Suppressed		
+	"Monroe County, NY"	2020	Asian	Not Hispanic or Latino	321		
+	"Monroe County, NY"	2020	Black or African American	Hispanic or Latino	207		
+	"Monroe County, NY"	2020	Black or African American	Not Hispanic or Latino	1572		
+	"Monroe County, NY"	2020	White	Hispanic or Latino	733		
+	"Monroe County, NY"	2020	White	Not Hispanic or Latino	4031		
+	"Monroe County, NY"	2021	Asian	Hispanic or Latino	15		
+	"Monroe County, NY"	2021	Asian	Not Hispanic or Latino	363		
+	"Monroe County, NY"	2021	Black or African American	Hispanic or Latino	211		
+	"Monroe County, NY"	2021	Black or African American	Not Hispanic or Latino	1511		
+	"Monroe County, NY"	2021	White	Hispanic or Latino	724		
+	"Monroe County, NY"	2021	White	Not Hispanic or Latino	4242		
+	"Nassau County, NY"	2016	Asian	Hispanic or Latino	42		
+	"Nassau County, NY"	2016	Asian	Not Hispanic or Latino	1719		
+	"Nassau County, NY"	2016	Black or African American	Hispanic or Latino	203		
+	"Nassau County, NY"	2016	Black or African American	Not Hispanic or Latino	1583		
+	"Nassau County, NY"	2016	White	Hispanic or Latino	3400		
+	"Nassau County, NY"	2016	White	Not Hispanic or Latino	6186		
+	"Nassau County, NY"	2017	Asian	Hispanic or Latino	47		
+	"Nassau County, NY"	2017	Asian	Not Hispanic or Latino	1733		
+	"Nassau County, NY"	2017	Black or African American	Hispanic or Latino	201		
+	"Nassau County, NY"	2017	Black or African American	Not Hispanic or Latino	1492		
+	"Nassau County, NY"	2017	White	Hispanic or Latino	3321		
+	"Nassau County, NY"	2017	White	Not Hispanic or Latino	6309		
+	"Nassau County, NY"	2018	Asian	Hispanic or Latino	20		
+	"Nassau County, NY"	2018	Asian	Not Hispanic or Latino	1852		
+	"Nassau County, NY"	2018	Black or African American	Hispanic or Latino	276		
+	"Nassau County, NY"	2018	Black or African American	Not Hispanic or Latino	1471		
+	"Nassau County, NY"	2018	White	Hispanic or Latino	3221		
+	"Nassau County, NY"	2018	White	Not Hispanic or Latino	6259		
+	"Nassau County, NY"	2019	Asian	Hispanic or Latino	38		
+	"Nassau County, NY"	2019	Asian	Not Hispanic or Latino	1892		
+	"Nassau County, NY"	2019	Black or African American	Hispanic or Latino	325		
+	"Nassau County, NY"	2019	Black or African American	Not Hispanic or Latino	1457		
+	"Nassau County, NY"	2019	White	Hispanic or Latino	2952		
+	"Nassau County, NY"	2019	White	Not Hispanic or Latino	6114		
+	"Nassau County, NY"	2020	Asian	Hispanic or Latino	31		
+	"Nassau County, NY"	2020	Asian	Not Hispanic or Latino	1826		
+	"Nassau County, NY"	2020	Black or African American	Hispanic or Latino	332		
+	"Nassau County, NY"	2020	Black or African American	Not Hispanic or Latino	1375		
+	"Nassau County, NY"	2020	White	Hispanic or Latino	2845		
+	"Nassau County, NY"	2020	White	Not Hispanic or Latino	6000		
+	"Nassau County, NY"	2021	Asian	Hispanic or Latino	40		
+	"Nassau County, NY"	2021	Asian	Not Hispanic or Latino	1944		
+	"Nassau County, NY"	2021	Black or African American	Hispanic or Latino	459		
+	"Nassau County, NY"	2021	Black or African American	Not Hispanic or Latino	1367		
+	"Nassau County, NY"	2021	White	Hispanic or Latino	2810		
+	"Nassau County, NY"	2021	White	Not Hispanic or Latino	6521		
+1	"New York County, NY"	2016	Asian	Hispanic or Latino	244	0	0
+1	"New York County, NY"	2016	Asian	Not Hispanic or Latino	2585	31	0.011992263
+1	"New York County, NY"	2016	Black or African American	Hispanic or Latino	950	19	0.02
+1	"New York County, NY"	2016	Black or African American	Not Hispanic or Latino	1738	66	0.037974684
+1	"New York County, NY"	2016	White	Hispanic or Latino	2921	58	0.019856214
+1	"New York County, NY"	2016	White	Not Hispanic or Latino	6692	75	0.011207412
+1	"New York County, NY"	2017	Asian	Hispanic or Latino	250	0	0
+1	"New York County, NY"	2017	Asian	Not Hispanic or Latino	2455	22	0.008961303
+1	"New York County, NY"	2017	Black or African American	Hispanic or Latino	760	27	0.035526316
+1	"New York County, NY"	2017	Black or African American	Not Hispanic or Latino	1843	79	0.042864894
+1	"New York County, NY"	2017	White	Hispanic or Latino	2975	81	0.027226891
+1	"New York County, NY"	2017	White	Not Hispanic or Latino	7582	82	0.010815088
+1	"New York County, NY"	2018	Asian	Hispanic or Latino	33	0	0
+1	"New York County, NY"	2018	Asian	Not Hispanic or Latino	2310	37	0.016017316
+1	"New York County, NY"	2018	Black or African American	Hispanic or Latino	698	15	0.021489971
+1	"New York County, NY"	2018	Black or African American	Not Hispanic or Latino	1814	82	0.045203969
+1	"New York County, NY"	2018	White	Hispanic or Latino	3022	76	0.025148908
+1	"New York County, NY"	2018	White	Not Hispanic or Latino	7537	99	0.0131352
+1	"New York County, NY"	2019	Asian	Hispanic or Latino	32	0	0
+1	"New York County, NY"	2019	Asian	Not Hispanic or Latino	2324	31	0.013339071
+1	"New York County, NY"	2019	Black or African American	Hispanic or Latino	764	22	0.028795812
+1	"New York County, NY"	2019	Black or African American	Not Hispanic or Latino	1557	66	0.04238921
+1	"New York County, NY"	2019	White	Hispanic or Latino	2796	66	0.02360515
+1	"New York County, NY"	2019	White	Not Hispanic or Latino	7465	73	0.009778969
+1	"New York County, NY"	2020	Asian	Hispanic or Latino	30	0	0
+1	"New York County, NY"	2020	Asian	Not Hispanic or Latino	1904	32	0.016806723
+1	"New York County, NY"	2020	Black or African American	Hispanic or Latino	833	26	0.031212485
+1	"New York County, NY"	2020	Black or African American	Not Hispanic or Latino	1498	65	0.043391188
+1	"New York County, NY"	2020	White	Hispanic or Latino	2295	53	0.023093682
+1	"New York County, NY"	2020	White	Not Hispanic or Latino	6651	79	0.011877913
+1	"New York County, NY"	2021	Asian	Hispanic or Latino	40	0	0
+1	"New York County, NY"	2021	Asian	Not Hispanic or Latino	1815	28	0.015426997
+1	"New York County, NY"	2021	Black or African American	Hispanic or Latino	1103	27	0.024478694
+1	"New York County, NY"	2021	Black or African American	Not Hispanic or Latino	1604	61	0.038029925
+1	"New York County, NY"	2021	White	Hispanic or Latino	2291	56	0.024443474
+1	"New York County, NY"	2021	White	Not Hispanic or Latino	5959	76	0.012753818
+	"Niagara County, NY"	2016	Asian	Hispanic or Latino	Suppressed		
+	"Niagara County, NY"	2016	Asian	Not Hispanic or Latino	25		
+	"Niagara County, NY"	2016	Black or African American	Hispanic or Latino	18		
+	"Niagara County, NY"	2016	Black or African American	Not Hispanic or Latino	177		
+	"Niagara County, NY"	2016	White	Hispanic or Latino	56		
+	"Niagara County, NY"	2016	White	Not Hispanic or Latino	1479		
+	"Niagara County, NY"	2017	Asian	Hispanic or Latino	Suppressed		
+	"Niagara County, NY"	2017	Asian	Not Hispanic or Latino	26		
+	"Niagara County, NY"	2017	Black or African American	Hispanic or Latino	18		
+	"Niagara County, NY"	2017	Black or African American	Not Hispanic or Latino	222		
+	"Niagara County, NY"	2017	White	Hispanic or Latino	65		
+	"Niagara County, NY"	2017	White	Not Hispanic or Latino	1398		
+	"Niagara County, NY"	2018	Asian	Hispanic or Latino	Suppressed		
+	"Niagara County, NY"	2018	Asian	Not Hispanic or Latino	39		
+	"Niagara County, NY"	2018	Black or African American	Hispanic or Latino	15		
+	"Niagara County, NY"	2018	Black or African American	Not Hispanic or Latino	195		
+	"Niagara County, NY"	2018	White	Hispanic or Latino	74		
+	"Niagara County, NY"	2018	White	Not Hispanic or Latino	1493		
+	"Niagara County, NY"	2019	Asian	Hispanic or Latino	Suppressed		
+	"Niagara County, NY"	2019	Asian	Not Hispanic or Latino	22		
+	"Niagara County, NY"	2019	Black or African American	Hispanic or Latino	19		
+	"Niagara County, NY"	2019	Black or African American	Not Hispanic or Latino	209		
+	"Niagara County, NY"	2019	White	Hispanic or Latino	61		
+	"Niagara County, NY"	2019	White	Not Hispanic or Latino	1485		
+	"Niagara County, NY"	2020	Asian	Hispanic or Latino	Suppressed		
+	"Niagara County, NY"	2020	Asian	Not Hispanic or Latino	34		
+	"Niagara County, NY"	2020	Black or African American	Hispanic or Latino	18		
+	"Niagara County, NY"	2020	Black or African American	Not Hispanic or Latino	198		
+	"Niagara County, NY"	2020	White	Hispanic or Latino	70		
+	"Niagara County, NY"	2020	White	Not Hispanic or Latino	1358		
+	"Niagara County, NY"	2021	Asian	Hispanic or Latino	Suppressed		
+	"Niagara County, NY"	2021	Asian	Not Hispanic or Latino	24		
+	"Niagara County, NY"	2021	Black or African American	Hispanic or Latino	24		
+	"Niagara County, NY"	2021	Black or African American	Not Hispanic or Latino	167		
+	"Niagara County, NY"	2021	White	Hispanic or Latino	51		
+	"Niagara County, NY"	2021	White	Not Hispanic or Latino	1326		
+	"Oneida County, NY"	2016	Asian	Hispanic or Latino	18		
+	"Oneida County, NY"	2016	Asian	Not Hispanic or Latino	157		
+	"Oneida County, NY"	2016	Black or African American	Hispanic or Latino	26		
+	"Oneida County, NY"	2016	Black or African American	Not Hispanic or Latino	202		
+	"Oneida County, NY"	2016	White	Hispanic or Latino	135		
+	"Oneida County, NY"	2016	White	Not Hispanic or Latino	1668		
+	"Oneida County, NY"	2017	Asian	Hispanic or Latino	Suppressed		
+	"Oneida County, NY"	2017	Asian	Not Hispanic or Latino	159		
+	"Oneida County, NY"	2017	Black or African American	Hispanic or Latino	28		
+	"Oneida County, NY"	2017	Black or African American	Not Hispanic or Latino	224		
+	"Oneida County, NY"	2017	White	Hispanic or Latino	152		
+	"Oneida County, NY"	2017	White	Not Hispanic or Latino	1668		
+	"Oneida County, NY"	2018	Asian	Hispanic or Latino	15		
+	"Oneida County, NY"	2018	Asian	Not Hispanic or Latino	158		
+	"Oneida County, NY"	2018	Black or African American	Hispanic or Latino	24		
+	"Oneida County, NY"	2018	Black or African American	Not Hispanic or Latino	213		
+	"Oneida County, NY"	2018	White	Hispanic or Latino	149		
+	"Oneida County, NY"	2018	White	Not Hispanic or Latino	1647		
+	"Oneida County, NY"	2019	Asian	Hispanic or Latino	Suppressed		
+	"Oneida County, NY"	2019	Asian	Not Hispanic or Latino	142		
+	"Oneida County, NY"	2019	Black or African American	Hispanic or Latino	30		
+	"Oneida County, NY"	2019	Black or African American	Not Hispanic or Latino	209		
+	"Oneida County, NY"	2019	White	Hispanic or Latino	162		
+	"Oneida County, NY"	2019	White	Not Hispanic or Latino	1673		
+	"Oneida County, NY"	2020	Asian	Hispanic or Latino	10		
+	"Oneida County, NY"	2020	Asian	Not Hispanic or Latino	160		
+	"Oneida County, NY"	2020	Black or African American	Hispanic or Latino	46		
+	"Oneida County, NY"	2020	Black or African American	Not Hispanic or Latino	235		
+	"Oneida County, NY"	2020	White	Hispanic or Latino	161		
+	"Oneida County, NY"	2020	White	Not Hispanic or Latino	1519		
+	"Oneida County, NY"	2021	Asian	Hispanic or Latino	Suppressed		
+	"Oneida County, NY"	2021	Asian	Not Hispanic or Latino	138		
+	"Oneida County, NY"	2021	Black or African American	Hispanic or Latino	38		
+	"Oneida County, NY"	2021	Black or African American	Not Hispanic or Latino	229		
+	"Oneida County, NY"	2021	White	Hispanic or Latino	141		
+	"Oneida County, NY"	2021	White	Not Hispanic or Latino	1618		
+	"Onondaga County, NY"	2016	Asian	Hispanic or Latino	10		
+	"Onondaga County, NY"	2016	Asian	Not Hispanic or Latino	294		
+	"Onondaga County, NY"	2016	Black or African American	Hispanic or Latino	75		
+	"Onondaga County, NY"	2016	Black or African American	Not Hispanic or Latino	817		
+	"Onondaga County, NY"	2016	White	Hispanic or Latino	214		
+	"Onondaga County, NY"	2016	White	Not Hispanic or Latino	3209		
+	"Onondaga County, NY"	2017	Asian	Hispanic or Latino	10		
+	"Onondaga County, NY"	2017	Asian	Not Hispanic or Latino	294		
+	"Onondaga County, NY"	2017	Black or African American	Hispanic or Latino	68		
+	"Onondaga County, NY"	2017	Black or African American	Not Hispanic or Latino	861		
+	"Onondaga County, NY"	2017	White	Hispanic or Latino	239		
+	"Onondaga County, NY"	2017	White	Not Hispanic or Latino	3003		
+	"Onondaga County, NY"	2018	Asian	Hispanic or Latino	Suppressed		
+	"Onondaga County, NY"	2018	Asian	Not Hispanic or Latino	241		
+	"Onondaga County, NY"	2018	Black or African American	Hispanic or Latino	89		
+	"Onondaga County, NY"	2018	Black or African American	Not Hispanic or Latino	884		
+	"Onondaga County, NY"	2018	White	Hispanic or Latino	266		
+	"Onondaga County, NY"	2018	White	Not Hispanic or Latino	3195		
+	"Onondaga County, NY"	2019	Asian	Hispanic or Latino	Suppressed		
+	"Onondaga County, NY"	2019	Asian	Not Hispanic or Latino	269		
+	"Onondaga County, NY"	2019	Black or African American	Hispanic or Latino	96		
+	"Onondaga County, NY"	2019	Black or African American	Not Hispanic or Latino	872		
+	"Onondaga County, NY"	2019	White	Hispanic or Latino	252		
+	"Onondaga County, NY"	2019	White	Not Hispanic or Latino	3007		
+	"Onondaga County, NY"	2020	Asian	Hispanic or Latino	Suppressed		
+	"Onondaga County, NY"	2020	Asian	Not Hispanic or Latino	257		
+	"Onondaga County, NY"	2020	Black or African American	Hispanic or Latino	97		
+	"Onondaga County, NY"	2020	Black or African American	Not Hispanic or Latino	892		
+	"Onondaga County, NY"	2020	White	Hispanic or Latino	229		
+	"Onondaga County, NY"	2020	White	Not Hispanic or Latino	2843		
+	"Onondaga County, NY"	2021	Asian	Hispanic or Latino	Suppressed		
+	"Onondaga County, NY"	2021	Asian	Not Hispanic or Latino	266		
+	"Onondaga County, NY"	2021	Black or African American	Hispanic or Latino	102		
+	"Onondaga County, NY"	2021	Black or African American	Not Hispanic or Latino	842		
+	"Onondaga County, NY"	2021	White	Hispanic or Latino	191		
+	"Onondaga County, NY"	2021	White	Not Hispanic or Latino	2901		
+	"Ontario County, NY"	2016	Asian	Hispanic or Latino	Suppressed		
+	"Ontario County, NY"	2016	Asian	Not Hispanic or Latino	24		
+	"Ontario County, NY"	2016	Black or African American	Hispanic or Latino	Suppressed		
+	"Ontario County, NY"	2016	Black or African American	Not Hispanic or Latino	19		
+	"Ontario County, NY"	2016	White	Hispanic or Latino	59		
+	"Ontario County, NY"	2016	White	Not Hispanic or Latino	804		
+	"Ontario County, NY"	2017	Asian	Hispanic or Latino	Suppressed		
+	"Ontario County, NY"	2017	Asian	Not Hispanic or Latino	15		
+	"Ontario County, NY"	2017	Black or African American	Hispanic or Latino	Suppressed		
+	"Ontario County, NY"	2017	Black or African American	Not Hispanic or Latino	13		
+	"Ontario County, NY"	2017	White	Hispanic or Latino	74		
+	"Ontario County, NY"	2017	White	Not Hispanic or Latino	777		
+	"Ontario County, NY"	2018	Asian	Hispanic or Latino	Suppressed		
+	"Ontario County, NY"	2018	Asian	Not Hispanic or Latino	16		
+	"Ontario County, NY"	2018	Black or African American	Hispanic or Latino	12		
+	"Ontario County, NY"	2018	Black or African American	Not Hispanic or Latino	23		
+	"Ontario County, NY"	2018	White	Hispanic or Latino	51		
+	"Ontario County, NY"	2018	White	Not Hispanic or Latino	774		
+	"Ontario County, NY"	2019	Asian	Hispanic or Latino	Suppressed		
+	"Ontario County, NY"	2019	Asian	Not Hispanic or Latino	11		
+	"Ontario County, NY"	2019	Black or African American	Hispanic or Latino	Suppressed		
+	"Ontario County, NY"	2019	Black or African American	Not Hispanic or Latino	23		
+	"Ontario County, NY"	2019	White	Hispanic or Latino	86		
+	"Ontario County, NY"	2019	White	Not Hispanic or Latino	763		
+	"Ontario County, NY"	2020	Asian	Hispanic or Latino	Suppressed		
+	"Ontario County, NY"	2020	Asian	Not Hispanic or Latino	20		
+	"Ontario County, NY"	2020	Black or African American	Hispanic or Latino	Suppressed		
+	"Ontario County, NY"	2020	Black or African American	Not Hispanic or Latino	23		
+	"Ontario County, NY"	2020	White	Hispanic or Latino	61		
+	"Ontario County, NY"	2020	White	Not Hispanic or Latino	762		
+	"Ontario County, NY"	2021	Asian	Hispanic or Latino	Suppressed		
+	"Ontario County, NY"	2021	Asian	Not Hispanic or Latino	14		
+	"Ontario County, NY"	2021	Black or African American	Hispanic or Latino	Suppressed		
+	"Ontario County, NY"	2021	Black or African American	Not Hispanic or Latino	24		
+	"Ontario County, NY"	2021	White	Hispanic or Latino	85		
+	"Ontario County, NY"	2021	White	Not Hispanic or Latino	784		
+	"Orange County, NY"	2016	Asian	Hispanic or Latino	39		
+	"Orange County, NY"	2016	Asian	Not Hispanic or Latino	85		
+	"Orange County, NY"	2016	Black or African American	Hispanic or Latino	159		
+	"Orange County, NY"	2016	Black or African American	Not Hispanic or Latino	351		
+	"Orange County, NY"	2016	White	Hispanic or Latino	834		
+	"Orange County, NY"	2016	White	Not Hispanic or Latino	2843		
+	"Orange County, NY"	2017	Asian	Hispanic or Latino	42		
+	"Orange County, NY"	2017	Asian	Not Hispanic or Latino	99		
+	"Orange County, NY"	2017	Black or African American	Hispanic or Latino	176		
+	"Orange County, NY"	2017	Black or African American	Not Hispanic or Latino	341		
+	"Orange County, NY"	2017	White	Hispanic or Latino	844		
+	"Orange County, NY"	2017	White	Not Hispanic or Latino	2937		
+	"Orange County, NY"	2018	Asian	Hispanic or Latino	10		
+	"Orange County, NY"	2018	Asian	Not Hispanic or Latino	113		
+	"Orange County, NY"	2018	Black or African American	Hispanic or Latino	169		
+	"Orange County, NY"	2018	Black or African American	Not Hispanic or Latino	354		
+	"Orange County, NY"	2018	White	Hispanic or Latino	823		
+	"Orange County, NY"	2018	White	Not Hispanic or Latino	2951		
+	"Orange County, NY"	2019	Asian	Hispanic or Latino	16		
+	"Orange County, NY"	2019	Asian	Not Hispanic or Latino	89		
+	"Orange County, NY"	2019	Black or African American	Hispanic or Latino	150		
+	"Orange County, NY"	2019	Black or African American	Not Hispanic or Latino	349		
+	"Orange County, NY"	2019	White	Hispanic or Latino	860		
+	"Orange County, NY"	2019	White	Not Hispanic or Latino	3048		
+	"Orange County, NY"	2020	Asian	Hispanic or Latino	13		
+	"Orange County, NY"	2020	Asian	Not Hispanic or Latino	97		
+	"Orange County, NY"	2020	Black or African American	Hispanic or Latino	202		
+	"Orange County, NY"	2020	Black or African American	Not Hispanic or Latino	341		
+	"Orange County, NY"	2020	White	Hispanic or Latino	822		
+	"Orange County, NY"	2020	White	Not Hispanic or Latino	3023		
+	"Orange County, NY"	2021	Asian	Hispanic or Latino	14		
+	"Orange County, NY"	2021	Asian	Not Hispanic or Latino	110		
+	"Orange County, NY"	2021	Black or African American	Hispanic or Latino	172		
+	"Orange County, NY"	2021	Black or African American	Not Hispanic or Latino	383		
+	"Orange County, NY"	2021	White	Hispanic or Latino	964		
+	"Orange County, NY"	2021	White	Not Hispanic or Latino	3228		
+	"Oswego County, NY"	2016	Asian	Hispanic or Latino	Suppressed		
+	"Oswego County, NY"	2016	Asian	Not Hispanic or Latino	10		
+	"Oswego County, NY"	2016	Black or African American	Hispanic or Latino	Suppressed		
+	"Oswego County, NY"	2016	Black or African American	Not Hispanic or Latino	Suppressed		
+	"Oswego County, NY"	2016	White	Hispanic or Latino	34		
+	"Oswego County, NY"	2016	White	Not Hispanic or Latino	1173		
+	"Oswego County, NY"	2017	Asian	Hispanic or Latino	Suppressed		
+	"Oswego County, NY"	2017	Asian	Not Hispanic or Latino	Suppressed		
+	"Oswego County, NY"	2017	Black or African American	Hispanic or Latino	Suppressed		
+	"Oswego County, NY"	2017	Black or African American	Not Hispanic or Latino	14		
+	"Oswego County, NY"	2017	White	Hispanic or Latino	28		
+	"Oswego County, NY"	2017	White	Not Hispanic or Latino	1043		
+	"Oswego County, NY"	2018	Asian	Hispanic or Latino	Suppressed		
+	"Oswego County, NY"	2018	Asian	Not Hispanic or Latino	Suppressed		
+	"Oswego County, NY"	2018	Black or African American	Hispanic or Latino	Suppressed		
+	"Oswego County, NY"	2018	Black or African American	Not Hispanic or Latino	Suppressed		
+	"Oswego County, NY"	2018	White	Hispanic or Latino	26		
+	"Oswego County, NY"	2018	White	Not Hispanic or Latino	1031		
+	"Oswego County, NY"	2019	Asian	Hispanic or Latino	Suppressed		
+	"Oswego County, NY"	2019	Asian	Not Hispanic or Latino	Suppressed		
+	"Oswego County, NY"	2019	Black or African American	Hispanic or Latino	Suppressed		
+	"Oswego County, NY"	2019	Black or African American	Not Hispanic or Latino	Suppressed		
+	"Oswego County, NY"	2019	White	Hispanic or Latino	23		
+	"Oswego County, NY"	2019	White	Not Hispanic or Latino	1055		
+	"Oswego County, NY"	2020	Asian	Hispanic or Latino	Suppressed		
+	"Oswego County, NY"	2020	Asian	Not Hispanic or Latino	Suppressed		
+	"Oswego County, NY"	2020	Black or African American	Hispanic or Latino	Suppressed		
+	"Oswego County, NY"	2020	Black or African American	Not Hispanic or Latino	Suppressed		
+	"Oswego County, NY"	2020	White	Hispanic or Latino	31		
+	"Oswego County, NY"	2020	White	Not Hispanic or Latino	1004		
+	"Oswego County, NY"	2021	Asian	Hispanic or Latino	Suppressed		
+	"Oswego County, NY"	2021	Asian	Not Hispanic or Latino	Suppressed		
+	"Oswego County, NY"	2021	Black or African American	Hispanic or Latino	Suppressed		
+	"Oswego County, NY"	2021	Black or African American	Not Hispanic or Latino	Suppressed		
+	"Oswego County, NY"	2021	White	Hispanic or Latino	31		
+	"Oswego County, NY"	2021	White	Not Hispanic or Latino	947		
+4	"Queens County, NY"	2016	Asian	Hispanic or Latino	514	0	0
+4	"Queens County, NY"	2016	Asian	Not Hispanic or Latino	9363	156	0.016661326
+4	"Queens County, NY"	2016	Black or African American	Hispanic or Latino	976	17	0.017418033
+4	"Queens County, NY"	2016	Black or African American	Not Hispanic or Latino	4117	181	0.043964051
+4	"Queens County, NY"	2016	White	Hispanic or Latino	6871	138	0.020084413
+4	"Queens County, NY"	2016	White	Not Hispanic or Latino	6178	59	0.009550016
+4	"Queens County, NY"	2017	Asian	Hispanic or Latino	607	10	0.016474465
+4	"Queens County, NY"	2017	Asian	Not Hispanic or Latino	8842	180	0.020357385
+4	"Queens County, NY"	2017	Black or African American	Hispanic or Latino	1212	25	0.020627063
+4	"Queens County, NY"	2017	Black or African American	Not Hispanic or Latino	4117	161	0.039106145
+4	"Queens County, NY"	2017	White	Hispanic or Latino	6375	128	0.020078431
+4	"Queens County, NY"	2017	White	Not Hispanic or Latino	6096	68	0.011154856
+4	"Queens County, NY"	2018	Asian	Hispanic or Latino	102	0	0
+4	"Queens County, NY"	2018	Asian	Not Hispanic or Latino	8474	174	0.020533396
+4	"Queens County, NY"	2018	Black or African American	Hispanic or Latino	1006	22	0.021868787
+4	"Queens County, NY"	2018	Black or African American	Not Hispanic or Latino	4066	172	0.042302017
+4	"Queens County, NY"	2018	White	Hispanic or Latino	6639	76	0.011447507
+4	"Queens County, NY"	2018	White	Not Hispanic or Latino	5994	68	0.011344678
+4	"Queens County, NY"	2019	Asian	Hispanic or Latino	90	0	0
+4	"Queens County, NY"	2019	Asian	Not Hispanic or Latino	8297	183	0.022056165
+4	"Queens County, NY"	2019	Black or African American	Hispanic or Latino	1028	21	0.020428016
+4	"Queens County, NY"	2019	Black or African American	Not Hispanic or Latino	3846	153	0.039781591
+4	"Queens County, NY"	2019	White	Hispanic or Latino	6261	136	0.02172177
+4	"Queens County, NY"	2019	White	Not Hispanic or Latino	5720	69	0.012062937
+4	"Queens County, NY"	2020	Asian	Hispanic or Latino	83	0	0
+4	"Queens County, NY"	2020	Asian	Not Hispanic or Latino	6935	153	0.022062004
+4	"Queens County, NY"	2020	Black or African American	Hispanic or Latino	1234	21	0.017017828
+4	"Queens County, NY"	2020	Black or African American	Not Hispanic or Latino	3508	139	0.039623717
+4	"Queens County, NY"	2020	White	Hispanic or Latino	5548	107	0.019286229
+4	"Queens County, NY"	2020	White	Not Hispanic or Latino	5377	80	0.014878185
+4	"Queens County, NY"	2021	Asian	Hispanic or Latino	109	0	0
+4	"Queens County, NY"	2021	Asian	Not Hispanic or Latino	6502	155	0.023838819
+4	"Queens County, NY"	2021	Black or African American	Hispanic or Latino	1511	24	0.015883521
+4	"Queens County, NY"	2021	Black or African American	Not Hispanic or Latino	3439	151	0.043908113
+4	"Queens County, NY"	2021	White	Hispanic or Latino	5474	140	0.025575448
+4	"Queens County, NY"	2021	White	Not Hispanic or Latino	5064	65	0.012835703
+	"Rensselaer County, NY"	2016	Asian	Hispanic or Latino	Suppressed		
+	"Rensselaer County, NY"	2016	Asian	Not Hispanic or Latino	61		
+	"Rensselaer County, NY"	2016	Black or African American	Hispanic or Latino	21		
+	"Rensselaer County, NY"	2016	Black or African American	Not Hispanic or Latino	144		
+	"Rensselaer County, NY"	2016	White	Hispanic or Latino	85		
+	"Rensselaer County, NY"	2016	White	Not Hispanic or Latino	1242		
+	"Rensselaer County, NY"	2017	Asian	Hispanic or Latino	Suppressed		
+	"Rensselaer County, NY"	2017	Asian	Not Hispanic or Latino	69		
+	"Rensselaer County, NY"	2017	Black or African American	Hispanic or Latino	27		
+	"Rensselaer County, NY"	2017	Black or African American	Not Hispanic or Latino	150		
+	"Rensselaer County, NY"	2017	White	Hispanic or Latino	82		
+	"Rensselaer County, NY"	2017	White	Not Hispanic or Latino	1099		
+	"Rensselaer County, NY"	2018	Asian	Hispanic or Latino	Suppressed		
+	"Rensselaer County, NY"	2018	Asian	Not Hispanic or Latino	68		
+	"Rensselaer County, NY"	2018	Black or African American	Hispanic or Latino	19		
+	"Rensselaer County, NY"	2018	Black or African American	Not Hispanic or Latino	157		
+	"Rensselaer County, NY"	2018	White	Hispanic or Latino	90		
+	"Rensselaer County, NY"	2018	White	Not Hispanic or Latino	1105		
+	"Rensselaer County, NY"	2019	Asian	Hispanic or Latino	Suppressed		
+	"Rensselaer County, NY"	2019	Asian	Not Hispanic or Latino	72		
+	"Rensselaer County, NY"	2019	Black or African American	Hispanic or Latino	24		
+	"Rensselaer County, NY"	2019	Black or African American	Not Hispanic or Latino	171		
+	"Rensselaer County, NY"	2019	White	Hispanic or Latino	84		
+	"Rensselaer County, NY"	2019	White	Not Hispanic or Latino	1112		
+	"Rensselaer County, NY"	2020	Asian	Hispanic or Latino	Suppressed		
+	"Rensselaer County, NY"	2020	Asian	Not Hispanic or Latino	65		
+	"Rensselaer County, NY"	2020	Black or African American	Hispanic or Latino	31		
+	"Rensselaer County, NY"	2020	Black or African American	Not Hispanic or Latino	190		
+	"Rensselaer County, NY"	2020	White	Hispanic or Latino	87		
+	"Rensselaer County, NY"	2020	White	Not Hispanic or Latino	1062		
+	"Rensselaer County, NY"	2021	Asian	Hispanic or Latino	Suppressed		
+	"Rensselaer County, NY"	2021	Asian	Not Hispanic or Latino	43		
+	"Rensselaer County, NY"	2021	Black or African American	Hispanic or Latino	24		
+	"Rensselaer County, NY"	2021	Black or African American	Not Hispanic or Latino	159		
+	"Rensselaer County, NY"	2021	White	Hispanic or Latino	69		
+	"Rensselaer County, NY"	2021	White	Not Hispanic or Latino	1027		
+5	"Richmond County, NY"	2016	Asian	Hispanic or Latino	82	0	0
+5	"Richmond County, NY"	2016	Asian	Not Hispanic or Latino	492	0	0
+5	"Richmond County, NY"	2016	Black or African American	Hispanic or Latino	202	0	0
+5	"Richmond County, NY"	2016	Black or African American	Not Hispanic or Latino	579	23	0.039723661
+5	"Richmond County, NY"	2016	White	Hispanic or Latino	860	14	0.01627907
+5	"Richmond County, NY"	2016	White	Not Hispanic or Latino	2684	27	0.010059613
+5	"Richmond County, NY"	2017	Asian	Hispanic or Latino	73	0	0
+5	"Richmond County, NY"	2017	Asian	Not Hispanic or Latino	537	0	0
+5	"Richmond County, NY"	2017	Black or African American	Hispanic or Latino	219	0	0
+5	"Richmond County, NY"	2017	Black or African American	Not Hispanic or Latino	582	21	0.036082474
+5	"Richmond County, NY"	2017	White	Hispanic or Latino	865	25	0.028901734
+5	"Richmond County, NY"	2017	White	Not Hispanic or Latino	2632	31	0.011778116
+5	"Richmond County, NY"	2018	Asian	Hispanic or Latino	18	0	0
+5	"Richmond County, NY"	2018	Asian	Not Hispanic or Latino	522	0	0
+5	"Richmond County, NY"	2018	Black or African American	Hispanic or Latino	170	0	0
+5	"Richmond County, NY"	2018	Black or African American	Not Hispanic or Latino	525	22	0.041904762
+5	"Richmond County, NY"	2018	White	Hispanic or Latino	836	22	0.026315789
+5	"Richmond County, NY"	2018	White	Not Hispanic or Latino	2350	32	0.013617021
+5	"Richmond County, NY"	2019	Asian	Hispanic or Latino	12	0	0
+5	"Richmond County, NY"	2019	Asian	Not Hispanic or Latino	587	0	0
+5	"Richmond County, NY"	2019	Black or African American	Hispanic or Latino	192	0	0
+5	"Richmond County, NY"	2019	Black or African American	Not Hispanic or Latino	554	25	0.045126354
+5	"Richmond County, NY"	2019	White	Hispanic or Latino	805	19	0.023602484
+5	"Richmond County, NY"	2019	White	Not Hispanic or Latino	2366	34	0.014370245
+5	"Richmond County, NY"	2020	Asian	Hispanic or Latino	12	0	0
+5	"Richmond County, NY"	2020	Asian	Not Hispanic or Latino	553	11	0.019891501
+5	"Richmond County, NY"	2020	Black or African American	Hispanic or Latino	205	0	0
+5	"Richmond County, NY"	2020	Black or African American	Not Hispanic or Latino	499	18	0.036072144
+5	"Richmond County, NY"	2020	White	Hispanic or Latino	812	20	0.024630542
+5	"Richmond County, NY"	2020	White	Not Hispanic or Latino	2339	38	0.016246259
+5	"Richmond County, NY"	2021	Asian	Hispanic or Latino	Suppressed	0	#VALUE!
+5	"Richmond County, NY"	2021	Asian	Not Hispanic or Latino	584	11	0.018835616
+5	"Richmond County, NY"	2021	Black or African American	Hispanic or Latino	222	0	0
+5	"Richmond County, NY"	2021	Black or African American	Not Hispanic or Latino	481	20	0.041580042
+5	"Richmond County, NY"	2021	White	Hispanic or Latino	824	19	0.023058252
+5	"Richmond County, NY"	2021	White	Not Hispanic or Latino	2416	39	0.016142384
+	"Rockland County, NY"	2016	Asian	Hispanic or Latino	47		
+	"Rockland County, NY"	2016	Asian	Not Hispanic or Latino	194		
+	"Rockland County, NY"	2016	Black or African American	Hispanic or Latino	122		
+	"Rockland County, NY"	2016	Black or African American	Not Hispanic or Latino	344		
+	"Rockland County, NY"	2016	White	Hispanic or Latino	817		
+	"Rockland County, NY"	2016	White	Not Hispanic or Latino	3255		
+	"Rockland County, NY"	2017	Asian	Hispanic or Latino	56		
+	"Rockland County, NY"	2017	Asian	Not Hispanic or Latino	181		
+	"Rockland County, NY"	2017	Black or African American	Hispanic or Latino	107		
+	"Rockland County, NY"	2017	Black or African American	Not Hispanic or Latino	355		
+	"Rockland County, NY"	2017	White	Hispanic or Latino	814		
+	"Rockland County, NY"	2017	White	Not Hispanic or Latino	3602		
+	"Rockland County, NY"	2018	Asian	Hispanic or Latino	12		
+	"Rockland County, NY"	2018	Asian	Not Hispanic or Latino	183		
+	"Rockland County, NY"	2018	Black or African American	Hispanic or Latino	93		
+	"Rockland County, NY"	2018	Black or African American	Not Hispanic or Latino	330		
+	"Rockland County, NY"	2018	White	Hispanic or Latino	885		
+	"Rockland County, NY"	2018	White	Not Hispanic or Latino	3840		
+	"Rockland County, NY"	2019	Asian	Hispanic or Latino	Suppressed		
+	"Rockland County, NY"	2019	Asian	Not Hispanic or Latino	190		
+	"Rockland County, NY"	2019	Black or African American	Hispanic or Latino	104		
+	"Rockland County, NY"	2019	Black or African American	Not Hispanic or Latino	297		
+	"Rockland County, NY"	2019	White	Hispanic or Latino	810		
+	"Rockland County, NY"	2019	White	Not Hispanic or Latino	3871		
+	"Rockland County, NY"	2020	Asian	Hispanic or Latino	11		
+	"Rockland County, NY"	2020	Asian	Not Hispanic or Latino	159		
+	"Rockland County, NY"	2020	Black or African American	Hispanic or Latino	147		
+	"Rockland County, NY"	2020	Black or African American	Not Hispanic or Latino	279		
+	"Rockland County, NY"	2020	White	Hispanic or Latino	757		
+	"Rockland County, NY"	2020	White	Not Hispanic or Latino	3869		
+	"Rockland County, NY"	2021	Asian	Hispanic or Latino	22		
+	"Rockland County, NY"	2021	Asian	Not Hispanic or Latino	175		
+	"Rockland County, NY"	2021	Black or African American	Hispanic or Latino	197		
+	"Rockland County, NY"	2021	Black or African American	Not Hispanic or Latino	270		
+	"Rockland County, NY"	2021	White	Hispanic or Latino	781		
+	"Rockland County, NY"	2021	White	Not Hispanic or Latino	3916		
+	"St. Lawrence County, NY"	2016	Asian	Hispanic or Latino	Suppressed		
+	"St. Lawrence County, NY"	2016	Asian	Not Hispanic or Latino	15		
+	"St. Lawrence County, NY"	2016	Black or African American	Hispanic or Latino	Suppressed		
+	"St. Lawrence County, NY"	2016	Black or African American	Not Hispanic or Latino	Suppressed		
+	"St. Lawrence County, NY"	2016	White	Hispanic or Latino	Suppressed		
+	"St. Lawrence County, NY"	2016	White	Not Hispanic or Latino	874		
+	"St. Lawrence County, NY"	2017	Asian	Hispanic or Latino	Suppressed		
+	"St. Lawrence County, NY"	2017	Asian	Not Hispanic or Latino	11		
+	"St. Lawrence County, NY"	2017	Black or African American	Hispanic or Latino	Suppressed		
+	"St. Lawrence County, NY"	2017	Black or African American	Not Hispanic or Latino	Suppressed		
+	"St. Lawrence County, NY"	2017	White	Hispanic or Latino	12		
+	"St. Lawrence County, NY"	2017	White	Not Hispanic or Latino	804		
+	"St. Lawrence County, NY"	2018	Asian	Hispanic or Latino	Suppressed		
+	"St. Lawrence County, NY"	2018	Asian	Not Hispanic or Latino	Suppressed		
+	"St. Lawrence County, NY"	2018	Black or African American	Hispanic or Latino	Suppressed		
+	"St. Lawrence County, NY"	2018	Black or African American	Not Hispanic or Latino	Suppressed		
+	"St. Lawrence County, NY"	2018	White	Hispanic or Latino	10		
+	"St. Lawrence County, NY"	2018	White	Not Hispanic or Latino	848		
+	"St. Lawrence County, NY"	2019	Asian	Hispanic or Latino	Suppressed		
+	"St. Lawrence County, NY"	2019	Asian	Not Hispanic or Latino	13		
+	"St. Lawrence County, NY"	2019	Black or African American	Hispanic or Latino	Suppressed		
+	"St. Lawrence County, NY"	2019	Black or African American	Not Hispanic or Latino	Suppressed		
+	"St. Lawrence County, NY"	2019	White	Hispanic or Latino	12		
+	"St. Lawrence County, NY"	2019	White	Not Hispanic or Latino	776		
+	"St. Lawrence County, NY"	2020	Asian	Hispanic or Latino	Suppressed		
+	"St. Lawrence County, NY"	2020	Asian	Not Hispanic or Latino	11		
+	"St. Lawrence County, NY"	2020	Black or African American	Hispanic or Latino	Suppressed		
+	"St. Lawrence County, NY"	2020	Black or African American	Not Hispanic or Latino	Suppressed		
+	"St. Lawrence County, NY"	2020	White	Hispanic or Latino	17		
+	"St. Lawrence County, NY"	2020	White	Not Hispanic or Latino	769		
+	"St. Lawrence County, NY"	2021	Asian	Hispanic or Latino	Suppressed		
+	"St. Lawrence County, NY"	2021	Asian	Not Hispanic or Latino	11		
+	"St. Lawrence County, NY"	2021	Black or African American	Hispanic or Latino	Suppressed		
+	"St. Lawrence County, NY"	2021	Black or African American	Not Hispanic or Latino	Suppressed		
+	"St. Lawrence County, NY"	2021	White	Hispanic or Latino	12		
+	"St. Lawrence County, NY"	2021	White	Not Hispanic or Latino	779		
+	"Saratoga County, NY"	2016	Asian	Hispanic or Latino	Suppressed		
+	"Saratoga County, NY"	2016	Asian	Not Hispanic or Latino	143		
+	"Saratoga County, NY"	2016	Black or African American	Hispanic or Latino	Suppressed		
+	"Saratoga County, NY"	2016	Black or African American	Not Hispanic or Latino	33		
+	"Saratoga County, NY"	2016	White	Hispanic or Latino	62		
+	"Saratoga County, NY"	2016	White	Not Hispanic or Latino	1693		
+	"Saratoga County, NY"	2017	Asian	Hispanic or Latino	Suppressed		
+	"Saratoga County, NY"	2017	Asian	Not Hispanic or Latino	116		
+	"Saratoga County, NY"	2017	Black or African American	Hispanic or Latino	Suppressed		
+	"Saratoga County, NY"	2017	Black or African American	Not Hispanic or Latino	22		
+	"Saratoga County, NY"	2017	White	Hispanic or Latino	67		
+	"Saratoga County, NY"	2017	White	Not Hispanic or Latino	1582		
+	"Saratoga County, NY"	2018	Asian	Hispanic or Latino	Suppressed		
+	"Saratoga County, NY"	2018	Asian	Not Hispanic or Latino	108		
+	"Saratoga County, NY"	2018	Black or African American	Hispanic or Latino	Suppressed		
+	"Saratoga County, NY"	2018	Black or African American	Not Hispanic or Latino	31		
+	"Saratoga County, NY"	2018	White	Hispanic or Latino	50		
+	"Saratoga County, NY"	2018	White	Not Hispanic or Latino	1571		
+	"Saratoga County, NY"	2019	Asian	Hispanic or Latino	Suppressed		
+	"Saratoga County, NY"	2019	Asian	Not Hispanic or Latino	96		
+	"Saratoga County, NY"	2019	Black or African American	Hispanic or Latino	Suppressed		
+	"Saratoga County, NY"	2019	Black or African American	Not Hispanic or Latino	42		
+	"Saratoga County, NY"	2019	White	Hispanic or Latino	67		
+	"Saratoga County, NY"	2019	White	Not Hispanic or Latino	1597		
+	"Saratoga County, NY"	2020	Asian	Hispanic or Latino	Suppressed		
+	"Saratoga County, NY"	2020	Asian	Not Hispanic or Latino	77		
+	"Saratoga County, NY"	2020	Black or African American	Hispanic or Latino	12		
+	"Saratoga County, NY"	2020	Black or African American	Not Hispanic or Latino	43		
+	"Saratoga County, NY"	2020	White	Hispanic or Latino	56		
+	"Saratoga County, NY"	2020	White	Not Hispanic or Latino	1568		
+	"Saratoga County, NY"	2021	Asian	Hispanic or Latino	Suppressed		
+	"Saratoga County, NY"	2021	Asian	Not Hispanic or Latino	84		
+	"Saratoga County, NY"	2021	Black or African American	Hispanic or Latino	Suppressed		
+	"Saratoga County, NY"	2021	Black or African American	Not Hispanic or Latino	51		
+	"Saratoga County, NY"	2021	White	Hispanic or Latino	83		
+	"Saratoga County, NY"	2021	White	Not Hispanic or Latino	1683		
+	"Schenectady County, NY"	2016	Asian	Hispanic or Latino	Suppressed		
+	"Schenectady County, NY"	2016	Asian	Not Hispanic or Latino	95		
+	"Schenectady County, NY"	2016	Black or African American	Hispanic or Latino	40		
+	"Schenectady County, NY"	2016	Black or African American	Not Hispanic or Latino	253		
+	"Schenectady County, NY"	2016	White	Hispanic or Latino	105		
+	"Schenectady County, NY"	2016	White	Not Hispanic or Latino	1081		
+	"Schenectady County, NY"	2017	Asian	Hispanic or Latino	Suppressed		
+	"Schenectady County, NY"	2017	Asian	Not Hispanic or Latino	98		
+	"Schenectady County, NY"	2017	Black or African American	Hispanic or Latino	44		
+	"Schenectady County, NY"	2017	Black or African American	Not Hispanic or Latino	237		
+	"Schenectady County, NY"	2017	White	Hispanic or Latino	100		
+	"Schenectady County, NY"	2017	White	Not Hispanic or Latino	1164		
+	"Schenectady County, NY"	2018	Asian	Hispanic or Latino	Suppressed		
+	"Schenectady County, NY"	2018	Asian	Not Hispanic or Latino	118		
+	"Schenectady County, NY"	2018	Black or African American	Hispanic or Latino	28		
+	"Schenectady County, NY"	2018	Black or African American	Not Hispanic or Latino	285		
+	"Schenectady County, NY"	2018	White	Hispanic or Latino	87		
+	"Schenectady County, NY"	2018	White	Not Hispanic or Latino	1141		
+	"Schenectady County, NY"	2019	Asian	Hispanic or Latino	Suppressed		
+	"Schenectady County, NY"	2019	Asian	Not Hispanic or Latino	100		
+	"Schenectady County, NY"	2019	Black or African American	Hispanic or Latino	42		
+	"Schenectady County, NY"	2019	Black or African American	Not Hispanic or Latino	284		
+	"Schenectady County, NY"	2019	White	Hispanic or Latino	99		
+	"Schenectady County, NY"	2019	White	Not Hispanic or Latino	1112		
+	"Schenectady County, NY"	2020	Asian	Hispanic or Latino	Suppressed		
+	"Schenectady County, NY"	2020	Asian	Not Hispanic or Latino	117		
+	"Schenectady County, NY"	2020	Black or African American	Hispanic or Latino	49		
+	"Schenectady County, NY"	2020	Black or African American	Not Hispanic or Latino	271		
+	"Schenectady County, NY"	2020	White	Hispanic or Latino	96		
+	"Schenectady County, NY"	2020	White	Not Hispanic or Latino	1065		
+	"Schenectady County, NY"	2021	Asian	Hispanic or Latino	Suppressed		
+	"Schenectady County, NY"	2021	Asian	Not Hispanic or Latino	215		
+	"Schenectady County, NY"	2021	Black or African American	Hispanic or Latino	40		
+	"Schenectady County, NY"	2021	Black or African American	Not Hispanic or Latino	265		
+	"Schenectady County, NY"	2021	White	Hispanic or Latino	98		
+	"Schenectady County, NY"	2021	White	Not Hispanic or Latino	1035		
+	"Suffolk County, NY"	2016	Asian	Hispanic or Latino	51		
+	"Suffolk County, NY"	2016	Asian	Not Hispanic or Latino	693		
+	"Suffolk County, NY"	2016	Black or African American	Hispanic or Latino	167		
+	"Suffolk County, NY"	2016	Black or African American	Not Hispanic or Latino	1137		
+	"Suffolk County, NY"	2016	White	Hispanic or Latino	4590		
+	"Suffolk County, NY"	2016	White	Not Hispanic or Latino	7310		
+	"Suffolk County, NY"	2017	Asian	Hispanic or Latino	57		
+	"Suffolk County, NY"	2017	Asian	Not Hispanic or Latino	692		
+	"Suffolk County, NY"	2017	Black or African American	Hispanic or Latino	197		
+	"Suffolk County, NY"	2017	Black or African American	Not Hispanic or Latino	1147		
+	"Suffolk County, NY"	2017	White	Hispanic or Latino	4351		
+	"Suffolk County, NY"	2017	White	Not Hispanic or Latino	7355		
+	"Suffolk County, NY"	2018	Asian	Hispanic or Latino	25		
+	"Suffolk County, NY"	2018	Asian	Not Hispanic or Latino	734		
+	"Suffolk County, NY"	2018	Black or African American	Hispanic or Latino	353		
+	"Suffolk County, NY"	2018	Black or African American	Not Hispanic or Latino	1132		
+	"Suffolk County, NY"	2018	White	Hispanic or Latino	4473		
+	"Suffolk County, NY"	2018	White	Not Hispanic or Latino	7428		
+	"Suffolk County, NY"	2019	Asian	Hispanic or Latino	45		
+	"Suffolk County, NY"	2019	Asian	Not Hispanic or Latino	758		
+	"Suffolk County, NY"	2019	Black or African American	Hispanic or Latino	477		
+	"Suffolk County, NY"	2019	Black or African American	Not Hispanic or Latino	1121		
+	"Suffolk County, NY"	2019	White	Hispanic or Latino	4198		
+	"Suffolk County, NY"	2019	White	Not Hispanic or Latino	7309		
+	"Suffolk County, NY"	2020	Asian	Hispanic or Latino	40		
+	"Suffolk County, NY"	2020	Asian	Not Hispanic or Latino	706		
+	"Suffolk County, NY"	2020	Black or African American	Hispanic or Latino	391		
+	"Suffolk County, NY"	2020	Black or African American	Not Hispanic or Latino	1118		
+	"Suffolk County, NY"	2020	White	Hispanic or Latino	4103		
+	"Suffolk County, NY"	2020	White	Not Hispanic or Latino	7286		
+	"Suffolk County, NY"	2021	Asian	Hispanic or Latino	52		
+	"Suffolk County, NY"	2021	Asian	Not Hispanic or Latino	739		
+	"Suffolk County, NY"	2021	Black or African American	Hispanic or Latino	463		
+	"Suffolk County, NY"	2021	Black or African American	Not Hispanic or Latino	1098		
+	"Suffolk County, NY"	2021	White	Hispanic or Latino	4355		
+	"Suffolk County, NY"	2021	White	Not Hispanic or Latino	8007		
+	"Tompkins County, NY"	2016	Asian	Hispanic or Latino	Suppressed		
+	"Tompkins County, NY"	2016	Asian	Not Hispanic or Latino	78		
+	"Tompkins County, NY"	2016	Black or African American	Hispanic or Latino	Suppressed		
+	"Tompkins County, NY"	2016	Black or African American	Not Hispanic or Latino	28		
+	"Tompkins County, NY"	2016	White	Hispanic or Latino	34		
+	"Tompkins County, NY"	2016	White	Not Hispanic or Latino	550		
+	"Tompkins County, NY"	2017	Asian	Hispanic or Latino	Suppressed		
+	"Tompkins County, NY"	2017	Asian	Not Hispanic or Latino	81		
+	"Tompkins County, NY"	2017	Black or African American	Hispanic or Latino	Suppressed		
+	"Tompkins County, NY"	2017	Black or African American	Not Hispanic or Latino	28		
+	"Tompkins County, NY"	2017	White	Hispanic or Latino	39		
+	"Tompkins County, NY"	2017	White	Not Hispanic or Latino	522		
+	"Tompkins County, NY"	2018	Asian	Hispanic or Latino	Suppressed		
+	"Tompkins County, NY"	2018	Asian	Not Hispanic or Latino	67		
+	"Tompkins County, NY"	2018	Black or African American	Hispanic or Latino	Suppressed		
+	"Tompkins County, NY"	2018	Black or African American	Not Hispanic or Latino	31		
+	"Tompkins County, NY"	2018	White	Hispanic or Latino	34		
+	"Tompkins County, NY"	2018	White	Not Hispanic or Latino	529		
+	"Tompkins County, NY"	2019	Asian	Hispanic or Latino	Suppressed		
+	"Tompkins County, NY"	2019	Asian	Not Hispanic or Latino	68		
+	"Tompkins County, NY"	2019	Black or African American	Hispanic or Latino	Suppressed		
+	"Tompkins County, NY"	2019	Black or African American	Not Hispanic or Latino	28		
+	"Tompkins County, NY"	2019	White	Hispanic or Latino	36		
+	"Tompkins County, NY"	2019	White	Not Hispanic or Latino	515		
+	"Tompkins County, NY"	2020	Asian	Hispanic or Latino	Suppressed		
+	"Tompkins County, NY"	2020	Asian	Not Hispanic or Latino	67		
+	"Tompkins County, NY"	2020	Black or African American	Hispanic or Latino	Suppressed		
+	"Tompkins County, NY"	2020	Black or African American	Not Hispanic or Latino	33		
+	"Tompkins County, NY"	2020	White	Hispanic or Latino	41		
+	"Tompkins County, NY"	2020	White	Not Hispanic or Latino	465		
+	"Tompkins County, NY"	2021	Asian	Hispanic or Latino	Suppressed		
+	"Tompkins County, NY"	2021	Asian	Not Hispanic or Latino	66		
+	"Tompkins County, NY"	2021	Black or African American	Hispanic or Latino	Suppressed		
+	"Tompkins County, NY"	2021	Black or African American	Not Hispanic or Latino	30		
+	"Tompkins County, NY"	2021	White	Hispanic or Latino	35		
+	"Tompkins County, NY"	2021	White	Not Hispanic or Latino	482		
+	"Ulster County, NY"	2016	Asian	Hispanic or Latino	Suppressed		
+	"Ulster County, NY"	2016	Asian	Not Hispanic or Latino	43		
+	"Ulster County, NY"	2016	Black or African American	Hispanic or Latino	59		
+	"Ulster County, NY"	2016	Black or African American	Not Hispanic or Latino	59		
+	"Ulster County, NY"	2016	White	Hispanic or Latino	124		
+	"Ulster County, NY"	2016	White	Not Hispanic or Latino	990		
+	"Ulster County, NY"	2017	Asian	Hispanic or Latino	Suppressed		
+	"Ulster County, NY"	2017	Asian	Not Hispanic or Latino	34		
+	"Ulster County, NY"	2017	Black or African American	Hispanic or Latino	55		
+	"Ulster County, NY"	2017	Black or African American	Not Hispanic or Latino	94		
+	"Ulster County, NY"	2017	White	Hispanic or Latino	127		
+	"Ulster County, NY"	2017	White	Not Hispanic or Latino	973		
+	"Ulster County, NY"	2018	Asian	Hispanic or Latino	Suppressed		
+	"Ulster County, NY"	2018	Asian	Not Hispanic or Latino	40		
+	"Ulster County, NY"	2018	Black or African American	Hispanic or Latino	61		
+	"Ulster County, NY"	2018	Black or African American	Not Hispanic or Latino	78		
+	"Ulster County, NY"	2018	White	Hispanic or Latino	168		
+	"Ulster County, NY"	2018	White	Not Hispanic or Latino	1010		
+	"Ulster County, NY"	2019	Asian	Hispanic or Latino	Suppressed		
+	"Ulster County, NY"	2019	Asian	Not Hispanic or Latino	18		
+	"Ulster County, NY"	2019	Black or African American	Hispanic or Latino	53		
+	"Ulster County, NY"	2019	Black or African American	Not Hispanic or Latino	80		
+	"Ulster County, NY"	2019	White	Hispanic or Latino	147		
+	"Ulster County, NY"	2019	White	Not Hispanic or Latino	1024		
+	"Ulster County, NY"	2020	Asian	Hispanic or Latino	Suppressed		
+	"Ulster County, NY"	2020	Asian	Not Hispanic or Latino	32		
+	"Ulster County, NY"	2020	Black or African American	Hispanic or Latino	36		
+	"Ulster County, NY"	2020	Black or African American	Not Hispanic or Latino	83		
+	"Ulster County, NY"	2020	White	Hispanic or Latino	151		
+	"Ulster County, NY"	2020	White	Not Hispanic or Latino	961		
+	"Ulster County, NY"	2021	Asian	Hispanic or Latino	Suppressed		
+	"Ulster County, NY"	2021	Asian	Not Hispanic or Latino	32		
+	"Ulster County, NY"	2021	Black or African American	Hispanic or Latino	28		
+	"Ulster County, NY"	2021	Black or African American	Not Hispanic or Latino	82		
+	"Ulster County, NY"	2021	White	Hispanic or Latino	160		
+	"Ulster County, NY"	2021	White	Not Hispanic or Latino	1043		
+	"Westchester County, NY"	2016	Asian	Hispanic or Latino	108		
+	"Westchester County, NY"	2016	Asian	Not Hispanic or Latino	710		
+	"Westchester County, NY"	2016	Black or African American	Hispanic or Latino	382		
+	"Westchester County, NY"	2016	Black or African American	Not Hispanic or Latino	1345		
+	"Westchester County, NY"	2016	White	Hispanic or Latino	2657		
+	"Westchester County, NY"	2016	White	Not Hispanic or Latino	3909		
+	"Westchester County, NY"	2017	Asian	Hispanic or Latino	136		
+	"Westchester County, NY"	2017	Asian	Not Hispanic or Latino	744		
+	"Westchester County, NY"	2017	Black or African American	Hispanic or Latino	372		
+	"Westchester County, NY"	2017	Black or African American	Not Hispanic or Latino	1311		
+	"Westchester County, NY"	2017	White	Hispanic or Latino	2614		
+	"Westchester County, NY"	2017	White	Not Hispanic or Latino	3954		
+	"Westchester County, NY"	2018	Asian	Hispanic or Latino	26		
+	"Westchester County, NY"	2018	Asian	Not Hispanic or Latino	728		
+	"Westchester County, NY"	2018	Black or African American	Hispanic or Latino	369		
+	"Westchester County, NY"	2018	Black or African American	Not Hispanic or Latino	1277		
+	"Westchester County, NY"	2018	White	Hispanic or Latino	2595		
+	"Westchester County, NY"	2018	White	Not Hispanic or Latino	3936		
+	"Westchester County, NY"	2019	Asian	Hispanic or Latino	38		
+	"Westchester County, NY"	2019	Asian	Not Hispanic or Latino	650		
+	"Westchester County, NY"	2019	Black or African American	Hispanic or Latino	446		
+	"Westchester County, NY"	2019	Black or African American	Not Hispanic or Latino	1173		
+	"Westchester County, NY"	2019	White	Hispanic or Latino	2519		
+	"Westchester County, NY"	2019	White	Not Hispanic or Latino	3898		
+	"Westchester County, NY"	2020	Asian	Hispanic or Latino	27		
+	"Westchester County, NY"	2020	Asian	Not Hispanic or Latino	655		
+	"Westchester County, NY"	2020	Black or African American	Hispanic or Latino	416		
+	"Westchester County, NY"	2020	Black or African American	Not Hispanic or Latino	1180		
+	"Westchester County, NY"	2020	White	Hispanic or Latino	2397		
+	"Westchester County, NY"	2020	White	Not Hispanic or Latino	3927		
+	"Westchester County, NY"	2021	Asian	Hispanic or Latino	44		
+	"Westchester County, NY"	2021	Asian	Not Hispanic or Latino	709		
+	"Westchester County, NY"	2021	Black or African American	Hispanic or Latino	509		
+	"Westchester County, NY"	2021	Black or African American	Not Hispanic or Latino	1184		
+	"Westchester County, NY"	2021	White	Hispanic or Latino	2399		
+	"Westchester County, NY"	2021	White	Not Hispanic or Latino	4137		
+	"Unidentified Counties, NY"	2016	Asian	Hispanic or Latino	27		
+	"Unidentified Counties, NY"	2016	Asian	Not Hispanic or Latino	201		
+	"Unidentified Counties, NY"	2016	Black or African American	Hispanic or Latino	87		
+	"Unidentified Counties, NY"	2016	Black or African American	Not Hispanic or Latino	273		
+	"Unidentified Counties, NY"	2016	White	Hispanic or Latino	736		
+	"Unidentified Counties, NY"	2016	White	Not Hispanic or Latino	14600		
+	"Unidentified Counties, NY"	2017	Asian	Hispanic or Latino	33		
+	"Unidentified Counties, NY"	2017	Asian	Not Hispanic or Latino	192		
+	"Unidentified Counties, NY"	2017	Black or African American	Hispanic or Latino	87		
+	"Unidentified Counties, NY"	2017	Black or African American	Not Hispanic or Latino	293		
+	"Unidentified Counties, NY"	2017	White	Hispanic or Latino	780		
+	"Unidentified Counties, NY"	2017	White	Not Hispanic or Latino	13991		
+	"Unidentified Counties, NY"	2018	Asian	Hispanic or Latino	14		
+	"Unidentified Counties, NY"	2018	Asian	Not Hispanic or Latino	206		
+	"Unidentified Counties, NY"	2018	Black or African American	Hispanic or Latino	96		
+	"Unidentified Counties, NY"	2018	Black or African American	Not Hispanic or Latino	315		
+	"Unidentified Counties, NY"	2018	White	Hispanic or Latino	759		
+	"Unidentified Counties, NY"	2018	White	Not Hispanic or Latino	14486		
+	"Unidentified Counties, NY"	2019	Asian	Hispanic or Latino	12		
+	"Unidentified Counties, NY"	2019	Asian	Not Hispanic or Latino	199		
+	"Unidentified Counties, NY"	2019	Black or African American	Hispanic or Latino	101		
+	"Unidentified Counties, NY"	2019	Black or African American	Not Hispanic or Latino	300		
+	"Unidentified Counties, NY"	2019	White	Hispanic or Latino	879		
+	"Unidentified Counties, NY"	2019	White	Not Hispanic or Latino	14286		
+	"Unidentified Counties, NY"	2020	Asian	Hispanic or Latino	11		
+	"Unidentified Counties, NY"	2020	Asian	Not Hispanic or Latino	213		
+	"Unidentified Counties, NY"	2020	Black or African American	Hispanic or Latino	112		
+	"Unidentified Counties, NY"	2020	Black or African American	Not Hispanic or Latino	301		
+	"Unidentified Counties, NY"	2020	White	Hispanic or Latino	840		
+	"Unidentified Counties, NY"	2020	White	Not Hispanic or Latino	13715		
+	"Unidentified Counties, NY"	2021	Asian	Hispanic or Latino	16		
+	"Unidentified Counties, NY"	2021	Asian	Not Hispanic or Latino	191		
+	"Unidentified Counties, NY"	2021	Black or African American	Hispanic or Latino	131		
+	"Unidentified Counties, NY"	2021	Black or African American	Not Hispanic or Latino	328		
+	"Unidentified Counties, NY"	2021	White	Hispanic or Latino	871		
+	"Unidentified Counties, NY"	2021	White	Not Hispanic or Latino	14143		
+---							
+"Dataset: Natality, 2016-2021 expanded"							
+Query Parameters:							
+Mother's Hispanic Origin: Hispanic or Latino; Not Hispanic or Latino							
+Mother's Single Race 6: Asian; Black or African American; White							
+Plurality: Single							
+Source of Payment for Delivery: Medicaid; Private Insurance; Self Pay							
+States: New York (36)							
+Group By: County of Residence; Year; Mother's Single Race 6; Mother's Hispanic Origin							
+Show Totals: Disabled							
+Show Zero Values: False							
+Show Suppressed: True							
+"Calculate Rates Per: 1,000"							
+---							
+Help: See http://wonder.cdc.gov/wonder/help/Natality-expanded.html for more information.							
+---							
+"Query Date: Apr 16, 2023 2:14:29 PM"							
+---							
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"							
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2016-2021, as compiled from data provided by"							
+the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at							
+"http://wonder.cdc.gov/natality-expanded-current.html on Apr 16, 2023 2:14:29 PM"							
+---							
+Messages:							
+1. Totals are not available for these results due to suppression constraints. More Information:							
+http://wonder.cdc.gov/wonder/help/faq.html#Privacy.							
+---							
+Caveats:							
+1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:							
+http://wonder.cdc.gov/wonder/help/Natality-expanded.html#Assurance of Confidentiality.							
+2. Each birth record represents one liveborn infant.							
+"3. County-level data are shown only for counties with populations of 100,000 persons or more. Within each state, data for all"							
+"counties with fewer than 100,000 persons are combined together under the label ""Unidentified Counties."""							
+"4. Bronx, New York (FIPS code 36005) represents Bronx Borough, New York City."							
+"5. Kings County, New York (FIPS code 36047) represents Brooklyn Borough, New York City."							
+"6. New York County, New York (FIPS code 36061) represents Manhattan Borough, New York City."							
+"7. Queens, New York (FIPS code 36081) represents Queens Borough, New York City."							
+"8. Richmond County, New York (FIPS code 36085) represents Staten Island Borough, New York City."							
